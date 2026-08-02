@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031314568287522870",
+    "created_at": "2026-03-10T10:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031323588582846949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000467260239183872",
+          "start": 0,
+          "username": "FanFan12160930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031323588582846949",
+    "in_reply_to_user_id": "2000467260239183872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031314568287522870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanFan12160930 来了昂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031314568287522870",
+        "created_at": "2026-03-10T10:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031323588582846949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000467260239183872",
+              "start": 0,
+              "username": "FanFan12160930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031323588582846949",
+        "in_reply_to_user_id": "2000467260239183872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031314568287522870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanFan12160930 来了昂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000467260239183872",
+        "conversation_id": "2031314568287522870",
+        "created_at": "2026-03-10T10:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031314568287522870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031314568287522870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关！   不取关的来   24小时内100%回！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 671,
+          "like_count": 718,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1016
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T07:25:52.000Z",
+        "description": "关注热点，解读新动态！追寻潜力币！\n更多密码精准布局— \nQQ：3438753445\nv：oiiou4",
+        "id": "2000467260239183872",
+        "name": "芙芙饭饭（互关💯 不取关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000478343553298433/W0nIOT16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 194,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 67
+        },
+        "username": "FanFan12160930",
+        "verified": false
+      }
+    ]
+  }
+}

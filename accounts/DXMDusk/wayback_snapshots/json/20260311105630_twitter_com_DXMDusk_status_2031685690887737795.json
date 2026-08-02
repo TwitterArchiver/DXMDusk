@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031442814459064491",
+    "created_at": "2026-03-11T10:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T11:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031685690887737795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704715066061594624",
+          "start": 0,
+          "username": "YRULwqdeaa9632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031685690887737795",
+    "in_reply_to_user_id": "1704715066061594624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031442814459064491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YRULwqdeaa9632 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2031442808155095040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEieJGbQAAVZTL.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031442814459064491",
+        "created_at": "2026-03-11T10:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031685690887737795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704715066061594624",
+              "start": 0,
+              "username": "YRULwqdeaa9632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031685690887737795",
+        "in_reply_to_user_id": "1704715066061594624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031442814459064491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YRULwqdeaa9632 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031442808155095040"
+          ]
+        },
+        "author_id": "1704715066061594624",
+        "conversation_id": "2031442814459064491",
+        "created_at": "2026-03-10T18:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031442814459064491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JwUIFaUDo",
+              "end": 23,
+              "expanded_url": "https://x.com/YRULwqdeaa9632/status/2031442814459064491/photo/1",
+              "media_key": "3_2031442808155095040",
+              "start": 0,
+              "url": "https://t.co/4JwUIFaUDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031442814459064491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4JwUIFaUDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 743,
+          "like_count": 915,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1153
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-21T04:32:25.000Z",
+        "description": "ネム(Nemu）☾誰もが安心して眠れる世界が願いです/ ｼﾞｬﾝﾙ問わず優しい繋がりをPremium＋/先に相互は外しません🚫 怪垢＆spam #ﾌﾞﾙﾊﾞ100 #相互ﾌｫﾛｰ藍V互 #Verified💯🔄Let's grow together🌱 #AIart🌱🔰ﾊｲﾗｲﾄもﾖｶｯﾀﾗ  #mutual",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "ﾌﾞﾙﾊﾞ100"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "tag": "相互ﾌｫﾛｰ藍V互"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "tag": "Verified"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "AIart"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "tag": "mutual"
+              }
+            ]
+          }
+        },
+        "id": "1704715066061594624",
+        "location": "🇯🇵JAPAN",
+        "name": "ネム",
+        "pinned_tweet_id": "1994286177021530569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704991409319878656/IRc2e4pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46463,
+          "following_count": 43771,
+          "like_count": 580686,
+          "listed_count": 42,
+          "media_count": 16804,
+          "tweet_count": 81697
+        },
+        "username": "YRULwqdeaa9632",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030483102863360029",
+    "created_at": "2026-03-08T04:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030508285229768761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030508285229768761",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030483102863360029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 O什么，Why，我不明白，这分明是在自残，已经到了需要干涉治疗的程度，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030483102863360029",
+        "created_at": "2026-03-08T04:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030508285229768761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030508285229768761",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030483102863360029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 O什么，Why，我不明白，这分明是在自残，已经到了需要干涉治疗的程度，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2030483102863360029",
+        "created_at": "2026-03-08T03:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030483102863360029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030483102863360029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要o螺内酯和色普龙行不行啊 怎么怎么劝都不听 我真是要被气晕了 要是真想死这个又吃不死 又难受又死不了图啥啊啊啊啊 怎么有些人o之前根本就不先去wiki上查一下啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 540,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 817
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "碎碎念 有负能量\n聊骚的滚蛋 别跟我聊骚 我求你 别跟我聊骚\n对不起！发了一大堆负能量的东西\n顺顺顺 我的生活一定会顺利下去的！希望你也是！^^",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2014379217585418653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 127,
+          "like_count": 23366,
+          "listed_count": 1,
+          "media_count": 1155,
+          "tweet_count": 9912
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037422655117385875",
+    "created_at": "2026-03-27T13:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037528158808019307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037528158808019307",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037422655117385875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu 冷知识，xyn活不到退伍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2037422645550141440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZhGfVaUAAy6L2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037422655117385875",
+        "created_at": "2026-03-27T13:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037528158808019307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037528158808019307",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037422655117385875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu 冷知识，xyn活不到退伍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037422645550141440"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037422655117385875",
+        "created_at": "2026-03-27T06:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037422655117385875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfuC88136v",
+              "end": 36,
+              "expanded_url": "https://x.com/Yujiudu/status/2037422655117385875/photo/1",
+              "media_key": "3_2037422645550141440",
+              "start": 13,
+              "url": "https://t.co/ZfuC88136v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037422655117385875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1339,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂了 拿退伍费去做SRS https://t.co/ZfuC88136v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1064,
+          "like_count": 1827,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1719
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330,
+          "following_count": 1957,
+          "like_count": 44143,
+          "listed_count": 7,
+          "media_count": 1178,
+          "tweet_count": 8514
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

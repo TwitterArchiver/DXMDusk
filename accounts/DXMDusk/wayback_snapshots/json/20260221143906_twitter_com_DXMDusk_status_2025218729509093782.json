@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025218729509093782",
+    "created_at": "2026-02-21T14:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025218729509093782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025218729509093782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "首先，我是公务员，照片不可能发的，可以直接见面。我体格健硕，面容帅气，见了我没有不喜欢的。\n其次，我不能有开房记录，所以房间需要你定，我也不会常备避孕套，需要你来准备。拒绝拍摄，公务员不能有这样的照片视频流出。我有家庭，约完以后立刻拉黑永不联系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025218729509093782",
+        "created_at": "2026-02-21T14:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025218729509093782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025218729509093782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先，我是公务员，照片不可能发的，可以直接见面。我体格健硕，面容帅气，见了我没有不喜欢的。\n其次，我不能有开房记录，所以房间需要你定，我也不会常备避孕套，需要你来准备。拒绝拍摄，公务员不能有这样的照片视频流出。我有家庭，约完以后立刻拉黑永不联系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 183,
+          "like_count": 249,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 460
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

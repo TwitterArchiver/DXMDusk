@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023007645175869729",
+    "created_at": "2026-02-16T08:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023306629265944705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739915785441861632",
+          "start": 0,
+          "username": "Lem_PackageMain"
+        },
+        {
+          "end": 31,
+          "id": "1445400963632750596",
+          "start": 17,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023306629265944705",
+    "in_reply_to_user_id": "1739915785441861632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023105151150829810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lem_PackageMain @Im_Just__Girl 赵博是上海411医院做SRS手术经验最丰富的主刀医生之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023007645175869729",
+        "created_at": "2026-02-16T08:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023306629265944705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739915785441861632",
+              "start": 0,
+              "username": "Lem_PackageMain"
+            },
+            {
+              "end": 31,
+              "id": "1445400963632750596",
+              "start": 17,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023306629265944705",
+        "in_reply_to_user_id": "1739915785441861632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023105151150829810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lem_PackageMain @Im_Just__Girl 赵博是上海411医院做SRS手术经验最丰富的主刀医生之一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739915785441861632",
+        "conversation_id": "2023007645175869729",
+        "created_at": "2026-02-15T18:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023105151150829810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023105151150829810",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1213,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023007645175869729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl hyw……这是某个srs主刀吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 151,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 324
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:47:12.000Z",
+        "description": "MtX/F│183cm天空树🫥│H/0.5│过期JK│天残家暴党🙃│照骗多为高P，线下查无此人Or2│拉力B照持有者│有大证但是好像并没有什么卵用……│缺爱b一个🤕│b我的我都会回b除非我想视奸👁│本质是一个大面包所以容易膨胀、任人拿捏、一点不抗压（",
+        "id": "1739915785441861632",
+        "location": "Sonderland",
+        "name": "柠檬味的Main包🍥",
+        "pinned_tweet_id": "1983147113874895083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787256133910155264/kksrVeC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 283,
+          "like_count": 27531,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 8280
+        },
+        "username": "Lem_PackageMain",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本 QS50硕在读，04女留|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿|AI计算机理工MTF永远是男人公跨 |男娘拯救世界| 我必须找回我自己，每个未曾起舞的日子，都是对人生的辜负",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 709,
+          "like_count": 10690,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 5469
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

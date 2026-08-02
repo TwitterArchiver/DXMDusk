@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016174350635082023",
+    "created_at": "2026-01-27T16:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T17:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016182238380204295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016182238380204295",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016174350635082023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 氯硝西泮右佐匹克隆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2016174343676375040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rj4igWMAA1ytV.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016174350635082023",
+        "created_at": "2026-01-27T16:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016182238380204295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016182238380204295",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016174350635082023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 氯硝西泮右佐匹克隆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016174343676375040"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016174350635082023",
+        "created_at": "2026-01-27T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016174350635082023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECKswbOXWp",
+              "end": 28,
+              "expanded_url": "https://x.com/RainEngine2024/status/2016174350635082023/photo/1",
+              "media_key": "3_2016174343676375040",
+              "start": 5,
+              "url": "https://t.co/ECKswbOXWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016174350635082023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药去了 https://t.co/ECKswbOXWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 64,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5990,
+          "following_count": 732,
+          "like_count": 44186,
+          "listed_count": 6,
+          "media_count": 991,
+          "tweet_count": 6616
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

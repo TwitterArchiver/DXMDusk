@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038689063080018271",
+    "created_at": "2026-03-30T23:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T00:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038757618211291269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038757618211291269",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038689063080018271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 这就是个超人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038689063080018271",
+        "created_at": "2026-03-30T23:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T00:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038757618211291269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038757618211291269",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038689063080018271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 这就是个超人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2038689063080018271",
+        "created_at": "2026-03-30T18:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038689063080018271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZhiJiang0624/s…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/ZhiJiang0624/status/2038618659523047439",
+              "start": 122,
+              "url": "https://t.co/KuIrodNJI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038689063080018271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038618659523047439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但凡把布洛芬换成曲马多或者奈福泮狐都不会觉得您是个有勇无谋之人(\n这是地球online，不是塔科夫或三角洲/暗区\n磕NSAIDs不会减少任何急性锐痛\n您需要的是局部麻醉剂或中枢镇痛剂(难视)\n实在不行只要不怕操作走形O点解离剂也不是不行... https://t.co/KuIrodNJI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 1081,
+          "like_count": 1855,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1883
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1434,
+          "like_count": 15256,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 4748
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038566565688561664"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038566567961866343",
+    "created_at": "2026-03-30T10:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038566567961866343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VW35LAahkh",
+          "end": 67,
+          "expanded_url": "https://x.com/DXMDusk/status/2038566567961866343/photo/1",
+          "media_key": "3_2038566565688561664",
+          "start": 44,
+          "url": "https://t.co/VW35LAahkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038566567961866343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前还觉得模具特别光滑不用安全套了，结果发现这个模具远远称不上光滑，这是多么痛的领悟！ https://t.co/VW35LAahkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2038566565688561664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpxfZ7a0AAkgXV.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038566565688561664"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038566567961866343",
+        "created_at": "2026-03-30T10:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038566567961866343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW35LAahkh",
+              "end": 67,
+              "expanded_url": "https://x.com/DXMDusk/status/2038566567961866343/photo/1",
+              "media_key": "3_2038566565688561664",
+              "start": 44,
+              "url": "https://t.co/VW35LAahkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038566567961866343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前还觉得模具特别光滑不用安全套了，结果发现这个模具远远称不上光滑，这是多么痛的领悟！ https://t.co/VW35LAahkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1077,
+          "like_count": 1848,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1850
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

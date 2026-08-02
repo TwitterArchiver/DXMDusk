@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030334688762687488",
+        "3_2030334689790304256",
+        "3_2030334690490757120",
+        "3_2030334690717286400"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030334693707850061",
+    "created_at": "2026-03-07T17:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T18:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030334693707850061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTZCaDP3SB",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+          "media_key": "3_2030334688762687488",
+          "start": 46,
+          "url": "https://t.co/FTZCaDP3SB"
+        },
+        {
+          "display_url": "pic.x.com/FTZCaDP3SB",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+          "media_key": "3_2030334689790304256",
+          "start": 46,
+          "url": "https://t.co/FTZCaDP3SB"
+        },
+        {
+          "display_url": "pic.x.com/FTZCaDP3SB",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+          "media_key": "3_2030334690490757120",
+          "start": 46,
+          "url": "https://t.co/FTZCaDP3SB"
+        },
+        {
+          "display_url": "pic.x.com/FTZCaDP3SB",
+          "end": 69,
+          "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+          "media_key": "3_2030334690717286400",
+          "start": 46,
+          "url": "https://t.co/FTZCaDP3SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030334693707850061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 319,
+            "start": 315,
+            "tag": "NAC"
+          },
+          {
+            "end": 328,
+            "start": 320,
+            "tag": "N乙酰半胱氨酸"
+          }
+        ]
+      },
+      "text": "当NAC在消化道中与铁，锌，钙，镁等金属离子结合，会降低矿物质的生物利用度，影响身体吸收。\n这种通常会发生在无机盐形态的金属离子（图2）包括：碳酸钙，氧化镁，硫酸锌，硫酸亚铁，这些形态的矿物质，当他们与NAC同服申很容易被NAC抓走，降低吸收率。而这种无机盐形式的矿物质在植物基底的饮食中广泛存在。\n相反动物肉类中的矿物质形式，更多是以有机螯合形式存在的。除此之外，我们用的一些矿物质补充剂💊像柠檬酸镁，苹果酸镁，甘氨酸镁这些已经被有机酸包裹的矿物质补充剂比较稳定，不容易和NAC结合，也不会影响吸收。\n如果矿物质来源是肉类或者螯合矿物质补充剂就不用担心NAC影响吸收的问题；但如果补剂的形式如果为无机盐～最好避开NAC单独补充\n#NAC #N乙酰半胱氨酸"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当NAC在消化道中与铁，锌，钙，镁等金属离子结合，会降低矿物质的生物利用度，影响身体吸收。 https://t.co/FTZCaDP3SB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_2030334688762687488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ypGracAAnL0P.jpg",
+        "width": 1158
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2030334689790304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ypKgaoAATutA.jpg",
+        "width": 1440
+      },
+      {
+        "height": 818,
+        "media_key": "3_2030334690490757120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ypNHasAAD0tp.jpg",
+        "width": 1396
+      },
+      {
+        "height": 696,
+        "media_key": "3_2030334690717286400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0ypN9bQAA2k5S.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030334688762687488",
+            "3_2030334689790304256",
+            "3_2030334690490757120",
+            "3_2030334690717286400"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030334693707850061",
+        "created_at": "2026-03-07T17:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030334693707850061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTZCaDP3SB",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+              "media_key": "3_2030334688762687488",
+              "start": 46,
+              "url": "https://t.co/FTZCaDP3SB"
+            },
+            {
+              "display_url": "pic.x.com/FTZCaDP3SB",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+              "media_key": "3_2030334689790304256",
+              "start": 46,
+              "url": "https://t.co/FTZCaDP3SB"
+            },
+            {
+              "display_url": "pic.x.com/FTZCaDP3SB",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+              "media_key": "3_2030334690490757120",
+              "start": 46,
+              "url": "https://t.co/FTZCaDP3SB"
+            },
+            {
+              "display_url": "pic.x.com/FTZCaDP3SB",
+              "end": 69,
+              "expanded_url": "https://x.com/DXMDusk/status/2030334693707850061/photo/1",
+              "media_key": "3_2030334690717286400",
+              "start": 46,
+              "url": "https://t.co/FTZCaDP3SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030334693707850061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 319,
+                "start": 315,
+                "tag": "NAC"
+              },
+              {
+                "end": 328,
+                "start": 320,
+                "tag": "N乙酰半胱氨酸"
+              }
+            ]
+          },
+          "text": "当NAC在消化道中与铁，锌，钙，镁等金属离子结合，会降低矿物质的生物利用度，影响身体吸收。\n这种通常会发生在无机盐形态的金属离子（图2）包括：碳酸钙，氧化镁，硫酸锌，硫酸亚铁，这些形态的矿物质，当他们与NAC同服申很容易被NAC抓走，降低吸收率。而这种无机盐形式的矿物质在植物基底的饮食中广泛存在。\n相反动物肉类中的矿物质形式，更多是以有机螯合形式存在的。除此之外，我们用的一些矿物质补充剂💊像柠檬酸镁，苹果酸镁，甘氨酸镁这些已经被有机酸包裹的矿物质补充剂比较稳定，不容易和NAC结合，也不会影响吸收。\n如果矿物质来源是肉类或者螯合矿物质补充剂就不用担心NAC影响吸收的问题；但如果补剂的形式如果为无机盐～最好避开NAC单独补充\n#NAC #N乙酰半胱氨酸"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当NAC在消化道中与铁，锌，钙，镁等金属离子结合，会降低矿物质的生物利用度，影响身体吸收。 https://t.co/FTZCaDP3SB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 531,
+          "like_count": 521,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 804
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

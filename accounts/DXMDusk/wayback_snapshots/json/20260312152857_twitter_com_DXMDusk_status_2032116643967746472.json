@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032102925225640372",
+    "created_at": "2026-03-12T15:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032116643967746472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032116643967746472",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032102925225640372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 用转换器，连接显示屏和鼠标"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032102912265265152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDN61QiboAAplTC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032102925225640372",
+        "created_at": "2026-03-12T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032116643967746472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032116643967746472",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032102925225640372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 用转换器，连接显示屏和鼠标"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032102912265265152"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032102925225640372",
+        "created_at": "2026-03-12T14:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032102925225640372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5IcPfiYRs",
+              "end": 87,
+              "expanded_url": "https://x.com/kuukiwfn/status/2032102925225640372/photo/1",
+              "media_key": "3_2032102912265265152",
+              "start": 64,
+              "url": "https://t.co/z5IcPfiYRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032102925225640372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个huaweinova10叫我弄碎了 屏幕没有了\n开发者模式关闭了 不能投放屏幕了\n有没有啥办法能把里面一些资料导出来🤯🤯（ https://t.co/z5IcPfiYRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 850,
+          "like_count": 1359,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1332
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤 💊overdose lover 🩸喜欢非主流 ❤️ rebzyyx ,kets4eki..scenecore ..💉 dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 610,
+          "like_count": 27886,
+          "listed_count": 0,
+          "media_count": 529,
+          "tweet_count": 1941
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

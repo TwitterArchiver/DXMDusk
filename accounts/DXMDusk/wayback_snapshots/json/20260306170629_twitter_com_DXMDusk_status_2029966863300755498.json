@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2029966863300755498",
+    "created_at": "2026-03-06T17:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029966863300755498"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029966863300755498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说我想死，我妈来了句，别人什么条件怎么怎么样都没死，你为啥要死，我真绷不住了，这tm有病吧，\n（以及更多的，包括但不限于“你有手有脚身体健康有父母支持为什么不活着”，“只要努力生活就会变好”等等）\n完全无法和这种家长交流，祝我还是早日开开心心升天吧🙏🏻🙏🏻🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2029966863300755498",
+        "created_at": "2026-03-06T17:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029966863300755498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029966863300755498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我想死，我妈来了句，别人什么条件怎么怎么样都没死，你为啥要死，我真绷不住了，这tm有病吧，\n（以及更多的，包括但不限于“你有手有脚身体健康有父母支持为什么不活着”，“只要努力生活就会变好”等等）\n完全无法和这种家长交流，祝我还是早日开开心心升天吧🙏🏻🙏🏻🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 454,
+          "like_count": 492,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 745
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016417708594888914",
+    "created_at": "2026-01-28T10:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016461986633322944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016461986633322944",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016417708594888914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 动真情的先输，成长中不要谈感情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2016417463458791435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vA_-RbAAsKUL8.jpg",
+        "width": 964
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2016417463421042690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vA_-IbAAIv8Ap.png",
+        "width": 956
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2016417463857262592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vA__wbMAAXxZT.png",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016417708594888914",
+        "created_at": "2026-01-28T10:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016461986633322944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016461986633322944",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016417708594888914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 动真情的先输，成长中不要谈感情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016417463458791435",
+            "3_2016417463421042690",
+            "3_2016417463857262592"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2016417708594888914",
+        "created_at": "2026-01-28T07:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016417708594888914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ostWI7DWy3",
+              "end": 178,
+              "expanded_url": "https://x.com/MeowCatherina/status/2016417708594888914/photo/1",
+              "media_key": "3_2016417463458791435",
+              "start": 155,
+              "url": "https://t.co/ostWI7DWy3"
+            },
+            {
+              "display_url": "pic.x.com/ostWI7DWy3",
+              "end": 178,
+              "expanded_url": "https://x.com/MeowCatherina/status/2016417708594888914/photo/1",
+              "media_key": "3_2016417463421042690",
+              "start": 155,
+              "url": "https://t.co/ostWI7DWy3"
+            },
+            {
+              "display_url": "pic.x.com/ostWI7DWy3",
+              "end": 178,
+              "expanded_url": "https://x.com/MeowCatherina/status/2016417708594888914/photo/1",
+              "media_key": "3_2016417463857262592",
+              "start": 155,
+              "url": "https://t.co/ostWI7DWy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016417708594888914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于 Ted 声明的事实修正与严正回应\n\n阅毕 Ted 的声明。对于其中“术前单方面终止陪护”的致歉我收到了。\n\n但鉴于声明中存在多处对事实的倒置、因果关系的混淆（如焦虑源于其违反专偶承诺）以及对医疗程序的误解（所谓“插队”实为合规预约恢复）。\n\n为正视听，特此做出详细事实修正。\n\n全文如图\n\nSigned via GPG:Fingerprint: 04A9 B785 4A4C 18EE 14E3 77FE C1D9 84F0 BBA1 B3B9"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1133,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于 Ted 声明的事实修正与严正回应\n\n阅毕 Ted 的声明。对于其中“术前单方面终止陪护”的致歉我收到了。\n\n但鉴于声明中存在多处对事实的倒置、因果关系的混淆（如焦虑源于其违反专偶承诺）以及对医疗程序的误解（所谓“插队”实为合规预约恢复）。\n\n为正视听，特此做出详细事实修正。\n\n全文如图\n\nSigned https://t.co/ostWI7DWy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 69,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜不会说话和社交AuDHD｜🏫Monash | 🐈‍⬛/🏹/🚴/💻 ｜AM&CS&EE｜某司高管(逃)｜ 意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜做教育学科研还能画电路板子的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "2016417708594888914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010743490523934720/Y4ddxxG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6768,
+          "following_count": 1093,
+          "like_count": 81411,
+          "listed_count": 20,
+          "media_count": 2070,
+          "tweet_count": 24593
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

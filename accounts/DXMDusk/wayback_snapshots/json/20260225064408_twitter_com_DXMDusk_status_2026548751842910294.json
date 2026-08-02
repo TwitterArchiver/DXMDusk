@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026522481012437269",
+    "created_at": "2026-02-25T06:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026548751842910294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        },
+        {
+          "end": 18,
+          "id": "1889695481938448384",
+          "start": 10,
+          "username": "PnKoZCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026548751842910294",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026528319068582171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ @PnKoZCN 我实际接触的人不多，主要以看和截图记录为主，所以应该记得比较多，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026522481012437269",
+        "created_at": "2026-02-25T06:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026548751842910294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            },
+            {
+              "end": 18,
+              "id": "1889695481938448384",
+              "start": 10,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026548751842910294",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026528319068582171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ @PnKoZCN 我实际接触的人不多，主要以看和截图记录为主，所以应该记得比较多，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667129907795886081",
+        "conversation_id": "2026522481012437269",
+        "created_at": "2026-02-25T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026528319068582171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            },
+            {
+              "end": 17,
+              "id": "1974276207496867842",
+              "start": 9,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026528319068582171",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026524034872332465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN @DXMDusk 还真是，有多少记性好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 246,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 592
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "不是特别抽象的都会回fo\\Oder\\阴暗B\\纯种汉奸🇯🇵\\喜欢一击脱离实在不爽开个小号来骂\\KOJIMA世界一番!",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "白武男",
+        "pinned_tweet_id": "1930267627890585814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025113237268922368/JDXKmBEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 419,
+          "like_count": 30144,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 4942
+        },
+        "username": "mods999_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 互fo | 不OD💊 | 不自残🔪 | 暂无心理以及身体疾病",
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 335,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 375
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025962548344828167",
+    "created_at": "2026-02-24T03:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026144809883447534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026144809883447534",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025962548344828167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 比大部分安全？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025962545362640896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2qM3SWIAAqwgP.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025962548344828167",
+        "created_at": "2026-02-24T03:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026144809883447534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026144809883447534",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025962548344828167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 比大部分安全？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025962545362640896"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025962548344828167",
+        "created_at": "2026-02-23T15:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025962548344828167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvTMzBTDXc",
+              "end": 25,
+              "expanded_url": "https://x.com/Citrus_amara/status/2025962548344828167/photo/1",
+              "media_key": "3_2025962545362640896",
+              "start": 2,
+              "url": "https://t.co/fvTMzBTDXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025962548344828167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不 https://t.co/fvTMzBTDXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 232,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 582
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1017,
+          "like_count": 17086,
+          "listed_count": 6,
+          "media_count": 355,
+          "tweet_count": 9266
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

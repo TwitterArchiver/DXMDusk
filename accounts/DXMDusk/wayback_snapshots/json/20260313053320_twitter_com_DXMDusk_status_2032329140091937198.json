@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032329140091937198",
+    "created_at": "2026-03-13T05:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032329140091937198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814174084617666560",
+          "start": 3,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032329140091937198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032163319940014477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianXue525: 我想睡醒400fo有人转转我嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032329140091937198",
+        "created_at": "2026-03-13T05:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032329140091937198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814174084617666560",
+              "start": 3,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032329140091937198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032163319940014477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianXue525: 我想睡醒400fo有人转转我嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032163319940014477",
+        "created_at": "2026-03-12T18:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032163319940014477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032163319940014477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我想睡醒400fo有人转转我嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 873,
+          "like_count": 1452,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1397
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032097446290211194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 219,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 199
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

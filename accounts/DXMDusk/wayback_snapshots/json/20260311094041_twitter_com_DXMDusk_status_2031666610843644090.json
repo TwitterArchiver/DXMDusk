@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031649363848745188",
+    "created_at": "2026-03-11T09:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031666610843644090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031666610843644090",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个需要你的家人朋友提供药物给看守所，然后由看守所保管再给你使用，而这个条件的构成需要你提供你有长期使用这个药物的病历，以及不使用这个药物会造成你精神方面出现严重问题的证据材料，\n这些跟法院没必要说，到时候进看守所，看守所会登记你的病情，以及一些病情严重的，比如你是女转男的病历，你在进看守所时和看守所的医生说，医生就会登记，然后看守所需要警察把你带去医院，让医生提供你不需要使用激素药物，或者开具激素药物，由看守所给你使用，等等一系列疾病上的问题，都需要检查完了，看守所才会接收的，"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031649363848745188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 这个需要你的家人朋友提供药物给看守所，然后由看守所保管再给你使用，而这个条件的构成需要你提供你有长期使用这个药物的病历，以及不使用这个药物会造成你精神方面出现严重问题的证据材料，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031649363848745188",
+        "created_at": "2026-03-11T09:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031666610843644090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031666610843644090",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个需要你的家人朋友提供药物给看守所，然后由看守所保管再给你使用，而这个条件的构成需要你提供你有长期使用这个药物的病历，以及不使用这个药物会造成你精神方面出现严重问题的证据材料，\n这些跟法院没必要说，到时候进看守所，看守所会登记你的病情，以及一些病情严重的，比如你是女转男的病历，你在进看守所时和看守所的医生说，医生就会登记，然后看守所需要警察把你带去医院，让医生提供你不需要使用激素药物，或者开具激素药物，由看守所给你使用，等等一系列疾病上的问题，都需要检查完了，看守所才会接收的，"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031649363848745188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 这个需要你的家人朋友提供药物给看守所，然后由看守所保管再给你使用，而这个条件的构成需要你提供你有长期使用这个药物的病历，以及不使用这个药物会造成你精神方面出现严重问题的证据材料，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "2031649363848745188",
+        "created_at": "2026-03-11T08:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031649363848745188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031649363848745188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 384,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚打电话问了法院的，她说她是法院的，也不能确定我能不能使用治疗精神疾病的药物，要看守所的规定，握草，我吃十多年药了，我要不吃那个药肯定会死，我有试过一天不吃那药，和死了差不多，明天回家看看能不能走线，不行再想其他痛苦少一点的办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 735,
+          "like_count": 887,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1139
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆底层穷蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/我唐得要命，真的/随机发疯",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️（戒酒已0天）",
+        "pinned_tweet_id": "2030949330321105099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965360806159437824/TZDoSYs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1211,
+          "like_count": 14149,
+          "listed_count": 2,
+          "media_count": 1340,
+          "tweet_count": 7589
+        },
+        "username": "Martim036145",
+        "verified": false
+      }
+    ]
+  }
+}

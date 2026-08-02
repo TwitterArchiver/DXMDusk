@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031397010906271744",
+        "3_2031397010318962692",
+        "3_2031397009912115203"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031397013728931984",
+    "created_at": "2026-03-10T15:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031397013728931984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vrt9Nl5BIW",
+          "end": 149,
+          "expanded_url": "https://x.com/DXMDusk/status/2031397013728931984/photo/1",
+          "media_key": "3_2031397010906271744",
+          "start": 126,
+          "url": "https://t.co/Vrt9Nl5BIW"
+        },
+        {
+          "display_url": "pic.x.com/Vrt9Nl5BIW",
+          "end": 149,
+          "expanded_url": "https://x.com/DXMDusk/status/2031397013728931984/photo/1",
+          "media_key": "3_2031397010318962692",
+          "start": 126,
+          "url": "https://t.co/Vrt9Nl5BIW"
+        },
+        {
+          "display_url": "pic.x.com/Vrt9Nl5BIW",
+          "end": 149,
+          "expanded_url": "https://x.com/DXMDusk/status/2031397013728931984/photo/1",
+          "media_key": "3_2031397009912115203",
+          "start": 126,
+          "url": "https://t.co/Vrt9Nl5BIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031397013728931984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "了解苏沃雷生、莱博雷生、达利雷生\n他们的真名叫食欲素拮抗剂，是通过“模拟”食欲素缺乏状态来诱导睡眠，\n所有的“拮抗剂”都是强行改变身体的原有功能，不管是针对睡眠障碍还是其他的病，服用后产生的副作用大多是由此产生。食欲素拮抗剂会导致什么结果，还有待观察 https://t.co/Vrt9Nl5BIW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2031397010906271744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40ZDb0AAZWZ9.jpg",
+        "width": 802
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2031397010318962692",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40W3aMAQZXD2.jpg",
+        "width": 802
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2031397009912115203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD40VWaMAMjOTc.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031397010906271744",
+            "3_2031397010318962692",
+            "3_2031397009912115203"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031397013728931984",
+        "created_at": "2026-03-10T15:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031397013728931984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vrt9Nl5BIW",
+              "end": 149,
+              "expanded_url": "https://x.com/DXMDusk/status/2031397013728931984/photo/1",
+              "media_key": "3_2031397010906271744",
+              "start": 126,
+              "url": "https://t.co/Vrt9Nl5BIW"
+            },
+            {
+              "display_url": "pic.x.com/Vrt9Nl5BIW",
+              "end": 149,
+              "expanded_url": "https://x.com/DXMDusk/status/2031397013728931984/photo/1",
+              "media_key": "3_2031397010318962692",
+              "start": 126,
+              "url": "https://t.co/Vrt9Nl5BIW"
+            },
+            {
+              "display_url": "pic.x.com/Vrt9Nl5BIW",
+              "end": 149,
+              "expanded_url": "https://x.com/DXMDusk/status/2031397013728931984/photo/1",
+              "media_key": "3_2031397009912115203",
+              "start": 126,
+              "url": "https://t.co/Vrt9Nl5BIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031397013728931984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "了解苏沃雷生、莱博雷生、达利雷生\n他们的真名叫食欲素拮抗剂，是通过“模拟”食欲素缺乏状态来诱导睡眠，\n所有的“拮抗剂”都是强行改变身体的原有功能，不管是针对睡眠障碍还是其他的病，服用后产生的副作用大多是由此产生。食欲素拮抗剂会导致什么结果，还有待观察 https://t.co/Vrt9Nl5BIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 684,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1030
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

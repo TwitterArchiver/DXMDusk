@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031736869013299674",
+    "created_at": "2026-03-11T14:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031738961346126157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908862033514393600",
+          "start": 0,
+          "username": "shengchu996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031738961346126157",
+    "in_reply_to_user_id": "1908862033514393600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031736869013299674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengchu996 是这样的，嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031736869013299674",
+        "created_at": "2026-03-11T14:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031738961346126157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908862033514393600",
+              "start": 0,
+              "username": "shengchu996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031738961346126157",
+        "in_reply_to_user_id": "1908862033514393600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031736869013299674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengchu996 是这样的，嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908862033514393600",
+        "conversation_id": "2031736869013299674",
+        "created_at": "2026-03-11T14:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031736869013299674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "蓝V互助"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "互转"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "推特社交"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031736869013299674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V之间的对话：\n「哥们儿你这推写得太好了！」\n「哪里哪里，还是你写得好！」\n「我们互相转发一下吧」\n「好的好的」。\n转发之后，两个人的推都多了一个转发。\n这就是蓝V互助——你给我面子，我给你场子。\n\n蓝V互关，大家都更有面子\n#蓝V互助 #互转 #推特社交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 769,
+          "like_count": 1008,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1206
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-06T12:39:21.000Z",
+        "description": "穿越周期，真实？\n记录自己所信仰的，记录自己操作的逻辑，有错有对，看个乐儿\n找好项目，特别是可以穿越周期的项目",
+        "id": "1908862033514393600",
+        "location": "上海",
+        "name": "胜初",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908871175138336768/fX-TUraR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 930,
+          "like_count": 236,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 125
+        },
+        "username": "shengchu996",
+        "verified": true
+      }
+    ]
+  }
+}

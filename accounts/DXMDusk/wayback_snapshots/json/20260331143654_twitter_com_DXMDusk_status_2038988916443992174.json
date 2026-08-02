@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038958135839424849",
+    "created_at": "2026-03-31T14:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038988916443992174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849626003108397061",
+          "start": 0,
+          "username": "_SakuraCyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038988916443992174",
+    "in_reply_to_user_id": "1849626003108397061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038971630509302218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SakuraCyan_ 无话可说，nb！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038958135839424849",
+        "created_at": "2026-03-31T14:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038988916443992174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849626003108397061",
+              "start": 0,
+              "username": "_SakuraCyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038988916443992174",
+        "in_reply_to_user_id": "1849626003108397061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038971630509302218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SakuraCyan_ 无话可说，nb！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849626003108397061",
+        "conversation_id": "2038958135839424849",
+        "created_at": "2026-03-31T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038971630509302218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本报记者李慎波发自山西河津 　　核心提示:在当地，人们婚丧嫁娶、红白喜事时如果待客没有“面面儿”那是很没面子的事！放一点儿白色的“面面儿”在锡纸上...",
+              "display_url": "news.sina.cn/sa/2006-01-09/…",
+              "end": 40,
+              "expanded_url": "https://news.sina.cn/sa/2006-01-09/detail-ikknscsi9482398.d.html?vt=4",
+              "start": 17,
+              "status": 200,
+              "title": "土制毒品“面面儿”泛滥晋陕",
+              "unwound_url": "https://news.sina.cn/sa/2006-01-09/detail-ikknscsi9482398.d.html?vt=4",
+              "url": "https://t.co/OXclocMTSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038971630509302218",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038967891308269902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 这事还上过新闻\nhttps://t.co/OXclocMTSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 1085,
+          "like_count": 1971,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 1955
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-25T01:36:29.000Z",
+        "description": "",
+        "id": "1849626003108397061",
+        "name": "本間桜ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030815368244342785/v6llBLnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 563
+        },
+        "username": "_SakuraCyan_",
+        "verified": false
+      }
+    ]
+  }
+}

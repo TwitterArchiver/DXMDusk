@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040127723629080950",
+    "created_at": "2026-04-04T10:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040377200508301452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "22236944",
+          "start": 0,
+          "username": "dylanzhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040377200508301452",
+    "in_reply_to_user_id": "22236944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040127723629080950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dylanzhao 挂逼生活"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 369459,
+        "height": 936,
+        "media_key": "13_2040127507391741952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040127507391741952/img/a5A3heIWR3O4bTS4.jpg",
+        "public_metrics": {
+          "view_count": 162865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040127507391741952/vid/avc1/320x520/AemJjXQa-ZeUn1qW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040127507391741952/vid/avc1/480x780/1GNKFXuqIvaToIEq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040127507391741952/vid/avc1/576x936/BIgpQMSdrCXU0MgT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040127507391741952/pl/k0N5iTvnr4B3hso_.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040127723629080950",
+        "created_at": "2026-04-04T10:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040377200508301452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "22236944",
+              "start": 0,
+              "username": "dylanzhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040377200508301452",
+        "in_reply_to_user_id": "22236944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040127723629080950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dylanzhao 挂逼生活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040127507391741952"
+          ]
+        },
+        "author_id": "22236944",
+        "conversation_id": "2040127723629080950",
+        "created_at": "2026-04-03T18:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040127723629080950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juCzs0Erwx",
+              "end": 51,
+              "expanded_url": "https://x.com/dylanzhao/status/2040127723629080950/video/1",
+              "media_key": "13_2040127507391741952",
+              "start": 28,
+              "url": "https://t.co/juCzs0Erwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040127723629080950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 115423,
+          "like_count": 569,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "神马状况，现在狗镇国的精神小妹和精神小伙为什么这么火？ https://t.co/juCzs0Erwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1100,
+          "like_count": 2021,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 2012
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-28T07:03:15.000Z",
+        "description": "有点正义感的人；硬核右派；宁死不赤；快乐生活的不装逼自媒体。A Man with Conscience; The Hard Core Conservative; Better Dead than Red; Serious Self-Media, Play Hard. ~~~",
+        "id": "22236944",
+        "name": "DylanZhao",
+        "pinned_tweet_id": "2007192339127890235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580556026008461317/VNunD87v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27306,
+          "following_count": 2425,
+          "like_count": 114479,
+          "listed_count": 68,
+          "media_count": 9417,
+          "tweet_count": 57520
+        },
+        "username": "dylanzhao",
+        "verified": false
+      }
+    ]
+  }
+}

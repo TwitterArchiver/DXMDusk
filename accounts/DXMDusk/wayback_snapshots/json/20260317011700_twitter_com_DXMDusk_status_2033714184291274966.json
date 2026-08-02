@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033370243704521088",
+    "created_at": "2026-03-17T01:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033714184291274966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843183245808271360",
+          "start": 0,
+          "username": "xifancry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033714184291274966",
+    "in_reply_to_user_id": "1843183245808271360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033370243704521088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xifancry 农用具最好去实体店买，坏了可以找店里售后维修，特别是大件，有问题退货麻烦，维修起来也基本是自己处理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033370239577309184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf7darbQAABYfo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033370236465135616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf7dPFbQAAjge0.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033370236561555456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf7dPcagAAUzdN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033370243704521088",
+        "created_at": "2026-03-17T01:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033714184291274966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843183245808271360",
+              "start": 0,
+              "username": "xifancry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033714184291274966",
+        "in_reply_to_user_id": "1843183245808271360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033370243704521088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xifancry 农用具最好去实体店买，坏了可以找店里售后维修，特别是大件，有问题退货麻烦，维修起来也基本是自己处理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033370239577309184",
+            "3_2033370236465135616",
+            "3_2033370236561555456"
+          ]
+        },
+        "author_id": "1843183245808271360",
+        "conversation_id": "2033370243704521088",
+        "created_at": "2026-03-16T02:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033370243704521088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mv7i7wLoQ",
+              "end": 164,
+              "expanded_url": "https://x.com/xifancry/status/2033370243704521088/photo/1",
+              "media_key": "3_2033370239577309184",
+              "start": 141,
+              "url": "https://t.co/9mv7i7wLoQ"
+            },
+            {
+              "display_url": "pic.x.com/9mv7i7wLoQ",
+              "end": 164,
+              "expanded_url": "https://x.com/xifancry/status/2033370243704521088/photo/1",
+              "media_key": "3_2033370236465135616",
+              "start": 141,
+              "url": "https://t.co/9mv7i7wLoQ"
+            },
+            {
+              "display_url": "pic.x.com/9mv7i7wLoQ",
+              "end": 164,
+              "expanded_url": "https://x.com/xifancry/status/2033370243704521088/photo/1",
+              "media_key": "3_2033370236561555456",
+              "start": 141,
+              "url": "https://t.co/9mv7i7wLoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033370243704521088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "兄弟们我开工了，今天看看能不能把这片地干完，我看了一下这地土壤不硬，用手扶微耕机应该很好犁。我昨天拼多多下单的两驱柴油微耕机退掉了，因为我看两驱的很费劲不如四驱的安全，但是看了一下拼多多的好多店铺都有人在维权，我看到了抖音有人发拼多多某个店铺买的不能用然后退款被商家无故克扣损失了好多钱，然后我又在黑猫投诉app上面搜了一下关键词微耕机搜出来276条投诉，所以我还是多看看吧再决定要不要买，我爸也说了这又不是10块八块说不要就不要了，大几千块钱我可不想就这么扔掉，此事还得从长计议，我看我爸在直播间听那个人介绍的可详细了，我问他是哪家店铺然后我就拼多多一搜店铺搜不到，我拿过来我爸手机一看原来是微信视频号的直播间小店，我也看了一下确实多，直播的店铺从早播到晚，还挂了好几个链接卖，而且他们一个劲的让拍下，说是今天就能发货，我才不盲目决定呢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3652,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们我开工了，今天看看能不能把这片地干完，我看了一下这地土壤不硬，用手扶微耕机应该很好犁。我昨天拼多多下单的两驱柴油微耕机退掉了，因为我看两驱的很费劲不如四驱的安全，但是看了一下拼多多的好多店铺都有人在维权，我看到了抖音有人发拼多多某个店铺买的不能用然后退款被商家无故克扣损失了 https://t.co/9mv7i7wLoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1013,
+          "like_count": 1739,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 1552
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T06:55:16.000Z",
+        "description": "爬山导致半月板受损浑身都是病、花呗借呗负债2w、没有彩礼钱娶媳妇。 WEEX全球大使\nweex注册https://t.co/5pTCsbRvh6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weabaxx.site/zh-CN/register…",
+                "end": 72,
+                "expanded_url": "https://weabaxx.site/zh-CN/register?vipCode=2hgr",
+                "start": 49,
+                "url": "https://t.co/5pTCsbRvh6"
+              }
+            ]
+          }
+        },
+        "id": "1843183245808271360",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "夕凡的撸毛之路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947343260080607232/-huf5FB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60503,
+          "following_count": 52434,
+          "like_count": 35138,
+          "listed_count": 92,
+          "media_count": 1209,
+          "tweet_count": 2955
+        },
+        "username": "xifancry",
+        "verified": true
+      }
+    ]
+  }
+}

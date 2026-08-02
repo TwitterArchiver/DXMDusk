@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037574065154920631",
+    "created_at": "2026-03-28T12:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T13:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037862411257217309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770798751524720640",
+          "start": 0,
+          "username": "ri_fumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037862411257217309",
+    "in_reply_to_user_id": "1770798751524720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037856267084107946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_fumo 没有吧，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037574065154920631",
+        "created_at": "2026-03-28T12:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037862411257217309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770798751524720640",
+              "start": 0,
+              "username": "ri_fumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037862411257217309",
+        "in_reply_to_user_id": "1770798751524720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037856267084107946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_fumo 没有吧，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770798751524720640",
+        "conversation_id": "2037574065154920631",
+        "created_at": "2026-03-28T11:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037856267084107946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037856267084107946",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037574065154920631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 有腐蚀性, 会口腔溃疡, 很痛苦 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 1063,
+          "like_count": 1834,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 1752
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-21T13:05:04.000Z",
+        "description": "ᗜ_ᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜˬᗜ ᗜωᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜᴗᗜ ᗜˬᗜ\n废物\nふも 🥵🤤 ふも 🥵🤤\nふも好吃 🤤 可食用ふも好 🤤",
+        "id": "1770798751524720640",
+        "location": "幻想ふも鄉，魔法森林，霧雨魔法ふも店，D9221A6B",
+        "name": "ri☆fumo ᗜˬᗜ? 🌠",
+        "pinned_tweet_id": "1838279324618887376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830094266841899008/egZFquzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 169,
+          "like_count": 13189,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 5481
+        },
+        "username": "ri_fumo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2036385985207083455",
+    "created_at": "2026-03-24T10:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036394824270762338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679060089007742977",
+          "start": 0,
+          "username": "wo4wendidegou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036394824270762338",
+    "in_reply_to_user_id": "1679060089007742977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036385985207083455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo4wendidegou 为什么不能？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2036385982199779328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKyQvaaUAAD70U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2036385985207083455",
+        "created_at": "2026-03-24T10:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036394824270762338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679060089007742977",
+              "start": 0,
+              "username": "wo4wendidegou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036394824270762338",
+        "in_reply_to_user_id": "1679060089007742977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036385985207083455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo4wendidegou 为什么不能？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036385982199779328"
+          ]
+        },
+        "author_id": "1679060089007742977",
+        "conversation_id": "2036385985207083455",
+        "created_at": "2026-03-24T10:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036385985207083455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/weYxtt1xkV",
+              "end": 35,
+              "expanded_url": "https://x.com/wo4wendidegou/status/2036385985207083455/photo/1",
+              "media_key": "3_2036385982199779328",
+              "start": 12,
+              "url": "https://t.co/weYxtt1xkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036385985207083455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "硫磺皂敢卖老子两块钱？ https://t.co/weYxtt1xkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 1042,
+          "like_count": 1839,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1688
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-12T09:28:26.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/多多交流 歡迎互fo捏～",
+        "id": "1679060089007742977",
+        "location": "半人马座",
+        "name": "化学菜鸡",
+        "pinned_tweet_id": "2028159977584804119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976982635965820928/pxRPYl9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1001,
+          "like_count": 20710,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 7755
+        },
+        "username": "wo4wendidegou",
+        "verified": false
+      }
+    ]
+  }
+}

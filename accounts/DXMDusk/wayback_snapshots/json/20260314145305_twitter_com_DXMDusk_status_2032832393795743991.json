@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032832393795743991",
+    "created_at": "2026-03-14T14:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032832393795743991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pr0mis3_c/stat…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/Pr0mis3_c/status/2032406203335426561",
+          "start": 88,
+          "url": "https://t.co/x1q50hEABw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032832393795743991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032406203335426561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大学为啥不取消校园跑，改成校园雌堕。\n开学每人发一盒雌二醇，血药谷值300pg/ml以上才不挂科，一学期奶子长一个罩杯以上加综素。\n毕竟跑步对身体不一定好，但不用药是真不行。 https://t.co/x1q50hEABw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032832393795743991",
+        "created_at": "2026-03-14T14:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032832393795743991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pr0mis3_c/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/Pr0mis3_c/status/2032406203335426561",
+              "start": 88,
+              "url": "https://t.co/x1q50hEABw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032832393795743991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032406203335426561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学为啥不取消校园跑，改成校园雌堕。\n开学每人发一盒雌二醇，血药谷值300pg/ml以上才不挂科，一学期奶子长一个罩杯以上加综素。\n毕竟跑步对身体不一定好，但不用药是真不行。 https://t.co/x1q50hEABw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993628897645408256",
+        "conversation_id": "2032406203335426561",
+        "created_at": "2026-03-13T10:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032406203335426561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/S_Hyoscine/sta…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/S_Hyoscine/status/2032380273716015223",
+              "start": 88,
+              "url": "https://t.co/Xy5nTOw8EK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032406203335426561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032380273716015223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学为啥不取消校园跑，改成校园雌堕。\n开学每人发一盒雌二醇，血药谷值300pg/ml以上才不挂科，一学期奶子长一个罩杯以上加综素。\n毕竟跑步对身体不一定好，但不雌堕是真不行。 https://t.co/Xy5nTOw8EK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 916,
+          "like_count": 1507,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1455
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥xyn/mtf 🏳️‍⚧️hrt: 2025.12.2 | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 114,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 91,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2031960164107173925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 148,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 54
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

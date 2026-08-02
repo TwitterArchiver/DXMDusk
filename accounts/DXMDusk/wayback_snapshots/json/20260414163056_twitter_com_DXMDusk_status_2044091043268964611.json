@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044090685775884288",
+        "3_2044090699814232064"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2044091043268964611",
+    "created_at": "2026-04-14T16:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044091043268964611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EAUrTw2cGh",
+          "end": 56,
+          "expanded_url": "https://x.com/DXMDusk/status/2044091043268964611/photo/1",
+          "media_key": "3_2044090685775884288",
+          "start": 33,
+          "url": "https://t.co/EAUrTw2cGh"
+        },
+        {
+          "display_url": "pic.x.com/EAUrTw2cGh",
+          "end": 56,
+          "expanded_url": "https://x.com/DXMDusk/status/2044091043268964611/photo/1",
+          "media_key": "3_2044090699814232064",
+          "start": 33,
+          "url": "https://t.co/EAUrTw2cGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044091043268964611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "【“4.15”全民国家安全教育日】禁毒宣传进校园 守护青春助成长 https://t.co/EAUrTw2cGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2467,
+        "media_key": "3_2044090685775884288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4Rpg5bMAA9aTR.jpg",
+        "width": 1096
+      },
+      {
+        "height": 3574,
+        "media_key": "3_2044090699814232064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4RqVMbYAAZsSD.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044090685775884288",
+            "3_2044090699814232064"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2044091043268964611",
+        "created_at": "2026-04-14T16:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044091043268964611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EAUrTw2cGh",
+              "end": 56,
+              "expanded_url": "https://x.com/DXMDusk/status/2044091043268964611/photo/1",
+              "media_key": "3_2044090685775884288",
+              "start": 33,
+              "url": "https://t.co/EAUrTw2cGh"
+            },
+            {
+              "display_url": "pic.x.com/EAUrTw2cGh",
+              "end": 56,
+              "expanded_url": "https://x.com/DXMDusk/status/2044091043268964611/photo/1",
+              "media_key": "3_2044090699814232064",
+              "start": 33,
+              "url": "https://t.co/EAUrTw2cGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044091043268964611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "【“4.15”全民国家安全教育日】禁毒宣传进校园 守护青春助成长 https://t.co/EAUrTw2cGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 1129,
+          "like_count": 2208,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 2322
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

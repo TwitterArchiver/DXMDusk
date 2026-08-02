@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036009329711820800",
+        "3_2036009329745399809"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2036009332618486198",
+    "created_at": "2026-03-23T09:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036009332618486198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HUVnUUCxaN",
+          "end": 77,
+          "expanded_url": "https://x.com/DXMDusk/status/2036009332618486198/photo/1",
+          "media_key": "3_2036009329711820800",
+          "start": 54,
+          "url": "https://t.co/HUVnUUCxaN"
+        },
+        {
+          "display_url": "pic.x.com/HUVnUUCxaN",
+          "end": 77,
+          "expanded_url": "https://x.com/DXMDusk/status/2036009332618486198/photo/1",
+          "media_key": "3_2036009329745399809",
+          "start": 54,
+          "url": "https://t.co/HUVnUUCxaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036009332618486198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "cptsd-自杀意念\n重读《不原谅也没关系》学习记录\n对于cptsd来说被动自杀意念比主动自杀意念更常见。\n主动自杀意念与被动自杀意念之间会互相转化，主动自杀意念会让人主动采取结束生命的行动，而被动自杀意念是一种会希望自己死去，幻想结束生命，来结束痛苦的方式，但并不会真的付诸实践，被动自杀意念会因为患者没有主动的自杀意图而逐渐停止。\n通过口头宣泄来排解自杀意念背后的痛苦有助于消除自杀意念。\n原来我痛苦到想死掉是经历了强烈的闪回，我要结束的是痛苦而不是生命，那是被动的自杀意念。识别出来以后按照闪回的管理步骤来应对拯救自己吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "cptsd-自杀意念\n重读《不原谅也没关系》学习记录\n对于cptsd来说被动自杀意念比主动自杀意念更常见。 https://t.co/HUVnUUCxaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2036009329711820800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFbsrjasAAeyjV.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2036009329745399809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFbsrrbEAEBPi8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036009329711820800",
+            "3_2036009329745399809"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2036009332618486198",
+        "created_at": "2026-03-23T09:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036009332618486198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUVnUUCxaN",
+              "end": 77,
+              "expanded_url": "https://x.com/DXMDusk/status/2036009332618486198/photo/1",
+              "media_key": "3_2036009329711820800",
+              "start": 54,
+              "url": "https://t.co/HUVnUUCxaN"
+            },
+            {
+              "display_url": "pic.x.com/HUVnUUCxaN",
+              "end": 77,
+              "expanded_url": "https://x.com/DXMDusk/status/2036009332618486198/photo/1",
+              "media_key": "3_2036009329745399809",
+              "start": 54,
+              "url": "https://t.co/HUVnUUCxaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036009332618486198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "cptsd-自杀意念\n重读《不原谅也没关系》学习记录\n对于cptsd来说被动自杀意念比主动自杀意念更常见。\n主动自杀意念与被动自杀意念之间会互相转化，主动自杀意念会让人主动采取结束生命的行动，而被动自杀意念是一种会希望自己死去，幻想结束生命，来结束痛苦的方式，但并不会真的付诸实践，被动自杀意念会因为患者没有主动的自杀意图而逐渐停止。\n通过口头宣泄来排解自杀意念背后的痛苦有助于消除自杀意念。\n原来我痛苦到想死掉是经历了强烈的闪回，我要结束的是痛苦而不是生命，那是被动的自杀意念。识别出来以后按照闪回的管理步骤来应对拯救自己吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cptsd-自杀意念\n重读《不原谅也没关系》学习记录\n对于cptsd来说被动自杀意念比主动自杀意念更常见。 https://t.co/HUVnUUCxaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1045,
+          "like_count": 1839,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 1681
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

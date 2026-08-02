@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031718122194124948",
+    "created_at": "2026-03-11T14:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031734937586651179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879722726837157888",
+          "start": 0,
+          "username": "jackjia425738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031734937586651179",
+    "in_reply_to_user_id": "1879722726837157888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031718122194124948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackjia425738 鸡娃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2031717834452312065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIcmx5bIAE9dkt.jpg",
+        "width": 1593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031718122194124948",
+        "created_at": "2026-03-11T14:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031734937586651179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879722726837157888",
+              "start": 0,
+              "username": "jackjia425738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031734937586651179",
+        "in_reply_to_user_id": "1879722726837157888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031718122194124948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackjia425738 鸡娃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031717834452312065"
+          ]
+        },
+        "author_id": "1879722726837157888",
+        "conversation_id": "2031718122194124948",
+        "created_at": "2026-03-11T13:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031718122194124948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5Y7jtxqQB",
+              "end": 44,
+              "expanded_url": "https://x.com/jackjia425738/status/2031718122194124948/photo/1",
+              "media_key": "3_2031717834452312065",
+              "start": 21,
+              "url": "https://t.co/T5Y7jtxqQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031718122194124948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很痛恨这种衡水高考工厂啊，真的恶心！ https://t.co/T5Y7jtxqQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 769,
+          "like_count": 1007,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1204
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-16T02:51:01.000Z",
+        "description": "多一个看世界的角度，寻找志同道合的人和圈子。\n坚持原创手搓，坚持分享自己的感悟思考和投资心得，\n在AI突飞猛进的时代，做一点慢的事情，做一个有人味的频道。",
+        "id": "1879722726837157888",
+        "location": "马尔代夫",
+        "name": "路遥知马力-jackjia4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000139309786284032/TV9ymb4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 692,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 540
+        },
+        "username": "jackjia425738",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024813829805535599",
+    "created_at": "2026-02-20T14:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024859609782227442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1811173170600464384",
+          "start": 0,
+          "username": "HateQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024859609782227442",
+    "in_reply_to_user_id": "1811173170600464384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024813829805535599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HateQAQ 抱抱你，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024813829805535599",
+        "created_at": "2026-02-20T14:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024859609782227442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1811173170600464384",
+              "start": 0,
+              "username": "HateQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024859609782227442",
+        "in_reply_to_user_id": "1811173170600464384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024813829805535599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HateQAQ 抱抱你，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811173170600464384",
+        "conversation_id": "2024813829805535599",
+        "created_at": "2026-02-20T11:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024813829805535599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024813829805535599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我们缺爱逼真的就只能一天到晚在小破公寓里抱着自己的小破被子哭啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 182,
+          "like_count": 229,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 429
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T22:58:39.000Z",
+        "description": "碎碎念丧丧属鼠// 酷拉皮卡形态维持中//indie game开发中… //发癫和黄色废料@aldrigfo_kralek//老攻@matlab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "aldrigfo_kralek"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "matlab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amoresogno",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amoresogno",
+                "start": 0,
+                "url": "https://t.co/0p8J4ApRkF"
+              }
+            ]
+          }
+        },
+        "id": "1811173170600464384",
+        "location": "Oslo, Norway",
+        "name": "囤囤宅鼠",
+        "pinned_tweet_id": "1950676971903742002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911270211241590785/JKLw4tkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 515,
+          "like_count": 40146,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 9473
+        },
+        "url": "https://t.co/0p8J4ApRkF",
+        "username": "HateQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038203900172669407",
+    "created_at": "2026-03-29T22:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T23:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038388784988090476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038388784988090476",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038203900172669407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2038203892849336320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEknpEUaYAAF7FD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038203900172669407",
+        "created_at": "2026-03-29T22:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T23:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038388784988090476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038388784988090476",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038203900172669407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038203892849336320"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038203900172669407",
+        "created_at": "2026-03-29T10:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038203900172669407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BzEOMilpp",
+              "end": 23,
+              "expanded_url": "https://x.com/qqqqqf5/status/2038203900172669407/photo/1",
+              "media_key": "3_2038203892849336320",
+              "start": 0,
+              "url": "https://t.co/3BzEOMilpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038203900172669407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 35744,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3BzEOMilpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1072,
+          "like_count": 1844,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 1809
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "你好！我是清洛😺\n之前是清凤，但是他和小号的关系实在是太大了...影响到我的形象了，故此改名换头像\n不键政不od不割手不恶俗\n欢迎私信聊天投稿andmore!",
+        "id": "1618557658163970049",
+        "name": "清洛😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036862218428702720/1R66Gm-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9807,
+          "following_count": 1930,
+          "like_count": 13984,
+          "listed_count": 20,
+          "media_count": 2471,
+          "tweet_count": 5250
+        },
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

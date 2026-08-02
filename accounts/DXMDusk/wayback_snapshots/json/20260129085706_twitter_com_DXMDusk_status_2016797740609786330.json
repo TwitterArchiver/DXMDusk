@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016578925221335420",
+    "created_at": "2026-01-29T08:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016797740609786330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016797740609786330",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016578925221335420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever 这个世界太癫了，书都白读啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2016578834464903168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xTxAHaEAAE1Mr.png",
+        "width": 640
+      },
+      {
+        "height": 979,
+        "media_key": "3_2016578848352354304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xTxz2bwAAyRTh.jpg",
+        "width": 640
+      },
+      {
+        "height": 640,
+        "media_key": "3_2016578863367622656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xTyryWkAA1VHi.jpg",
+        "width": 912
+      },
+      {
+        "height": 681,
+        "media_key": "3_2016578876596768784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xTzdEbUBA2BkA.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016578925221335420",
+        "created_at": "2026-01-29T08:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016797740609786330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016797740609786330",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016578925221335420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever 这个世界太癫了，书都白读啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016578834464903168",
+            "3_2016578848352354304",
+            "3_2016578863367622656",
+            "3_2016578876596768784"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2016578925221335420",
+        "created_at": "2026-01-28T18:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016578925221335420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3q3HbIFsk",
+              "end": 36,
+              "expanded_url": "https://x.com/DDaquaforever/status/2016578925221335420/photo/1",
+              "media_key": "3_2016578834464903168",
+              "start": 13,
+              "url": "https://t.co/a3q3HbIFsk"
+            },
+            {
+              "display_url": "pic.x.com/a3q3HbIFsk",
+              "end": 36,
+              "expanded_url": "https://x.com/DDaquaforever/status/2016578925221335420/photo/1",
+              "media_key": "3_2016578848352354304",
+              "start": 13,
+              "url": "https://t.co/a3q3HbIFsk"
+            },
+            {
+              "display_url": "pic.x.com/a3q3HbIFsk",
+              "end": 36,
+              "expanded_url": "https://x.com/DDaquaforever/status/2016578925221335420/photo/1",
+              "media_key": "3_2016578863367622656",
+              "start": 13,
+              "url": "https://t.co/a3q3HbIFsk"
+            },
+            {
+              "display_url": "pic.x.com/a3q3HbIFsk",
+              "end": 36,
+              "expanded_url": "https://x.com/DDaquaforever/status/2016578925221335420/photo/1",
+              "media_key": "3_2016578876596768784",
+              "start": 13,
+              "url": "https://t.co/a3q3HbIFsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016578925221335420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 415,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常吃人的朋友都知道。？ https://t.co/a3q3HbIFsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 89,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 93
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 2648,
+          "like_count": 3203,
+          "listed_count": 9,
+          "media_count": 1234,
+          "tweet_count": 5228
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

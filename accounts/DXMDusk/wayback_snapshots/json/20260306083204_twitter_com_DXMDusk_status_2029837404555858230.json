@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029719743918395809",
+    "created_at": "2026-03-06T08:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029837404555858230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "846624980238446592",
+          "start": 0,
+          "username": "DiamondHandsUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029837404555858230",
+    "in_reply_to_user_id": "846624980238446592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029719743918395809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DiamondHandsUS +互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2029719737392037888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsDWOTaAAAz82t.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029719743918395809",
+        "created_at": "2026-03-06T08:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029837404555858230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "846624980238446592",
+              "start": 0,
+              "username": "DiamondHandsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029837404555858230",
+        "in_reply_to_user_id": "846624980238446592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029719743918395809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiamondHandsUS +互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029719737392037888"
+          ]
+        },
+        "author_id": "846624980238446592",
+        "conversation_id": "2029719743918395809",
+        "created_at": "2026-03-06T00:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029719743918395809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzUPcJfcmW",
+              "end": 48,
+              "expanded_url": "https://x.com/DiamondHandsUS/status/2029719743918395809/photo/1",
+              "media_key": "3_2029719737392037888",
+              "start": 25,
+              "url": "https://t.co/lzUPcJfcmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029719743918395809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1841,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 91,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关互关 ，诚信互关！\n\n目标2000蓝v互关！ https://t.co/lzUPcJfcmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 392,
+          "like_count": 471,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 695
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-28T07:28:19.000Z",
+        "description": "专注美股深度研究、期权异动分析与加密货币趋势。 💎 核心理念： 以冷静应对波动，用逻辑驱动交易。  📈 这里记录从 0 到 1 的交易进阶之路，所有内容仅供参考。美股币股交易用WEEX:https://t.co/0P2mXwBRgR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weabaxx.site/en/register?vi…",
+                "end": 116,
+                "expanded_url": "https://weabaxx.site/en/register?vipCode=diamondhand",
+                "start": 93,
+                "url": "https://t.co/0P2mXwBRgR"
+              }
+            ]
+          }
+        },
+        "id": "846624980238446592",
+        "name": "美股钻石手 | 期权 & Crypto",
+        "pinned_tweet_id": "2020493558441243084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011834338388889600/F8WjbwT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1136,
+          "like_count": 3793,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 843
+        },
+        "username": "DiamondHandsUS",
+        "verified": true
+      }
+    ]
+  }
+}

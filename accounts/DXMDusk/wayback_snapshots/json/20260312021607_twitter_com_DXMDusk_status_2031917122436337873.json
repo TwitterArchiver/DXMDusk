@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031916362755686760",
+    "created_at": "2026-03-12T02:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T03:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031917122436337873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031917122436337873",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031916362755686760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 回一下关呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30935,
+        "height": 2778,
+        "media_key": "13_2031916048732340227",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031916048732340227/img/GtbHH10JSdD6B_qL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031916048732340227/vid/avc1/1284x2778/ikk3IFpfeBU_kuhb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031916048732340227/vid/avc1/480x1038/4YlX0TDGTyYxgare.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031916048732340227/vid/avc1/720x1556/DaTKPWV1EW55RS48.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031916048732340227/vid/avc1/320x692/Rt4iyVLATUNORb9o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031916048732340227/pl/mVDRslSSziwy5HmR.m3u8"
+          }
+        ],
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031916048719749120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLQ4XlbIAA1aTf.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031916362755686760",
+        "created_at": "2026-03-12T02:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031917122436337873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031917122436337873",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031916362755686760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 回一下关呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031916048732340227",
+            "3_2031916048719749120"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2031916362755686760",
+        "created_at": "2026-03-12T02:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031916362755686760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cb1nFZLc2J",
+              "end": 151,
+              "expanded_url": "https://x.com/TOOBE775/status/2031916362755686760/video/1",
+              "media_key": "13_2031916048732340227",
+              "start": 128,
+              "url": "https://t.co/cb1nFZLc2J"
+            },
+            {
+              "display_url": "pic.x.com/cb1nFZLc2J",
+              "end": 151,
+              "expanded_url": "https://x.com/TOOBE775/status/2031916362755686760/video/1",
+              "media_key": "3_2031916048719749120",
+              "start": 128,
+              "url": "https://t.co/cb1nFZLc2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031916362755686760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/TOOBE775/statu…",
+                "end": 169,
+                "expanded_url": "https://x.com/TOOBE775/status/2031180403617444018",
+                "start": 146,
+                "url": "https://t.co/WcVUQzZEVl"
+              }
+            ]
+          },
+          "text": "我把一波意外流量玩成账号限流闹剧的全过程……主打真实，建议收藏避雷。\n还记得在嘎子直播间，嘎子因为卖假酒翻车流泪道歉。老艺术家老潘语重心长的对嘎子说：互联网水太深，流量来了你把握不住啊！说完回身自己卖假酒去了。\n这个笑话我笑了一个月，现在我成了嘎子。😂😂\n两天前我发的下面这条贴文小爆了一下，https://t.co/WcVUQzZEVl面对无数的询问和关注有点措手不及。\n我这人最大的缺点就是勤奋，兴奋之下更勤奋，于是一一回关和回复询问。强度之高，触发了X平台互关限制和机器人刷回复限制。\n看到了吗？我对自己有多狠，机器人都没我回复的多~~~~😁😁😁😁\n我以为勤能补拙，结果一整天的勤劳换来了平台封禁。\n第二天我再回关时候，发现已经被限制关注。所有发出去的回复都被隐藏，流量几乎为0。\n没把握住啊，就像嘎子一样。本想通过这波流量更上一层楼，却从楼梯上摔下来了。\n账号还在坐牢中，但还是忍不住写这篇自黑帖——就当给自己画个大饼：灰度哥从此要理智，不再作死！\n最后自嘲总结几句：\n这未必是件坏事，有些坑需要自己亲身踩一下，才能刻骨铭心。\n别人看教程叫“避坑指南”，我直接现场直播踩坑+自爆+现身说法，学费交得值。\n至少以后看到别人流量来了，我能淡定地说：兄弟，悠着点，别学我当年……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把一波意外流量玩成账号限流闹剧的全过程……主打真实，建议收藏避雷。\n还记得在嘎子直播间，嘎子因为卖假酒翻车流泪道歉。老艺术家老潘语重心长的对嘎子说：互联网水太深，流量来了你把握不住啊！说完回身自己卖假酒去了。\n这个笑话我笑了一个月，现在我成了嘎子。😂😂 https://t.co/cb1nFZLc2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 802,
+          "like_count": 1157,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1249
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂了人性，却依旧被生活按头教育、社会反复毒打，嘴硬至今。",
+        "id": "1871529139720863744",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2031916362755686760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022668758897307648/al3mWURP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1467,
+          "like_count": 3370,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 3879
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

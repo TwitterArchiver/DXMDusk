@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026628177406341120"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026628179671265496",
+    "created_at": "2026-02-25T11:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T12:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026628179671265496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YG9KoE4Mod",
+          "end": 31,
+          "expanded_url": "https://x.com/DXMDusk/status/2026628179671265496/photo/1",
+          "media_key": "3_2026628177406341120",
+          "start": 8,
+          "url": "https://t.co/YG9KoE4Mod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026628179671265496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OD不扩散共识 https://t.co/YG9KoE4Mod"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026628177406341120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAHlv4aMAAP8g-.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026628177406341120"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026628179671265496",
+        "created_at": "2026-02-25T11:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026628179671265496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YG9KoE4Mod",
+              "end": 31,
+              "expanded_url": "https://x.com/DXMDusk/status/2026628179671265496/photo/1",
+              "media_key": "3_2026628177406341120",
+              "start": 8,
+              "url": "https://t.co/YG9KoE4Mod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026628179671265496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OD不扩散共识 https://t.co/YG9KoE4Mod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 248,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 598
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

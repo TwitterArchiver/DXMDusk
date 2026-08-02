@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016997547991322624"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2017208924668137578",
+    "created_at": "2026-01-30T12:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017208924668137578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWltuHDZOp",
+          "end": 30,
+          "expanded_url": "https://x.com/DXMDusk/status/2017208924668137578/photo/1",
+          "media_key": "3_2016997547991322624",
+          "start": 7,
+          "url": "https://t.co/yWltuHDZOp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017208924668137578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这简直就是我 https://t.co/yWltuHDZOp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2016997547991322624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_3QlVjbUAAWOwU.jpg",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016997547991322624"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2017208924668137578",
+        "created_at": "2026-01-30T12:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017208924668137578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWltuHDZOp",
+              "end": 30,
+              "expanded_url": "https://x.com/DXMDusk/status/2017208924668137578/photo/1",
+              "media_key": "3_2016997547991322624",
+              "start": 7,
+              "url": "https://t.co/yWltuHDZOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017208924668137578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这简直就是我 https://t.co/yWltuHDZOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 112,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 166
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031241060710805862",
+    "created_at": "2026-03-10T13:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031367160770212042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736375109374689280",
+          "start": 0,
+          "username": "xuehhh174115"
+        },
+        {
+          "end": 22,
+          "id": "1121435191774289924",
+          "start": 14,
+          "username": "xunger5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031367160770212042",
+    "in_reply_to_user_id": "1736375109374689280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031299754240749934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuehhh174115 @xunger5 不会的，大量维生素C配二甲双胍使用，是属于超说明书用法，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031241060710805862",
+        "created_at": "2026-03-10T13:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031367160770212042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736375109374689280",
+              "start": 0,
+              "username": "xuehhh174115"
+            },
+            {
+              "end": 22,
+              "id": "1121435191774289924",
+              "start": 14,
+              "username": "xunger5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031367160770212042",
+        "in_reply_to_user_id": "1736375109374689280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031299754240749934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuehhh174115 @xunger5 不会的，大量维生素C配二甲双胍使用，是属于超说明书用法，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736375109374689280",
+        "conversation_id": "2031241060710805862",
+        "created_at": "2026-03-10T09:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031299754240749934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1121435191774289924",
+              "start": 0,
+              "username": "xunger5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031299754240749934",
+        "in_reply_to_user_id": "1121435191774289924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031242267151991219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunger5 那皮肤不是很黄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 682,
+          "like_count": 732,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1024
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T13:17:53.000Z",
+        "description": "谁叫我妈妈，就拉黑谁，不接推广，无门\n\n     碎碎念念，话唠",
+        "id": "1736375109374689280",
+        "location": "♡",
+        "name": "芥末巧克力",
+        "pinned_tweet_id": "2008123687384633469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823716770924150784/psq2lkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 105,
+          "like_count": 3112,
+          "listed_count": 6,
+          "media_count": 100,
+          "tweet_count": 3505
+        },
+        "username": "xuehhh174115",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T15:25:59.000Z",
+        "description": "来推就是发泄情绪/生活吐槽，色色，在社会议题当个喷子/抑郁，焦虑（不太按时吃药中）/不定期找🚪姐寻求情绪价值",
+        "id": "1121435191774289924",
+        "name": "xunger",
+        "pinned_tweet_id": "2030337939482480888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1121435481613357057/7eRhn19__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 592,
+          "like_count": 14275,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1357
+        },
+        "username": "xunger5",
+        "verified": false
+      }
+    ]
+  }
+}

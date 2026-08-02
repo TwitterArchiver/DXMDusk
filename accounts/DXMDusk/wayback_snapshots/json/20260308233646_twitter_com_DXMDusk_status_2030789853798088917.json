@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030559331578703994",
+    "created_at": "2026-03-08T23:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T00:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030789853798088917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793603795441594368",
+          "start": 0,
+          "username": "SimonChu1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030789853798088917",
+    "in_reply_to_user_id": "1793603795441594368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030559331578703994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SimonChu1999 越来越好啊，互～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030559327644450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3-8zuagAAVcQI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2030559328122585088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3-81gaQAACi4v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030559331578703994",
+        "created_at": "2026-03-08T23:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030789853798088917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793603795441594368",
+              "start": 0,
+              "username": "SimonChu1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030789853798088917",
+        "in_reply_to_user_id": "1793603795441594368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030559331578703994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SimonChu1999 越来越好啊，互～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030559327644450816",
+            "3_2030559328122585088"
+          ]
+        },
+        "author_id": "1793603795441594368",
+        "conversation_id": "2030559331578703994",
+        "created_at": "2026-03-08T08:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030559331578703994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "创作者受益计划"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4ROPFPbH3",
+              "end": 90,
+              "expanded_url": "https://x.com/SimonChu1999/status/2030559331578703994/photo/1",
+              "media_key": "3_2030559327644450816",
+              "start": 67,
+              "url": "https://t.co/C4ROPFPbH3"
+            },
+            {
+              "display_url": "pic.x.com/C4ROPFPbH3",
+              "end": 90,
+              "expanded_url": "https://x.com/SimonChu1999/status/2030559331578703994/photo/1",
+              "media_key": "3_2030559328122585088",
+              "start": 67,
+              "url": "https://t.co/C4ROPFPbH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030559331578703994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 621,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的历史!\n昨天曝光度第一次达到了180K!\n以后会越来越高!步步高！\n蓝V们互相关注起来，一起挣钱!\n#蓝V互关 #创作者受益计划 https://t.co/C4ROPFPbH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 569,
+          "like_count": 544,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 852
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T11:24:31.000Z",
+        "description": "我的wise推广链接，点击获得优惠。  https://t.co/fCpBmpXNsL，",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wise.com/invite/dlpc/ro…",
+                "end": 43,
+                "expanded_url": "https://wise.com/invite/dlpc/rongqiangg",
+                "start": 20,
+                "url": "https://t.co/fCpBmpXNsL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wise.com/invite/dlpc/ro…",
+                "end": 23,
+                "expanded_url": "https://wise.com/invite/dlpc/rongqiangg",
+                "start": 0,
+                "url": "https://t.co/fCpBmpXNsL"
+              }
+            ]
+          }
+        },
+        "id": "1793603795441594368",
+        "name": "Simon Chu",
+        "pinned_tweet_id": "2030559331578703994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025914029382787072/KYn8qyFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 1099,
+          "like_count": 153,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/fCpBmpXNsL",
+        "username": "SimonChu1999",
+        "verified": true
+      }
+    ]
+  }
+}

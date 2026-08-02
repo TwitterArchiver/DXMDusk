@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032826198888427594",
+    "created_at": "2026-03-15T15:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033208076640395510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954202135047852032",
+          "start": 0,
+          "username": "Chanafenshi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033208076640395510",
+    "in_reply_to_user_id": "1954202135047852032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033206304769282141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chanafenshi1 会吃饱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032826198888427594",
+        "created_at": "2026-03-15T15:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033208076640395510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954202135047852032",
+              "start": 0,
+              "username": "Chanafenshi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033208076640395510",
+        "in_reply_to_user_id": "1954202135047852032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033206304769282141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chanafenshi1 会吃饱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954202135047852032",
+        "conversation_id": "2032826198888427594",
+        "created_at": "2026-03-15T15:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033206304769282141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033206304769282141",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032826198888427594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 如果一个人一直吃健胃消食片，那么他会撑死还是会饿死？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 989,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1508
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-09T15:24:41.000Z",
+        "description": "原SCG3粉大号@chanafenshi 被封，转世重生版\n唯心主义者、社会达尔文主义者、原作癌中期、卑鄙无耻的小人、变态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "chanafenshi"
+              }
+            ]
+          }
+        },
+        "id": "1954202135047852032",
+        "name": "码丽丝-车-分时",
+        "pinned_tweet_id": "2013678021245346072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972345861549248512/-8o2WGdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 208,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 210
+        },
+        "username": "Chanafenshi1",
+        "verified": false
+      }
+    ]
+  }
+}

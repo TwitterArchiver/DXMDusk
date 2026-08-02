@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032826198888427594",
+    "created_at": "2026-03-15T01:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T02:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032991986719011289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032991986719011289",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032901585408504106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032826198888427594",
+        "created_at": "2026-03-15T01:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032991986719011289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032991986719011289",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032901585408504106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "2032826198888427594",
+        "created_at": "2026-03-14T19:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T20:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032901585408504106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032901585408504106",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032826198888427594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 健胃消食片好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 947,
+          "like_count": 1537,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1470
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎性别｜嘎王万岁主义者",
+        "id": "1657055349982244865",
+        "location": "嘎国",
+        "name": "香嘎",
+        "pinned_tweet_id": "2013048657990312418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021951815022264320/NrHb9Gms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 1084,
+          "like_count": 79534,
+          "listed_count": 6,
+          "media_count": 2226,
+          "tweet_count": 26770
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

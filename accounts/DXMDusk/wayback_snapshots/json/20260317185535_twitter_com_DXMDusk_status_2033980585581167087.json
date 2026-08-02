@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033980585581167087",
+    "created_at": "2026-03-17T18:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033980585581167087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/drug_artist2/status/2033933530204672108",
+          "start": 128,
+          "url": "https://t.co/8Meb0s75Nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033980585581167087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033933530204672108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "魂兮归来...\n𓀃𓀅𓀌𓀎𓀠𓀤\n魂兮归来.....驱长鞭而架六辔兮....\n𓀌𓀎𓀠𓀤𓀫𓀠𓀤𓀥𓀫\n魂兮归来...翻山而歌兮...归来....魂兮归来...\n𓀋𓀌𓀎𓀙𓀠𓀃𓀅𓀇𓀋\n魂兮归来...振高歌而凯旋兮...期同袍而尽泽...\n𓀋𓀠𓀤𓀥𓀫𓀅𓀇𓀋𓀌𓀀𓀅𓀇𓀋𓀌 https://t.co/8Meb0s75Nz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033980585581167087",
+        "created_at": "2026-03-17T18:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033980585581167087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2033933530204672108",
+              "start": 128,
+              "url": "https://t.co/8Meb0s75Nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033980585581167087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033933530204672108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魂兮归来...\n𓀃𓀅𓀌𓀎𓀠𓀤\n魂兮归来.....驱长鞭而架六辔兮....\n𓀌𓀎𓀠𓀤𓀫𓀠𓀤𓀥𓀫\n魂兮归来...翻山而歌兮...归来....魂兮归来...\n𓀋𓀌𓀎𓀙𓀠𓀃𓀅𓀇𓀋\n魂兮归来...振高歌而凯旋兮...期同袍而尽泽...\n𓀋𓀠𓀤𓀥𓀫𓀅𓀇𓀋𓀌𓀀𓀅𓀇𓀋𓀌 https://t.co/8Meb0s75Nz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2033933530204672108",
+        "created_at": "2026-03-17T15:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033933530204672108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033933530204672108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1582,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "沐雨此账号由凌雪接管."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1029,
+          "like_count": 1796,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1620
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘|售卖合法物质直接私信我或联系TG:https://t.co/FmpWHRKM7z｜提问箱:https://t.co/zPtZpIiuYS |愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 69,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 46,
+                "url": "https://t.co/FmpWHRKM7z"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 97,
+                "expanded_url": "http://ngl.link/drug_artist",
+                "start": 74,
+                "url": "https://t.co/zPtZpIiuYS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 18,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

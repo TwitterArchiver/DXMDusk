@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027687692793004099",
+    "created_at": "2026-02-28T12:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027722665742770628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916543476231208960",
+          "start": 0,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027722665742770628",
+    "in_reply_to_user_id": "1916543476231208960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027687692793004099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike001 别怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_2027687684572123137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPLNLpbEAE37Tp.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027687692793004099",
+        "created_at": "2026-02-28T12:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027722665742770628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027722665742770628",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027687692793004099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 别怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027687684572123137"
+          ]
+        },
+        "author_id": "1916543476231208960",
+        "conversation_id": "2027687692793004099",
+        "created_at": "2026-02-28T10:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027687692793004099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENdL2bJZLv",
+              "end": 44,
+              "expanded_url": "https://x.com/fayoubaike001/status/2027687692793004099/photo/1",
+              "media_key": "3_2027687684572123137",
+              "start": 21,
+              "url": "https://t.co/ENdL2bJZLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027687692793004099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 333,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林命不久矣，\n这是被临时列管了吗😁 https://t.co/ENdL2bJZLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 253,
+          "like_count": 416,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 639
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 47,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

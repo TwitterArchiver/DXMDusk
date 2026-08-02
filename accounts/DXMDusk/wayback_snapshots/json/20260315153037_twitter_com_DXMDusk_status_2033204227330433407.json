@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033204224608317440"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033204227330433407",
+    "created_at": "2026-03-15T15:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033204227330433407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iu39YzmRrk",
+          "end": 169,
+          "expanded_url": "https://x.com/DXMDusk/status/2033204227330433407/photo/1",
+          "media_key": "3_2033204224608317440",
+          "start": 146,
+          "url": "https://t.co/iu39YzmRrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033204227330433407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 328,
+            "start": 323,
+            "tag": "蓝V互关"
+          },
+          {
+            "end": 334,
+            "start": 329,
+            "tag": "蓝V互粉"
+          },
+          {
+            "end": 344,
+            "start": 335,
+            "tag": "Verified"
+          },
+          {
+            "end": 351,
+            "start": 345,
+            "tag": "X流量增长"
+          },
+          {
+            "end": 357,
+            "start": 352,
+            "tag": "抱团取暖"
+          }
+        ]
+      },
+      "text": "🔵 蓝V高质量互关｜诚信抱团 流量共振 🚀\n\n蓝V朋友们，这里集合！💙\n\n已蓝V认证，专注优质内容分享。\n\nX算法越来越青睐蓝V互粉账号，现在就是提升权重的黄金期！诚邀各位真实蓝V一起互关互助。\n\n互关能带来什么？\n✅ 账号权重升级，算法推荐暴增  \n✅ 互相涨粉，内容曝光轻松翻倍  \n✅ 资源联动，真诚交流与合作机会  \n✅ 抱团取暖，长期稳定发展  \n\n我的三重承诺（绝对做到）：\n1. 你关注我 → 我秒回关（24小时内真人操作）  \n2. 永不无故取关，诚信第一  \n3. 积极点赞评论，互相支持成长  \n\n行动超简单！\n直接关注即可，我会看蓝V关注，然后一个个回关\n\n拒绝刷量套路，只欢迎真诚长期伙伴！  \n一起把蓝V圈做强做大～\n\n#蓝V互关 #蓝V互粉 #Verified #X流量增长 #抱团取暖"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔵 蓝V高质量互关｜诚信抱团 流量共振 🚀\n\n蓝V朋友们，这里集合！💙\n\n已蓝V认证，专注优质内容分享。\n\nX算法越来越青睐蓝V互粉账号，现在就是提升权重的黄金期！诚邀各位真实蓝V一起互关互助。\n\n互关能带来什么？\n✅ 账号权重升级，算法推荐暴增  \n✅ 互相涨粉，内容曝光轻松翻倍  \n✅ https://t.co/iu39YzmRrk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2033204224608317440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdkeEuaMAA_eV1.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033204224608317440"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033204227330433407",
+        "created_at": "2026-03-15T15:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033204227330433407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iu39YzmRrk",
+              "end": 169,
+              "expanded_url": "https://x.com/DXMDusk/status/2033204227330433407/photo/1",
+              "media_key": "3_2033204224608317440",
+              "start": 146,
+              "url": "https://t.co/iu39YzmRrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033204227330433407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 328,
+                "start": 323,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 334,
+                "start": 329,
+                "tag": "蓝V互粉"
+              },
+              {
+                "end": 344,
+                "start": 335,
+                "tag": "Verified"
+              },
+              {
+                "end": 351,
+                "start": 345,
+                "tag": "X流量增长"
+              },
+              {
+                "end": 357,
+                "start": 352,
+                "tag": "抱团取暖"
+              }
+            ]
+          },
+          "text": "🔵 蓝V高质量互关｜诚信抱团 流量共振 🚀\n\n蓝V朋友们，这里集合！💙\n\n已蓝V认证，专注优质内容分享。\n\nX算法越来越青睐蓝V互粉账号，现在就是提升权重的黄金期！诚邀各位真实蓝V一起互关互助。\n\n互关能带来什么？\n✅ 账号权重升级，算法推荐暴增  \n✅ 互相涨粉，内容曝光轻松翻倍  \n✅ 资源联动，真诚交流与合作机会  \n✅ 抱团取暖，长期稳定发展  \n\n我的三重承诺（绝对做到）：\n1. 你关注我 → 我秒回关（24小时内真人操作）  \n2. 永不无故取关，诚信第一  \n3. 积极点赞评论，互相支持成长  \n\n行动超简单！\n直接关注即可，我会看蓝V关注，然后一个个回关\n\n拒绝刷量套路，只欢迎真诚长期伙伴！  \n一起把蓝V圈做强做大～\n\n#蓝V互关 #蓝V互粉 #Verified #X流量增长 #抱团取暖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔵 蓝V高质量互关｜诚信抱团 流量共振 🚀\n\n蓝V朋友们，这里集合！💙\n\n已蓝V认证，专注优质内容分享。\n\nX算法越来越青睐蓝V互粉账号，现在就是提升权重的黄金期！诚邀各位真实蓝V一起互关互助。\n\n互关能带来什么？\n✅ 账号权重升级，算法推荐暴增  \n✅ 互相涨粉，内容曝光轻松翻倍  \n✅ https://t.co/iu39YzmRrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 987,
+          "like_count": 1669,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1504
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

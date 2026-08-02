@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031714870685741563",
+    "created_at": "2026-03-11T15:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031753704362365122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1861988956071436288",
+          "start": 0,
+          "username": "xiaohui984592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031753704362365122",
+    "in_reply_to_user_id": "1861988956071436288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031714870685741563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohui984592 来了昂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2031714858169982977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIZ5iYa4AEmJT-.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031714870685741563",
+        "created_at": "2026-03-11T15:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031753704362365122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1861988956071436288",
+              "start": 0,
+              "username": "xiaohui984592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031753704362365122",
+        "in_reply_to_user_id": "1861988956071436288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031714870685741563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohui984592 来了昂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031714858169982977"
+          ]
+        },
+        "author_id": "1861988956071436288",
+        "conversation_id": "2031714870685741563",
+        "created_at": "2026-03-11T12:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031714870685741563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "蓝v关注必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pv5Q14WHQq",
+              "end": 49,
+              "expanded_url": "https://x.com/xiaohui984592/status/2031714870685741563/photo/1",
+              "media_key": "3_2031714858169982977",
+              "start": 26,
+              "url": "https://t.co/pv5Q14WHQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031714870685741563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没有互关了，互关的来，永不取关\n#蓝v关注必回 https://t.co/pv5Q14WHQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 770,
+          "like_count": 1020,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1212
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-28T04:22:35.000Z",
+        "description": "互关，谢谢",
+        "id": "1861988956071436288",
+        "name": "Lucy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016743821414191105/x-1OTebr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 2167,
+          "like_count": 603,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 501
+        },
+        "username": "xiaohui984592",
+        "verified": true
+      }
+    ]
+  }
+}

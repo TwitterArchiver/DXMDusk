@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038496868284690432"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038444824366313837",
+    "created_at": "2026-03-30T06:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038496870549672154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GE4VmL4FnA",
+          "end": 59,
+          "expanded_url": "https://x.com/DXMDusk/status/2038496870549672154/photo/1",
+          "media_key": "3_2038496868284690432",
+          "start": 36,
+          "url": "https://t.co/GE4VmL4FnA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038496870549672154",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038444824366313837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 自己听吧，录音有说，在2.30分左右 https://t.co/GE4VmL4FnA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038496868284690432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoyGe3a8AAMKPv.jpg",
+        "width": 915
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038444808088244224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoCwLhW0AAMO5t.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038444808079859712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoCwLfW4AAzD8v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038444808092438528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoCwLiW0AAwD49.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038444808256225283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoCwMJaAAMihdl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038496868284690432"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038444824366313837",
+        "created_at": "2026-03-30T06:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038496870549672154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GE4VmL4FnA",
+              "end": 59,
+              "expanded_url": "https://x.com/DXMDusk/status/2038496870549672154/photo/1",
+              "media_key": "3_2038496868284690432",
+              "start": 36,
+              "url": "https://t.co/GE4VmL4FnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038496870549672154",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038444824366313837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 自己听吧，录音有说，在2.30分左右 https://t.co/GE4VmL4FnA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038444808088244224",
+            "3_2038444808079859712",
+            "3_2038444808092438528",
+            "3_2038444808256225283"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "2038444824366313837",
+        "created_at": "2026-03-30T02:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038444824366313837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TH5rXqkt9",
+              "end": 37,
+              "expanded_url": "https://x.com/AnIncandescence/status/2038444824366313837/photo/1",
+              "media_key": "3_2038444808088244224",
+              "start": 14,
+              "url": "https://t.co/5TH5rXqkt9"
+            },
+            {
+              "display_url": "pic.x.com/5TH5rXqkt9",
+              "end": 37,
+              "expanded_url": "https://x.com/AnIncandescence/status/2038444824366313837/photo/1",
+              "media_key": "3_2038444808079859712",
+              "start": 14,
+              "url": "https://t.co/5TH5rXqkt9"
+            },
+            {
+              "display_url": "pic.x.com/5TH5rXqkt9",
+              "end": 37,
+              "expanded_url": "https://x.com/AnIncandescence/status/2038444824366313837/photo/1",
+              "media_key": "3_2038444808092438528",
+              "start": 14,
+              "url": "https://t.co/5TH5rXqkt9"
+            },
+            {
+              "display_url": "pic.x.com/5TH5rXqkt9",
+              "end": 37,
+              "expanded_url": "https://x.com/AnIncandescence/status/2038444824366313837/photo/1",
+              "media_key": "3_2038444808256225283",
+              "start": 14,
+              "url": "https://t.co/5TH5rXqkt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038444824366313837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6004,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要打120…………… https://t.co/5TH5rXqkt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 1074,
+          "like_count": 1844,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1814
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "TauCeti_10700"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/iO6MRJNTYR"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 247,
+          "like_count": 15882,
+          "listed_count": 5,
+          "media_count": 1204,
+          "tweet_count": 6754
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023027606019559890",
+    "created_at": "2026-02-16T08:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023311531320983936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "962077200",
+          "start": 0,
+          "username": "IgnoredBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023311531320983936",
+    "in_reply_to_user_id": "962077200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023310698521182432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IgnoredBot 时间会冲淡一切伤痛，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023027606019559890",
+        "created_at": "2026-02-16T08:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023311531320983936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "962077200",
+              "start": 0,
+              "username": "IgnoredBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023311531320983936",
+        "in_reply_to_user_id": "962077200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023310698521182432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IgnoredBot 时间会冲淡一切伤痛，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962077200",
+        "conversation_id": "2023027606019559890",
+        "created_at": "2026-02-16T08:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023310698521182432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023310698521182432",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023027606019559890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 有些毒不需要下咽，时间会替你一口一口灌下去，还附赠“或许明天会好”的假安慰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 152,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 329
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-21T09:32:51.000Z",
+        "description": "工作是996，新闻是404，生活是普通人被算法遗忘的副本。人生苦短，新闻更短。点个关注，一起emo。| Mainstream too busy? We post the stuff nobody asked for. Ordinary life, zero likes, still going.",
+        "id": "962077200",
+        "name": "被忽略bot",
+        "pinned_tweet_id": "2020490608616538302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021682786449707008/4NbW5dve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 2375,
+          "like_count": 380,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 3860
+        },
+        "username": "IgnoredBot",
+        "verified": true
+      }
+    ]
+  }
+}

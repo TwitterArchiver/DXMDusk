@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027692236230762787",
+    "created_at": "2026-02-28T10:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027699937421722102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787079624260001792",
+          "start": 0,
+          "username": "HanLuo14894"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027699937421722102",
+    "in_reply_to_user_id": "1787079624260001792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027698485462786224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanLuo14894 我们都是小怪兽，有一天会被正义的奥特曼杀死\n是啊，你是小怪兽，可小怪兽也有小怪兽的好朋友，孤独的小怪兽们害怕得靠在一起，但如果正义的奥特曼要来杀你，我就帮你把正义的奥特曼杀死。\n可是我答应了，却没有做到……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027692236230762787",
+        "created_at": "2026-02-28T10:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027699937421722102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787079624260001792",
+              "start": 0,
+              "username": "HanLuo14894"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027699937421722102",
+        "in_reply_to_user_id": "1787079624260001792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027698485462786224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanLuo14894 我们都是小怪兽，有一天会被正义的奥特曼杀死\n是啊，你是小怪兽，可小怪兽也有小怪兽的好朋友，孤独的小怪兽们害怕得靠在一起，但如果正义的奥特曼要来杀你，我就帮你把正义的奥特曼杀死。\n可是我答应了，却没有做到……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787079624260001792",
+        "conversation_id": "2027692236230762787",
+        "created_at": "2026-02-28T10:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027698485462786224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027698485462786224",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027692236230762787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 总而言之就是别人感觉我怪怪的，但又哪里说不上来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 254,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 637
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "@nctdream1023你这个地雷给我听着",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "nctdream1023"
+              }
+            ]
+          }
+        },
+        "id": "1787079624260001792",
+        "location": "无间地狱",
+        "name": "罗 XY",
+        "pinned_tweet_id": "1945450165395173524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 18,
+          "like_count": 34986,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 679
+        },
+        "username": "HanLuo14894",
+        "verified": false
+      }
+    ]
+  }
+}

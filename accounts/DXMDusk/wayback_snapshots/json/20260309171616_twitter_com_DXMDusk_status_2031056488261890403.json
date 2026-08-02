@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030850390309384488",
+    "created_at": "2026-03-09T17:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T18:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031056488261890403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1090847424",
+          "start": 0,
+          "username": "1c0n1ca1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031056488261890403",
+    "in_reply_to_user_id": "1090847424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030850390309384488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1c0n1ca1 慢慢互吧，不要着急"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030850382797459458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8Hqcqb0AI-saH.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030850390309384488",
+        "created_at": "2026-03-09T17:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031056488261890403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1090847424",
+              "start": 0,
+              "username": "1c0n1ca1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031056488261890403",
+        "in_reply_to_user_id": "1090847424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030850390309384488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1c0n1ca1 慢慢互吧，不要着急"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030850382797459458"
+          ]
+        },
+        "author_id": "1090847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030850390309384488",
+        "created_at": "2026-03-09T03:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030850390309384488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "蓝V互关必回"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "蓝v关注必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vKErzaYiu",
+              "end": 147,
+              "expanded_url": "https://x.com/1c0n1ca1/status/2030850390309384488/photo/1",
+              "media_key": "3_2030850382797459458",
+              "start": 124,
+              "url": "https://t.co/8vKErzaYiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030850390309384488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1089,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "੧😭੧救救孩子吧\n#蓝V互关\n#蓝V互关必回 \n#蓝v关注必回 \n⚠️键政&amp;色情🔞类以及非🔵账号恕不互关外，其余未及时回关均为时间差，并非不回\n⚠️偶尔被限流！看到后会逐个回关，但速度较慢，防系统限流和警告😂\n⚠️不定期清理不诚信取关账号 https://t.co/8vKErzaYiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 639,
+          "like_count": 662,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 979
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-15T02:54:56.000Z",
+        "description": "CFA, FRM, 非金融执业|🌎 Macro & Micro | 📈 财经碎碎念 | 💻 Tech & Gadgets | 🛍️ 消费策略 | 📝 生活随笔",
+        "id": "1090847424",
+        "location": "Sydney, New South Wales",
+        "name": "Axiom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979890508743708672/nCYwjuQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 608,
+          "like_count": 620,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 71
+        },
+        "username": "1c0n1ca1",
+        "verified": true
+      }
+    ]
+  }
+}

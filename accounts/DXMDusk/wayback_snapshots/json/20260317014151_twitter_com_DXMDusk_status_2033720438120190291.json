@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033720428808867841"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033640061779251490",
+    "created_at": "2026-03-17T01:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033720438120190291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        },
+        {
+          "end": 28,
+          "id": "1600208165269741570",
+          "start": 14,
+          "username": "MeowCatherina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jtcqZ5Zrjm",
+          "end": 64,
+          "expanded_url": "https://x.com/DXMDusk/status/2033720438120190291/photo/1",
+          "media_key": "3_2033720428808867841",
+          "start": 41,
+          "url": "https://t.co/jtcqZ5Zrjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033720438120190291",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033664810169340152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle @MeowCatherina 收益达到标准就可以申请 https://t.co/jtcqZ5Zrjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1643,
+        "media_key": "3_2033720428808867841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDk59HObkAEPY6h.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033720428808867841"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033640061779251490",
+        "created_at": "2026-03-17T01:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033720438120190291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 28,
+              "id": "1600208165269741570",
+              "start": 14,
+              "username": "MeowCatherina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtcqZ5Zrjm",
+              "end": 64,
+              "expanded_url": "https://x.com/DXMDusk/status/2033720438120190291/photo/1",
+              "media_key": "3_2033720428808867841",
+              "start": 41,
+              "url": "https://t.co/jtcqZ5Zrjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033720438120190291",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033664810169340152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle @MeowCatherina 收益达到标准就可以申请 https://t.co/jtcqZ5Zrjm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "2033640061779251490",
+        "created_at": "2026-03-16T22:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T23:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033664810169340152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033664810169340152",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033640061779251490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 为啥你们都能发推赚钱_(:з」∠)_\n\n怎么会有那么多蓝标fo的（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1017,
+          "like_count": 1743,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 1555
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡) / Only block who blocked me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33671,
+          "following_count": 357,
+          "like_count": 231954,
+          "listed_count": 105,
+          "media_count": 8923,
+          "tweet_count": 58002
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻 ｜AM&CS&EE｜某司高管(逃)｜ 意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜做教育学科研还能画电路板子的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010743490523934720/Y4ddxxG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7166,
+          "following_count": 1098,
+          "like_count": 84633,
+          "listed_count": 20,
+          "media_count": 2130,
+          "tweet_count": 25487
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030071903080312869",
+    "created_at": "2026-03-07T07:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030183506211651725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1487319114741809154",
+          "start": 0,
+          "username": "feiyu_888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030183506211651725",
+    "in_reply_to_user_id": "1487319114741809154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030071903080312869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feiyu_888 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030071894893023232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxDofOaUAAnTVN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030071903080312869",
+        "created_at": "2026-03-07T07:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030183506211651725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1487319114741809154",
+              "start": 0,
+              "username": "feiyu_888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030183506211651725",
+        "in_reply_to_user_id": "1487319114741809154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030071903080312869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feiyu_888 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030071894893023232"
+          ]
+        },
+        "author_id": "1487319114741809154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030071903080312869",
+        "created_at": "2026-03-07T00:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030071903080312869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "互关"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kwy0uflqTf",
+              "end": 73,
+              "expanded_url": "https://x.com/feiyu_888/status/2030071903080312869/photo/1",
+              "media_key": "3_2030071894893023232",
+              "start": 50,
+              "url": "https://t.co/Kwy0uflqTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030071903080312869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问你们一件事\n假如和你关注的人 后续蓝v不续费了 你会取关吗？\n反正我是不会\n #互关\n#蓝v互关 https://t.co/Kwy0uflqTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 760
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-29T06:58:12.000Z",
+        "description": "1️⃣交个朋友吧\n2️⃣没有故事，没有人设\n3️⃣撸毛人，认真写教程\n4️⃣真人互关，不是蓝V也无所谓",
+        "id": "1487319114741809154",
+        "name": "飞羽(互关版❤❤)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968690171240660992/xKYjmqRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 3495,
+          "like_count": 1075,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 761
+        },
+        "username": "feiyu_888",
+        "verified": true
+      }
+    ]
+  }
+}

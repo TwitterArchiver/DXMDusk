@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033771884874240012",
+    "created_at": "2026-03-17T05:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033771884874240012"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033771884874240012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于多重人格相关的疾病科普，\n以及PTSD，C-PTSD可以视作DID/OSDD等疾病术语的诊断支持条件\n\n这些术语可大致分为几类：\nPTSD，C-PTSD可以视作DID/OSDD等疾病的诊断支持条件。\n\n多重人格相关的疾病，有OSDD-1a，DID，MPD，OSDD-1b。如果是其中的不明疾病，可以称作USDD或者DDNOS，DDNOS是OSDD的已被弃用的称呼。\n\n得了这些问题，可能会出现人格解体，分离性遗忘，OSDD-2、3、4。\n\n而其他的，例如边缘性人格障碍，双相情感障碍，分裂样人格障碍，分裂型人格障碍，精神分裂，妄想症，则是常见的，关于多重人格的误诊，他们或许是共病，也可能并不相关。\n\n特别注意，人们很容易将以下疾病或者名词 混淆或者误诊：\n\n精神分裂：思维、情感混乱，出现幻想或幻觉，且影响日常功能\n\n多意识体：有多个人在身体内共存的现象\n\nDID：C-PTSD+多意识体\n\n人格解体：感到自我不真实、遥远或虚假\n\nBPD：一种人际关系、自我形象和情感的不稳定以及显著冲动的模式\n\n分裂型人格障碍：以情感冷漠、人际关系明显缺陷为特点\n\n分裂样人格障碍：以情感退缩、社会退缩和其他接触上的退缩为主要特点\n\n双相情感障碍：交替出现的躁狂和抑郁状态\n\n分离性遗忘症：不能回忆重要信息，招致痛苦"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于多重人格相关的疾病科普，\n以及PTSD，C-PTSD可以视作DID/OSDD等疾病术语的诊断支持条件\n\n这些术语可大致分为几类：\nPTSD，C-PTSD可以视作DID/OSDD等疾病的诊断支持条件。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033771884874240012",
+        "created_at": "2026-03-17T05:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033771884874240012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033771884874240012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于多重人格相关的疾病科普，\n以及PTSD，C-PTSD可以视作DID/OSDD等疾病术语的诊断支持条件\n\n这些术语可大致分为几类：\nPTSD，C-PTSD可以视作DID/OSDD等疾病的诊断支持条件。\n\n多重人格相关的疾病，有OSDD-1a，DID，MPD，OSDD-1b。如果是其中的不明疾病，可以称作USDD或者DDNOS，DDNOS是OSDD的已被弃用的称呼。\n\n得了这些问题，可能会出现人格解体，分离性遗忘，OSDD-2、3、4。\n\n而其他的，例如边缘性人格障碍，双相情感障碍，分裂样人格障碍，分裂型人格障碍，精神分裂，妄想症，则是常见的，关于多重人格的误诊，他们或许是共病，也可能并不相关。\n\n特别注意，人们很容易将以下疾病或者名词 混淆或者误诊：\n\n精神分裂：思维、情感混乱，出现幻想或幻觉，且影响日常功能\n\n多意识体：有多个人在身体内共存的现象\n\nDID：C-PTSD+多意识体\n\n人格解体：感到自我不真实、遥远或虚假\n\nBPD：一种人际关系、自我形象和情感的不稳定以及显著冲动的模式\n\n分裂型人格障碍：以情感冷漠、人际关系明显缺陷为特点\n\n分裂样人格障碍：以情感退缩、社会退缩和其他接触上的退缩为主要特点\n\n双相情感障碍：交替出现的躁狂和抑郁状态\n\n分离性遗忘症：不能回忆重要信息，招致痛苦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于多重人格相关的疾病科普，\n以及PTSD，C-PTSD可以视作DID/OSDD等疾病术语的诊断支持条件\n\n这些术语可大致分为几类：\nPTSD，C-PTSD可以视作DID/OSDD等疾病的诊断支持条件。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 1017,
+          "like_count": 1756,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 1575
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

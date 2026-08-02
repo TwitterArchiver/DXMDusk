@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016760581244817850",
+    "created_at": "2026-01-29T09:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016798541684105395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016798541684105395",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016760581244817850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 拿胶水粘一下就好了，用502加点木屑或者什么东西，就很固定了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016760570998116353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z5DddbUAEZNAW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016760581244817850",
+        "created_at": "2026-01-29T09:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016798541684105395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016798541684105395",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016760581244817850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 拿胶水粘一下就好了，用502加点木屑或者什么东西，就很固定了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016760570998116353"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "2016760581244817850",
+        "created_at": "2026-01-29T06:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016760581244817850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRB3wSkbEF",
+              "end": 45,
+              "expanded_url": "https://x.com/akui1121/status/2016760581244817850/photo/1",
+              "media_key": "3_2016760570998116353",
+              "start": 22,
+              "url": "https://t.co/tRB3wSkbEF"
+            },
+            {
+              "display_url": "x.com/akui1121/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/akui1121/status/2016712117580419527",
+              "start": 46,
+              "url": "https://t.co/X3fQRDxuOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016760581244817850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2392,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016712117580419527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不小心把零件当水口剪了咋办，在线等，有点急 https://t.co/tRB3wSkbEF https://t.co/X3fQRDxuOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 89,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 94
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸会一直跳下去！纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "1965chich"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1840302665340989578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008191911446888448/B9dNkp8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28717,
+          "following_count": 1245,
+          "like_count": 20634,
+          "listed_count": 76,
+          "media_count": 1111,
+          "tweet_count": 14279
+        },
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

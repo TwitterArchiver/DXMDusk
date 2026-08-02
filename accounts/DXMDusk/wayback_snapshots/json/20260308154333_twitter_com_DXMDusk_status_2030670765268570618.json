@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030566278197588018",
+    "created_at": "2026-03-08T15:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030670765268570618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "717056546",
+          "start": 0,
+          "username": "77Sevenbtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030670765268570618",
+    "in_reply_to_user_id": "717056546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030566278197588018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77Sevenbtc 关了，百分百互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2030566272954744832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4FRFBbQAAuCyi.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030566278197588018",
+        "created_at": "2026-03-08T15:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030670765268570618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "717056546",
+              "start": 0,
+              "username": "77Sevenbtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030670765268570618",
+        "in_reply_to_user_id": "717056546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030566278197588018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77Sevenbtc 关了，百分百互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030566272954744832"
+          ]
+        },
+        "author_id": "717056546",
+        "conversation_id": "2030566278197588018",
+        "created_at": "2026-03-08T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030566278197588018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "互关"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "回关"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "蓝v关注必回"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "互关"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "互关必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWmxuN0J9D",
+              "end": 137,
+              "expanded_url": "https://x.com/77Sevenbtc/status/2030566278197588018/photo/1",
+              "media_key": "3_2030566272954744832",
+              "start": 114,
+              "url": "https://t.co/uWmxuN0J9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030566278197588018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1268,
+          "like_count": 15,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "冲刺2000粉丝🙏🙏🙏\n\n蓝V过期了，已经开了年蓝V审核中兄弟们\n\n还没有互关的兄弟们整起了💪\n\n诚信 #互关 \n\n会在第一时间 #回关  平时都会做做热度到对方的帖子点赞评论\n\n#蓝v关注必回 #蓝V互关 #互关 #互关必回 https://t.co/uWmxuN0J9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 560,
+          "like_count": 536,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 843
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-26T00:31:28.000Z",
+        "description": "Crypto is my new lipstick.别给我贴标签你对我没那么了解. 清醒的大脑好看的钱包，只是一位普通的女性，欢迎来到我的小圈子聊聊成长聊聊生活让我们一起慢慢变富.｜#BNB #Binance DM：https://t.co/PJZ4FPLmEV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "BNB"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Seven77btc",
+                "end": 131,
+                "expanded_url": "https://t.me/Seven77btc",
+                "start": 108,
+                "url": "https://t.co/PJZ4FPLmEV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Seven77btc",
+                "end": 23,
+                "expanded_url": "https://t.me/Seven77btc",
+                "start": 0,
+                "url": "https://t.co/PJZ4FPLmEV"
+              }
+            ]
+          }
+        },
+        "id": "717056546",
+        "name": "77Seven(币圈七七)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030265534449922048/zcCdmWT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1551,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/PJZ4FPLmEV",
+        "username": "77Sevenbtc",
+        "verified": false
+      }
+    ]
+  }
+}

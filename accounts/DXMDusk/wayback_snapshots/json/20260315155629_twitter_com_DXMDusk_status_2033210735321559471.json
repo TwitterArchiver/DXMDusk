@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031648441399714158",
+    "created_at": "2026-03-15T15:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033210735321559471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883421457528832000",
+          "start": 0,
+          "username": "Elena9947961379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033210735321559471",
+    "in_reply_to_user_id": "1883421457528832000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033210194336022556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elena9947961379 太多医生这样开了，尤其是患者表现有躁狂倾向时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031648441399714158",
+        "created_at": "2026-03-15T15:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033210735321559471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883421457528832000",
+              "start": 0,
+              "username": "Elena9947961379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033210735321559471",
+        "in_reply_to_user_id": "1883421457528832000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033210194336022556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elena9947961379 太多医生这样开了，尤其是患者表现有躁狂倾向时"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883421457528832000",
+        "conversation_id": "2031648441399714158",
+        "created_at": "2026-03-15T15:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033210194336022556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033210194336022556",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033209594382848083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 当安眠药吃也太离谱了，医保规范一下滥用也好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 991,
+          "like_count": 1682,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1515
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-26T07:47:32.000Z",
+        "description": "喵\nINTJ 无性恋 双向 分享碎碎念",
+        "id": "1883421457528832000",
+        "name": "Elena",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Elena9947961379",
+        "verified": false
+      }
+    ]
+  }
+}

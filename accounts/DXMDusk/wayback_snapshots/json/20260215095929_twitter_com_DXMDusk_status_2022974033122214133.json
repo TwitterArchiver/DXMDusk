@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2022974033122214133",
+    "created_at": "2026-02-15T09:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022974033122214133"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022974033122214133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个鲜活的生命就这样消失，这是何等的悲剧，没有所谓的下一个世界，伴随着脑死亡，只会变成一副臃肿腐烂的尸体，这世上根本没有所谓的灵魂，死了就是死了，结束，一切归零，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022974033122214133",
+        "created_at": "2026-02-15T09:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022974033122214133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022974033122214133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个鲜活的生命就这样消失，这是何等的悲剧，没有所谓的下一个世界，伴随着脑死亡，只会变成一副臃肿腐烂的尸体，这世上根本没有所谓的灵魂，死了就是死了，结束，一切归零，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 149,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 264
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

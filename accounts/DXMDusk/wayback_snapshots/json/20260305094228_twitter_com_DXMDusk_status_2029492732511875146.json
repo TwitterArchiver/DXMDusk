@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029435478043504947",
+    "created_at": "2026-03-05T09:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029492732511875146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3316637310",
+          "start": 0,
+          "username": "haru_momo_3jsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029492732511875146",
+    "in_reply_to_user_id": "3316637310",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029435478043504947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haru_momo_3jsb 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029435478043504947",
+        "created_at": "2026-03-05T09:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029492732511875146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3316637310",
+              "start": 0,
+              "username": "haru_momo_3jsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029492732511875146",
+        "in_reply_to_user_id": "3316637310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029435478043504947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haru_momo_3jsb 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3316637310",
+        "conversation_id": "2029435478043504947",
+        "created_at": "2026-03-05T05:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029435478043504947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029435478043504947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 654,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们下午好，有关必回不是会员也回关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 329,
+          "like_count": 462,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 675
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-16T09:10:09.000Z",
+        "description": "Meme Historian",
+        "id": "3316637310",
+        "name": "WOJAK Satoshi Rewards Live!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958323465326321664/gqss-o4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 160,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 53
+        },
+        "username": "haru_momo_3jsb",
+        "verified": true
+      }
+    ]
+  }
+}

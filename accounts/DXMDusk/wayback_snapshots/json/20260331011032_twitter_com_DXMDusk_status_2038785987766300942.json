@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038785987766300942",
+    "created_at": "2026-03-31T01:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038785987766300942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yigetangxindan…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yigetangxindan/status/2038287018703131117",
+          "start": 11,
+          "url": "https://t.co/Gz42XfPDoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038785987766300942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038287018703131117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "词汇污染真的很严重😇 https://t.co/Gz42XfPDoq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038785987766300942",
+        "created_at": "2026-03-31T01:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038785987766300942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yigetangxindan…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yigetangxindan/status/2038287018703131117",
+              "start": 11,
+              "url": "https://t.co/Gz42XfPDoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038785987766300942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038287018703131117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "词汇污染真的很严重😇 https://t.co/Gz42XfPDoq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587633987840872450",
+        "conversation_id": "2038287018703131117",
+        "created_at": "2026-03-29T16:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038287018703131117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038287018703131117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 53959,
+          "like_count": 1554,
+          "quote_count": 18,
+          "reply_count": 60,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "到底是哪个神经传播的“晚安这个词很暧昧”，导致跟人聊天我都不敢轻易说，就怕发生曾经“你跟我说晚安诶”尴尬场面。\n晚安意思是老子希望你去睡了，不是要跟你搞暧昧。晚安就是祝你睡得好的意思能懂吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1082,
+          "like_count": 1859,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1893
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T02:33:58.000Z",
+        "description": "推止于推｜最爱吃溏心蛋拌炒饭｜此号是我为非作歹找下饭菜的天地，所以我啥都说😋｜雪兔不加请你屏蔽我谢谢｜给我发吊的都枪毙｜如果我管住嘴一定是世界上最富的人🍳|不实践不推广｜https://t.co/id8JwD8uWt ⬅️阿瑟请问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yigetangxindan",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yigetangxindan",
+                "start": 85,
+                "url": "https://t.co/id8JwD8uWt"
+              }
+            ]
+          }
+        },
+        "id": "1587633987840872450",
+        "location": "不设🚪私信口令红包随意",
+        "name": "溏心蛋",
+        "pinned_tweet_id": "2034245594860982704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035918636268072960/xxUz8HPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 81,
+          "like_count": 9549,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2111
+        },
+        "username": "yigetangxindan",
+        "verified": false
+      }
+    ]
+  }
+}

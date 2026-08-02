@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2035626597311766948",
+    "created_at": "2026-03-22T14:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035724787667103967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20331…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/status/2033191648063312173",
+          "start": 10,
+          "url": "https://t.co/9ClA7F4PDx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035724787667103967",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033191648063312173",
+        "type": "quoted"
+      },
+      {
+        "id": "2035626597311766948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 https://t.co/9ClA7F4PDx这有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035626590999379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD__mWvbgAAmCIr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2035626597311766948",
+        "created_at": "2026-03-22T14:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035724787667103967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20331…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/status/2033191648063312173",
+              "start": 10,
+              "url": "https://t.co/9ClA7F4PDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035724787667103967",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033191648063312173",
+            "type": "quoted"
+          },
+          {
+            "id": "2035626597311766948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 https://t.co/9ClA7F4PDx这有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033191648063312173",
+        "created_at": "2026-03-15T14:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033191648063312173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "量子ACG是一个以游戏为主，进而推动日语学习的网站",
+              "display_url": "lzacg.org",
+              "end": 46,
+              "expanded_url": "http://lzacg.org",
+              "start": 23,
+              "status": 200,
+              "title": "量子ACG",
+              "unwound_url": "https://lzacg.cc/",
+              "url": "https://t.co/NUTVIcBzMd"
+            },
+            {
+              "description": "这里是真红小站（失落小站）, 一个galgame资源站, (包括visual novel, 黄油, psp, krkr, ons gal资源 等), 收录了大部分的汉化galgame, 大部分的生肉galgame资源。",
+              "display_url": "shinnku.com",
+              "end": 77,
+              "expanded_url": "http://shinnku.com",
+              "images": [
+                {
+                  "height": 77,
+                  "url": "https://pbs.twimg.com/news_img/2033191660474302464/QVEWGPSC?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 77,
+                  "url": "https://pbs.twimg.com/news_img/2033191660474302464/QVEWGPSC?format=png&name=150x150",
+                  "width": 77
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "真红小站",
+              "unwound_url": "https://www.shinnku.com/",
+              "url": "https://t.co/6i42VCuYFz"
+            },
+            {
+              "display_url": "zi0.cc",
+              "end": 108,
+              "expanded_url": "http://zi0.cc",
+              "start": 85,
+              "status": 200,
+              "title": "梓澪の妙妙屋",
+              "unwound_url": "http://zi0.cc",
+              "url": "https://t.co/z85dVKESu6"
+            },
+            {
+              "display_url": "acgngame.net",
+              "end": 134,
+              "expanded_url": "http://acgngame.net",
+              "start": 111,
+              "unwound_url": "http://acgngame.net",
+              "url": "https://t.co/d6kO1P4tTr"
+            },
+            {
+              "description": "Galgame 资源站, 这里收录了大部分电脑端与手机端的汉化 Galgame",
+              "display_url": "galzy.eu.org",
+              "end": 160,
+              "expanded_url": "http://galzy.eu.org",
+              "start": 137,
+              "status": 200,
+              "title": "主页 | GalZY - Gameles 资源站",
+              "unwound_url": "https://www.galzy.moe/",
+              "url": "https://t.co/lIL3xT7a07"
+            },
+            {
+              "display_url": "acggalgame.com",
+              "end": 186,
+              "expanded_url": "http://acggalgame.com",
+              "start": 163,
+              "unwound_url": "http://acggalgame.com",
+              "url": "https://t.co/BJtvEWtaR5"
+            },
+            {
+              "display_url": "galge.fun",
+              "end": 212,
+              "expanded_url": "http://galge.fun",
+              "start": 189,
+              "status": 429,
+              "unwound_url": "http://galge.fun",
+              "url": "https://t.co/ro6mtft5GP"
+            },
+            {
+              "display_url": "sayhuahuo.net",
+              "end": 238,
+              "expanded_url": "http://sayhuahuo.net",
+              "start": 215,
+              "unwound_url": "http://sayhuahuo.net",
+              "url": "https://t.co/VhuzRoltvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033191648063312173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "lzacg.org",
+                "end": 46,
+                "expanded_url": "http://lzacg.org",
+                "start": 23,
+                "url": "https://t.co/55lo5WTn2Q"
+              },
+              {
+                "display_url": "shinnku.com",
+                "end": 77,
+                "expanded_url": "http://shinnku.com",
+                "start": 54,
+                "url": "https://t.co/igMsIPWkAh"
+              },
+              {
+                "display_url": "zi0.cc",
+                "end": 108,
+                "expanded_url": "http://zi0.cc",
+                "start": 85,
+                "url": "https://t.co/dEP29FGMA1"
+              },
+              {
+                "display_url": "acgngame.net",
+                "end": 134,
+                "expanded_url": "http://acgngame.net",
+                "start": 111,
+                "url": "https://t.co/IUoqknYAJW"
+              },
+              {
+                "display_url": "galzy.eu.org",
+                "end": 160,
+                "expanded_url": "http://galzy.eu.org",
+                "start": 137,
+                "url": "https://t.co/eB8IwlSX1l"
+              },
+              {
+                "display_url": "acggalgame.com",
+                "end": 186,
+                "expanded_url": "http://acggalgame.com",
+                "start": 163,
+                "url": "https://t.co/udOieuOLWd"
+              },
+              {
+                "display_url": "galge.fun",
+                "end": 212,
+                "expanded_url": "http://galge.fun",
+                "start": 189,
+                "url": "https://t.co/iVgGfVo54T"
+              },
+              {
+                "display_url": "sayhuahuo.net",
+                "end": 238,
+                "expanded_url": "http://sayhuahuo.net",
+                "start": 215,
+                "url": "https://t.co/W2Is2Nlrnl"
+              },
+              {
+                "display_url": "tianshie.com",
+                "end": 264,
+                "expanded_url": "http://tianshie.com",
+                "start": 241,
+                "url": "https://t.co/g1ytBuIsNK"
+              },
+              {
+                "display_url": "kkgal.com",
+                "end": 290,
+                "expanded_url": "http://kkgal.com",
+                "start": 267,
+                "url": "https://t.co/OyB0zNheTP"
+              },
+              {
+                "display_url": "fx05.herokuapp.com",
+                "end": 316,
+                "expanded_url": "http://fx05.herokuapp.com",
+                "start": 293,
+                "url": "https://t.co/co8mDBV2wV"
+              },
+              {
+                "display_url": "galgame.pw",
+                "end": 342,
+                "expanded_url": "http://galgame.pw",
+                "start": 319,
+                "url": "https://t.co/6g8CiQDdBc"
+              },
+              {
+                "display_url": "ercygame.com",
+                "end": 368,
+                "expanded_url": "http://ercygame.com",
+                "start": 345,
+                "url": "https://t.co/Vmxxe4HEx0"
+              },
+              {
+                "display_url": "ggbases.com",
+                "end": 394,
+                "expanded_url": "http://ggbases.com",
+                "start": 371,
+                "url": "https://t.co/4dMK8x8EFb"
+              },
+              {
+                "display_url": "soraacg.com",
+                "end": 420,
+                "expanded_url": "http://soraacg.com",
+                "start": 397,
+                "url": "https://t.co/DZ24QQRG5z"
+              },
+              {
+                "display_url": "bbs4.2djgame.net",
+                "end": 446,
+                "expanded_url": "http://bbs4.2djgame.net",
+                "start": 423,
+                "url": "https://t.co/khyLtf8WUN"
+              },
+              {
+                "display_url": "bbs.sumisora.net",
+                "end": 472,
+                "expanded_url": "http://bbs.sumisora.net",
+                "start": 449,
+                "url": "https://t.co/YrRDxgtvvm"
+              },
+              {
+                "display_url": "pan.jlbx.xyz",
+                "end": 498,
+                "expanded_url": "http://pan.jlbx.xyz",
+                "start": 475,
+                "url": "https://t.co/xZvjIrsXbP"
+              },
+              {
+                "display_url": "acgdb.de",
+                "end": 524,
+                "expanded_url": "http://acgdb.de",
+                "start": 501,
+                "url": "https://t.co/wlaaoJ8Ahd"
+              },
+              {
+                "display_url": "sakakirio.com",
+                "end": 550,
+                "expanded_url": "http://sakakirio.com",
+                "start": 527,
+                "url": "https://t.co/h0KDF1GH58"
+              },
+              {
+                "display_url": "acgyyg.ru",
+                "end": 576,
+                "expanded_url": "http://acgyyg.ru",
+                "start": 553,
+                "url": "https://t.co/ke8y8qcwJN"
+              },
+              {
+                "display_url": "gallibrary.pw",
+                "end": 602,
+                "expanded_url": "http://gallibrary.pw",
+                "start": 579,
+                "url": "https://t.co/I51LYbpGro"
+              },
+              {
+                "display_url": "gogalgame.com",
+                "end": 628,
+                "expanded_url": "http://gogalgame.com",
+                "start": 605,
+                "url": "https://t.co/XIsUnkDG40"
+              },
+              {
+                "display_url": "g.杏铃.top",
+                "end": 654,
+                "expanded_url": "http://g.xn--8qvt52h.top",
+                "start": 631,
+                "url": "https://t.co/eztE8mmncG"
+              },
+              {
+                "display_url": "alist.amemoes.com.cn",
+                "end": 680,
+                "expanded_url": "http://alist.amemoes.com.cn",
+                "start": 657,
+                "url": "https://t.co/pDT3IVspuP"
+              },
+              {
+                "display_url": "post.qingjuacg.top",
+                "end": 706,
+                "expanded_url": "http://post.qingjuacg.top",
+                "start": 683,
+                "url": "https://t.co/Iu8STGlWmb"
+              },
+              {
+                "display_url": "sunshineboy.link",
+                "end": 732,
+                "expanded_url": "http://sunshineboy.link",
+                "start": 709,
+                "url": "https://t.co/fQskTwo8UY"
+              },
+              {
+                "display_url": "mikocon.com",
+                "end": 758,
+                "expanded_url": "http://mikocon.com",
+                "start": 735,
+                "url": "https://t.co/NzfKzG4sEa"
+              },
+              {
+                "display_url": "galccg.com",
+                "end": 784,
+                "expanded_url": "http://galccg.com",
+                "start": 761,
+                "url": "https://t.co/JScyRi2x1f"
+              },
+              {
+                "display_url": "acgnsq.com",
+                "end": 810,
+                "expanded_url": "http://acgnsq.com",
+                "start": 787,
+                "url": "https://t.co/QvqHFA86CW"
+              },
+              {
+                "display_url": "collections.lilithraws.org",
+                "end": 836,
+                "expanded_url": "http://collections.lilithraws.org",
+                "start": 813,
+                "url": "https://t.co/FsHMrXBFqk"
+              }
+            ]
+          },
+          "text": "一些galgame资源网站\n大部分都有墙\n——https://t.co/55lo5WTn2Q（没被墙）\n——https://t.co/igMsIPWkAh（没被墙）\n——https://t.co/dEP29FGMA1\n——https://t.co/IUoqknYAJW\n——https://t.co/eB8IwlSX1l\n——https://t.co/udOieuOLWd\n——https://t.co/iVgGfVo54T\n——https://t.co/W2Is2Nlrnl\n——https://t.co/g1ytBuIsNK\n——https://t.co/OyB0zNheTP\n——https://t.co/co8mDBV2wV\n——https://t.co/6g8CiQDdBc\n——https://t.co/Vmxxe4HEx0\n——https://t.co/4dMK8x8EFb\n——https://t.co/DZ24QQRG5z\n——https://t.co/khyLtf8WUN\n——https://t.co/YrRDxgtvvm\n——https://t.co/xZvjIrsXbP\n——https://t.co/wlaaoJ8Ahd\n——https://t.co/h0KDF1GH58\n——https://t.co/ke8y8qcwJN\n——https://t.co/I51LYbpGro\n——https://t.co/XIsUnkDG40\n——https://t.co/eztE8mmncG\n——https://t.co/pDT3IVspuP\n——https://t.co/Iu8STGlWmb\n——https://t.co/fQskTwo8UY\n——https://t.co/NzfKzG4sEa\n——https://t.co/JScyRi2x1f\n——https://t.co/QvqHFA86CW\n——https://t.co/FsHMrXBFqk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 2125,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一些galgame资源网站\n大部分都有墙\n——https://t.co/NUTVIcBzMd（没被墙）\n——https://t.co/6i42VCuYFz（没被墙）\n——https://t.co/z85dVKESu6\n——https://t.co/d6kO1P4tTr\n——https://t.co/lIL3xT7a07\n——https://t.co/BJtvEWtaR5\n——https://t.co/ro6mtft5GP\n——https://t.co/VhuzRoltvv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035626590999379968"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035626597311766948",
+        "created_at": "2026-03-22T07:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035626597311766948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7UIp7ClX1",
+              "end": 57,
+              "expanded_url": "https://x.com/DrilL019/status/2035626597311766948/photo/1",
+              "media_key": "3_2035626590999379968",
+              "start": 34,
+              "url": "https://t.co/s7UIp7ClX1"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/aoim33/status/2035605575984361634",
+              "start": 58,
+              "url": "https://t.co/lCKakFef2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035626597311766948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 241,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035605575984361634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都是在哪里玩到的galgame啊 \n我也想玩galgame\n😭 https://t.co/s7UIp7ClX1 https://t.co/lCKakFef2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1044,
+          "like_count": 1833,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1677
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜为自我的存在向世界赎罪｜Student 🇨🇳 鉴政禁止 发推不定 日常音游碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "懷谷齋",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 796,
+          "like_count": 10542,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 3719
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

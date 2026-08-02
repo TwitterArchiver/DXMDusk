@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030637505381548032"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030637508304965794",
+    "created_at": "2026-03-08T13:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030637508304965794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yyaAhF3L8Z",
+          "end": 165,
+          "expanded_url": "https://x.com/DXMDusk/status/2030637508304965794/photo/1",
+          "media_key": "3_2030637505381548032",
+          "start": 142,
+          "url": "https://t.co/yyaAhF3L8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030637508304965794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天到医院复诊，检查加开药，小六百，就这样没了，这次正好也到谷值了把激素检测了，检查报告要等明天才能出结果，等报告出了，再看要不要调整一下用药方案，\n药品方面在医院开了点哌甲酯，sns，氯硝，剩下的一些抗抑郁方面的药品能在网络上买到的，基本是在网络上买了，毕竟便宜不少，唉，先这样吧 https://t.co/yyaAhF3L8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2030637505381548032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5GDWfaQAAjs9y.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030637505381548032"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030637508304965794",
+        "created_at": "2026-03-08T13:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030637508304965794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyaAhF3L8Z",
+              "end": 165,
+              "expanded_url": "https://x.com/DXMDusk/status/2030637508304965794/photo/1",
+              "media_key": "3_2030637505381548032",
+              "start": 142,
+              "url": "https://t.co/yyaAhF3L8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030637508304965794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天到医院复诊，检查加开药，小六百，就这样没了，这次正好也到谷值了把激素检测了，检查报告要等明天才能出结果，等报告出了，再看要不要调整一下用药方案，\n药品方面在医院开了点哌甲酯，sns，氯硝，剩下的一些抗抑郁方面的药品能在网络上买到的，基本是在网络上买了，毕竟便宜不少，唉，先这样吧 https://t.co/yyaAhF3L8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 546,
+          "like_count": 529,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 824
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

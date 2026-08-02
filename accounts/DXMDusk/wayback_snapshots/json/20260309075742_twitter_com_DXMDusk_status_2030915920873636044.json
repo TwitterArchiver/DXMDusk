@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030823536512864495",
+    "created_at": "2026-03-09T07:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030915920873636044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941058159013232640",
+          "start": 0,
+          "username": "ccmfil800"
+        },
+        {
+          "end": 20,
+          "id": "1995041096049786880",
+          "start": 11,
+          "username": "AnAuTCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030915920873636044",
+    "in_reply_to_user_id": "1941058159013232640",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030853546850316520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccmfil800 @AnAuTCat +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030823536512864495",
+        "created_at": "2026-03-09T07:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030915920873636044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941058159013232640",
+              "start": 0,
+              "username": "ccmfil800"
+            },
+            {
+              "end": 20,
+              "id": "1995041096049786880",
+              "start": 11,
+              "username": "AnAuTCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030915920873636044",
+        "in_reply_to_user_id": "1941058159013232640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030853546850316520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccmfil800 @AnAuTCat +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941058159013232640",
+        "conversation_id": "2030823536512864495",
+        "created_at": "2026-03-09T03:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030853546850316520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995041096049786880",
+              "start": 0,
+              "username": "AnAuTCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030853546850316520",
+        "in_reply_to_user_id": "1995041096049786880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030823536512864495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnAuTCat 回关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 610,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 911
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-04T08:55:17.000Z",
+        "description": "币圈的清流「加密信号塔」帮你避雷！扒热点、唠干货，带你轻松拿捏行情！蓝v互关 follow back",
+        "id": "1941058159013232640",
+        "location": "台湾",
+        "name": "加密信号塔｜Bitkoi🐬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941058220744949760/BCF93rZu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 521,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 305
+        },
+        "username": "ccmfil800",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T08:04:18.000Z",
+        "description": "👏AI tools → real work｜AI 工具拆解｜真实使用场景",
+        "id": "1995041096049786880",
+        "name": "Rong Yan",
+        "pinned_tweet_id": "2020406023446814720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025839523192786944/3aOl4AgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 945,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 723
+        },
+        "username": "AnAuTCat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2036144914820637074",
+    "created_at": "2026-03-24T07:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036352179599188271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787562562600718339",
+          "start": 0,
+          "username": "coinsk252735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036352179599188271",
+    "in_reply_to_user_id": "1787562562600718339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036144914820637074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coinsk252735 晚安…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2036144914820637074",
+        "created_at": "2026-03-24T07:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036352179599188271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787562562600718339",
+              "start": 0,
+              "username": "coinsk252735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036352179599188271",
+        "in_reply_to_user_id": "1787562562600718339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036144914820637074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coinsk252735 晚安…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787562562600718339",
+        "conversation_id": "2036144914820637074",
+        "created_at": "2026-03-23T18:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036144914820637074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036144914820637074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 33731,
+          "like_count": 149,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n        这是一条迟来的讣告，该账号主人于2026年3月22日晚被警方告知死于武汉某酒店🙏🏻，据我方调查可能死于亚硝酸钠溶液。ta曾是咱最好的朋友之一，现在也一直是，以后也永远是。愿ta在另一个世界被关爱，被照顾，无忧无虑，没有烦恼地活下去，永远活在我们心里🙏🏻😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1042,
+          "like_count": 1839,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1686
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T19:18:44.000Z",
+        "description": "想消失",
+        "id": "1787562562600718339",
+        "name": "coinsk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013026382352150528/VacKA8q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 180,
+          "like_count": 155,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "username": "coinsk252735",
+        "verified": false
+      }
+    ]
+  }
+}

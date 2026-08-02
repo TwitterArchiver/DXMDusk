@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031334621041090975",
+    "created_at": "2026-03-10T23:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T00:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031515237850165530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663443434420707328",
+          "start": 0,
+          "username": "enlighss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031515237850165530",
+    "in_reply_to_user_id": "1663443434420707328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031334621041090975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enlighss 啊，这样子的衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9166,
+        "height": 640,
+        "media_key": "13_2031334542779494400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031334542779494400/img/0PNtmi1MaThfyXeq.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031334542779494400/vid/avc1/320x580/0H7dr4HzyZHYk6XH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031334542779494400/vid/avc1/352x640/9ZwQ7dQEIlUO1ktE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031334542779494400/pl/o1_u5jTo_I-w_k4y.m3u8"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031334621041090975",
+        "created_at": "2026-03-10T23:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031515237850165530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663443434420707328",
+              "start": 0,
+              "username": "enlighss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031515237850165530",
+        "in_reply_to_user_id": "1663443434420707328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031334621041090975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enlighss 啊，这样子的衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031334542779494400"
+          ]
+        },
+        "author_id": "1663443434420707328",
+        "conversation_id": "2031334621041090975",
+        "created_at": "2026-03-10T11:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031334621041090975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "少爷"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "猫女郎"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "富婆"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "蹦迪"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "反转"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2GLwZB87N",
+              "end": 106,
+              "expanded_url": "https://x.com/enlighss/status/2031334621041090975/video/1",
+              "media_key": "13_2031334542779494400",
+              "start": 83,
+              "url": "https://t.co/j2GLwZB87N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031334621041090975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白衬衫黑领带的“少爷”，身边站着猫女风辣妹，\n这是哪位富婆的心头肉，已经藏不住了😂\n评论区猜猜，这是去蹦迪还是去谈大项目？\n#少爷 #猫女郎 #富婆 #蹦迪 #反转 https://t.co/j2GLwZB87N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 698,
+          "like_count": 758,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1049
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-30T07:13:31.000Z",
+        "description": "置身信息洪流，愿做一只腹有学识、胸有格局、心有深度、行有执行力的小蚂蚁。",
+        "id": "1663443434420707328",
+        "name": "拾光遇趣",
+        "pinned_tweet_id": "2029887497669583104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018914415903703040/d-6ByiGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 2652,
+          "like_count": 4656,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 4299
+        },
+        "username": "enlighss",
+        "verified": true
+      }
+    ]
+  }
+}

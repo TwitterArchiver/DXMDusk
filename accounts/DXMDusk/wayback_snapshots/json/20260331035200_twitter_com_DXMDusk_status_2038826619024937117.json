@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038641129017774080"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038826619024937117",
+    "created_at": "2026-03-31T03:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038826619024937117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q64h3fG7FC",
+          "end": 133,
+          "expanded_url": "https://x.com/DXMDusk/status/2038826619024937117/photo/1",
+          "media_key": "3_2038641129017774080",
+          "start": 110,
+          "url": "https://t.co/Q64h3fG7FC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038826619024937117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我也偶尔会刷到这些话，不过都是当鸡汤去看，但后来发现身边人真有人把这些话当做人生的规则，然后给其他人贴上“浓人”的标签，和他们的正常交流都会被当成冒犯。每天基本都在允许一切发生，都在不能被定义，发生之事皆有利于我等等。\n\n我作为一个唯物主义者，一直相信的就是做什么事情都要上心，虽然有些时候不一定会开心，但万事万物都需要自己去争取，等着天上掉馅饼是不对的。\n\n所以我对这种心态真的很不理解，不就是想对自己人生不负责吗，为什么要说的这么清新脱俗。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也偶尔会刷到这些话，不过都是当鸡汤去看，但后来发现身边人真有人把这些话当做人生的规则，然后给其他人贴上“浓人”的标签，和他们的正常交流都会被当成冒犯。每天基本都在允许一切发生，都在不能被定义，发生之事皆有利于我等等。 https://t.co/Q64h3fG7FC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2038641129017774080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq1Tj-bEAADOlX.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038641129017774080"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038826619024937117",
+        "created_at": "2026-03-31T03:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038826619024937117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q64h3fG7FC",
+              "end": 133,
+              "expanded_url": "https://x.com/DXMDusk/status/2038826619024937117/photo/1",
+              "media_key": "3_2038641129017774080",
+              "start": 110,
+              "url": "https://t.co/Q64h3fG7FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038826619024937117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也偶尔会刷到这些话，不过都是当鸡汤去看，但后来发现身边人真有人把这些话当做人生的规则，然后给其他人贴上“浓人”的标签，和他们的正常交流都会被当成冒犯。每天基本都在允许一切发生，都在不能被定义，发生之事皆有利于我等等。\n\n我作为一个唯物主义者，一直相信的就是做什么事情都要上心，虽然有些时候不一定会开心，但万事万物都需要自己去争取，等着天上掉馅饼是不对的。\n\n所以我对这种心态真的很不理解，不就是想对自己人生不负责吗，为什么要说的这么清新脱俗。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也偶尔会刷到这些话，不过都是当鸡汤去看，但后来发现身边人真有人把这些话当做人生的规则，然后给其他人贴上“浓人”的标签，和他们的正常交流都会被当成冒犯。每天基本都在允许一切发生，都在不能被定义，发生之事皆有利于我等等。 https://t.co/Q64h3fG7FC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1080,
+          "like_count": 1907,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 1910
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038767272940941546",
+    "created_at": "2026-03-31T01:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038795721898619293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751178361970515968",
+          "start": 0,
+          "username": "Fouryn_Astar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038795721898619293",
+    "in_reply_to_user_id": "1751178361970515968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038767272940941546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fouryn_Astar 那很有品了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038767272940941546",
+        "created_at": "2026-03-31T01:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038795721898619293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751178361970515968",
+              "start": 0,
+              "username": "Fouryn_Astar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038795721898619293",
+        "in_reply_to_user_id": "1751178361970515968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038767272940941546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fouryn_Astar 那很有品了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751178361970515968",
+        "conversation_id": "2038767272940941546",
+        "created_at": "2026-03-30T23:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T00:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038767272940941546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fouryn_astar/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/fouryn_astar/status/2036835183240900698",
+              "start": 16,
+              "url": "https://t.co/3YDIlHFswX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038767272940941546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036835183240900698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我甚至没勇气点开那个号了。。。 https://t.co/3YDIlHFswX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1081,
+          "like_count": 1897,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1900
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T09:40:40.000Z",
+        "description": "互联网中立派四有 | 2008.5.31 | 国际高中高三生 | 友跨顺直 | 批量生产心脏与西部铁轨 | 镇魂曲演奏家 | 我的思念将追随你进入梦乡 | 欢迎互fo！",
+        "id": "1751178361970515968",
+        "location": "The Court Of The Crimson King",
+        "name": "四有有有有-ChakkaChakkaメルくりぃ🐎",
+        "pinned_tweet_id": "1992723398578118836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010020759411056640/3oLAzlCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 784,
+          "like_count": 27122,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 6415
+        },
+        "username": "Fouryn_Astar",
+        "verified": false
+      }
+    ]
+  }
+}

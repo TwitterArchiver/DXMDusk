@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2022947686056628297",
+    "created_at": "2026-02-16T18:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023465402693747022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1619713631645728768",
+          "start": 0,
+          "username": "time_devb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023465402693747022",
+    "in_reply_to_user_id": "1619713631645728768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022947686056628297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@time_devb 直接打过去就好，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022947686056628297",
+        "created_at": "2026-02-16T18:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023465402693747022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619713631645728768",
+              "start": 0,
+              "username": "time_devb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023465402693747022",
+        "in_reply_to_user_id": "1619713631645728768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022947686056628297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@time_devb 直接打过去就好，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619713631645728768",
+        "conversation_id": "2022947686056628297",
+        "created_at": "2026-02-15T08:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022947686056628297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022947686056628297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 56013,
+          "like_count": 257,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不行了\n昨天人生中第一次去泡汤\n勇闯汤连得结果被老头摸了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 161,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 370
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T15:07:03.000Z",
+        "description": "07🏳️‍🌈 26Fall |天文|飞友|业余无线电|",
+        "id": "1619713631645728768",
+        "location": "Shanghai, China",
+        "name": "亦竹 / BH4GZJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854012394667655179/8wR00F7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 2884,
+          "like_count": 26376,
+          "listed_count": 6,
+          "media_count": 336,
+          "tweet_count": 3298
+        },
+        "username": "time_devb",
+        "verified": true
+      }
+    ]
+  }
+}

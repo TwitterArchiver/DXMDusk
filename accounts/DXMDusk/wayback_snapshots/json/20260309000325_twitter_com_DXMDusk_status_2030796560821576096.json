@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030725098865324390",
+    "created_at": "2026-03-09T00:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T01:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030796560821576096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564251283984650241",
+          "start": 0,
+          "username": "Citricat_miaow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030796560821576096",
+    "in_reply_to_user_id": "1564251283984650241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030725098865324390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citricat_miaow 这种被“确认为物”带来的安全感，比自由更令人上瘾。\n“这正是我们的精神脆弱性所在。”Elle补充道，“看透了牢笼，却无力打破牢笼，这种少数群体压力对神经多样性大脑的损耗是致命的。\n有时我也会这样想自己，臣服是简单的，是交卸责任的捷径，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030725098865324390",
+        "created_at": "2026-03-09T00:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030796560821576096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030796560821576096",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030725098865324390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow 这种被“确认为物”带来的安全感，比自由更令人上瘾。\n“这正是我们的精神脆弱性所在。”Elle补充道，“看透了牢笼，却无力打破牢笼，这种少数群体压力对神经多样性大脑的损耗是致命的。\n有时我也会这样想自己，臣服是简单的，是交卸责任的捷径，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564251283984650241",
+        "conversation_id": "2030725098865324390",
+        "created_at": "2026-03-08T19:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T20:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030725098865324390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "文章色色不多，主要是dom和sub内容，主要是受到了圣丽安伪娘学院的启发，文章是ai和人工共同完成的（ai写的结果一般般还得我改唉） 卷一：理论与深渊的种子 第1章：芝加哥的深夜Discord——从理论到服从的起点 2023年11月的埃文斯顿，芝加哥北边的一座小镇，西北大学旁，密歇根湖吹来的冷风夹杂着冰雨，像一把把细碎",
+              "display_url": "houhuayuan.vip/hypatias-schoo…",
+              "end": 23,
+              "expanded_url": "https://houhuayuan.vip/hypatias-school%ef%bc%9a%e8%a5%bf%e8%a5%bf%e5%bc%97%e6%96%af%e7%9a%84%e6%9c%aa%e6%9d%a5/",
+              "start": 0,
+              "status": 200,
+              "title": "Hypatia’s School：西西弗斯的未来 – 蔷薇后花园-变身小说原创,翻译,转载",
+              "unwound_url": "https://houhuayuan.vip/hypatias-school%ef%bc%9a%e8%a5%bf%e8%a5%bf%e5%bc%97%e6%96%af%e7%9a%84%e6%9c%aa%e6%9d%a5/",
+              "url": "https://t.co/4OXwsnpfZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030725098865324390",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 787,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4OXwsnpfZm，存了十几章草稿但是在修改，都怪gemini哪怕有我大纲的指导写的还是太烂了（gemini躺枪，警告该文章可能带有以下黑暗：父权制，资本主义，种族主义，剥削，死亡，自杀，反跨，反女权，反同性恋，黑暗启蒙，我本人现实世界中绝不支持上述任何一种观点（应该是这样的吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 573,
+          "like_count": 558,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 861
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "bisexual with gf,she/her, Language: Chinese, English",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "pinned_tweet_id": "1941305177346277612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 536,
+          "like_count": 10934,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 5194
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023676426831228982",
+    "created_at": "2026-02-17T08:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023676426831228982"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023676426831228982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去景点是一件开心的事情，你眼前所能看的都是带着笑容游玩的人们，在各种拍照、自拍，不好的心情也会被眼前的环境给冲淡很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023676426831228982",
+        "created_at": "2026-02-17T08:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023676426831228982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023676426831228982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去景点是一件开心的事情，你眼前所能看的都是带着笑容游玩的人们，在各种拍照、自拍，不好的心情也会被眼前的环境给冲淡很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 161,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 373
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

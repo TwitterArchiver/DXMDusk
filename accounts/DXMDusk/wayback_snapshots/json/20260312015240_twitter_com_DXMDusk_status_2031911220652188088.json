@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031907305500131581",
+    "created_at": "2026-03-12T01:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T02:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031911220652188088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879722726837157888",
+          "start": 0,
+          "username": "jackjia425738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031911220652188088",
+    "in_reply_to_user_id": "1879722726837157888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031907305500131581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackjia425738 不清楚啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 99,
+        "media_key": "3_2031906864984965121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLIhzgbQAEAwAJ.png",
+        "width": 192
+      },
+      {
+        "height": 108,
+        "media_key": "3_2031906888519122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLIjLLaAAA-6-4.png",
+        "width": 195
+      },
+      {
+        "height": 149,
+        "media_key": "3_2031906910589632513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLIkdZbQAE1XzS.png",
+        "width": 276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031907305500131581",
+        "created_at": "2026-03-12T01:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031911220652188088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879722726837157888",
+              "start": 0,
+              "username": "jackjia425738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031911220652188088",
+        "in_reply_to_user_id": "1879722726837157888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031907305500131581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackjia425738 不清楚啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031906864984965121",
+            "3_2031906888519122944",
+            "3_2031906910589632513"
+          ]
+        },
+        "author_id": "1879722726837157888",
+        "conversation_id": "2031907305500131581",
+        "created_at": "2026-03-12T01:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:36:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031907126319464739",
+          "2031907305500131581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7IneDFnsY",
+              "end": 56,
+              "expanded_url": "https://x.com/jackjia425738/status/2031907305500131581/photo/1",
+              "media_key": "3_2031906864984965121",
+              "start": 33,
+              "url": "https://t.co/I7IneDFnsY"
+            },
+            {
+              "display_url": "pic.x.com/I7IneDFnsY",
+              "end": 56,
+              "expanded_url": "https://x.com/jackjia425738/status/2031907305500131581/photo/1",
+              "media_key": "3_2031906888519122944",
+              "start": 33,
+              "url": "https://t.co/I7IneDFnsY"
+            },
+            {
+              "display_url": "pic.x.com/I7IneDFnsY",
+              "end": 56,
+              "expanded_url": "https://x.com/jackjia425738/status/2031907305500131581/photo/1",
+              "media_key": "3_2031906910589632513",
+              "start": 33,
+              "url": "https://t.co/I7IneDFnsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031907305500131581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么连续三天的总和曝光量还一天比一天低呢？有推友这是为什么吗？ https://t.co/I7IneDFnsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 794,
+          "like_count": 1104,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1242
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-16T02:51:01.000Z",
+        "description": "多一个看世界的角度，寻找志同道合的人和圈子。\n坚持原创手搓，坚持分享自己的感悟思考和投资心得，\n在AI突飞猛进的时代，做一点慢的事情，做一个有人味的频道。",
+        "id": "1879722726837157888",
+        "location": "马尔代夫",
+        "name": "路遥知马力-jackjia4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000139309786284032/TV9ymb4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 693,
+          "like_count": 3128,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 547
+        },
+        "username": "jackjia425738",
+        "verified": true
+      }
+    ]
+  }
+}

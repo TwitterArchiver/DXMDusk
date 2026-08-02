@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032833357831430144"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032833360373100913",
+    "created_at": "2026-03-14T14:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032833360373100913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pG1iTVLYUC",
+          "end": 104,
+          "expanded_url": "https://x.com/DXMDusk/status/2032833360373100913/photo/1",
+          "media_key": "3_2032833357831430144",
+          "start": 81,
+          "url": "https://t.co/pG1iTVLYUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032833360373100913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝v互关 在线秒回\n永不取关 诚信第一\n我会进你主页给你的帖子点赞\n关注的同时帮忙提高权重和热度\n感谢大家回关，帮忙点赞👍🏻\n百分百回关，诚信第一，永不取关喵～ https://t.co/pG1iTVLYUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2032833357831430144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYTKyUbYAAMDvN.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032833357831430144"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032833360373100913",
+        "created_at": "2026-03-14T14:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032833360373100913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG1iTVLYUC",
+              "end": 104,
+              "expanded_url": "https://x.com/DXMDusk/status/2032833360373100913/photo/1",
+              "media_key": "3_2032833357831430144",
+              "start": 81,
+              "url": "https://t.co/pG1iTVLYUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032833360373100913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关 在线秒回\n永不取关 诚信第一\n我会进你主页给你的帖子点赞\n关注的同时帮忙提高权重和热度\n感谢大家回关，帮忙点赞👍🏻\n百分百回关，诚信第一，永不取关喵～ https://t.co/pG1iTVLYUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 918,
+          "like_count": 1510,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1457
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

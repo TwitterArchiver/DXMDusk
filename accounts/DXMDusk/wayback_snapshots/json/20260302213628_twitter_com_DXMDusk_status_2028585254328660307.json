@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027618767560446387",
+    "created_at": "2026-03-02T21:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028585254328660307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972198626266173447",
+          "start": 0,
+          "username": "kanameRanachan"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028585254328660307",
+    "in_reply_to_user_id": "1972198626266173447",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027980928904270323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameRanachan @grok 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027618767560446387",
+        "created_at": "2026-03-02T21:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028585254328660307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972198626266173447",
+              "start": 0,
+              "username": "kanameRanachan"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028585254328660307",
+        "in_reply_to_user_id": "1972198626266173447",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027980928904270323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameRanachan @grok 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972198626266173447",
+        "conversation_id": "2027618767560446387",
+        "created_at": "2026-03-01T05:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027980928904270323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027980928904270323",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027618767560446387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @grok 你怎么看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 258,
+          "like_count": 420,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 642
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-28T07:16:13.000Z",
+        "description": "无证含糖，没出柜，喜欢小野猫，懂一点币圈，不谈政治敏感话题。\n欢迎请我喝咖啡\n（ERC20链：0x26c9ef2ae079f850b8808101f848af71790c4cad）【erc20支持usdt和usdc噢】",
+        "id": "1972198626266173447",
+        "location": "Toshima-ku, Tokyo",
+        "name": "Rana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985367532212232193/WloqZx_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 76,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 666
+        },
+        "username": "kanameRanachan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8208720,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6275,
+          "media_count": 8524437,
+          "tweet_count": 111274084
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

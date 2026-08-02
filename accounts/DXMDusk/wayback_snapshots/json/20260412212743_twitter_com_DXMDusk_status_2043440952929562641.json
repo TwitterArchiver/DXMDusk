@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025521455614787974",
+    "created_at": "2026-04-12T21:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T22:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043440952929562641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829201486041231362",
+          "start": 0,
+          "username": "2G6547411316222"
+        },
+        {
+          "end": 27,
+          "id": "1659962043460354050",
+          "start": 17,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043440952929562641",
+    "in_reply_to_user_id": "1829201486041231362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043437698161975460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2G6547411316222 @SalviaSWC 18年前有，现在不知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025521455614787974",
+        "created_at": "2026-04-12T21:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043440952929562641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829201486041231362",
+              "start": 0,
+              "username": "2G6547411316222"
+            },
+            {
+              "end": 27,
+              "id": "1659962043460354050",
+              "start": 17,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043440952929562641",
+        "in_reply_to_user_id": "1829201486041231362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043437698161975460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2G6547411316222 @SalviaSWC 18年前有，现在不知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829201486041231362",
+        "conversation_id": "2025521455614787974",
+        "created_at": "2026-04-12T21:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043437698161975460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 19,
+              "id": "1659962043460354050",
+              "start": 9,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043437698161975460",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042602315157508541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @SalviaSWC 那有什么地方可以买到吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 1118,
+          "like_count": 2124,
+          "listed_count": 3,
+          "media_count": 395,
+          "tweet_count": 2249
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T16:57:00.000Z",
+        "description": "",
+        "id": "1829201486041231362",
+        "name": "2G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994065201923039232/9TafJ2t8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 2089,
+          "like_count": 13626,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 270
+        },
+        "username": "2G6547411316222",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 997,
+          "like_count": 22098,
+          "listed_count": 8,
+          "media_count": 418,
+          "tweet_count": 6751
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

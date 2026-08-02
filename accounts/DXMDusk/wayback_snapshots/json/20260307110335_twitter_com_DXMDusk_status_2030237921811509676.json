@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029925676619551057",
+    "created_at": "2026-03-07T11:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030237921811509676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622893548457828353",
+          "start": 0,
+          "username": "Tangduck_2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030237921811509676",
+    "in_reply_to_user_id": "1622893548457828353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029925676619551057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tangduck_2023 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_2029924662483050496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu9ubwbYAAyOmB.jpg",
+        "width": 1940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029925676619551057",
+        "created_at": "2026-03-07T11:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030237921811509676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622893548457828353",
+              "start": 0,
+              "username": "Tangduck_2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030237921811509676",
+        "in_reply_to_user_id": "1622893548457828353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029925676619551057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tangduck_2023 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029924662483050496"
+          ]
+        },
+        "author_id": "1622893548457828353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029925676619551057",
+        "created_at": "2026-03-06T14:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029925676619551057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/za108ivV1S",
+              "end": 124,
+              "expanded_url": "https://x.com/Tangduck_2023/status/2029925676619551057/photo/1",
+              "media_key": "3_2029924662483050496",
+              "start": 101,
+              "url": "https://t.co/za108ivV1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029925676619551057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1477,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢伙伴们的支持，刚刚过了小目标20K🎉，还是很少，我还是有点欣慰的。🤣\n\n继续努力。💪希望大家继续支持，支招，帮助，在此一并感谢了。\n\n还有，我有回关大家。请见凉，如果忘关了谁，提醒一下，必回关。🥳 https://t.co/za108ivV1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 465,
+          "like_count": 504,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 766
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-07T09:42:33.000Z",
+        "description": "",
+        "id": "1622893548457828353",
+        "name": "北极的唐老鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622893677218762752/r0SPhLLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2549,
+          "following_count": 6024,
+          "like_count": 328,
+          "listed_count": 2,
+          "media_count": 1173,
+          "tweet_count": 4708
+        },
+        "username": "Tangduck_2023",
+        "verified": true
+      }
+    ]
+  }
+}

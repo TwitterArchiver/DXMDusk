@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033433739330781597",
+    "created_at": "2026-03-17T07:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033806332210647138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576188912254451714",
+          "start": 0,
+          "username": "theburningfire4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033806332210647138",
+    "in_reply_to_user_id": "1576188912254451714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033433739330781597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theburningfire4 创伤型多意识体C-PTSD吗，加入多意识体社群，尝试着寻找对应方案吧（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_2033433713439346688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDg1MFPbEAAWZ5_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 785,
+        "media_key": "3_2033433713447702528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDg1MFRakAAid7H.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033433739330781597",
+        "created_at": "2026-03-17T07:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033806332210647138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576188912254451714",
+              "start": 0,
+              "username": "theburningfire4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033806332210647138",
+        "in_reply_to_user_id": "1576188912254451714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033433739330781597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theburningfire4 创伤型多意识体C-PTSD吗，加入多意识体社群，尝试着寻找对应方案吧（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033433713439346688",
+            "3_2033433713447702528"
+          ]
+        },
+        "author_id": "1576188912254451714",
+        "conversation_id": "2033433739330781597",
+        "created_at": "2026-03-16T06:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033433739330781597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8yZs2ubcCy",
+              "end": 31,
+              "expanded_url": "https://x.com/theburningfire4/status/2033433739330781597/photo/1",
+              "media_key": "3_2033433713439346688",
+              "start": 8,
+              "url": "https://t.co/8yZs2ubcCy"
+            },
+            {
+              "display_url": "pic.x.com/8yZs2ubcCy",
+              "end": 31,
+              "expanded_url": "https://x.com/theburningfire4/status/2033433739330781597/photo/1",
+              "media_key": "3_2033433713447702528",
+              "start": 8,
+              "url": "https://t.co/8yZs2ubcCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033433739330781597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性创伤警告⚠️ https://t.co/8yZs2ubcCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1020,
+          "like_count": 1763,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 1583
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-01T12:35:05.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️Bi+/xtx/trans/Non-binary/Neutrois/Greyaroace/poly (Xe/They/祂/ta/他）｜BD-II(BPD?)/ASD/(C)PTSD/SUD/GAD/OCD/🏴🪷/#shtwt #odtwt /现代诗/欢迎同类互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 115,
+                "tag": "shtwt"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1576188912254451714",
+        "location": "世界的夹缝",
+        "name": "Alva🏳️‍🌈🏳️‍⚧️💛🤍💜🖤8964",
+        "pinned_tweet_id": "1806703919604830245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003383336019066883/ppbOni8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 959,
+          "like_count": 2341,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1801
+        },
+        "username": "theburningfire4",
+        "verified": false
+      }
+    ]
+  }
+}

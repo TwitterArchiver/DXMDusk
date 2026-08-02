@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031011740834828619",
+    "created_at": "2026-03-10T15:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031397102870470900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857119713035493376",
+          "start": 0,
+          "username": "wymdaming888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031397102870470900",
+    "in_reply_to_user_id": "1857119713035493376",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031011740834828619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wymdaming888 +1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10300,
+        "height": 1280,
+        "media_key": "13_2031010133053177856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031010133053177856/img/17EwhXXBdKngu93j.jpg",
+        "public_metrics": {
+          "view_count": 806
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031010133053177856/vid/avc1/320x568/B4xMY6fNFHA0inyi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031010133053177856/vid/avc1/480x852/-HVOgyWQSPk3GMjL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031010133053177856/vid/avc1/720x1280/8ZaZeunwzNbsRGic.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031010133053177856/pl/QTnsewY8BoYcGIrl.m3u8?v=84e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031011740834828619",
+        "created_at": "2026-03-10T15:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031397102870470900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857119713035493376",
+              "start": 0,
+              "username": "wymdaming888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031397102870470900",
+        "in_reply_to_user_id": "1857119713035493376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031011740834828619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wymdaming888 +1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031010133053177856"
+          ]
+        },
+        "author_id": "1857119713035493376",
+        "conversation_id": "2031011740834828619",
+        "created_at": "2026-03-09T14:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:12:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031010189219107250",
+          "2031011740834828619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "互关必回"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "互动"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0Ahs9ZNNX",
+              "end": 138,
+              "expanded_url": "https://x.com/wymdaming888/status/2031011740834828619/video/1",
+              "media_key": "13_2031010133053177856",
+              "start": 115,
+              "url": "https://t.co/s0Ahs9ZNNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031011740834828619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1981,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关，有关必回，永不取关。\n在满是噪音的Crypto圈，\n蓝V身份权重比粉丝数量更重要。\n真实蓝V账号直接关注，\n看到必回，不拖沓、不养鱼、不套路。\n一起提升社交权重放大内容影响力，赚美金。\n\n#蓝V互关 #互关必回 #互动 https://t.co/s0Ahs9ZNNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 684,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1031
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-14T17:53:47.000Z",
+        "description": "2017年入币圈，经历两轮牛熊，至今还留在牌桌上，因为坚信比特币可以让世界资源再分配，让我们真正掌握自己的财富，有缘我们香港相会！",
+        "id": "1857119713035493376",
+        "location": "Hong Kong",
+        "name": "大明哥₿tc一直涨🚀🇭🇰",
+        "pinned_tweet_id": "2031011740834828619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979937031024254976/Evz9sddH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 2457,
+          "like_count": 12296,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 1807
+        },
+        "username": "wymdaming888",
+        "verified": true
+      }
+    ]
+  }
+}

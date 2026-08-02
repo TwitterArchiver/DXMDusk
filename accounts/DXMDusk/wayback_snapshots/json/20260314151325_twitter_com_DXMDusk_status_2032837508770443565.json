@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032776021511123446",
+    "created_at": "2026-03-14T15:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032837508770443565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1565315586216845313",
+          "start": 0,
+          "username": "Zshen88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032837508770443565",
+    "in_reply_to_user_id": "1565315586216845313",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032776021511123446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zshen88 11111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2032776004268339203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXfAXpaMAMQjnr.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032776021511123446",
+        "created_at": "2026-03-14T15:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032837508770443565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1565315586216845313",
+              "start": 0,
+              "username": "Zshen88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032837508770443565",
+        "in_reply_to_user_id": "1565315586216845313",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032776021511123446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zshen88 11111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032776004268339203"
+          ]
+        },
+        "author_id": "1565315586216845313",
+        "conversation_id": "2032776021511123446",
+        "created_at": "2026-03-14T11:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032776021511123446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDnMAf5XaC",
+              "end": 42,
+              "expanded_url": "https://x.com/Zshen88/status/2032776021511123446/photo/1",
+              "media_key": "3_2032776004268339203",
+              "start": 19,
+              "url": "https://t.co/gDnMAf5XaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032776021511123446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1055,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝v互关  兄弟们来相互关注起来！ https://t.co/gDnMAf5XaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 926,
+          "like_count": 1520,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1461
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T12:28:28.000Z",
+        "description": "如果你不相信或者不理解，不好意思我没空说服你，—— 中本聪（Satoshi Nakamoto）",
+        "id": "1565315586216845313",
+        "name": "CG葱哥",
+        "pinned_tweet_id": "2012369871875575899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022232424739201024/6MALVklK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 176,
+          "like_count": 3989,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 2169
+        },
+        "username": "Zshen88",
+        "verified": true
+      }
+    ]
+  }
+}

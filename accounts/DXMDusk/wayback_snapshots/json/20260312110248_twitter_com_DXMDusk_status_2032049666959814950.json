@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031963633761337371",
+    "created_at": "2026-03-12T11:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032049666959814950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1392655951040159746",
+          "start": 0,
+          "username": "Rock_Crpto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032049666959814950",
+    "in_reply_to_user_id": "1392655951040159746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031963633761337371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rock_Crpto 好，等你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031963633761337371",
+        "created_at": "2026-03-12T11:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032049666959814950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1392655951040159746",
+              "start": 0,
+              "username": "Rock_Crpto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032049666959814950",
+        "in_reply_to_user_id": "1392655951040159746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031963633761337371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rock_Crpto 好，等你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392655951040159746",
+        "conversation_id": "2031963633761337371",
+        "created_at": "2026-03-12T05:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031963633761337371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031963633761337371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 658,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V继续，秒回关，限速的时候会稍微晚会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 820,
+          "like_count": 1227,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1285
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-13T01:40:41.000Z",
+        "description": "#Rock_Crpto #加密美股双赛道实战交易者 #深耕交易逻辑 #分享可落地的策略与实操干货 #XCreator #Crypto #Web3 #美股",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "Rock_Crpto"
+              },
+              {
+                "end": 25,
+                "start": 12,
+                "tag": "加密美股双赛道实战交易者"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "深耕交易逻辑"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "tag": "分享可落地的策略与实操干货"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "XCreator"
+              },
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "Crypto"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "Web3"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "美股"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "accounts.binance.info/zh-CN/register",
+                "end": 23,
+                "expanded_url": "https://accounts.binance.info/zh-CN/register",
+                "start": 0,
+                "url": "https://t.co/lvOrpS7Lcl"
+              }
+            ]
+          }
+        },
+        "id": "1392655951040159746",
+        "location": "HONGKONG",
+        "name": "Rock_加密美股玩家",
+        "pinned_tweet_id": "2013195267114147960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017594266613387265/Hd1-aN-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1632,
+          "like_count": 3425,
+          "listed_count": 22,
+          "media_count": 1341,
+          "tweet_count": 5999
+        },
+        "url": "https://t.co/lvOrpS7Lcl",
+        "username": "Rock_Crpto",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025465558976823296"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025465562902790440",
+    "created_at": "2026-02-22T06:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025465562902790440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mTpsn7Megt",
+          "end": 79,
+          "expanded_url": "https://x.com/DXMDusk/status/2025465562902790440/photo/1",
+          "media_key": "3_2025465558976823296",
+          "start": 56,
+          "url": "https://t.co/mTpsn7Megt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025465562902790440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来想在网上买的，但听说我家附近就有甘草片卖，熟人开的店，而且是正宗的甘草片，这么有实力的吗，等我有空去看看， https://t.co/mTpsn7Megt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 203,
+        "media_key": "3_2025465558976823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvmMcuaAAAeMA1.jpg",
+        "width": 462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025465558976823296"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025465562902790440",
+        "created_at": "2026-02-22T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025465562902790440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTpsn7Megt",
+              "end": 79,
+              "expanded_url": "https://x.com/DXMDusk/status/2025465562902790440/photo/1",
+              "media_key": "3_2025465558976823296",
+              "start": 56,
+              "url": "https://t.co/mTpsn7Megt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025465562902790440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来想在网上买的，但听说我家附近就有甘草片卖，熟人开的店，而且是正宗的甘草片，这么有实力的吗，等我有空去看看， https://t.co/mTpsn7Megt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 198,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 490
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

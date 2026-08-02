@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038206678739632328",
+    "created_at": "2026-03-29T15:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038278375656296668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684968079938539521",
+          "start": 0,
+          "username": "yitiaoyuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038278375656296668",
+    "in_reply_to_user_id": "1684968079938539521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038206678739632328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitiaoyuli 关注我吧，我是不取关的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038206678739632328",
+        "created_at": "2026-03-29T15:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038278375656296668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684968079938539521",
+              "start": 0,
+              "username": "yitiaoyuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038278375656296668",
+        "in_reply_to_user_id": "1684968079938539521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038206678739632328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitiaoyuli 关注我吧，我是不取关的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684968079938539521",
+        "conversation_id": "2038206678739632328",
+        "created_at": "2026-03-29T10:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038206678739632328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038206678739632328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互相关注个蓝V都这么不诚信么。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1067,
+          "like_count": 1842,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 1785
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T16:44:35.000Z",
+        "description": "2014年炒过比特币，莱特币，钱包里面还有两千多莱特币。\n2026年再抄亏损200余万，努力生活。\n现阶段希望能学习AI落地应用拯救自己。\n混口饭吃的欧意邀请：（返佣25%）https://t.co/Y6WKN8okGp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "promooboost.com/join/78251256",
+                "end": 110,
+                "expanded_url": "https://www.promooboost.com/join/78251256",
+                "start": 87,
+                "url": "https://t.co/Y6WKN8okGp"
+              }
+            ]
+          }
+        },
+        "id": "1684968079938539521",
+        "name": "李牧之",
+        "pinned_tweet_id": "2037832534579646841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037426429261160448/toRshJ1-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 898,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 746
+        },
+        "username": "yitiaoyuli",
+        "verified": true
+      }
+    ]
+  }
+}

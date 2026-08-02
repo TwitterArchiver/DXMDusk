@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025629483051675850",
+    "created_at": "2026-02-24T03:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026138854160523638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1528244623948529664",
+          "start": 0,
+          "username": "MolchyaNashiha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026138854160523638",
+    "in_reply_to_user_id": "1528244623948529664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025631828699390290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MolchyaNashiha 再见！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025629483051675850",
+        "created_at": "2026-02-24T03:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026138854160523638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1528244623948529664",
+              "start": 0,
+              "username": "MolchyaNashiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026138854160523638",
+        "in_reply_to_user_id": "1528244623948529664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025631828699390290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MolchyaNashiha 再见！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528244623948529664",
+        "conversation_id": "2025629483051675850",
+        "created_at": "2026-02-22T18:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025631828699390290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025631828699390290",
+        "in_reply_to_user_id": "1528244623948529664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025631492295233598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但无论如何转生后我也不希望接触高强度位于高原的人了。还请见谅！希望你们谅解。不是讨厌你们，而是出于自身原因。\n有缘再见诸位！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 232,
+          "like_count": 377,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 577
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T05:21:37.000Z",
+        "description": "=MolchyaNashiha丨头像画师:酥酥巴士丨我就是牧雨本人，她没发生意外，只是在休息丨你们批斗后藤的时候这个牧雨把你们全卖了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/2ubvjUt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/2ubvjUt",
+                "start": 0,
+                "url": "https://t.co/Zg50ruMWtT"
+              }
+            ]
+          }
+        },
+        "id": "1528244623948529664",
+        "location": "疯人院里猫咪多",
+        "name": "1mol梨花茶【牧雨的赛博碑位】",
+        "pinned_tweet_id": "2025955131209179617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574701694729920514/s297qYnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 86,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/Zg50ruMWtT",
+        "username": "MolchyaNashiha",
+        "verified": false
+      }
+    ]
+  }
+}

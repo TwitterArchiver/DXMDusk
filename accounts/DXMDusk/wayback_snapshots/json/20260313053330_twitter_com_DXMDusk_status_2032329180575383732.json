@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032165513527517250",
+    "created_at": "2026-03-13T05:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032329180575383732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032329180575383732",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032165513527517250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032165513527517250",
+        "created_at": "2026-03-13T05:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032329180575383732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032329180575383732",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032165513527517250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032165513527517250",
+        "created_at": "2026-03-12T18:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032165513527517250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032165513527517250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我坚持不下去不发推我想你…就是你看到这句话的你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 873,
+          "like_count": 1452,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1398
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032097446290211194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 219,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 199
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

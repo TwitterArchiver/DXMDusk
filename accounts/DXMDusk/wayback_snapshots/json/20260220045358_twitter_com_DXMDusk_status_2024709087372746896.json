@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2021226093986939280",
+    "created_at": "2026-02-20T04:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024709087372746896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600148543125090305",
+          "start": 0,
+          "username": "NakaharaBulbel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024709087372746896",
+    "in_reply_to_user_id": "1600148543125090305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021226093986939280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakaharaBulbel 这是你妈妈受伤还是你受伤？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2021226093986939280",
+        "created_at": "2026-02-20T04:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024709087372746896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600148543125090305",
+              "start": 0,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024709087372746896",
+        "in_reply_to_user_id": "1600148543125090305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021226093986939280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakaharaBulbel 这是你妈妈受伤还是你受伤？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600148543125090305",
+        "conversation_id": "2021226093986939280",
+        "created_at": "2026-02-10T14:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021226093986939280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakaharabulbel…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nakaharabulbel/status/2021223392146268263",
+              "start": 8,
+              "url": "https://t.co/74XDuEvZZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021226093986939280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 820,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021223392146268263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我生物妈。 https://t.co/74XDuEvZZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 177,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 410
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "目前在向心脏病发展.",
+        "id": "1600148543125090305",
+        "location": "🚪38，但是我很废",
+        "name": "珠芽",
+        "pinned_tweet_id": "1919210984415363220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014291701574356992/IGTv7GR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 407,
+          "like_count": 9108,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1198
+        },
+        "username": "NakaharaBulbel",
+        "verified": false
+      }
+    ]
+  }
+}

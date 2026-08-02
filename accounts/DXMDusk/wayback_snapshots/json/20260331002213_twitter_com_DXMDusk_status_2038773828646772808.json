@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038638880615014782",
+    "created_at": "2026-03-31T00:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T01:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038773828646772808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021200224388341760",
+          "start": 0,
+          "username": "pet843801211906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038773828646772808",
+    "in_reply_to_user_id": "2021200224388341760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038767238682206311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pet843801211906 pr又不是什么精神药品，管制药品，你不管是网上买药，还是医院买药，只要能提供一个正经的三甲医院的手写处方单就足够了，至于手写处方单怎么来的，都不用管，无人在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038638880615014782",
+        "created_at": "2026-03-31T00:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038773828646772808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "pet843801211906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038773828646772808",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038767238682206311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pet843801211906 pr又不是什么精神药品，管制药品，你不管是网上买药，还是医院买药，只要能提供一个正经的三甲医院的手写处方单就足够了，至于手写处方单怎么来的，都不用管，无人在意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2038638880615014782",
+        "created_at": "2026-03-30T23:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T00:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038767238682206311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038767238682206311",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038756812003156391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 还有这招"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1081,
+          "like_count": 1855,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 1888
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "我叫小风｜割/磕/10｜退学/istp｜我非常温良可以闲聊｜查成分互fo。！直fo是喜欢你｜聊骚给我打钱看心情回｜漏掉回fo私我呀呀🥺",
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028800059178188800/x1LxeREg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 104,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 278
+        },
+        "username": "pet843801211906",
+        "verified": false
+      }
+    ]
+  }
+}

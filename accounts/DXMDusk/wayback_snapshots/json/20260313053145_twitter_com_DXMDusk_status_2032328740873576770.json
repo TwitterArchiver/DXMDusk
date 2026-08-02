@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027412544479281489",
+    "created_at": "2026-03-13T05:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032328740873576770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952004090994786304",
+          "start": 0,
+          "username": "Baoer_BTC"
+        },
+        {
+          "end": 24,
+          "id": "1862825645824507904",
+          "start": 11,
+          "username": "ThanksuTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032328740873576770",
+    "in_reply_to_user_id": "1952004090994786304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027458793597243768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baoer_BTC @ThanksuTrump 回下啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027412544479281489",
+        "created_at": "2026-03-13T05:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032328740873576770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952004090994786304",
+              "start": 0,
+              "username": "Baoer_BTC"
+            },
+            {
+              "end": 24,
+              "id": "1862825645824507904",
+              "start": 11,
+              "username": "ThanksuTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032328740873576770",
+        "in_reply_to_user_id": "1952004090994786304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027458793597243768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baoer_BTC @ThanksuTrump 回下啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952004090994786304",
+        "conversation_id": "2027412544479281489",
+        "created_at": "2026-02-27T19:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027458793597243768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862825645824507904",
+              "start": 0,
+              "username": "ThanksuTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027458793597243768",
+        "in_reply_to_user_id": "1862825645824507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027412544479281489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThanksuTrump 借楼互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 873,
+          "like_count": 1449,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1396
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T13:50:46.000Z",
+        "description": "#BNB ｜You can call me, Sister Bao'er.｜阿威十八式，全活不打折｜#ETH ｜开车看路，炒币看势。 不追高，不接飞刀，不瞎变道，不猛踩刹车。 行情好就踩油，行情差就怠速。 别人慌得一批，我稳如老狗。 ｜#BTC ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "ETH"
+              },
+              {
+                "end": 122,
+                "start": 118,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "1952004090994786304",
+        "location": "Wong Tai Sin District",
+        "name": "宝儿姐（阿威十八式）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022735071560765441/_-DHp-lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 2100,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2253
+        },
+        "username": "Baoer_BTC",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T11:47:10.000Z",
+        "description": "蓝v互关Blue V Follow Back 💯｜ 爱好寻找Alpha｜目标一万蓝v互关｜超级个体 Ai X Crypto X 美股 X Vibe Coding｜#狗狗币 10x建设者｜$STONKS 已质押｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "狗狗币"
+              }
+            ]
+          }
+        },
+        "id": "1862825645824507904",
+        "location": "狗窝",
+        "name": "猫投鹰 蓝v互关(鹰哥 ⭐️社区长期主义战士) |中文狗狗币牛逼🐕🔶BNB",
+        "pinned_tweet_id": "2017818250512572562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863202481695571968/3Wtfkv14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10471,
+          "following_count": 10641,
+          "like_count": 52825,
+          "listed_count": 13,
+          "media_count": 477,
+          "tweet_count": 9491
+        },
+        "username": "ThanksuTrump",
+        "verified": true
+      }
+    ]
+  }
+}

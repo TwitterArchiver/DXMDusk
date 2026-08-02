@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038667208684191744",
+        "3_2038667210714120192",
+        "3_2038667213067132928",
+        "3_2038667214719692800"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038667217429291109",
+    "created_at": "2026-03-30T17:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038667217429291109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dxeeH76btQ",
+          "end": 95,
+          "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+          "media_key": "3_2038667208684191744",
+          "start": 72,
+          "url": "https://t.co/dxeeH76btQ"
+        },
+        {
+          "display_url": "pic.x.com/dxeeH76btQ",
+          "end": 95,
+          "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+          "media_key": "3_2038667210714120192",
+          "start": 72,
+          "url": "https://t.co/dxeeH76btQ"
+        },
+        {
+          "display_url": "pic.x.com/dxeeH76btQ",
+          "end": 95,
+          "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+          "media_key": "3_2038667213067132928",
+          "start": 72,
+          "url": "https://t.co/dxeeH76btQ"
+        },
+        {
+          "display_url": "pic.x.com/dxeeH76btQ",
+          "end": 95,
+          "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+          "media_key": "3_2038667214719692800",
+          "start": 72,
+          "url": "https://t.co/dxeeH76btQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038667217429291109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "03.30，今晚就听这些，来做一个清明梦\n23.10，16pr\n00:15，8pr+2苏糖酸镁+1酪氨酸\n00:20，1咖啡因片+2sns含服 https://t.co/dxeeH76btQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038667208684191744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErNBmTbwAArzHN.jpg",
+        "width": 1246
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038667210714120192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErNBt3aAAAhvqM.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038667213067132928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErNB2oaIAAxP19.jpg",
+        "width": 1104
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038667214719692800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErNB8yaMAApUnf.jpg",
+        "width": 1231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038667208684191744",
+            "3_2038667210714120192",
+            "3_2038667213067132928",
+            "3_2038667214719692800"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038667217429291109",
+        "created_at": "2026-03-30T17:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038667217429291109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxeeH76btQ",
+              "end": 95,
+              "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+              "media_key": "3_2038667208684191744",
+              "start": 72,
+              "url": "https://t.co/dxeeH76btQ"
+            },
+            {
+              "display_url": "pic.x.com/dxeeH76btQ",
+              "end": 95,
+              "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+              "media_key": "3_2038667210714120192",
+              "start": 72,
+              "url": "https://t.co/dxeeH76btQ"
+            },
+            {
+              "display_url": "pic.x.com/dxeeH76btQ",
+              "end": 95,
+              "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+              "media_key": "3_2038667213067132928",
+              "start": 72,
+              "url": "https://t.co/dxeeH76btQ"
+            },
+            {
+              "display_url": "pic.x.com/dxeeH76btQ",
+              "end": 95,
+              "expanded_url": "https://x.com/DXMDusk/status/2038667217429291109/photo/1",
+              "media_key": "3_2038667214719692800",
+              "start": 72,
+              "url": "https://t.co/dxeeH76btQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038667217429291109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "03.30，今晚就听这些，来做一个清明梦\n23.10，16pr\n00:15，8pr+2苏糖酸镁+1酪氨酸\n00:20，1咖啡因片+2sns含服 https://t.co/dxeeH76btQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1078,
+          "like_count": 1852,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1867
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030943142661459968"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030943153440878977",
+    "created_at": "2026-03-09T09:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030943153440878977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4BBrt48fW",
+          "end": 134,
+          "expanded_url": "https://x.com/DXMDusk/status/2030943153440878977/photo/1",
+          "media_key": "3_2030943142661459968",
+          "start": 111,
+          "url": "https://t.co/e4BBrt48fW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030943153440878977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一共五瓶甘草片，15*5=75元，把店里的都给买光了，这甘草片也真的好买，什么都不需要，付了钱直接就可以拿走，\n而且甘草片价格比白兔便宜太多了，购买也方便，\n5瓶甘草片的价格也就相当于一瓶白兔的价格，这价格差的就很离谱， https://t.co/e4BBrt48fW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030943142661459968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9cByFaEAAPBdS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030943142661459968"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030943153440878977",
+        "created_at": "2026-03-09T09:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030943153440878977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4BBrt48fW",
+              "end": 134,
+              "expanded_url": "https://x.com/DXMDusk/status/2030943153440878977/photo/1",
+              "media_key": "3_2030943142661459968",
+              "start": 111,
+              "url": "https://t.co/e4BBrt48fW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030943153440878977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一共五瓶甘草片，15*5=75元，把店里的都给买光了，这甘草片也真的好买，什么都不需要，付了钱直接就可以拿走，\n而且甘草片价格比白兔便宜太多了，购买也方便，\n5瓶甘草片的价格也就相当于一瓶白兔的价格，这价格差的就很离谱， https://t.co/e4BBrt48fW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 619,
+          "like_count": 621,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 934
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

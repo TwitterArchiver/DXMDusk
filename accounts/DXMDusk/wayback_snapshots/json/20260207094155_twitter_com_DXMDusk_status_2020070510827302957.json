@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2020061836213993789",
+    "created_at": "2026-02-07T09:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020070510827302957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891955358924738560",
+          "start": 0,
+          "username": "7xiaoren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020070510827302957",
+    "in_reply_to_user_id": "1891955358924738560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020061836213993789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xiaoren 老师，这样子吃是什么味的，口感可以说一说吗，你对象还在上班吗？快下班了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8851,
+        "height": 1280,
+        "media_key": "13_2020061764621303808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020061764621303808/img/JwErqoYev362SjUP.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020061764621303808/vid/avc1/320x568/ghqoH4VHPh_82gwn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020061764621303808/vid/avc1/480x852/TK9Iwy0AIKQmKxGY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020061764621303808/vid/avc1/720x1280/WN1WILbyVupE6_Uk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020061764621303808/pl/YujAgDcfYi-MfWqT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2020061836213993789",
+        "created_at": "2026-02-07T09:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020070510827302957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891955358924738560",
+              "start": 0,
+              "username": "7xiaoren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020070510827302957",
+        "in_reply_to_user_id": "1891955358924738560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020061836213993789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xiaoren 老师，这样子吃是什么味的，口感可以说一说吗，你对象还在上班吗？快下班了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020061764621303808"
+          ]
+        },
+        "author_id": "1891955358924738560",
+        "conversation_id": "2020061836213993789",
+        "created_at": "2026-02-07T09:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020061836213993789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht4nByopU1",
+              "end": 27,
+              "expanded_url": "https://x.com/7xiaoren/status/2020061836213993789/video/1",
+              "media_key": "13_2020061764621303808",
+              "start": 4,
+              "url": "https://t.co/Ht4nByopU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020061836213993789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多筋 https://t.co/Ht4nByopU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 146,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 230
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T20:58:16.000Z",
+        "description": "如果你想起我是谁，记得忘了我",
+        "id": "1891955358924738560",
+        "name": "忍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891956482796814337/4ik8Ta4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 92,
+          "like_count": 11282,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1048
+        },
+        "username": "7xiaoren",
+        "verified": false
+      }
+    ]
+  }
+}

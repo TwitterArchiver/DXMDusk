@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2033734603257905180",
+    "created_at": "2026-03-17T02:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033739560677740756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033739560677740756",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033734603257905180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 建议搜索iPad，虽然对我来说都是泡面盖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2033734603257905180",
+        "created_at": "2026-03-17T02:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033739560677740756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033739560677740756",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033734603257905180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 建议搜索iPad，虽然对我来说都是泡面盖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2033734603257905180",
+        "created_at": "2026-03-17T02:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033734603257905180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033734603257905180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想买个kindle的电子书，大家有什么建议吗；，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1017,
+          "like_count": 1747,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 1561
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit /  💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 1450,
+          "like_count": 36752,
+          "listed_count": 7,
+          "media_count": 1521,
+          "tweet_count": 10822
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

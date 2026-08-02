@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030928828592472109",
+    "created_at": "2026-03-09T12:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030978849845207374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030978849845207374",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030928828592472109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 氯硝西泮真的很好用的，无论是在中低剂量下稳定精神方面的镇静作用，还是在高剂量下的抗焦虑和诱发的轻躁狂效果上，体验感和效果上的反馈都可以说是很舒服的了，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030822535751778306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7uViVXwAIp1Hq.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030928828592472109",
+        "created_at": "2026-03-09T12:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030978849845207374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030978849845207374",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030928828592472109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 氯硝西泮真的很好用的，无论是在中低剂量下稳定精神方面的镇静作用，还是在高剂量下的抗焦虑和诱发的轻躁狂效果上，体验感和效果上的反馈都可以说是很舒服的了，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030822535751778306"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2030928828592472109",
+        "created_at": "2026-03-09T08:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030928828592472109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohhdv1PtIe",
+              "end": 111,
+              "expanded_url": "https://x.com/SalviaSWC/status/2030928828592472109/photo/1",
+              "media_key": "3_2030822535751778306",
+              "start": 88,
+              "url": "https://t.co/ohhdv1PtIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030928828592472109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前，fow的某些药物条目的开头有像这样的一个语录，比如这是氯硝西泮的：🥺\n\n大家觉得这类的语录好不好?你提议加入什么语录，放在什么药物条目的开头?在评论区说出你的意见吧！🤓 https://t.co/ohhdv1PtIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 626,
+          "like_count": 634,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 951
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2940,
+          "following_count": 923,
+          "like_count": 20620,
+          "listed_count": 9,
+          "media_count": 342,
+          "tweet_count": 5976
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

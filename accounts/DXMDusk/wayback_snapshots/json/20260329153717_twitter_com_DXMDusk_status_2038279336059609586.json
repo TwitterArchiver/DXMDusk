@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038193698458976264",
+    "created_at": "2026-03-29T15:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038279336059609586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1561262672888434688",
+          "start": 0,
+          "username": "cai436"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038279336059609586",
+    "in_reply_to_user_id": "1561262672888434688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038276977891979657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai436 好像是真的，是几年前的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038193698458976264",
+        "created_at": "2026-03-29T15:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038279336059609586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038279336059609586",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038276977891979657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 好像是真的，是几年前的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561262672888434688",
+        "conversation_id": "2038193698458976264",
+        "created_at": "2026-03-29T15:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038276977891979657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038276977891979657",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038193698458976264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 我希望这只是段子。\n如果是真的，真是太遗憾了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1067,
+          "like_count": 1842,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 1786
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写",
+        "id": "1561262672888434688",
+        "location": "广东省茂名市",
+        "name": "蔡清晏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023455572448690176/c4ftqvFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 642,
+          "like_count": 10661,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2243
+        },
+        "username": "cai436",
+        "verified": false
+      }
+    ]
+  }
+}

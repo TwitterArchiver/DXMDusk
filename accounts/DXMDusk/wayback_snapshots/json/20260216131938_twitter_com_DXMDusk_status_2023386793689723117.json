@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023276947435127011",
+    "created_at": "2026-02-16T13:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023386793689723117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1115864186528120833",
+          "start": 0,
+          "username": "titist_"
+        },
+        {
+          "end": 18,
+          "id": "1694949132098584576",
+          "start": 9,
+          "username": "CAawaish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023386793689723117",
+    "in_reply_to_user_id": "1115864186528120833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023361171953500271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@titist_ @CAawaish 多次看病，每次都开各种药，然而说全部无效，直到所有能开的药开完后，依然说无效，就有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023276947435127011",
+        "created_at": "2026-02-16T13:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023386793689723117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1115864186528120833",
+              "start": 0,
+              "username": "titist_"
+            },
+            {
+              "end": 18,
+              "id": "1694949132098584576",
+              "start": 9,
+              "username": "CAawaish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023386793689723117",
+        "in_reply_to_user_id": "1115864186528120833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023361171953500271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titist_ @CAawaish 多次看病，每次都开各种药，然而说全部无效，直到所有能开的药开完后，依然说无效，就有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115864186528120833",
+        "conversation_id": "2023276947435127011",
+        "created_at": "2026-02-16T11:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023361171953500271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694949132098584576",
+              "start": 0,
+              "username": "CAawaish"
+            },
+            {
+              "end": 18,
+              "id": "1974276207496867842",
+              "start": 10,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023361171953500271",
+        "in_reply_to_user_id": "1694949132098584576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023295891281748409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAawaish @DXMDusk 主诉：全身疼痛，非甾体药物全都试过了，无效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 157,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 357
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T06:28:48.000Z",
+        "description": "不说话了。",
+        "id": "1115864186528120833",
+        "name": "Titist@ruaaaaaaaaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1116959196115636224/B9DaTC-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1361,
+          "like_count": 8337,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 5448
+        },
+        "username": "titist_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T05:45:54.000Z",
+        "description": "是原catfish_speaking_awaish || 代詞使用也/他/其\n阿瓦！AwA！ || 以心爲鑒 夢歸瓦蘭\n很好，玄微又一次忘记了自己原来的密码，第三个帐号了（捂脸）\n@xuan2wei1 也是本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "xuan2wei1"
+              }
+            ]
+          }
+        },
+        "id": "1694949132098584576",
+        "location": "Awaland",
+        "name": "語阿瓦語的貓余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694951041555402752/0BK7JWZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 156,
+          "like_count": 8114,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 491
+        },
+        "username": "CAawaish",
+        "verified": false
+      }
+    ]
+  }
+}

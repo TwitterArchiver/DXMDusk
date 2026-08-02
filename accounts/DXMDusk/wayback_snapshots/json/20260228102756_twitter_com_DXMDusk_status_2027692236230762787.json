@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027692236230762787",
+    "created_at": "2026-02-28T10:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027692236230762787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027692236230762787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家现实周围的人会察觉出大家的异常吗，就是这里大家应该不少会自残的，本人已经因为这个成为边缘人物了，大家在现实里人缘如何，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027692236230762787",
+        "created_at": "2026-02-28T10:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027692236230762787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027692236230762787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家现实周围的人会察觉出大家的异常吗，就是这里大家应该不少会自残的，本人已经因为这个成为边缘人物了，大家在现实里人缘如何，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 252,
+          "like_count": 412,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 634
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030935721591312833",
+    "created_at": "2026-03-09T11:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030976104534839683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030976104534839683",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030935721591312833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 对o久了的感觉还好，但我还是喜欢使用抑制剂配合低剂量右美，这样的抗抑郁效果会非常的稳定且持久，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030935687684673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9VP2Ib0AA-xZZ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030935721591312833",
+        "created_at": "2026-03-09T11:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030976104534839683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030976104534839683",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030935721591312833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 对o久了的感觉还好，但我还是喜欢使用抑制剂配合低剂量右美，这样的抗抑郁效果会非常的稳定且持久，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030935687684673536"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2030935721591312833",
+        "created_at": "2026-03-09T09:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030935721591312833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQ8dQm1VoQ",
+              "end": 90,
+              "expanded_url": "https://x.com/godspeedyou50/status/2030935721591312833/photo/1",
+              "media_key": "3_2030935687684673536",
+              "start": 67,
+              "url": "https://t.co/zQ8dQm1VoQ"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2027070130489115010",
+              "start": 91,
+              "url": "https://t.co/c6jwYBcFzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030935721591312833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1828,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027070130489115010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“右美96t”……..\n其实这在那时候还是我日常行为，最高原120t见到外星人对着我一脸淫笑…….\n无奈了 原来我才是最早的叠量傻逼 https://t.co/zQ8dQm1VoQ https://t.co/c6jwYBcFzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 626,
+          "like_count": 631,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 949
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型/欢迎提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 173,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

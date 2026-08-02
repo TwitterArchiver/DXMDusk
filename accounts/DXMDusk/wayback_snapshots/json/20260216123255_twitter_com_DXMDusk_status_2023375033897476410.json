@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023375033897476410",
+    "created_at": "2026-02-16T12:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023375033897476410"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023375033897476410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友在药店买的甘草片写的是压片糖果，基本没效果的假货。\n于是我舍不得，但还是把我朋友送我的真甘草片给了他，那个甘草片包装超美，心好痛，但能帮到朋友又觉得开心，\n我也是傻了，当时情况紧急，没反应过来，我应该给他白兔的，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023375033897476410",
+        "created_at": "2026-02-16T12:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023375033897476410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023375033897476410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友在药店买的甘草片写的是压片糖果，基本没效果的假货。\n于是我舍不得，但还是把我朋友送我的真甘草片给了他，那个甘草片包装超美，心好痛，但能帮到朋友又觉得开心，\n我也是傻了，当时情况紧急，没反应过来，我应该给他白兔的，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 156,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 356
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

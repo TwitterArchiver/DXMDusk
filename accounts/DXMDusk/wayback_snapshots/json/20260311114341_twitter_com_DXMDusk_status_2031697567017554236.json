@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031637078157701319",
+    "created_at": "2026-03-11T11:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T12:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031697567017554236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951463989063634945",
+          "start": 0,
+          "username": "Akin888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031697567017554236",
+    "in_reply_to_user_id": "1951463989063634945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031637078157701319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akin888888 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031637078157701319",
+        "created_at": "2026-03-11T11:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031697567017554236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951463989063634945",
+              "start": 0,
+              "username": "Akin888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031697567017554236",
+        "in_reply_to_user_id": "1951463989063634945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031637078157701319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akin888888 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951463989063634945",
+        "conversation_id": "2031637078157701319",
+        "created_at": "2026-03-11T07:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031637078157701319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互粉"
+            },
+            {
+              "end": 8,
+              "start": 6,
+              "tag": "互"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031637078157701319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互粉 #互 活跃必fo 限制慢fo 遗漏此帖留下👣 互大互强 共创辉煌 👏👏👏👏👏👏👏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 754,
+          "like_count": 928,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1161
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-02T02:04:22.000Z",
+        "description": "加密小白探索世界 每日学习活跃打卡 互互互！",
+        "id": "1951463989063634945",
+        "name": "A kin（加密小白版）",
+        "pinned_tweet_id": "2031637078157701319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030494021194522624/fxp902OJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 404,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "Akin888888",
+        "verified": true
+      }
+    ]
+  }
+}

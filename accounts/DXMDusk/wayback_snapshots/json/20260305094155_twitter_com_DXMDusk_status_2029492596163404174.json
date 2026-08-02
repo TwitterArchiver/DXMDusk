@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029414933507784732",
+    "created_at": "2026-03-05T09:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029492596163404174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528660403806343168",
+          "start": 0,
+          "username": "NorthLooker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029492596163404174",
+    "in_reply_to_user_id": "1528660403806343168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029414933507784732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NorthLooker 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029414933507784732",
+        "created_at": "2026-03-05T09:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029492596163404174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528660403806343168",
+              "start": 0,
+              "username": "NorthLooker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029492596163404174",
+        "in_reply_to_user_id": "1528660403806343168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029414933507784732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NorthLooker 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528660403806343168",
+        "conversation_id": "2029414933507784732",
+        "created_at": "2026-03-05T04:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029414933507784732"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029414933507784732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 474,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再来一波蓝v互关，谢谢大家🙏\n\n#蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 326,
+          "like_count": 462,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 674
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T08:53:48.000Z",
+        "description": "见天地，见众生，见自己！ 实迷途其未远，觉今是而昨非。对世界，永远充满好奇。",
+        "id": "1528660403806343168",
+        "location": "看世界，找自己",
+        "name": "北望",
+        "pinned_tweet_id": "1889720881712070942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013463389347975168/8d0WAlvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 1544,
+          "like_count": 7338,
+          "listed_count": 3,
+          "media_count": 4296,
+          "tweet_count": 9379
+        },
+        "username": "NorthLooker",
+        "verified": true
+      }
+    ]
+  }
+}

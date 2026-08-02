@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023050789581930547",
+    "created_at": "2026-02-16T07:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023302483338993853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431905550678167553",
+          "start": 0,
+          "username": "lLhPUVCO4RuaNKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023302483338993853",
+    "in_reply_to_user_id": "1431905550678167553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023301595707142385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lLhPUVCO4RuaNKd 喵~蹭蹭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_2023301593559703553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ2FFWboAEMWdb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023050789581930547",
+        "created_at": "2026-02-16T07:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023302483338993853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431905550678167553",
+              "start": 0,
+              "username": "lLhPUVCO4RuaNKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023302483338993853",
+        "in_reply_to_user_id": "1431905550678167553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023301595707142385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lLhPUVCO4RuaNKd 喵~蹭蹭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023301593559703553"
+          ]
+        },
+        "author_id": "1431905550678167553",
+        "conversation_id": "2023050789581930547",
+        "created_at": "2026-02-16T07:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023301595707142385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIs4375D2P",
+              "end": 32,
+              "expanded_url": "https://x.com/lLhPUVCO4RuaNKd/status/2023301595707142385/photo/1",
+              "media_key": "3_2023301593559703553",
+              "start": 9,
+              "url": "https://t.co/lIs4375D2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023301595707142385",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023300084226551892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk https://t.co/lIs4375D2P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 151,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 319
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T09:04:46.000Z",
+        "description": "千疮百孔，支离破碎",
+        "id": "1431905550678167553",
+        "name": "了却云归",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431907747822379011/SoAmlY1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 52,
+          "like_count": 3333,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3092
+        },
+        "username": "lLhPUVCO4RuaNKd",
+        "verified": false
+      }
+    ]
+  }
+}

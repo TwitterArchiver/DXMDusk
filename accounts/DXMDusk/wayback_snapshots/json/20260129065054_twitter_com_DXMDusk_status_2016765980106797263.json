@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016502059789611327",
+    "created_at": "2026-01-29T06:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016765980106797263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1469850644726968321",
+          "start": 0,
+          "username": "DAna_inX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016765980106797263",
+    "in_reply_to_user_id": "1469850644726968321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016765115324903766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DAna_inX 没办法，赚钱重要，我这工作也就过年那段时间能赚钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2016765112246501376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z9Ly7agAAvlTc.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016502059789611327",
+        "created_at": "2026-01-29T06:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016765980106797263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1469850644726968321",
+              "start": 0,
+              "username": "DAna_inX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016765980106797263",
+        "in_reply_to_user_id": "1469850644726968321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016765115324903766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DAna_inX 没办法，赚钱重要，我这工作也就过年那段时间能赚钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016765112246501376"
+          ]
+        },
+        "author_id": "1469850644726968321",
+        "conversation_id": "2016502059789611327",
+        "created_at": "2026-01-29T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016765115324903766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpBgCT502e",
+              "end": 34,
+              "expanded_url": "https://x.com/DAna_inX/status/2016765115324903766/photo/1",
+              "media_key": "3_2016765112246501376",
+              "start": 11,
+              "url": "https://t.co/qpBgCT502e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016765115324903766",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016761685881868644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 悲 https://t.co/qpBgCT502e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 89,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 90
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T02:04:52.000Z",
+        "description": "Bass player🎸🎵 /大學牲/ 友好对待世界🤝🌐🏳️‍🌈🏳️‍⚧️/ Hakkas 、Cantonese / 威士忌、咖啡、甜品愛好🥃☕🍰 / 瀋陽、深圳/INFP-T/碎碎念+交友+生活分享",
+        "id": "1469850644726968321",
+        "name": "DAna 達納",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004399175585456128/6i78ZmRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 693,
+          "like_count": 30602,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1742
+        },
+        "username": "DAna_inX",
+        "verified": false
+      }
+    ]
+  }
+}

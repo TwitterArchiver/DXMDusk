@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038212748920930797",
+    "created_at": "2026-03-29T15:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038276413091094822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        },
+        {
+          "end": 32,
+          "id": "1721003883579748352",
+          "start": 16,
+          "username": "tushanhonghong9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038276413091094822",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038212748920930797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DalingDalingDa @tushanhonghong9 帅气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038212748920930797",
+        "created_at": "2026-03-29T15:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038276413091094822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            },
+            {
+              "end": 32,
+              "id": "1721003883579748352",
+              "start": 16,
+              "username": "tushanhonghong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038276413091094822",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038212748920930797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DalingDalingDa @tushanhonghong9 帅气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478303823802552322",
+        "conversation_id": "2038212748920930797",
+        "created_at": "2026-03-29T11:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038212748920930797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1721003883579748352",
+              "start": 8,
+              "username": "tushanhonghong9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/DalingDalingDa…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/DalingDalingDa/status/2037422506819354727",
+              "start": 150,
+              "url": "https://t.co/msssyTw4m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038212748920930797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037422506819354727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前两天穿着这身和@tushanhonghong9 去吃魏家凉皮，和她说话的声音被对面桌一个年轻男子听见了。他对他的女朋友说：“喂你看坐对面这个人好像是个男的！”，被我听见了。我也不知道怎么回应，瞟了他一眼，拿出了我的九日山拳套闻了闻，似乎震惊了他。我们走的时候他用呆滞的眼神一路盯着我😇...... https://t.co/msssyTw4m2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1066,
+          "like_count": 1842,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 1783
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "咦？谢谢你点进来看我一眼~请叫我daling！| 想成为像明日酱那样的偶像吗？那就努力吧！😙😙😙 | 对象@southseeki10608",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "southseeki10608"
+              }
+            ]
+          }
+        },
+        "id": "1478303823802552322",
+        "name": "daling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 578,
+          "like_count": 18301,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 1260
+        },
+        "username": "DalingDalingDa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 526,
+          "like_count": 56264,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2254
+        },
+        "username": "tushanhonghong9",
+        "verified": false
+      }
+    ]
+  }
+}

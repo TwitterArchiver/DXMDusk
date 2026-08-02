@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031580886530208128",
+    "created_at": "2026-03-11T07:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031640192633942192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031640192633942192",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031638713571357005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV 啊，也很好啊，按你自己的想法来，但请注意安全喵🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031580886530208128",
+        "created_at": "2026-03-11T07:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031640192633942192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031640192633942192",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031638713571357005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV 啊，也很好啊，按你自己的想法来，但请注意安全喵🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "2031580886530208128",
+        "created_at": "2026-03-11T07:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031638713571357005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031638713571357005",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031638489431945355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 当时Cynun就是希望那一段时间前后的记忆丢失\n现在看起来它的效果很好 在Cynun的预期下x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 725,
+          "like_count": 829,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1109
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,抑郁,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 1267,
+          "like_count": 30812,
+          "listed_count": 7,
+          "media_count": 275,
+          "tweet_count": 5730
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      }
+    ]
+  }
+}

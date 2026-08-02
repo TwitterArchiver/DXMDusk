@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031609728959393829",
+    "created_at": "2026-03-11T05:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031610768005992474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031610768005992474",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031609728959393829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 回关一下呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2031609693190369284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDG6QITaMAQWQJc.png",
+        "width": 1650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031609728959393829",
+        "created_at": "2026-03-11T05:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031610768005992474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031610768005992474",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031609728959393829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 回关一下呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031609693190369284"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2031609728959393829",
+        "created_at": "2026-03-11T05:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031609728959393829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVHpb6IRc4",
+              "end": 141,
+              "expanded_url": "https://x.com/TOOBE775/status/2031609728959393829/photo/1",
+              "media_key": "3_2031609693190369284",
+              "start": 118,
+              "url": "https://t.co/zVHpb6IRc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031609728959393829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "互关这个事你要想好了，这是一把双刃剑，需要对它有个全面认知。\n开通完蓝V会员，接下来就是如何达到创作者收益门槛了。\n两个指标需要完成，一个是500蓝V关注，一个是5M的曝光量。\n很多人把第一目标定在了500关注上，这没问题但也有问题。\n说没问题，是因为这的确是起号最快捷也最省力的方法，勤快的人可以几天就达到500关注。尝到甜头后一直在互关的路上狂奔，不断在增粉和掉粉中内耗，把精力全部放在了这里。\n虽然关注量上来了，但曝光量却稳稳地趴在底部不动，于是焦虑，更加沉迷互关，以关注数量安抚自己的焦虑。\n说有问题，是因为这些互关来的关注不会照顾你的情绪。\n他们非常的稳定，非常的僵尸，你发的帖子根本不看一眼。你却把有限的精力放在了他们身上，忽略了更难达到的5M曝光量。\n没把主次关系搞明白，你最大的成就就是粉丝数据好看，却换来更多的曝光量焦虑。\n要明白一点，互关来的关注，不会转化为曝光量，而是转化成了焦虑和内耗。\n所以你现在要做的，是赶紧转换目标，把曝光量做起来。\n至于怎么做，上几篇贴文写了，自己去看一看。\n总之，互关只是起点搞曝光量才是正途。把精力转向内容创作和蹭流量，才是通往收益的正途。行动起来，先提升曝光量才是王道，才会让你跨过那扇收益的门槛。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关这个事你要想好了，这是一把双刃剑，需要对它有个全面认知。\n开通完蓝V会员，接下来就是如何达到创作者收益门槛了。\n两个指标需要完成，一个是500蓝V关注，一个是5M的曝光量。\n很多人把第一目标定在了500关注上，这没问题但也有问题。 https://t.co/zVHpb6IRc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 708,
+          "like_count": 800,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1084
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂了人性，却依旧被生活按头教育、社会反复毒打，嘴硬至今。",
+        "id": "1871529139720863744",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2031180403617444018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022668758897307648/al3mWURP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 1472,
+          "like_count": 3348,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 3849
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

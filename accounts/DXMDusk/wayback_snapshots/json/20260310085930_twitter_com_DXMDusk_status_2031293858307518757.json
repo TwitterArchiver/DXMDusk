@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031167309977657665",
+    "created_at": "2026-03-10T08:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031293858307518757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762424976240480256",
+          "start": 0,
+          "username": "AxelFreeddom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031293858307518757",
+    "in_reply_to_user_id": "1762424976240480256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031167309977657665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AxelFreeddom 百分百互，一起来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2031167139978346496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDAnwJHbAAAhyLY.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031167309977657665",
+        "created_at": "2026-03-10T08:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031293858307518757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762424976240480256",
+              "start": 0,
+              "username": "AxelFreeddom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031293858307518757",
+        "in_reply_to_user_id": "1762424976240480256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031167309977657665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AxelFreeddom 百分百互，一起来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031167139978346496"
+          ]
+        },
+        "author_id": "1762424976240480256",
+        "conversation_id": "2031167309977657665",
+        "created_at": "2026-03-10T00:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031167309977657665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "蓝V互粉"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "互关互助"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yb15DtLewT",
+              "end": 98,
+              "expanded_url": "https://x.com/AxelFreeddom/status/2031167309977657665/photo/1",
+              "media_key": "3_2031167139978346496",
+              "start": 75,
+              "url": "https://t.co/Yb15DtLewT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031167309977657665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1173,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互关 #蓝V互粉 #互关互助\n\n蓝V互关计划。\n\n如果你也是蓝V账号：\n关注 + 留言。\n\n我看到基本都会回关，\n希望能认识更多做内容的朋友。 https://t.co/Yb15DtLewT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 668,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1012
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T10:30:48.000Z",
+        "description": "#Binance 启程Web3用币安：https://t.co/XCaQxniip9｜空投项目教程｜#专研DeFi｜youtube直播实战交易员｜https://t.co/v5dNDtzLFV｜币安原创作者｜社区交流群：:https://t.co/gaF5CGXsDk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              },
+              {
+                "end": 57,
+                "start": 50,
+                "tag": "专研DeFi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bmwweb.net/join?ref=85147…",
+                "end": 42,
+                "expanded_url": "https://www.bmwweb.net/join?ref=851478072",
+                "start": 19,
+                "url": "https://t.co/XCaQxniip9"
+              },
+              {
+                "display_url": "youtube.com/@JayZ0723",
+                "end": 96,
+                "expanded_url": "http://youtube.com/@JayZ0723",
+                "start": 73,
+                "url": "https://t.co/v5dNDtzLFV"
+              },
+              {
+                "display_url": "t.me/JayZ0723",
+                "end": 134,
+                "expanded_url": "http://t.me/JayZ0723",
+                "start": 111,
+                "url": "https://t.co/gaF5CGXsDk"
+              }
+            ]
+          }
+        },
+        "id": "1762424976240480256",
+        "location": "United States",
+        "name": "Jay Z",
+        "pinned_tweet_id": "2031029568275128552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027654073236037632/UvuBZEwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1097,
+          "like_count": 192,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 293
+        },
+        "username": "AxelFreeddom",
+        "verified": true
+      }
+    ]
+  }
+}

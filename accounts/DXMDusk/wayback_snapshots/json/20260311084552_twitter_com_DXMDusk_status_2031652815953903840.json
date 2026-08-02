@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031348983184941067",
+    "created_at": "2026-03-11T08:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031652815953903840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842937110",
+          "start": 0,
+          "username": "CANARIO445"
+        },
+        {
+          "end": 25,
+          "id": "1866458229527764992",
+          "start": 12,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031652815953903840",
+    "in_reply_to_user_id": "2842937110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031650864117723624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CANARIO445 @Citrus_amara 好的喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031348983184941067",
+        "created_at": "2026-03-11T08:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031652815953903840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842937110",
+              "start": 0,
+              "username": "CANARIO445"
+            },
+            {
+              "end": 25,
+              "id": "1866458229527764992",
+              "start": 12,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031652815953903840",
+        "in_reply_to_user_id": "2842937110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031650864117723624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CANARIO445 @Citrus_amara 好的喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842937110",
+        "conversation_id": "2031348983184941067",
+        "created_at": "2026-03-11T08:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031650864117723624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 22,
+              "id": "1866458229527764992",
+              "start": 9,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031650864117723624",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031649737720643595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @Citrus_amara 互关一下喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 731,
+          "like_count": 875,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1131
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-24T21:32:56.000Z",
+        "description": "古希腊互关的神",
+        "id": "2842937110",
+        "name": "神之刃（互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030551136311414784/DPm1cuhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 74,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "CANARIO445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "shsh548866"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2029577822264598770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1035,
+          "like_count": 17663,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 9698
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2018816555757564410",
+    "created_at": "2026-03-11T12:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031706645345259705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1570754042590285825",
+          "start": 0,
+          "username": "_ShadowTwilight"
+        },
+        {
+          "end": 33,
+          "id": "1609844142313553921",
+          "start": 17,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031706645345259705",
+    "in_reply_to_user_id": "1570754042590285825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027410245098893600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ShadowTwilight @Nijika_overdose 确实太贵呀，两百一次，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2018816555757564410",
+        "created_at": "2026-03-11T12:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031706645345259705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1570754042590285825",
+              "start": 0,
+              "username": "_ShadowTwilight"
+            },
+            {
+              "end": 33,
+              "id": "1609844142313553921",
+              "start": 17,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031706645345259705",
+        "in_reply_to_user_id": "1570754042590285825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027410245098893600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ShadowTwilight @Nijika_overdose 确实太贵呀，两百一次，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570754042590285825",
+        "conversation_id": "2018816555757564410",
+        "created_at": "2026-02-27T15:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027410245098893600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027410245098893600",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026408439124209837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose 因为没有国补"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 759,
+          "like_count": 952,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1178
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-16T12:38:51.000Z",
+        "description": "09//自由与和平//欢迎聊天//游戏菜//歌品差//\nF1//铁路航空//OD//键盘手//数码//ACGN//\n中文//日本語//English//한국어//私信互fo//\n\n——愛をください",
+        "id": "1570754042590285825",
+        "location": "银河",
+        "name": "紗千鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025987018820628480/sjVUqfNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 191,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1313
+        },
+        "username": "_ShadowTwilight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "💛🤍💜🖤在读医学牲｜喜欢fps和单机丨这是什么？@Nijika_Dark\n|日雌土色替西帕肽rc请关注链接频道｜我的大脑空空如也丨欢迎重庆推油找我玩（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Nijika_Dark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PEA_selling2_g…",
+                "end": 23,
+                "expanded_url": "https://t.me/PEA_selling2_group",
+                "start": 0,
+                "url": "https://t.co/xFwEdSNoDa"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "虹夏🖤胺樂天使",
+        "pinned_tweet_id": "2018816555757564410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009316971104620545/f4923SY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 315,
+          "like_count": 2944,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/xFwEdSNoDa",
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

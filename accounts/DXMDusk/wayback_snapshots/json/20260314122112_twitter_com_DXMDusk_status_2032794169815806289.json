@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032537543426859182",
+    "created_at": "2026-03-14T12:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032794169815806289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917164172208664576",
+          "start": 0,
+          "username": "HOU_NFBNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032794169815806289",
+    "in_reply_to_user_id": "1917164172208664576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032537543426859182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOU_NFBNB 来了昂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032537543426859182",
+        "created_at": "2026-03-14T12:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032794169815806289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917164172208664576",
+              "start": 0,
+              "username": "HOU_NFBNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032794169815806289",
+        "in_reply_to_user_id": "1917164172208664576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032537543426859182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOU_NFBNB 来了昂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917164172208664576",
+        "conversation_id": "2032537543426859182",
+        "created_at": "2026-03-13T19:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032537543426859182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "互关"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "流量"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032537543426859182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2647,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐒 蓝V\n兄弟们互关走一波！\n看到必回，\n没及时回的评论区戳我～\n一起搞币圈流量，\n2026一起飞🚀\n\n#互关 #蓝V互关 #流量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 904,
+          "like_count": 1481,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1437
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T10:29:06.000Z",
+        "description": "BULLA项目方躺平不作为？没关系，我们散户自己来当家！💪 合约地址： 0x595e21b20e78674f8a64c1566a20b2b316bc3511  2026年，我们要把BULLA拉飞！🚀 买、持、喊单，一个都不能少！ 团结就 #BULLA #加密货币 #散户联盟 #2026拉飞BULLA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 119,
+                "tag": "BULLA"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "加密货币"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "散户联盟"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "tag": "2026拉飞BULLA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AIBSC0",
+                "end": 23,
+                "expanded_url": "https://t.me/AIBSC0",
+                "start": 0,
+                "url": "https://t.co/yArZJx99Tn"
+              }
+            ]
+          }
+        },
+        "id": "1917164172208664576",
+        "name": "纳福🔶BNB",
+        "pinned_tweet_id": "1976072535340134759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032030081162567680/Pfyz2pyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 511,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/yArZJx99Tn",
+        "username": "HOU_NFBNB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032157266267304427",
+    "created_at": "2026-03-13T04:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032318600766505466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032318600766505466",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032157266267304427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 还有DXM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032157266267304427",
+        "created_at": "2026-03-13T04:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032318600766505466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032318600766505466",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032157266267304427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 还有DXM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "2032157266267304427",
+        "created_at": "2026-03-12T18:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032157266267304427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032157266267304427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 452,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DMT DPT EPT，美满的一家三口，最弱的EPT被禁了，DMT更是打入死牢，但是我们的DPT已经屹立不倒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 868,
+          "like_count": 1424,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1373
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2032181190757634518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 150,
+          "like_count": 423,
+          "listed_count": 4,
+          "media_count": 339,
+          "tweet_count": 2300
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024470653886484612",
+    "created_at": "2026-02-19T13:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024470653886484612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rinko_zero8964…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Rinko_zero8964/status/2024453357826691241",
+          "start": 38,
+          "url": "https://t.co/EbpiYDO9yO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024470653886484612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024453357826691241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢谵妄，对于我来说，我最好的朋友就在谵妄里活着，只是为什么你们看不到， https://t.co/EbpiYDO9yO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024470653886484612",
+        "created_at": "2026-02-19T13:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024470653886484612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/2024453357826691241",
+              "start": 38,
+              "url": "https://t.co/EbpiYDO9yO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024470653886484612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024453357826691241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢谵妄，对于我来说，我最好的朋友就在谵妄里活着，只是为什么你们看不到， https://t.co/EbpiYDO9yO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024453357826691241",
+        "created_at": "2026-02-19T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024453357826691241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024453357826691241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃白兔就会谵妄，氯苯那敏要命了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 167,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 396
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 542,
+          "like_count": 15300,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7584
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

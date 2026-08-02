@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029585293985427597",
+    "created_at": "2026-03-25T12:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036786479989772334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954570475792961537",
+          "start": 0,
+          "username": "rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036786479989772334",
+    "in_reply_to_user_id": "1954570475792961537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029585293985427597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainyosora 甘草片我这边诊所就有，不过北上广深，还是算了吧，要不你去小地方看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029585293985427597",
+        "created_at": "2026-03-25T12:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036786479989772334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954570475792961537",
+              "start": 0,
+              "username": "rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036786479989772334",
+        "in_reply_to_user_id": "1954570475792961537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029585293985427597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainyosora 甘草片我这边诊所就有，不过北上广深，还是算了吧，要不你去小地方看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954570475792961537",
+        "conversation_id": "2029585293985427597",
+        "created_at": "2026-03-05T15:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029585293985427597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029585293985427597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前一段时间有复方甘草片卖，才一两个月没有了，想O阿片基本上越来越不可能了，望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1057,
+          "like_count": 1835,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1694
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T15:48:26.000Z",
+        "description": "CN｜日本語はまだ勉強中なので、変な表現があったらすみません🙏  |  フォロバします  |  0verdose  |  有信息回复拖延症见谅(シ_ _)シ  |  真人互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyyosora1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainyyosora1",
+                "start": 0,
+                "url": "https://t.co/Lic0YPtaUU"
+              }
+            ]
+          }
+        },
+        "id": "1954570475792961537",
+        "location": "没回fo可以提醒我!",
+        "name": "薬井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030648536132689920/e0FwTQvK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 99,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/Lic0YPtaUU",
+        "username": "rainyosora",
+        "verified": false
+      }
+    ]
+  }
+}

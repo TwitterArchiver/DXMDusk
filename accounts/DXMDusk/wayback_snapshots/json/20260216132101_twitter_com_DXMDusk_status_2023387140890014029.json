@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023289783770870251",
+    "created_at": "2026-02-16T13:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T14:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023387140890014029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "nox8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023387140890014029",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023365333550031023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nox8964 十包以内没问题，就是需要开风扇一直吹着散热，🧠在尖叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023289783770870251",
+        "created_at": "2026-02-16T13:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023387140890014029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "nox8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023387140890014029",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023365333550031023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nox8964 十包以内没问题，就是需要开风扇一直吹着散热，🧠在尖叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2023289783770870251",
+        "created_at": "2026-02-16T11:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023365333550031023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023365333550031023",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023289783770870251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 吃多了小心胃出血，不能吃太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 158,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 358
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "LGBT+友好｜mtx🏳️‍⚧️｜会有政治言论｜oder｜喜欢我的话就来互fo吧｜恋人@anturn228216 https://t.co/to7wTTpYGV提问箱｜如果发癫让你不开心真的对不起喵\n叫我夜酱或者小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "anturn228216"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/asukayeyezi",
+                "end": 80,
+                "expanded_url": "https://ngl.link/asukayeyezi",
+                "start": 57,
+                "url": "https://t.co/to7wTTpYGV"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "永远是夜晚该多好",
+        "name": "✟奏洺夜✟ #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022300328536805376/aI2pTlzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 319,
+          "like_count": 4719,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 544
+        },
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038773163249868832",
+    "created_at": "2026-03-31T04:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038836977940959405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "nuomixingren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038836977940959405",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038836583189930181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuomixingren 这算是冷门知识吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038773163249868832",
+        "created_at": "2026-03-31T04:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038836977940959405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "nuomixingren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038836977940959405",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038836583189930181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuomixingren 这算是冷门知识吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2038773163249868832",
+        "created_at": "2026-03-31T04:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038836583189930181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038836583189930181",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038773163249868832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 不是热知识？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1082,
+          "like_count": 1910,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 1915
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢\n没有repo的习惯",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "pinned_tweet_id": "2037862485924216868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 572,
+          "like_count": 10018,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 2110
+        },
+        "username": "nuomixingren",
+        "verified": false
+      }
+    ]
+  }
+}

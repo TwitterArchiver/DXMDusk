@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "2017943515460968668",
+    "created_at": "2026-02-01T12:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T13:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017943515460968668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017943515460968668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从小润到更广阔的土地就是刻在我DNA里的，不知你们谁参加过山沟沟里10岁不到女孩子的婚礼，14岁女孩子就有了很多个孩子，跑出大山到更遥远的海外是我们这些被横断山脉挡住眼睛的孩子生命里的光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "2017943515460968668",
+        "created_at": "2026-02-01T12:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017943515460968668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017943515460968668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小润到更广阔的土地就是刻在我DNA里的，不知你们谁参加过山沟沟里10岁不到女孩子的婚礼，14岁女孩子就有了很多个孩子，跑出大山到更遥远的海外是我们这些被横断山脉挡住眼睛的孩子生命里的光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 135,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 200
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031631640045433177",
+    "created_at": "2026-03-11T09:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031670244645929060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4118605572",
+          "start": 0,
+          "username": "jerry1392130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031670244645929060",
+    "in_reply_to_user_id": "4118605572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031631640045433177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jerry1392130 回下，一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031631640045433177",
+        "created_at": "2026-03-11T09:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031670244645929060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4118605572",
+              "start": 0,
+              "username": "jerry1392130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031670244645929060",
+        "in_reply_to_user_id": "4118605572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031631640045433177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jerry1392130 回下，一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4118605572",
+        "conversation_id": "2031631640045433177",
+        "created_at": "2026-03-11T07:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031631640045433177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031631640045433177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 630,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果要我关注你\n\n请一定要告诉我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 736,
+          "like_count": 898,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1144
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-04T01:13:48.000Z",
+        "description": "穿越2次牛熊的周期幸存者 | NFT holder，关注文化与效用融合 | 专注发现下一轮Alpha | 分享硬核干货，不讲废话 | 🧵日常埋伏逻辑+心态按摩",
+        "id": "4118605572",
+        "name": "玄链.edge",
+        "pinned_tweet_id": "1887853715211931689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/661727787443580928/80wt6urS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5716,
+          "following_count": 6616,
+          "like_count": 1046,
+          "listed_count": 13,
+          "media_count": 68,
+          "tweet_count": 4831
+        },
+        "username": "jerry1392130",
+        "verified": true
+      }
+    ]
+  }
+}

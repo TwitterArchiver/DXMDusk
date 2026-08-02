@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2025513010429820928"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025513066474205649",
+    "created_at": "2026-02-22T10:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025513066474205649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/25aXkrX72G",
+          "end": 30,
+          "expanded_url": "https://x.com/DXMDusk/status/2025513066474205649/video/1",
+          "media_key": "7_2025513010429820928",
+          "start": 7,
+          "url": "https://t.co/25aXkrX72G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025513066474205649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好乖的样子啊 https://t.co/25aXkrX72G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17506,
+        "height": 848,
+        "media_key": "7_2025513010429820928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025513010429820928/pu/img/rMeDgbsUj5YBtmXS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025513010429820928/pu/vid/avc1/320x402/anTaET-drq0zWoe9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025513010429820928/pu/vid/avc1/480x604/8p7mB0XJ41OhVrFt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025513010429820928/pu/vid/avc1/672x848/8Njp_kVP5CiQG__N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025513010429820928/pu/pl/q2WxSLXTevbQmcuK.m3u8?tag=12"
+          }
+        ],
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025513010429820928"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025513066474205649",
+        "created_at": "2026-02-22T10:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025513066474205649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25aXkrX72G",
+              "end": 30,
+              "expanded_url": "https://x.com/DXMDusk/status/2025513066474205649/video/1",
+              "media_key": "7_2025513010429820928",
+              "start": 7,
+              "url": "https://t.co/25aXkrX72G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025513066474205649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好乖的样子啊 https://t.co/25aXkrX72G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 201,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 498
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016217121303494716",
+    "created_at": "2026-01-29T13:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016869536776212716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1976707940729139200",
+          "start": 0,
+          "username": "jendnjsnwk45025"
+        },
+        {
+          "end": 29,
+          "id": "1974865605204586498",
+          "start": 17,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016869536776212716",
+    "in_reply_to_user_id": "1976707940729139200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016574471315083629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jendnjsnwk45025 @Krktmk_8964 你说你妈逼啊？你是不是他妈犯贱呀？贱狗，妈的！谁家主人没管好，让你跑出来在这里狗叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016217121303494716",
+        "created_at": "2026-01-29T13:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016869536776212716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1976707940729139200",
+              "start": 0,
+              "username": "jendnjsnwk45025"
+            },
+            {
+              "end": 29,
+              "id": "1974865605204586498",
+              "start": 17,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016869536776212716",
+        "in_reply_to_user_id": "1976707940729139200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016574471315083629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jendnjsnwk45025 @Krktmk_8964 你说你妈逼啊？你是不是他妈犯贱呀？贱狗，妈的！谁家主人没管好，让你跑出来在这里狗叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976707940729139200",
+        "conversation_id": "2016217121303494716",
+        "created_at": "2026-01-28T18:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016574471315083629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016574471315083629",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016217121303494716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 你赶紧重开行不行？傻了吧唧的,整天在这里博你妈眼球呢,活不了就赶紧买一瓶百草枯喝下去😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 94,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 131
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T17:54:39.000Z",
+        "description": "",
+        "id": "1976707940729139200",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994082527250927616/To0H4M3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "jendnjsnwk45025",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1327,
+          "like_count": 22966,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2481
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

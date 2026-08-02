@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029200440303489192",
+    "created_at": "2026-03-05T14:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T15:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029563599900053898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1460848170754211851",
+          "start": 0,
+          "username": "QF88688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029563599900053898",
+    "in_reply_to_user_id": "1460848170754211851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029200440303489192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QF88688 互"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8133,
+        "height": 1920,
+        "media_key": "13_2029200147318718464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029200147318718464/img/H1CS3jG2AS1enG5I.jpg",
+        "public_metrics": {
+          "view_count": 2584
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029200147318718464/vid/avc1/720x1280/EUV2a-GHzyfcETpL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029200147318718464/vid/avc1/320x568/zR5c2fa_z3GuNY_6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029200147318718464/vid/avc1/1080x1920/7MATdEw7-4OnfML7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029200147318718464/pl/kwbaHSX1wSdtbJM9.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029200147318718464/vid/avc1/480x852/KACEB16HaRLYQeXV.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029200440303489192",
+        "created_at": "2026-03-05T14:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029563599900053898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1460848170754211851",
+              "start": 0,
+              "username": "QF88688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029563599900053898",
+        "in_reply_to_user_id": "1460848170754211851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029200440303489192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QF88688 互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029200147318718464"
+          ]
+        },
+        "author_id": "1460848170754211851",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2029200440303489192",
+        "created_at": "2026-03-04T14:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029200440303489192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dseUGHUhoN",
+              "end": 74,
+              "expanded_url": "https://x.com/QF88688/status/2029200440303489192/video/1",
+              "media_key": "13_2029200147318718464",
+              "start": 51,
+              "url": "https://t.co/dseUGHUhoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029200440303489192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4205,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互关 \n\n老师我们可以做朋友吗？\n\n评论区留言让我来关注你吧💗\n\n今晚的消费全部由BTC买单🛫 https://t.co/dseUGHUhoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 349,
+          "like_count": 466,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 683
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-17T05:52:09.000Z",
+        "description": "我是一个热爱学习的撸子✨ 18年入圈经历两轮牛熊 |九死一生后转战撸毛 | 投研项目 | 交易 | #蓝鸟会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "蓝鸟会"
+              }
+            ]
+          }
+        },
+        "id": "1460848170754211851",
+        "location": "Hong Kong",
+        "name": "草帽 boy",
+        "pinned_tweet_id": "1970423309318935003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021936696716406784/KROvL-Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7015,
+          "following_count": 3213,
+          "like_count": 31384,
+          "listed_count": 47,
+          "media_count": 698,
+          "tweet_count": 32119
+        },
+        "username": "QF88688",
+        "verified": true
+      }
+    ]
+  }
+}

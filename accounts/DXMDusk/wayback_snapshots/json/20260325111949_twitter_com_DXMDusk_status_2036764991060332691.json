@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2036679545730802143",
+    "created_at": "2026-03-25T11:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036764991060332691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "156961481",
+          "start": 0,
+          "username": "ouchaiya"
+        },
+        {
+          "end": 26,
+          "id": "1950548412140494848",
+          "start": 10,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036764991060332691",
+    "in_reply_to_user_id": "156961481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036715607354421591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouchaiya @K7qWcfzcdAPW5Y9 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2036679545730802143",
+        "created_at": "2026-03-25T11:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036764991060332691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "156961481",
+              "start": 0,
+              "username": "ouchaiya"
+            },
+            {
+              "end": 26,
+              "id": "1950548412140494848",
+              "start": 10,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036764991060332691",
+        "in_reply_to_user_id": "156961481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036715607354421591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouchaiya @K7qWcfzcdAPW5Y9 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156961481",
+        "conversation_id": "2036679545730802143",
+        "created_at": "2026-03-25T08:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036715607354421591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036715607354421591",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16725,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036679545730802143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 这这这，这歌词真的是他写的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 1054,
+          "like_count": 1835,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1691
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-18T12:30:43.000Z",
+        "description": "毒舌。杠精。喜欢说尖酸刻薄的话。总是忍不住想要吐槽。无恶意，纯娱乐，别太当真，开心就好。正在学习日语中。\n日本語勉強中。たまに日本語でポスト（呟き）するけど、変な日本語だったら突っ込んでね！繋がれると嬉しいです 📌",
+        "id": "156961481",
+        "location": "Tokyo, Japan",
+        "name": "アイヤ＠毒舌評論家",
+        "pinned_tweet_id": "2028783007835070613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866135596232704/LEYZQ2zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1056,
+          "like_count": 1343,
+          "listed_count": 8,
+          "media_count": 163,
+          "tweet_count": 99507
+        },
+        "username": "ouchaiya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，小学学历，每天都看浪人新闻和跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21887,
+          "following_count": 302,
+          "like_count": 1382,
+          "listed_count": 63,
+          "media_count": 1219,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

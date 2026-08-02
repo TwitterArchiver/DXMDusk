@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037835759223480487",
+    "created_at": "2026-03-28T11:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037850678568399006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739908593254883328",
+          "start": 0,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037850678568399006",
+    "in_reply_to_user_id": "1739908593254883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037847430750970242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSexyHem 帅哦，99🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037835759223480487",
+        "created_at": "2026-03-28T11:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037850678568399006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037850678568399006",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037847430750970242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem 帅哦，99🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739908593254883328",
+        "conversation_id": "2037835759223480487",
+        "created_at": "2026-03-28T11:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037847430750970242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037847430750970242",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037847321199997292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 我老公 一个俄罗斯人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 1063,
+          "like_count": 1834,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 1750
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖😚我是鸭鸭^^⚠️健康无毒生活坐标北美⚠️https://t.co/FGoF2GVQbK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/adxahemhemhem",
+                "end": 81,
+                "expanded_url": "https://t.me/adxahemhemhem",
+                "start": 58,
+                "url": "https://t.co/FGoF2GVQbK"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1966161191346253866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 363,
+          "like_count": 5067,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2412
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

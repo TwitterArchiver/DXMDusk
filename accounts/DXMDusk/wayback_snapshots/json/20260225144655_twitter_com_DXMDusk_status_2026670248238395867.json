@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026670245814087682"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026670248238395867",
+    "created_at": "2026-02-25T14:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:46:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026670248238395867",
+      "2026670259105882423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CEgoLAdpHU",
+          "end": 32,
+          "expanded_url": "https://x.com/DXMDusk/status/2026670248238395867/photo/1",
+          "media_key": "3_2026670245814087682",
+          "start": 9,
+          "url": "https://t.co/CEgoLAdpHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026670248238395867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "MTF不扩散共识 https://t.co/CEgoLAdpHU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026670245814087682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAt2c6aMAI3t74.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026670245814087682"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026670248238395867",
+        "created_at": "2026-02-25T14:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:46:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026670248238395867",
+          "2026670259105882423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEgoLAdpHU",
+              "end": 32,
+              "expanded_url": "https://x.com/DXMDusk/status/2026670248238395867/photo/1",
+              "media_key": "3_2026670245814087682",
+              "start": 9,
+              "url": "https://t.co/CEgoLAdpHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026670248238395867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF不扩散共识 https://t.co/CEgoLAdpHU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026670245814087682"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026670259105882423",
+        "created_at": "2026-02-25T14:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:46:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026670248238395867",
+          "2026670259105882423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPooP3YlNz",
+              "end": 32,
+              "expanded_url": "https://x.com/DXMDusk/status/2026670259105882423/photo/1",
+              "media_key": "3_2026670245814087682",
+              "start": 9,
+              "url": "https://t.co/hPooP3YlNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026670259105882423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF不扩散共识 https://t.co/hPooP3YlNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 248,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 602
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

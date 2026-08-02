@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016016375396061344",
+    "created_at": "2026-01-29T09:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016800948421873785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "11765952",
+          "start": 0,
+          "username": "interjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016800948421873785",
+    "in_reply_to_user_id": "11765952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016016375396061344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interjc 反差罢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31519,
+        "height": 720,
+        "media_key": "13_2016016316667133953",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016016316667133953/img/-qjXUECPtOndeUDh.jpg",
+        "public_metrics": {
+          "view_count": 302428
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016016316667133953/vid/avc1/468x270/GxN8-ZAIGjV3lPbh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016016316667133953/vid/avc1/624x360/U07PHAsLFHiwHE_r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016016316667133953/vid/avc1/1248x720/LzzHxzPMFGxLl9kn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016016316667133953/pl/akGidUAbAFhu6Hwb.m3u8?v=973"
+          }
+        ],
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016016375396061344",
+        "created_at": "2026-01-29T09:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016800948421873785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016800948421873785",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016016375396061344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc 反差罢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016016316667133953"
+          ]
+        },
+        "author_id": "11765952",
+        "conversation_id": "2016016375396061344",
+        "created_at": "2026-01-27T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016016375396061344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZTMJM82re",
+              "end": 30,
+              "expanded_url": "https://x.com/interjc/status/2016016375396061344/video/1",
+              "media_key": "13_2016016316667133953",
+              "start": 7,
+              "url": "https://t.co/0ZTMJM82re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016016375396061344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 745,
+          "impression_count": 728428,
+          "like_count": 2360,
+          "quote_count": 32,
+          "reply_count": 157,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "一眼技术大佬 https://t.co/0ZTMJM82re"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 90,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 101
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜程序员｜大阪在住\n🎓 AI 课程 https://t.co/MNSqx9mEAk｜@yokogaisha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 50,
+                "expanded_url": "http://justincourse.com",
+                "start": 27,
+                "url": "https://t.co/MNSqx9mEAk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "interjc.net",
+                "end": 23,
+                "expanded_url": "https://interjc.net",
+                "start": 0,
+                "url": "https://t.co/ZikItPAr5S"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "1992880550395380047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29351,
+          "following_count": 1732,
+          "like_count": 74393,
+          "listed_count": 244,
+          "media_count": 3720,
+          "tweet_count": 31243
+        },
+        "url": "https://t.co/ZikItPAr5S",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

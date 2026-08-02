@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038516705740382208",
+        "3_2038516707447418880",
+        "3_2038516708571496448"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038516699641917576",
+    "created_at": "2026-03-30T07:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038516710773551508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/doSBuJ49Pk",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2038516710773551508/photo/1",
+          "media_key": "3_2038516705740382208",
+          "start": 0,
+          "url": "https://t.co/doSBuJ49Pk"
+        },
+        {
+          "display_url": "pic.x.com/doSBuJ49Pk",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2038516710773551508/photo/1",
+          "media_key": "3_2038516707447418880",
+          "start": 0,
+          "url": "https://t.co/doSBuJ49Pk"
+        },
+        {
+          "display_url": "pic.x.com/doSBuJ49Pk",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2038516710773551508/photo/1",
+          "media_key": "3_2038516708571496448",
+          "start": 0,
+          "url": "https://t.co/doSBuJ49Pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038516710773551508",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038516699641917576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/doSBuJ49Pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038516705740382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEJLJa4AACoP_.jpg",
+        "width": 1247
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038516707447418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEJRgaMAAAcRq.jpg",
+        "width": 1251
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038516708571496448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEJVsaQAAg73I.jpg",
+        "width": 1230
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038516691962138624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEIX0bkAAWkN5.jpg",
+        "width": 1237
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038516693228810240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEIcibcAAGQbN.jpg",
+        "width": 1235
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038516695179157504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEIjzbYAAna6F.jpg",
+        "width": 1239
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038516696684843009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpEIpaaUAEcUYT.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038516705740382208",
+            "3_2038516707447418880",
+            "3_2038516708571496448"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038516699641917576",
+        "created_at": "2026-03-30T07:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038516710773551508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doSBuJ49Pk",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516710773551508/photo/1",
+              "media_key": "3_2038516705740382208",
+              "start": 0,
+              "url": "https://t.co/doSBuJ49Pk"
+            },
+            {
+              "display_url": "pic.x.com/doSBuJ49Pk",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516710773551508/photo/1",
+              "media_key": "3_2038516707447418880",
+              "start": 0,
+              "url": "https://t.co/doSBuJ49Pk"
+            },
+            {
+              "display_url": "pic.x.com/doSBuJ49Pk",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516710773551508/photo/1",
+              "media_key": "3_2038516708571496448",
+              "start": 0,
+              "url": "https://t.co/doSBuJ49Pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038516710773551508",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038516699641917576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/doSBuJ49Pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038516691962138624",
+            "3_2038516693228810240",
+            "3_2038516695179157504",
+            "3_2038516696684843009"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038516699641917576",
+        "created_at": "2026-03-30T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038516699641917576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCFNXo9tDj",
+              "end": 84,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516699641917576/photo/1",
+              "media_key": "3_2038516691962138624",
+              "start": 61,
+              "url": "https://t.co/wCFNXo9tDj"
+            },
+            {
+              "display_url": "pic.x.com/wCFNXo9tDj",
+              "end": 84,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516699641917576/photo/1",
+              "media_key": "3_2038516693228810240",
+              "start": 61,
+              "url": "https://t.co/wCFNXo9tDj"
+            },
+            {
+              "display_url": "pic.x.com/wCFNXo9tDj",
+              "end": 84,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516699641917576/photo/1",
+              "media_key": "3_2038516695179157504",
+              "start": 61,
+              "url": "https://t.co/wCFNXo9tDj"
+            },
+            {
+              "display_url": "pic.x.com/wCFNXo9tDj",
+              "end": 84,
+              "expanded_url": "https://x.com/DXMDusk/status/2038516699641917576/photo/1",
+              "media_key": "3_2038516696684843009",
+              "start": 61,
+              "url": "https://t.co/wCFNXo9tDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038516699641917576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于创伤后的左/右脑解离\n在真实的创伤经验里，大多数人都有主型，也都有混合，并且会随触发强度、关系情境和生命阶段而摆动。 https://t.co/wCFNXo9tDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 1074,
+          "like_count": 1845,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 1820
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

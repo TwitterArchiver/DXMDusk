@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031361541472399540",
+    "created_at": "2026-03-11T04:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T05:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031591950374330549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525464319001251840",
+          "start": 0,
+          "username": "WeexJiuYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031591950374330549",
+    "in_reply_to_user_id": "1525464319001251840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031361541472399540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeexJiuYe 好滴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031360698333487105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDXyuLbYAE8zzW.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031360698304065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDXyuEacAAi6p_.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031361541472399540",
+        "created_at": "2026-03-11T04:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031591950374330549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525464319001251840",
+              "start": 0,
+              "username": "WeexJiuYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031591950374330549",
+        "in_reply_to_user_id": "1525464319001251840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031361541472399540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeexJiuYe 好滴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031360698333487105",
+            "3_2031360698304065536"
+          ]
+        },
+        "author_id": "1525464319001251840",
+        "conversation_id": "2031361541472399540",
+        "created_at": "2026-03-10T13:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031361541472399540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bu5owKBk64",
+              "end": 88,
+              "expanded_url": "https://x.com/WeexJiuYe/status/2031361541472399540/photo/1",
+              "media_key": "3_2031360698333487105",
+              "start": 65,
+              "url": "https://t.co/Bu5owKBk64"
+            },
+            {
+              "display_url": "pic.x.com/Bu5owKBk64",
+              "end": 88,
+              "expanded_url": "https://x.com/WeexJiuYe/status/2031361541472399540/photo/1",
+              "media_key": "3_2031360698304065536",
+              "start": 65,
+              "url": "https://t.co/Bu5owKBk64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031361541472399540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近的蓝v都回了哈\n本人以下几种情况不回回关的\n黄号，政治号，宗教号，关注率极低的号，这些别关注我，我不回关，正常蓝v我都会回关 https://t.co/Bu5owKBk64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 700,
+          "like_count": 766,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1059
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-14T13:13:41.000Z",
+        "description": "#Bitget钱包 官方华语商务经理·九爷 招🤝KOL合作\n\n#Bitget 返佣50%邀请码：bg1188\n#Gate 返佣70%邀请码：AACCBBBB\n\n注册后私信发UID给我\n\n本职工作招KOL合作，除此之外还推广交易所，带人打狗，能给合约策略，心情好我就教你几招k线看涨跌，项目圈盘圈玩的贼溜，综合全能选手。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "Bitget钱包"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "Bitget"
+              },
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "Gate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weabaxx.site/zh-CN/register…",
+                "end": 23,
+                "expanded_url": "https://weabaxx.site/zh-CN/register?vipCode=5k1h",
+                "start": 0,
+                "url": "https://t.co/1zqN9tU3zP"
+              }
+            ]
+          }
+        },
+        "id": "1525464319001251840",
+        "location": "WEEX唯客 返佣80%量大85% 滑点包赔  400X杠杆",
+        "name": "Web3九爷",
+        "pinned_tweet_id": "2026688341085925597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025819551678836736/mCgg98ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1269,
+          "like_count": 105,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/1zqN9tU3zP",
+        "username": "WeexJiuYe",
+        "verified": true
+      }
+    ]
+  }
+}

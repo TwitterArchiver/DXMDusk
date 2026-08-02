@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040271137729663209",
+    "created_at": "2026-04-05T07:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040686132640510406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842186696441700352",
+          "start": 0,
+          "username": "ACGBMMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040686132640510406",
+    "in_reply_to_user_id": "1842186696441700352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040677611471601964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACGBMMN 我们是小城市，熟人多，谁欺负谁，叫人就好了，大不了就是双方约架，两边几十上百个人站着打架看场子，拿蝴蝶刀比划，然后跟对方谈条件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040271137729663209",
+        "created_at": "2026-04-05T07:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040686132640510406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842186696441700352",
+              "start": 0,
+              "username": "ACGBMMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040686132640510406",
+        "in_reply_to_user_id": "1842186696441700352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040677611471601964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACGBMMN 我们是小城市，熟人多，谁欺负谁，叫人就好了，大不了就是双方约架，两边几十上百个人站着打架看场子，拿蝴蝶刀比划，然后跟对方谈条件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842186696441700352",
+        "conversation_id": "2040271137729663209",
+        "created_at": "2026-04-05T06:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040677611471601964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040677611471601964",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040676481580618198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 反正咱如果能回到过去咱第一时间把那个侵犯咱的傻逼打一顿，然后把那个欺负人的死胖子按在地上打一顿，然后把个掐咱脖子的人狠狠打一顿\n杀杀杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 1099,
+          "like_count": 2042,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2052
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T12:55:23.000Z",
+        "description": "在淄博上初中的14岁药娘喵\n身高171，体重44kg（似乎变胖了）\n不约也不sm（因为先生不允许！）\n性爱经验嘛……好久没做爱了感觉生疏了\n非常不欢迎客官们随意玩弄（没有🚪！）\n虽然但是为什么我大腿臀部一直瘦不下来啊！\n想被捆起来窒息轮奸死喵～\n可以找咱聊天哒～本人之前搞过抗抑，也写作喵～此号进入常态运营\ning~",
+        "id": "1842186696441700352",
+        "location": "山东省淄博市张店区",
+        "name": "裕之沐光「ゆうこうあお」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924498341192515584/tG_M46sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 93,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "ACGBMMN",
+        "verified": false
+      }
+    ]
+  }
+}

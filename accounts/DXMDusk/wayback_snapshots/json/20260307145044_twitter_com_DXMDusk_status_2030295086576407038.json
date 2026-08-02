@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030264889030389933",
+    "created_at": "2026-03-07T14:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030295086576407038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1497529598627696643",
+          "start": 0,
+          "username": "VisitWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030295086576407038",
+    "in_reply_to_user_id": "1497529598627696643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030264889030389933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VisitWZ 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2508,
+        "media_key": "3_2030264871863169024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzzJOdbsAAFHEr.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030264889030389933",
+        "created_at": "2026-03-07T14:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030295086576407038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1497529598627696643",
+              "start": 0,
+              "username": "VisitWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030295086576407038",
+        "in_reply_to_user_id": "1497529598627696643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030264889030389933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VisitWZ 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030264871863169024"
+          ]
+        },
+        "author_id": "1497529598627696643",
+        "conversation_id": "2030264889030389933",
+        "created_at": "2026-03-07T12:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030264889030389933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "感恩"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "推友"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "互关互赞"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1497529598627696643",
+              "start": 14,
+              "username": "VisitWZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrJQBy1e2q",
+              "end": 121,
+              "expanded_url": "https://x.com/VisitWZ/status/2030264889030389933/photo/1",
+              "media_key": "3_2030264871863169024",
+              "start": 98,
+              "url": "https://t.co/UrJQBy1e2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030264889030389933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "突破10,000粉丝，纪录哥@VisitWZ!🎉🎉🎉\n从0到1📈 ，感谢每一位推友的关注与互动。是你们的点赞和转发支撑我继续分享热爱。未来一路相伴，感恩有你！💖💖💖\n#感恩 #推友  #互关互赞 https://t.co/UrJQBy1e2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 511,
+          "like_count": 518,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 789
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T11:11:08.000Z",
+        "description": "💞 Thanks for your following. 💯互关互赞养成大号✨漏关请评论区留言🙅私信不回🚫黄赌毒币推绕行\n～～～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@visitwz",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@visitwz",
+                "start": 0,
+                "url": "https://t.co/dIGc9IkEoi"
+              }
+            ]
+          }
+        },
+        "id": "1497529598627696643",
+        "name": "纪录哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875508404367585280/uianGBIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10442,
+          "following_count": 8809,
+          "like_count": 20135,
+          "listed_count": 8,
+          "media_count": 761,
+          "tweet_count": 3871
+        },
+        "url": "https://t.co/dIGc9IkEoi",
+        "username": "VisitWZ",
+        "verified": true
+      }
+    ]
+  }
+}

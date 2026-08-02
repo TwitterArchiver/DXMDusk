@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025174717720920068"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025174720568799479",
+    "created_at": "2026-02-21T11:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025174720568799479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2OjYOuseY3",
+          "end": 43,
+          "expanded_url": "https://x.com/DXMDusk/status/2025174720568799479/photo/1",
+          "media_key": "3_2025174717720920068",
+          "start": 20,
+          "url": "https://t.co/2OjYOuseY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025174720568799479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在住大平层，家里有钢琴的是什么家庭， https://t.co/2OjYOuseY3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025174717720920068",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrdrQnbgAQiBtf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025174717720920068"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025174720568799479",
+        "created_at": "2026-02-21T11:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025174720568799479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2OjYOuseY3",
+              "end": 43,
+              "expanded_url": "https://x.com/DXMDusk/status/2025174720568799479/photo/1",
+              "media_key": "3_2025174717720920068",
+              "start": 20,
+              "url": "https://t.co/2OjYOuseY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025174720568799479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在住大平层，家里有钢琴的是什么家庭， https://t.co/2OjYOuseY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 181,
+          "like_count": 234,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 441
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

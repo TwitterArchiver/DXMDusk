@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029803051280900384",
+    "created_at": "2026-03-06T12:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029897658165493961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1881564611524313088",
+          "start": 0,
+          "username": "Foneoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029897658165493961",
+    "in_reply_to_user_id": "1881564611524313088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029803051280900384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Foneoy 好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029803038232432645",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtPG-HaUAULxdK.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029803051280900384",
+        "created_at": "2026-03-06T12:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029897658165493961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1881564611524313088",
+              "start": 0,
+              "username": "Foneoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029897658165493961",
+        "in_reply_to_user_id": "1881564611524313088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029803051280900384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Foneoy 好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029803038232432645"
+          ]
+        },
+        "author_id": "1881564611524313088",
+        "conversation_id": "2029803051280900384",
+        "created_at": "2026-03-06T06:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029803051280900384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4UVfwMm0M",
+              "end": 43,
+              "expanded_url": "https://x.com/Foneoy/status/2029803051280900384/photo/1",
+              "media_key": "3_2029803038232432645",
+              "start": 20,
+              "url": "https://t.co/A4UVfwMm0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029803051280900384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关一下兄弟们 暂时上限了 晚点回 https://t.co/A4UVfwMm0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 419,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 715
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-21T04:49:12.000Z",
+        "description": "美味烤面筋",
+        "id": "1881564611524313088",
+        "location": "Singapore",
+        "name": "小赖烤面筋（蓝V互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000314935591817216/CARewiI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1992,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 2713
+        },
+        "username": "Foneoy",
+        "verified": true
+      }
+    ]
+  }
+}

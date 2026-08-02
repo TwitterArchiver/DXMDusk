@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031632747291447600",
+    "created_at": "2026-03-11T12:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031701803189035139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031701803189035139",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031632747291447600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 自杀失败会比自杀本身痛苦无数倍，惩罚吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031632747291447600",
+        "created_at": "2026-03-11T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031701803189035139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031701803189035139",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031632747291447600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 自杀失败会比自杀本身痛苦无数倍，惩罚吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2031632747291447600",
+        "created_at": "2026-03-11T07:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031632747291447600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031632747291447600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6486,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明晚自杀，我已经美团买了止吐剂和增效，今晚去拿亚硝酸钠，明天喝之前我会上来发一条信息，如果我成功了三天后会有一条定时遗言，他们算东占和西占都是算出来我会第五次才成功，所以这次我大概率还会失败，醒来又是医院，我不知道这样做有什么理由，只是我想快进到第五次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 754,
+          "like_count": 936,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1166
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 230,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

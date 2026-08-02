@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031358579866022298",
+    "created_at": "2026-03-13T05:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032326047413473396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988537340906876928",
+          "start": 0,
+          "username": "KangHua8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032326047413473396",
+    "in_reply_to_user_id": "1988537340906876928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031358579866022298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KangHua8888 回了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2031358571632537603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDV27maMAMsU5q.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031358579866022298",
+        "created_at": "2026-03-13T05:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032326047413473396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988537340906876928",
+              "start": 0,
+              "username": "KangHua8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032326047413473396",
+        "in_reply_to_user_id": "1988537340906876928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031358579866022298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KangHua8888 回了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031358571632537603"
+          ]
+        },
+        "author_id": "1988537340906876928",
+        "conversation_id": "2031358579866022298",
+        "created_at": "2026-03-10T13:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031358579866022298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUKfN1Cuep",
+              "end": 184,
+              "expanded_url": "https://x.com/KangHua8888/status/2031358579866022298/photo/1",
+              "media_key": "3_2031358571632537603",
+              "start": 161,
+              "url": "https://t.co/TUKfN1Cuep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031358579866022298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“为什么我看好 龙虾？\n1️⃣ 极致通缩模型 🔥\n2️⃣ 社区共识极强 🤝\n3️⃣ 底部支撑稳如磐石 🧱\n蹭上OpenClaw AI智能体大热+深圳“龙虾十条”政策梗，中文社区直接玩疯了。\n这不是单纯的土狗，这是2026年开年第一个“中文叙事+AI+政策+meme”四合一的超级流量怪物！\n再犹豫，龙虾就真的要上天了🦞🚀\n这不仅仅是一次喊单，这是一场财富革命！给所有转发并评论 ‘龙虾🚀’ 的兄弟抽 6666666个🦞！”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“为什么我看好 龙虾？\n1️⃣ 极致通缩模型 🔥\n2️⃣ 社区共识极强 🤝\n3️⃣ 底部支撑稳如磐石 🧱\n蹭上OpenClaw AI智能体大热+深圳“龙虾十条”政策梗，中文社区直接玩疯了。\n这不是单纯的土狗，这是2026年开年第一个“中文叙事+AI+政策+meme”四合一的超级流量怪物！\n再犹豫，龙虾就真的要上天了🦞🚀 https://t.co/TUKfN1Cuep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 872,
+          "like_count": 1442,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1390
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-12T09:20:38.000Z",
+        "description": "🦞 龙虾币 首席布道者 | 早期钻石手 💎\n🌊 别在浅滩徘徊，跟上龙虾军团，目标是星辰大海！\n🚀 $龙虾不只是代币，它是海底的比特币。\n📈 拒绝踏空，现在不上船，以后只能看我们吃龙虾大餐！",
+        "id": "1988537340906876928",
+        "name": "龙虾船长 🦞 | Lobster King",
+        "pinned_tweet_id": "2031358579866022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031356407560417284/uIrGDTEo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 105,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "username": "KangHua8888",
+        "verified": true
+      }
+    ]
+  }
+}

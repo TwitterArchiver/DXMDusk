@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043835373181383022",
+    "created_at": "2026-04-14T08:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043976761713799572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535712523634511873",
+          "start": 0,
+          "username": "pannhiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043976761713799572",
+    "in_reply_to_user_id": "1535712523634511873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043976323618746467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pannhiro 没辙呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043835373181383022",
+        "created_at": "2026-04-14T08:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043976761713799572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535712523634511873",
+              "start": 0,
+              "username": "pannhiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043976761713799572",
+        "in_reply_to_user_id": "1535712523634511873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043976323618746467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pannhiro 没辙呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535712523634511873",
+        "conversation_id": "2043835373181383022",
+        "created_at": "2026-04-14T08:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043976323618746467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043976323618746467",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043835373181383022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 我的天，你是有什么招蚊子体质吗，怎么全都是烧鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 1122,
+          "like_count": 2182,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 2296
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-11T19:56:27.000Z",
+        "description": "",
+        "id": "1535712523634511873",
+        "name": "pa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535712978938785792/XnLpZiXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1256
+        },
+        "username": "pannhiro",
+        "verified": false
+      }
+    ]
+  }
+}

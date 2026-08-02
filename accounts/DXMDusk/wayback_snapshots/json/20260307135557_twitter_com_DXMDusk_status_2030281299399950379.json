@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030159754967011763",
+    "created_at": "2026-03-07T13:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030281299399950379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1957426434907254784",
+          "start": 0,
+          "username": "SCY_BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030281299399950379",
+    "in_reply_to_user_id": "1957426434907254784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030159754967011763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SCY_BTC 我会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2030159746817478658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyTiJJaUAIgFwj.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030159754967011763",
+        "created_at": "2026-03-07T13:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030281299399950379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957426434907254784",
+              "start": 0,
+              "username": "SCY_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030281299399950379",
+        "in_reply_to_user_id": "1957426434907254784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030159754967011763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SCY_BTC 我会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030159746817478658"
+          ]
+        },
+        "author_id": "1957426434907254784",
+        "conversation_id": "2030159754967011763",
+        "created_at": "2026-03-07T05:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030159754967011763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5YmowC2PJ",
+              "end": 35,
+              "expanded_url": "https://x.com/SCY_BTC/status/2030159754967011763/photo/1",
+              "media_key": "3_2030159746817478658",
+              "start": 12,
+              "url": "https://t.co/O5YmowC2PJ"
+            },
+            {
+              "display_url": "x.com/web3christo/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/web3christo/status/2029903754288574755",
+              "start": 36,
+              "url": "https://t.co/EMO9G4C459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030159754967011763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029903754288574755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "克里斯，你真的会回吗？ https://t.co/O5YmowC2PJ https://t.co/EMO9G4C459"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 502,
+          "like_count": 516,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 786
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T12:56:52.000Z",
+        "description": "TG：https://t.co/rVJyebh1XR｜#BSC 高级研究员冷静的现货交易员｜ #Alpha #二级交易 ｜以逻辑驱动收益，以研究赢得穿越 ｜ Drive profits with logic and win time travel with research｜#Binance ｜#BNB ｜合作DM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "BSC"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "Alpha"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "二级交易"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "tag": "Binance"
+              },
+              {
+                "end": 152,
+                "start": 148,
+                "tag": "BNB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SCY_BTC",
+                "end": 26,
+                "expanded_url": "https://t.me/SCY_BTC",
+                "start": 3,
+                "url": "https://t.co/rVJyebh1XR"
+              }
+            ]
+          }
+        },
+        "id": "1957426434907254784",
+        "location": "九龍城, 香港",
+        "name": "苏颖（颖姐聊币圈）",
+        "pinned_tweet_id": "2030004022011384210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016159334255009792/FkZkOFGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 2459,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2327
+        },
+        "username": "SCY_BTC",
+        "verified": true
+      }
+    ]
+  }
+}

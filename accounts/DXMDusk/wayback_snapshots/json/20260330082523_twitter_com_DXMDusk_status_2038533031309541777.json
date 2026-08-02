@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038515638512259118",
+    "created_at": "2026-03-30T08:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038533031309541777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038533031309541777",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038515638512259118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 好看🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2038515364175450112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpC7FbakAANLpQ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 3074,
+        "media_key": "3_2038515634351607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpDKz6bkAAngKL.jpg",
+        "width": 4096
+      },
+      {
+        "height": 471,
+        "media_key": "3_2038515295783145473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpC3Gpa0AEkQYG.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038515638512259118",
+        "created_at": "2026-03-30T08:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038533031309541777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038533031309541777",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038515638512259118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 好看🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038515364175450112",
+            "3_2038515634351607808",
+            "3_2038515295783145473"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "2038515638512259118",
+        "created_at": "2026-03-30T07:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038515638512259118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20384…",
+              "end": 98,
+              "expanded_url": "https://x.com/i/status/2038449604392611935",
+              "start": 75,
+              "url": "https://t.co/CBKqhvrk18"
+            },
+            {
+              "display_url": "pic.x.com/o6rQi3f05y",
+              "end": 122,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2038515638512259118/photo/1",
+              "media_key": "3_2038515364175450112",
+              "start": 99,
+              "url": "https://t.co/o6rQi3f05y"
+            },
+            {
+              "display_url": "pic.x.com/o6rQi3f05y",
+              "end": 122,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2038515638512259118/photo/1",
+              "media_key": "3_2038515634351607808",
+              "start": 99,
+              "url": "https://t.co/o6rQi3f05y"
+            },
+            {
+              "display_url": "pic.x.com/o6rQi3f05y",
+              "end": 122,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2038515638512259118/photo/1",
+              "media_key": "3_2038515295783145473",
+              "start": 99,
+              "url": "https://t.co/o6rQi3f05y"
+            },
+            {
+              "display_url": "x.com/himself65/stat…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/himself65/status/2031940859433033752",
+              "start": 123,
+              "url": "https://t.co/Y5SzwT7vJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038515638512259118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2629,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031940859433033752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花絮：尝试还原总书记英姿中……\n效果相当成功 构图和背景完全还原\n不过似乎地基翻修后变矮了 导致远处的桥墩变高了 以及人必须坐上栏杆x\n空景↓owo\nhttps://t.co/CBKqhvrk18 https://t.co/o6rQi3f05y https://t.co/Y5SzwT7vJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1074,
+          "like_count": 1846,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 1829
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/eietheenblacks…",
+                "end": 23,
+                "expanded_url": "https://t.me/eietheenblacksilk",
+                "start": 0,
+                "url": "https://t.co/hCc1qMgSfr"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26540,
+          "following_count": 14545,
+          "like_count": 2134,
+          "listed_count": 68,
+          "media_count": 2880,
+          "tweet_count": 9527
+        },
+        "url": "https://t.co/hCc1qMgSfr",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

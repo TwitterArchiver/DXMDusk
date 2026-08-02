@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038347668364328960",
+        "3_2038347668351856640"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      }
+    ],
+    "conversation_id": "2038347670901899703",
+    "created_at": "2026-03-29T20:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038347670901899703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v0eNt9LYvE",
+          "end": 41,
+          "expanded_url": "https://x.com/DXMDusk/status/2038347670901899703/photo/1",
+          "media_key": "3_2038347668364328960",
+          "start": 18,
+          "url": "https://t.co/v0eNt9LYvE"
+        },
+        {
+          "display_url": "pic.x.com/v0eNt9LYvE",
+          "end": 41,
+          "expanded_url": "https://x.com/DXMDusk/status/2038347670901899703/photo/1",
+          "media_key": "3_2038347668351856640",
+          "start": 18,
+          "url": "https://t.co/v0eNt9LYvE"
+        },
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2038286895172735320",
+          "start": 42,
+          "url": "https://t.co/quf20F3cWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038347670901899703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038286895172735320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢grok，这100元竟然找回了 https://t.co/v0eNt9LYvE https://t.co/quf20F3cWu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038347668364328960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmqZ52aAAA9-aI.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1109,
+        "media_key": "3_2038347668351856640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmqZ5zbsAALcSA.jpg",
+        "width": 1636
+      },
+      {
+        "height": 865,
+        "media_key": "3_2038286889049018368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElzIFQaUAAkzSy.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038347668364328960",
+            "3_2038347668351856640"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2038347670901899703",
+        "created_at": "2026-03-29T20:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038347670901899703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0eNt9LYvE",
+              "end": 41,
+              "expanded_url": "https://x.com/DXMDusk/status/2038347670901899703/photo/1",
+              "media_key": "3_2038347668364328960",
+              "start": 18,
+              "url": "https://t.co/v0eNt9LYvE"
+            },
+            {
+              "display_url": "pic.x.com/v0eNt9LYvE",
+              "end": 41,
+              "expanded_url": "https://x.com/DXMDusk/status/2038347670901899703/photo/1",
+              "media_key": "3_2038347668351856640",
+              "start": 18,
+              "url": "https://t.co/v0eNt9LYvE"
+            },
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2038286895172735320",
+              "start": 42,
+              "url": "https://t.co/quf20F3cWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038347670901899703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038286895172735320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢grok，这100元竟然找回了 https://t.co/v0eNt9LYvE https://t.co/quf20F3cWu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038286889049018368"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2038286895172735320",
+        "created_at": "2026-03-29T16:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038286895172735320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtAPh0dZb7",
+              "end": 124,
+              "expanded_url": "https://x.com/DXMDusk/status/2038286895172735320/photo/1",
+              "media_key": "3_2038286889049018368",
+              "start": 101,
+              "url": "https://t.co/LtAPh0dZb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038286895172735320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次真是犯蠢了。本来100元能搞定的事情，花了200元血亏100，原因是我看错币种，用USDT直接转USDC，但是由于USDT不能跨链转USDC，导致于直接损失100元，而且是找不回来，直接消失的那种 https://t.co/LtAPh0dZb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 1071,
+          "like_count": 1843,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 1799
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

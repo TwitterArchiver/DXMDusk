@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030712090760290682",
+    "created_at": "2026-03-09T08:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030918104692543653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030918104692543653",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030712090760290682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 历史在开倒车，鲁迅那个时代，反倒更开放包容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030712090760290682",
+        "created_at": "2026-03-09T08:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030918104692543653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030918104692543653",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030712090760290682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 历史在开倒车，鲁迅那个时代，反倒更开放包容"
+      },
+      {
+        "article": {
+          "title": "同性恋在20多年后的中国，又成了敏感词"
+        },
+        "attachments": {},
+        "author_id": "1804849792121499648",
+        "conversation_id": "2030712090760290682",
+        "created_at": "2026-03-08T18:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T19:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030712090760290682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2030…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2030666713889746944",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2030666713889746944",
+              "url": "https://t.co/L8epo42qy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030712090760290682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 50985,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L8epo42qy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 613,
+          "like_count": 609,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 920
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "平权 ｜只愛鏡音レン、棘刺❤️｜KU｜ 不喜欢我推R18",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫🔜平权🇹🇼🇰🇷🏳️‍🌈🇨🇳Amoris",
+        "pinned_tweet_id": "2030712090760290682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4362,
+          "following_count": 388,
+          "like_count": 28269,
+          "listed_count": 6,
+          "media_count": 63,
+          "tweet_count": 3624
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

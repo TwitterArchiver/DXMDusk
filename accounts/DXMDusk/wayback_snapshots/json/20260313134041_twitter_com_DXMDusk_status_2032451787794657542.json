@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032426439262482922",
+    "created_at": "2026-03-13T13:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032451787794657542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1784648063484821505",
+          "start": 0,
+          "username": "er04113"
+        },
+        {
+          "end": 23,
+          "id": "434494835",
+          "start": 9,
+          "username": "RealCoolZhuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032451787794657542",
+    "in_reply_to_user_id": "1784648063484821505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032426439262482922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er04113 @RealCoolZhuai 来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2032426430538342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDShEgBaYAAjOhd.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032426439262482922",
+        "created_at": "2026-03-13T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032451787794657542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1784648063484821505",
+              "start": 0,
+              "username": "er04113"
+            },
+            {
+              "end": 23,
+              "id": "434494835",
+              "start": 9,
+              "username": "RealCoolZhuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032451787794657542",
+        "in_reply_to_user_id": "1784648063484821505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032426439262482922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er04113 @RealCoolZhuai 来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032426430538342400"
+          ]
+        },
+        "author_id": "1784648063484821505",
+        "conversation_id": "2032426439262482922",
+        "created_at": "2026-03-13T11:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032426439262482922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "蓝v关注必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGoY6GwBpM",
+              "end": 96,
+              "expanded_url": "https://x.com/er04113/status/2032426439262482922/photo/1",
+              "media_key": "3_2032426430538342400",
+              "start": 73,
+              "url": "https://t.co/WGoY6GwBpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032426439262482922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V报道 👋\n不刷量、不套路，只做真实互关。\n关注即回，长期在线，欢迎各领域蓝V一起交流运营经验。\n互关走起，让账号不再孤单 ✨\n#蓝v关注必回 https://t.co/WGoY6GwBpM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 890,
+          "like_count": 1471,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1420
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-28T18:17:20.000Z",
+        "description": "对生活充满希望的小透明   现在很菜，但每天都在偷偷努力学习和变好   相信努力会发光，2026一定越来越好✨   加密/Web3/钱包/偶尔抽奖/爱看别人暴富（羡慕）",
+        "id": "1784648063484821505",
+        "name": "二哈",
+        "pinned_tweet_id": "2032315505399545999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784648519552499713/cQQ4fC5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1331,
+          "like_count": 2542,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2087
+        },
+        "username": "er04113",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-11T23:03:25.000Z",
+        "description": "🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/RealCoolZhuai",
+                "end": 23,
+                "expanded_url": "https://x.com/RealCoolZhuai",
+                "start": 0,
+                "url": "https://t.co/DA7fHXZPtH"
+              }
+            ]
+          }
+        },
+        "id": "434494835",
+        "location": "x.com/RealCoolZhuai",
+        "name": "CooL拽｜娱乐⭕️",
+        "pinned_tweet_id": "2032038681008377930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863395613814784/tU1Wgks2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 568,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/DA7fHXZPtH",
+        "username": "RealCoolZhuai",
+        "verified": true
+      }
+    ]
+  }
+}

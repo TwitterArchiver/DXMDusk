@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040455831213453771",
+    "created_at": "2026-04-05T09:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040727462917898629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2039927933108903936",
+          "start": 0,
+          "username": "H3mxc"
+        },
+        {
+          "end": 18,
+          "id": "1637154854677401600",
+          "start": 7,
+          "username": "xiaomianTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040727462917898629",
+    "in_reply_to_user_id": "2039927933108903936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040726631384494267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H3mxc @xiaomianTT 只是不喜欢被背后说闲话而已，而且是朋友发我，我才知道这件事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040455831213453771",
+        "created_at": "2026-04-05T09:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040727462917898629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2039927933108903936",
+              "start": 0,
+              "username": "H3mxc"
+            },
+            {
+              "end": 18,
+              "id": "1637154854677401600",
+              "start": 7,
+              "username": "xiaomianTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040727462917898629",
+        "in_reply_to_user_id": "2039927933108903936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040726631384494267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H3mxc @xiaomianTT 只是不喜欢被背后说闲话而已，而且是朋友发我，我才知道这件事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039927933108903936",
+        "conversation_id": "2040455831213453771",
+        "created_at": "2026-04-05T09:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040726631384494267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 20,
+              "id": "1637154854677401600",
+              "start": 9,
+              "username": "xiaomianTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040726631384494267",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040725986631925998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @xiaomianTT 不要以为发这个会让我愧疚😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 1101,
+          "like_count": 2043,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2075
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T04:48:38.000Z",
+        "description": "",
+        "id": "2039927933108903936",
+        "name": "H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040033069135273984/j1SoXmlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "H3mxc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T18:11:56.000Z",
+        "description": "les/0.5switch单身",
+        "id": "1637154854677401600",
+        "name": "怎么每天都好困",
+        "pinned_tweet_id": "2028597800603435392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034659743445516288/E0HahRP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 270,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 129
+        },
+        "username": "xiaomianTT",
+        "verified": false
+      }
+    ]
+  }
+}

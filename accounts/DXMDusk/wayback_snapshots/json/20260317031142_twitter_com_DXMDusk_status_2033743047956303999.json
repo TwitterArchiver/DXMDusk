@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033438291773862197",
+    "created_at": "2026-03-17T03:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033743047956303999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3319885484",
+          "start": 0,
+          "username": "LaWbda"
+        },
+        {
+          "end": 22,
+          "id": "3318278592",
+          "start": 8,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033743047956303999",
+    "in_reply_to_user_id": "3319885484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033459372475728084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaWbda @BigglesworthX 你还是那么喜欢足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033438291773862197",
+        "created_at": "2026-03-17T03:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033743047956303999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3319885484",
+              "start": 0,
+              "username": "LaWbda"
+            },
+            {
+              "end": 22,
+              "id": "3318278592",
+              "start": 8,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033743047956303999",
+        "in_reply_to_user_id": "3319885484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033459372475728084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaWbda @BigglesworthX 你还是那么喜欢足"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3319885484",
+        "conversation_id": "2033438291773862197",
+        "created_at": "2026-03-16T08:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033459372475728084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033459372475728084",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033438291773862197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 宝宝脚脚发少了，想要更多😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1017,
+          "like_count": 1749,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 1565
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "半生因果，缘起我执| Programmer | Nekomancer. Wish all my friends live long and prosper. 最好的大猫: @Iceblue_Sakura, 天然呆妹妹:@qiyishi512（转生版）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "qiyishi512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1809946193080017312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 3930,
+          "like_count": 43497,
+          "listed_count": 11,
+          "media_count": 1377,
+          "tweet_count": 24234
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 821,
+          "like_count": 2828,
+          "listed_count": 3,
+          "media_count": 1137,
+          "tweet_count": 5457
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

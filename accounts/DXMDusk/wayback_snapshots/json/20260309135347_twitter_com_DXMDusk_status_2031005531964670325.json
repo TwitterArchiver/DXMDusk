@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031005499156738048"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2031005531964670325",
+    "created_at": "2026-03-09T13:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031005531964670325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8PVJ4bXWy",
+          "end": 78,
+          "expanded_url": "https://x.com/DXMDusk/status/2031005531964670325/photo/1",
+          "media_key": "3_2031005499156738048",
+          "start": 55,
+          "url": "https://t.co/P8PVJ4bXWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031005531964670325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看电影‘漂亮朋友’后明白互相绿一绿的电影感触还挺有意思，就是弹幕上出现的\n‘爱德华的感觉’\n看的让我好出戏啊 https://t.co/P8PVJ4bXWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2031005499156738048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-UvaIaMAANXsP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031005499156738048"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2031005531964670325",
+        "created_at": "2026-03-09T13:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031005531964670325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8PVJ4bXWy",
+              "end": 78,
+              "expanded_url": "https://x.com/DXMDusk/status/2031005531964670325/photo/1",
+              "media_key": "3_2031005499156738048",
+              "start": 55,
+              "url": "https://t.co/P8PVJ4bXWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031005531964670325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看电影‘漂亮朋友’后明白互相绿一绿的电影感触还挺有意思，就是弹幕上出现的\n‘爱德华的感觉’\n看的让我好出戏啊 https://t.co/P8PVJ4bXWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 632,
+          "like_count": 640,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 957
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

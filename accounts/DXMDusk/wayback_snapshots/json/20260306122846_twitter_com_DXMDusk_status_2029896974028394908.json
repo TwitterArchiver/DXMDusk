@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029844215039996156",
+    "created_at": "2026-03-06T12:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029896974028394908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1582293653837742080",
+          "start": 0,
+          "username": "diergeya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029896974028394908",
+    "in_reply_to_user_id": "1582293653837742080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029844215039996156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diergeya 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34690,
+        "height": 1280,
+        "media_key": "13_2029843999406571521",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029843999406571521/img/wuiVogLqlVqItvmP.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029843999406571521/vid/avc1/320x568/wCw3zK80u57HXYdi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029843999406571521/vid/avc1/480x852/4l-ofs8aO5va04DF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029843999406571521/vid/avc1/720x1280/t30KxzTF-RwfIfJF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029843999406571521/pl/v2FQpYiMvTEa8rpP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029844215039996156",
+        "created_at": "2026-03-06T12:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029896974028394908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1582293653837742080",
+              "start": 0,
+              "username": "diergeya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029896974028394908",
+        "in_reply_to_user_id": "1582293653837742080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029844215039996156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diergeya 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029843999406571521"
+          ]
+        },
+        "author_id": "1582293653837742080",
+        "conversation_id": "2029844215039996156",
+        "created_at": "2026-03-06T08:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029844215039996156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17bLynHWpE",
+              "end": 40,
+              "expanded_url": "https://x.com/diergeya/status/2029844215039996156/video/1",
+              "media_key": "13_2029843999406571521",
+              "start": 17,
+              "url": "https://t.co/17bLynHWpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029844215039996156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边互关一边看美女\n\n#蓝V互关 https://t.co/17bLynHWpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 419,
+          "like_count": 480,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 712
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-18T08:53:22.000Z",
+        "description": "🌊 链上冰棍 / 凉飕飕交易员\n🧊 囤币、吃瓜、偶尔梭哈\n🔗 佛系持币 认真生活\n📩 合作 / 交流 DM open",
+        "id": "1582293653837742080",
+        "name": "链上冰棍",
+        "pinned_tweet_id": "1640543321566359552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688880688295231488/72UmJfSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2560,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 5201
+        },
+        "username": "diergeya",
+        "verified": true
+      }
+    ]
+  }
+}

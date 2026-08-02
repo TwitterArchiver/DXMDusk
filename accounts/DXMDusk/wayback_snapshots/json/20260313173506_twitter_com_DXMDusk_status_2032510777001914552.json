@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032358310834553295",
+    "created_at": "2026-03-13T17:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032510777001914552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2180115441",
+          "start": 0,
+          "username": "LLucianobogus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032510777001914552",
+    "in_reply_to_user_id": "2180115441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032358310834553295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LLucianobogus 好，一起加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032358310834553295",
+        "created_at": "2026-03-13T17:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032510777001914552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2180115441",
+              "start": 0,
+              "username": "LLucianobogus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032510777001914552",
+        "in_reply_to_user_id": "2180115441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032358310834553295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLucianobogus 好，一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2180115441",
+        "conversation_id": "2032358310834553295",
+        "created_at": "2026-03-13T07:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032358310834553295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032358310834553295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1147,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关一波，有关必回，在线秒回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 897,
+          "like_count": 1477,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1430
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-13T21:41:36.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/F5ngCYpFn5 预测市场最快的跟单平台PolyCop：https://t.co/zsZf6K1ZMT 加入我的PolyMarket电报群：https://t.co/644KLNSmbX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?via=YINGGE…",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?via=YINGGE888",
+                "start": 17,
+                "url": "https://t.co/F5ngCYpFn5"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/zsZf6K1ZMT"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/644KLNSmbX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/ok168",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/ok168",
+                "start": 0,
+                "url": "https://t.co/bOHo9QOpmJ"
+              }
+            ]
+          }
+        },
+        "id": "2180115441",
+        "location": "币圈你需要的全部工具👉",
+        "name": "币圈精英",
+        "pinned_tweet_id": "2032292760766857388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015608777425457152/A8gHcBlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 811,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 1425,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/bOHo9QOpmJ",
+        "username": "LLucianobogus",
+        "verified": true
+      }
+    ]
+  }
+}

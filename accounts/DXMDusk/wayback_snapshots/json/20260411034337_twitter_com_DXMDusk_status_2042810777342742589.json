@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042810775274950657"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2042460707208511723",
+    "created_at": "2026-04-11T03:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042810777342742589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1230415174999277568",
+          "start": 0,
+          "username": "Romosk3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hto7Si6a1b",
+          "end": 44,
+          "expanded_url": "https://x.com/DXMDusk/status/2042810777342742589/photo/1",
+          "media_key": "3_2042810775274950657",
+          "start": 21,
+          "url": "https://t.co/hto7Si6a1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042810777342742589",
+    "in_reply_to_user_id": "1230415174999277568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042740300179964144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Romosk3 我更希望自己是一无所知 https://t.co/hto7Si6a1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2042810775274950657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmFk6uakAE_Ni2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 652,
+        "media_key": "3_2042740298535833600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlFeoaakAAZvkH.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042810775274950657"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2042460707208511723",
+        "created_at": "2026-04-11T03:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042810777342742589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1230415174999277568",
+              "start": 0,
+              "username": "Romosk3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hto7Si6a1b",
+              "end": 44,
+              "expanded_url": "https://x.com/DXMDusk/status/2042810777342742589/photo/1",
+              "media_key": "3_2042810775274950657",
+              "start": 21,
+              "url": "https://t.co/hto7Si6a1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042810777342742589",
+        "in_reply_to_user_id": "1230415174999277568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042740300179964144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Romosk3 我更希望自己是一无所知 https://t.co/hto7Si6a1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042740298535833600"
+          ]
+        },
+        "author_id": "1230415174999277568",
+        "conversation_id": "2042460707208511723",
+        "created_at": "2026-04-10T23:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042740300179964144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxOYEDpZv5",
+              "end": 32,
+              "expanded_url": "https://x.com/Romosk3/status/2042740300179964144/photo/1",
+              "media_key": "3_2042740298535833600",
+              "start": 9,
+              "url": "https://t.co/xxOYEDpZv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042740300179964144",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042460707208511723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk https://t.co/xxOYEDpZv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1101,
+          "like_count": 2078,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 2173
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-20T08:53:40.000Z",
+        "description": "新西兰籍/\n中文↑|英文↑|日语→|法语↓\n21yo BSc第四年 控制工学/\n常住东京上海/\n想当工程师/BPD/****/",
+        "id": "1230415174999277568",
+        "location": "Tokyo",
+        "name": "椿霜 楠灯 TsubashimoNanato",
+        "pinned_tweet_id": "1895176405484478511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949609976613531648/l5O68o6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 71,
+          "like_count": 7340,
+          "listed_count": 3,
+          "media_count": 2309,
+          "tweet_count": 8792
+        },
+        "username": "Romosk3",
+        "verified": false
+      }
+    ]
+  }
+}

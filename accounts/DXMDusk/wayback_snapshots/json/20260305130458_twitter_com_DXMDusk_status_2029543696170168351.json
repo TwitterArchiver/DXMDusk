@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029154768837562391",
+    "created_at": "2026-03-05T13:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T14:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029543696170168351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1881564611524313088",
+          "start": 0,
+          "username": "Foneoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029543696170168351",
+    "in_reply_to_user_id": "1881564611524313088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029154768837562391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Foneoy 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2029154761619210240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkBgTibAAAWxzF.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029154768837562391",
+        "created_at": "2026-03-05T13:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029543696170168351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1881564611524313088",
+              "start": 0,
+              "username": "Foneoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029543696170168351",
+        "in_reply_to_user_id": "1881564611524313088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029154768837562391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Foneoy 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029154761619210240"
+          ]
+        },
+        "author_id": "1881564611524313088",
+        "conversation_id": "2029154768837562391",
+        "created_at": "2026-03-04T11:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029154768837562391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "互关"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "互fo"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "推特互关"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "涨粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8N8G377T7",
+              "end": 120,
+              "expanded_url": "https://x.com/Foneoy/status/2029154768837562391/photo/1",
+              "media_key": "3_2029154761619210240",
+              "start": 97,
+              "url": "https://t.co/L8N8G377T7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029154768837562391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关互fo 一起冲1900粉！\n新号起步 诚心互关 有回必关 绝不单向！\n喜欢币圈、资讯、干货、日常唠嗑的朋友欢迎来戳～\n关注我＝马上回关，一起涨粉起飞🚀\n#互关 #互fo #推特互关 #涨粉 https://t.co/L8N8G377T7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 345,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 682
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-21T04:49:12.000Z",
+        "description": "美味烤面筋",
+        "id": "1881564611524313088",
+        "location": "Singapore",
+        "name": "小赖烤面筋（蓝V互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000314935591817216/CARewiI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 1810,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2378
+        },
+        "username": "Foneoy",
+        "verified": true
+      }
+    ]
+  }
+}

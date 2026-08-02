@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040759118189736268",
+    "created_at": "2026-04-05T11:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040759118189736268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2040749451745337656",
+          "start": 143,
+          "url": "https://t.co/Kcthyoit36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040759118189736268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "世末歌者（乐正绫原创）\n\n蝉时雨 化成淡墨渲染暮色\n渗透着 勾勒出足迹与车辙\n欢笑声 与漂浮的水汽饱和\n隔着窗 同城市一并模糊了\n拨弄着 旧吉他 哼着四拍子的歌\n回音中 一个人 仿佛颇悠然自得\n等凉雨 的温度 将不安燥热中和\n寻觅着 风的波折\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 唱着没有听众的歌曲\n人潮仍是漫无目的地向目的地散去\n忙碌着 无为着 继续\n等待着谁能够将我的心房轻轻叩击\n即使是你 也仅仅驻足了片刻便离去\n想着或许 下个路口会有谁与我相遇\n哪怕只 一瞬的 奇迹\n夏夜空 出现在遥远的记忆\n绽放的 璀璨花火拥着繁星\n消失前 做出最温柔的给予\n一如那些模糊身影的别离\n困惑地 拘束着 如城市池中之鱼\n或哽咽 或低泣 都融进了泡沫里\n拖曳疲惫身躯 沉入冰冷的池底\n注视着 色彩褪去\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 唱着没有听众的歌曲\n人潮仍是漫无目的地向目的地散去\n忙碌着 无为着 继续\n祈求着谁能够将我的心房轻轻叩击\n今天的你是否会留意并尝试去靠近\n因为或许 下个路口仍是同样的结局\n不存在 刹那的 奇迹\n极夜与永昼\n别离与欢聚\n脉搏与呼吸\n找寻着意义\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 唱着卖不出去的歌曲\n浮游之人也挣扎不已执着存在下去\n追逐着 梦想着 继续\n请别让我独自匍匐于滂沱世末之雨\n和着雨音 唱着见证终结的歌曲\n人们终于 结束了寻觅呆滞伫立原地\n哭泣着 乞求着 奇迹\n用这双手 拨出残缺染了锈迹的弦音\n都隐没于淋漓的雨幕无声无息\n曲终之时 你是否便会回应我的心音\n将颤抖的双手牵起\n迎来每个人的结局"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040749451745337656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "世末歌者（乐正绫原创）\n\n蝉时雨 化成淡墨渲染暮色\n渗透着 勾勒出足迹与车辙\n欢笑声 与漂浮的水汽饱和\n隔着窗 同城市一并模糊了\n拨弄着 旧吉他 哼着四拍子的歌\n回音中 一个人 仿佛颇悠然自得\n等凉雨 的温度 将不安燥热中和\n寻觅着 风的波折\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 https://t.co/Kcthyoit36"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040759118189736268",
+        "created_at": "2026-04-05T11:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040759118189736268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2040749451745337656",
+              "start": 143,
+              "url": "https://t.co/Kcthyoit36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040759118189736268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "世末歌者（乐正绫原创）\n\n蝉时雨 化成淡墨渲染暮色\n渗透着 勾勒出足迹与车辙\n欢笑声 与漂浮的水汽饱和\n隔着窗 同城市一并模糊了\n拨弄着 旧吉他 哼着四拍子的歌\n回音中 一个人 仿佛颇悠然自得\n等凉雨 的温度 将不安燥热中和\n寻觅着 风的波折\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 唱着没有听众的歌曲\n人潮仍是漫无目的地向目的地散去\n忙碌着 无为着 继续\n等待着谁能够将我的心房轻轻叩击\n即使是你 也仅仅驻足了片刻便离去\n想着或许 下个路口会有谁与我相遇\n哪怕只 一瞬的 奇迹\n夏夜空 出现在遥远的记忆\n绽放的 璀璨花火拥着繁星\n消失前 做出最温柔的给予\n一如那些模糊身影的别离\n困惑地 拘束着 如城市池中之鱼\n或哽咽 或低泣 都融进了泡沫里\n拖曳疲惫身躯 沉入冰冷的池底\n注视着 色彩褪去\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 唱着没有听众的歌曲\n人潮仍是漫无目的地向目的地散去\n忙碌着 无为着 继续\n祈求着谁能够将我的心房轻轻叩击\n今天的你是否会留意并尝试去靠近\n因为或许 下个路口仍是同样的结局\n不存在 刹那的 奇迹\n极夜与永昼\n别离与欢聚\n脉搏与呼吸\n找寻着意义\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 唱着卖不出去的歌曲\n浮游之人也挣扎不已执着存在下去\n追逐着 梦想着 继续\n请别让我独自匍匐于滂沱世末之雨\n和着雨音 唱着见证终结的歌曲\n人们终于 结束了寻觅呆滞伫立原地\n哭泣着 乞求着 奇迹\n用这双手 拨出残缺染了锈迹的弦音\n都隐没于淋漓的雨幕无声无息\n曲终之时 你是否便会回应我的心音\n将颤抖的双手牵起\n迎来每个人的结局"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040749451745337656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世末歌者（乐正绫原创）\n\n蝉时雨 化成淡墨渲染暮色\n渗透着 勾勒出足迹与车辙\n欢笑声 与漂浮的水汽饱和\n隔着窗 同城市一并模糊了\n拨弄着 旧吉他 哼着四拍子的歌\n回音中 一个人 仿佛颇悠然自得\n等凉雨 的温度 将不安燥热中和\n寻觅着 风的波折\n我仍然在无人问津的阴雨霉湿之地\n和着雨音 https://t.co/Kcthyoit36"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2040749451745337656",
+        "created_at": "2026-04-05T11:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040749451745337656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040749451745337656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【喜报】【神话贺电】\n【乐正绫】 世末歌者 （COPY）（av6009789）\n投稿时间 2016-08-25 22:15\n达成时间 2026-04-05 19:01 （10000001）\n所用时间 3509日20时46分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 1101,
+          "like_count": 2045,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2080
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040480131547099136/FcmW9ihC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 1467,
+          "like_count": 38916,
+          "listed_count": 7,
+          "media_count": 1631,
+          "tweet_count": 11407
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

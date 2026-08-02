@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026833256302207194",
+    "created_at": "2026-02-26T01:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026833684473795016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552795969959636992",
+          "start": 0,
+          "username": "EndWokeness"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026833684473795016",
+    "in_reply_to_user_id": "1552795969959636992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026833256302207194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EndWokeness How do these felons keep getting out? Liberal judges. They should be thrown off the bench for thisOr better yet.... Serve some years in prison!"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12933,
+        "height": 1920,
+        "media_key": "13_2026831229983539200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026831229983539200/img/ix-_Mw3hm3BKW8I5.jpg",
+        "public_metrics": {
+          "view_count": 2069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026831229983539200/vid/avc1/1080x1920/cbLwkLRLFNPdmuLF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026831229983539200/vid/avc1/720x1280/N2XLvx7fmJzImj5O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026831229983539200/pl/dCrnmdcdw2UPgW9i.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026831229983539200/vid/avc1/320x568/z_ErxG00JZAZ1PUS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026831229983539200/vid/avc1/480x852/92IHPYpNz9au0mV4.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 900,
+        "media_key": "3_2026831229949976576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDAQ9jWIAAOBV_.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026833256302207194",
+        "created_at": "2026-02-26T01:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026833684473795016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552795969959636992",
+              "start": 0,
+              "username": "EndWokeness"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026833684473795016",
+        "in_reply_to_user_id": "1552795969959636992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026833256302207194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EndWokeness How do these felons keep getting out? Liberal judges. They should be thrown off the bench for thisOr better yet.... Serve some years in prison!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026831229983539200",
+            "3_2026831229949976576"
+          ]
+        },
+        "author_id": "1552795969959636992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2026833256302207194",
+        "created_at": "2026-02-26T01:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:26:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026831301064470623",
+          "2026833256302207194"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Daniel Figueroa",
+              "probability": 0.9378,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Chicago",
+              "probability": 0.955,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Montoya Perry",
+              "probability": 0.8339,
+              "start": 88,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HA3baWUCLC",
+              "end": 208,
+              "expanded_url": "https://x.com/EndWokeness/status/2026833256302207194/video/1",
+              "media_key": "13_2026831229983539200",
+              "start": 185,
+              "url": "https://t.co/HA3baWUCLC"
+            },
+            {
+              "display_url": "pic.x.com/HA3baWUCLC",
+              "end": 208,
+              "expanded_url": "https://x.com/EndWokeness/status/2026833256302207194/video/1",
+              "media_key": "3_2026831229949976576",
+              "start": 185,
+              "url": "https://t.co/HA3baWUCLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026833256302207194",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1244,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "SAY HIS NAME: Daniel Figueroa (28)\n\nHe was carjacked and kiIIed in Chicago this week by Montoya Perry. She had multiple arrests, and eight felonies.\n\nShe was recently freed on $0 bail. https://t.co/HA3baWUCLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 248,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 611
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T23:20:28.000Z",
+        "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+        "id": "1552795969959636992",
+        "name": "End Wokeness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3923941,
+          "following_count": 1351,
+          "like_count": 19043,
+          "listed_count": 8806,
+          "media_count": 11256,
+          "tweet_count": 22594
+        },
+        "username": "EndWokeness",
+        "verified": true
+      }
+    ]
+  }
+}

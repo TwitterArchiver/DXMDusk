@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030851219896619009"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030851222404780346",
+    "created_at": "2026-03-09T03:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030851222404780346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhtICc5Swb",
+          "end": 106,
+          "expanded_url": "https://x.com/DXMDusk/status/2030851222404780346/photo/1",
+          "media_key": "3_2030851219896619009",
+          "start": 83,
+          "url": "https://t.co/JhtICc5Swb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030851222404780346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哌甲酯咀嚼片10mg含服，味道很好，但说不上来是什么口味，甜甜的好吃，\n第一次只做尝试，先服用半片试试效果，10mg哌甲酯咀嚼片含服，大约1分钟完全含服溶解服用完毕 https://t.co/JhtICc5Swb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030851219896619009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8IbLGbUAExvVR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030851219896619009"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030851222404780346",
+        "created_at": "2026-03-09T03:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030851222404780346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhtICc5Swb",
+              "end": 106,
+              "expanded_url": "https://x.com/DXMDusk/status/2030851222404780346/photo/1",
+              "media_key": "3_2030851219896619009",
+              "start": 83,
+              "url": "https://t.co/JhtICc5Swb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030851222404780346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哌甲酯咀嚼片10mg含服，味道很好，但说不上来是什么口味，甜甜的好吃，\n第一次只做尝试，先服用半片试试效果，10mg哌甲酯咀嚼片含服，大约1分钟完全含服溶解服用完毕 https://t.co/JhtICc5Swb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 595,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 881
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

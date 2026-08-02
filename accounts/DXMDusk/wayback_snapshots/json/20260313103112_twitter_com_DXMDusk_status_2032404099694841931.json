@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032288514914898411",
+    "created_at": "2026-03-13T10:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032404099694841931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905843719770910720",
+          "start": 0,
+          "username": "baidashi996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032404099694841931",
+    "in_reply_to_user_id": "1905843719770910720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032288514914898411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baidashi996 互了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7366,
+        "height": 720,
+        "media_key": "13_2032288129546403840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032288129546403840/img/YwcRsPZYCVGeUosn.jpg",
+        "public_metrics": {
+          "view_count": 96
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032288129546403840/vid/avc1/480x270/JFnLelF1J9Bni05w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032288129546403840/vid/avc1/640x360/Q2HfjqHZ_hhfBMVY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032288129546403840/vid/avc1/1280x720/R07FEfhfrd0rd5Vk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032288129546403840/pl/dLwBGOfW3y6I6in3.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032288514914898411",
+        "created_at": "2026-03-13T10:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032404099694841931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905843719770910720",
+              "start": 0,
+              "username": "baidashi996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032404099694841931",
+        "in_reply_to_user_id": "1905843719770910720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032288514914898411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baidashi996 互了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032288129546403840"
+          ]
+        },
+        "author_id": "1905843719770910720",
+        "conversation_id": "2032288514914898411",
+        "created_at": "2026-03-13T02:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032288514914898411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "互关必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMYmujIeR2",
+              "end": 43,
+              "expanded_url": "https://x.com/baidashi996/status/2032288514914898411/video/1",
+              "media_key": "13_2032288129546403840",
+              "start": 20,
+              "url": "https://t.co/fMYmujIeR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032288514914898411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想文案真费劲，想你就不会~\n#互关必回 https://t.co/fMYmujIeR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 882,
+          "like_count": 1462,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1412
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T04:45:40.000Z",
+        "description": "实践是检验真理的唯一标准，不定期分享可撸项目，做一个实在的KOL。🧠SENT 蓝鸟会🕊\n—— 一万U起步，目标千倍。",
+        "id": "1905843719770910720",
+        "name": "爱吃西红柿🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990684631205908480/5fkze0Pj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 1921,
+          "like_count": 892,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 884
+        },
+        "username": "baidashi996",
+        "verified": true
+      }
+    ]
+  }
+}

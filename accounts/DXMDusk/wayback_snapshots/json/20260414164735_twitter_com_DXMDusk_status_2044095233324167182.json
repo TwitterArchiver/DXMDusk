@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044095220766367744"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2044095233324167182",
+    "created_at": "2026-04-14T16:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044095233324167182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ce2TKdpvH6",
+          "end": 49,
+          "expanded_url": "https://x.com/DXMDusk/status/2044095233324167182/photo/1",
+          "media_key": "3_2044095220766367744",
+          "start": 26,
+          "url": "https://t.co/ce2TKdpvH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044095233324167182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "又一次结束，顺便数了一下剩下的雌，估计还够用五个月 https://t.co/ce2TKdpvH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2044095220766367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4VxfDaYAALG8L.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044095220766367744"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2044095233324167182",
+        "created_at": "2026-04-14T16:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044095233324167182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ce2TKdpvH6",
+              "end": 49,
+              "expanded_url": "https://x.com/DXMDusk/status/2044095233324167182/photo/1",
+              "media_key": "3_2044095220766367744",
+              "start": 26,
+              "url": "https://t.co/ce2TKdpvH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044095233324167182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "又一次结束，顺便数了一下剩下的雌，估计还够用五个月 https://t.co/ce2TKdpvH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 1129,
+          "like_count": 2208,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 2323
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

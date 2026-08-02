@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031334847180939471",
+    "created_at": "2026-03-10T15:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031398093762211878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031398093762211878",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031334847180939471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 互来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_2031334693959077888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDAJEVbkAAA1sy.png",
+        "width": 1677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031334847180939471",
+        "created_at": "2026-03-10T15:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031398093762211878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031398093762211878",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031334847180939471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 互来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031334693959077888"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2031334847180939471",
+        "created_at": "2026-03-10T11:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031334847180939471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLuKqABsBW",
+              "end": 119,
+              "expanded_url": "https://x.com/TOOBE775/status/2031334847180939471/photo/1",
+              "media_key": "3_2031334693959077888",
+              "start": 96,
+              "url": "https://t.co/DLuKqABsBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031334847180939471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天两个关于5M流量门槛的帖子小爆了一下，是我没想到的。看来老实人终究会有回报。\n说说这两个月的心得吧，和大家共勉。\n也是听说老马涨工资了才杀来的，费了半天劲买的会员，大家应该都经历过都懂。\n5K关注和5M流量，我把目标放在了流量上，那才是硬指标。关注就随它去吧，反正开完蓝V一定会达到，这也是我才1K关注的原因。\n对每一个关注者我都认真对待，打开主页点赞留言，用我擅长的毒舌方式留下印记，对方能不能记住那我就不知道了，反正我没经历过掉粉，也许记性不好忘了掉没掉，也不管了。\n对大V帖子回复我是及其认真的，整个春节我都没闲着，一天回复几百条应该是有的。我把看完的内容凝成一句话，力求做到简单明了，绝不拖拉，完事走人回复下一条。\n我一天几百回复，能爆出的回复也就两三个，但剩下的回复也带来不小的流量。你得勤奋，广撒网少捕鱼。\n我自己发的帖子就别提了，流量拉跨得自己都不忍心看，发完帖子赶紧关掉界面，也就是说5M流量全靠蹭来的。\n千万别小看蹭流量，我最高的回复24万流量，甚至反哺了原帖。\n总结一下吧：\n一，找到5M主要目标坚决执行，\n二，认真对待，认真对待，认真对待。\n三，忽略其它因素，别被干扰，眼里只有目的地。\n想不出还有别的了，还有什么大家补充一下吧，交流嘛，别控制。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1076,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天两个关于5M流量门槛的帖子小爆了一下，是我没想到的。看来老实人终究会有回报。\n说说这两个月的心得吧，和大家共勉。\n也是听说老马涨工资了才杀来的，费了半天劲买的会员，大家应该都经历过都懂。 https://t.co/DLuKqABsBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 691,
+          "like_count": 741,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1034
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂了人性，却依旧被生活按头教育、社会反复毒打，嘴硬至今。",
+        "id": "1871529139720863744",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2031180403617444018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022668758897307648/al3mWURP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1454,
+          "like_count": 3277,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3777
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

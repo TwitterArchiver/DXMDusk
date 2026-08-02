@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029731750008738190",
+    "created_at": "2026-03-06T12:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029899439939461497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2752200328",
+          "start": 0,
+          "username": "ElisaEnjoy16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029899439939461497",
+    "in_reply_to_user_id": "2752200328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029731750008738190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElisaEnjoy16 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_2029731744921124864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsORJ1bgAAmz3U.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029731750008738190",
+        "created_at": "2026-03-06T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029899439939461497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2752200328",
+              "start": 0,
+              "username": "ElisaEnjoy16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029899439939461497",
+        "in_reply_to_user_id": "2752200328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029731750008738190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElisaEnjoy16 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029731744921124864"
+          ]
+        },
+        "author_id": "2752200328",
+        "conversation_id": "2029731750008738190",
+        "created_at": "2026-03-06T01:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029731750008738190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIhZkTK39t",
+              "end": 124,
+              "expanded_url": "https://x.com/ElisaEnjoy16/status/2029731750008738190/photo/1",
+              "media_key": "3_2029731744921124864",
+              "start": 101,
+              "url": "https://t.co/gIhZkTK39t"
+            },
+            {
+              "display_url": "x.com/elisaenjoy16/s…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/elisaenjoy16/status/2028814232368931265",
+              "start": 125,
+              "url": "https://t.co/mf8wnJmucf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029731750008738190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7460,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 142,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028814232368931265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝V老师们，继续互关起来~\n\n如果你不是内容大牛，那么抱团取暖就是账号0-1冷启动的最佳方式✅\n\n一边做内容，一边做账号，一起加油~~\n\n可以在下面留言，我都会挨个回关，也欢迎借楼互关🥰\n\n#蓝V互关 https://t.co/gIhZkTK39t https://t.co/mf8wnJmucf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 424,
+          "like_count": 483,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 721
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-27T01:11:35.000Z",
+        "description": "日常web3分享、喜欢数据测算、探索web3转型ing👀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/elisa3066",
+                "end": 23,
+                "expanded_url": "https://t.me/elisa3066",
+                "start": 0,
+                "url": "https://t.co/0DuKnTZk2V"
+              }
+            ]
+          }
+        },
+        "id": "2752200328",
+        "name": "Elisa",
+        "pinned_tweet_id": "2003832280327094339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977073594657341440/V1qGAW-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 4300,
+          "like_count": 1980,
+          "listed_count": 5,
+          "media_count": 276,
+          "tweet_count": 4526
+        },
+        "url": "https://t.co/0DuKnTZk2V",
+        "username": "ElisaEnjoy16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1657380000168054785",
+        "3_1657380000176435200",
+        "3_1657380000205791235",
+        "3_1657380000126087168"
+      ],
+      "media_source_tweet_id": [
+        "1657380007940096002",
+        "1657380007940096002",
+        "1657380007940096002",
+        "1657380007940096002"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033552314003607895",
+    "created_at": "2026-03-16T14:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033552314003607895"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "成都脱毛"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "ts"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "cd"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "伪娘"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "女装"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "mtf"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "药娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1620995471748780032",
+          "start": 3,
+          "username": "SimonePerson7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kr7NFUot6C",
+          "end": 139,
+          "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+          "media_key": "3_1657380000168054785",
+          "start": 116,
+          "url": "https://t.co/kr7NFUot6C"
+        },
+        {
+          "display_url": "pic.x.com/kr7NFUot6C",
+          "end": 139,
+          "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+          "media_key": "3_1657380000176435200",
+          "start": 116,
+          "url": "https://t.co/kr7NFUot6C"
+        },
+        {
+          "display_url": "pic.x.com/kr7NFUot6C",
+          "end": 139,
+          "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+          "media_key": "3_1657380000205791235",
+          "start": 116,
+          "url": "https://t.co/kr7NFUot6C"
+        },
+        {
+          "display_url": "pic.x.com/kr7NFUot6C",
+          "end": 139,
+          "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+          "media_key": "3_1657380000126087168",
+          "start": 116,
+          "url": "https://t.co/kr7NFUot6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033552314003607895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1657380007940096002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SimonePerson7: #成都脱毛\n#ts #cd #伪娘 #女装 #mtf #药娘\n成都个人脱毛工作室\n位置：成都市温江区\n价格便宜！全身包脱现在仅需3k！\n设备：Toplaser 808激光！效果好\n欢迎咨询闲聊 https://t.co/kr7NFUot6C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1657380000168054785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FwAyVDfakAENBPB.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1657380000176435200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FwAyVDhacAAg6NZ.jpg",
+        "width": 936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1657380000205791235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FwAyVDoaYAMdZWO.jpg",
+        "width": 936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1657380000126087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FwAyVDVaMAAaZJn.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1657380000168054785",
+            "3_1657380000176435200",
+            "3_1657380000205791235",
+            "3_1657380000126087168"
+          ],
+          "media_source_tweet_id": [
+            "1657380007940096002",
+            "1657380007940096002",
+            "1657380007940096002",
+            "1657380007940096002"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033552314003607895",
+        "created_at": "2026-03-16T14:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033552314003607895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "成都脱毛"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "ts"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "cd"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "伪娘"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "女装"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "mtf"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "药娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1620995471748780032",
+              "start": 3,
+              "username": "SimonePerson7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 139,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000168054785",
+              "start": 116,
+              "url": "https://t.co/kr7NFUot6C"
+            },
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 139,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000176435200",
+              "start": 116,
+              "url": "https://t.co/kr7NFUot6C"
+            },
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 139,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000205791235",
+              "start": 116,
+              "url": "https://t.co/kr7NFUot6C"
+            },
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 139,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000126087168",
+              "start": 116,
+              "url": "https://t.co/kr7NFUot6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033552314003607895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1657380007940096002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SimonePerson7: #成都脱毛\n#ts #cd #伪娘 #女装 #mtf #药娘\n成都个人脱毛工作室\n位置：成都市温江区\n价格便宜！全身包脱现在仅需3k！\n设备：Toplaser 808激光！效果好\n欢迎咨询闲聊 https://t.co/kr7NFUot6C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1657380000168054785",
+            "3_1657380000176435200",
+            "3_1657380000205791235",
+            "3_1657380000126087168"
+          ]
+        },
+        "author_id": "1620995471748780032",
+        "conversation_id": "1657380007940096002",
+        "created_at": "2023-05-13T13:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-13T14:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1657380007940096002"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "成都脱毛"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "ts"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "cd"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "伪娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "女装"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "mtf"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 120,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000168054785",
+              "start": 97,
+              "url": "https://t.co/kr7NFUot6C"
+            },
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 120,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000176435200",
+              "start": 97,
+              "url": "https://t.co/kr7NFUot6C"
+            },
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 120,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000205791235",
+              "start": 97,
+              "url": "https://t.co/kr7NFUot6C"
+            },
+            {
+              "display_url": "pic.x.com/kr7NFUot6C",
+              "end": 120,
+              "expanded_url": "https://x.com/SimonePerson7/status/1657380007940096002/photo/1",
+              "media_key": "3_1657380000126087168",
+              "start": 97,
+              "url": "https://t.co/kr7NFUot6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1657380007940096002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 196372,
+          "like_count": 155,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#成都脱毛\n#ts #cd #伪娘 #女装 #mtf #药娘\n成都个人脱毛工作室\n位置：成都市温江区\n价格便宜！全身包脱现在仅需3k！\n设备：Toplaser 808激光！效果好\n欢迎咨询闲聊 https://t.co/kr7NFUot6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1005,
+          "like_count": 1709,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 1528
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-02T04:00:12.000Z",
+        "description": "mtf🍥 ｜💊23.3.1｜srs🪡24.11.11｜个人脱毛工作室           小号@NFisher68533",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "NFisher68533"
+              }
+            ]
+          }
+        },
+        "id": "1620995471748780032",
+        "location": "成都",
+        "name": "Kim🍥",
+        "pinned_tweet_id": "1975772503164572103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976953412827987971/0iqQyv_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 244,
+          "like_count": 355,
+          "listed_count": 9,
+          "media_count": 48,
+          "tweet_count": 652
+        },
+        "username": "SimonePerson7",
+        "verified": false
+      }
+    ]
+  }
+}

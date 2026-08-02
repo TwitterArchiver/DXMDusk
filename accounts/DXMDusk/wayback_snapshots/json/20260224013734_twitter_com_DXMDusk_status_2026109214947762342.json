@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026109214947762342",
+    "created_at": "2026-02-24T01:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026109214947762342"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026109214947762342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杭城，\n草莽英雄许仙厮混的地方，\n最出名的美食叫西湖醋鱼，\n据说是许仙有了外遇，白娘子打翻了醋坛子，当时她正在做鱼，阴差阳错之下诞生了这道名菜，\n两条四川的蛇，为了一个浙江男人，跟一个河南人打架，淹死了一群江苏人，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026109214947762342",
+        "created_at": "2026-02-24T01:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026109214947762342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026109214947762342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭城，\n草莽英雄许仙厮混的地方，\n最出名的美食叫西湖醋鱼，\n据说是许仙有了外遇，白娘子打翻了醋坛子，当时她正在做鱼，阴差阳错之下诞生了这道名菜，\n两条四川的蛇，为了一个浙江男人，跟一个河南人打架，淹死了一群江苏人，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 228,
+          "like_count": 364,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 564
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

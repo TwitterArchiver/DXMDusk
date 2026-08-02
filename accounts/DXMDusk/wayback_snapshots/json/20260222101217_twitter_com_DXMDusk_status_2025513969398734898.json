@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025261164578701413",
+    "created_at": "2026-02-22T10:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025513969398734898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025513969398734898",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025261164578701413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 消毒缝合，凡士林涂抹浸泡，包裹纱布、胶带缠绕固定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1895,
+        "media_key": "3_2025261161529409536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBssS85bAAAUHkO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025261164578701413",
+        "created_at": "2026-02-22T10:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025513969398734898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025513969398734898",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025261164578701413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 消毒缝合，凡士林涂抹浸泡，包裹纱布、胶带缠绕固定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025261161529409536"
+          ]
+        },
+        "author_id": "1812304729432838144",
+        "conversation_id": "2025261164578701413",
+        "created_at": "2026-02-21T17:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025261164578701413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rdpIiUnKo",
+              "end": 33,
+              "expanded_url": "https://x.com/huimu420/status/2025261164578701413/photo/1",
+              "media_key": "3_2025261161529409536",
+              "start": 10,
+              "url": "https://t.co/4rdpIiUnKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025261164578701413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有割过的左手 https://t.co/4rdpIiUnKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 201,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 500
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券女 被b自己找原因 fo你是暗恋你 \n唯一的恋人是酷拉皮卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyJSB"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "🚪11451454188",
+        "name": "回木",
+        "pinned_tweet_id": "2016510432039571539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 707,
+          "like_count": 26526,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 6340
+        },
+        "url": "https://t.co/oipIneyJSB",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

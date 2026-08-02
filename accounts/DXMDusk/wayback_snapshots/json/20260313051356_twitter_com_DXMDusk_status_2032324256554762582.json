@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032317951211397616",
+    "created_at": "2026-03-13T05:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032324256554762582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032324256554762582",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032317951211397616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 电脑好用，但是，主流软件全部把电脑版限制了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032317951211397616",
+        "created_at": "2026-03-13T05:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032324256554762582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032324256554762582",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032317951211397616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 电脑好用，但是，主流软件全部把电脑版限制了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "2032317951211397616",
+        "created_at": "2026-03-13T04:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032317951211397616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032317951211397616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "手机比电脑独裁专制多了，如果不是生活所迫，我会拒绝用手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 871,
+          "like_count": 1436,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1385
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1361,
+          "like_count": 31884,
+          "listed_count": 3,
+          "media_count": 733,
+          "tweet_count": 9401
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "1980873159302881784",
+    "created_at": "2025-10-26T00:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T01:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982247481334169962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2324434332",
+          "start": 0,
+          "username": "alkafrimm"
+        },
+        {
+          "end": 19,
+          "id": "522147771",
+          "start": 11,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982247481334169962",
+    "in_reply_to_user_id": "2324434332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980875100359651506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alkafrimm @N_N_DPT 苯巴比妥加bzd还是可以的"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N_N_DPT].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N_N_DPT",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N_N_DPT"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "1980873159302881784",
+        "created_at": "2025-10-26T00:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T01:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982247481334169962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2324434332",
+              "start": 0,
+              "username": "alkafrimm"
+            },
+            {
+              "end": 19,
+              "id": "522147771",
+              "start": 11,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982247481334169962",
+        "in_reply_to_user_id": "2324434332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980875100359651506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alkafrimm @N_N_DPT 苯巴比妥加bzd还是可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2324434332",
+        "conversation_id": "1980873159302881784",
+        "created_at": "2025-10-22T05:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980875100359651506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980875100359651506",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980873159302881784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DPT 戊巴比妥 、琥珀胆碱这些效果比较好, 基本没有什么痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "",
+        "id": "1974276207496867842",
+        "name": "Dusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974280613768388608/UZVD82q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 144,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-02T22:24:07.000Z",
+        "description": "",
+        "id": "2324434332",
+        "name": "نفرات مخ مافي",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/799540585384255489/82d6ji9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 78,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 959
+        },
+        "username": "alkafrimm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027692236230762787",
+    "created_at": "2026-02-28T10:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027695822402674935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009876491971244033",
+          "start": 0,
+          "username": "hnwn223381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027695822402674935",
+    "in_reply_to_user_id": "2009876491971244033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027693173825581232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnwn223381 权力，金币，视野，建模你觉得你拥有那个，或许一个都没有，\n一局游戏，除了几个主角，剩下的全都是小兵人机，当好人机就可以了\n赚钱获取稳定的每日食物和住宿，并存钱为未来做准备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027692236230762787",
+        "created_at": "2026-02-28T10:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027695822402674935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009876491971244033",
+              "start": 0,
+              "username": "hnwn223381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027695822402674935",
+        "in_reply_to_user_id": "2009876491971244033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027693173825581232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnwn223381 权力，金币，视野，建模你觉得你拥有那个，或许一个都没有，\n一局游戏，除了几个主角，剩下的全都是小兵人机，当好人机就可以了\n赚钱获取稳定的每日食物和住宿，并存钱为未来做准备"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009876491971244033",
+        "conversation_id": "2027692236230762787",
+        "created_at": "2026-02-28T10:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027693173825581232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027693173825581232",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027692236230762787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 我不自残，但是人缘也不好。这咋回事呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 253,
+          "like_count": 413,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 636
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T06:35:12.000Z",
+        "description": "爱党，爱人民（骗你的）",
+        "id": "2009876491971244033",
+        "location": "Los Angeles   US",
+        "name": "伟大同志搞搞新意思🇹🇼🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026434024970006529/igppU_6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 120,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 515
+        },
+        "username": "hnwn223381",
+        "verified": false
+      }
+    ]
+  }
+}

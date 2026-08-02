@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031704499270893653",
+    "created_at": "2026-03-11T15:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031758461437104283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1362776343914643460",
+          "start": 0,
+          "username": "Jason23818126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031758461437104283",
+    "in_reply_to_user_id": "1362776343914643460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031704499270893653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason23818126 关了，一起，百分百回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031704499270893653",
+        "created_at": "2026-03-11T15:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031758461437104283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1362776343914643460",
+              "start": 0,
+              "username": "Jason23818126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031758461437104283",
+        "in_reply_to_user_id": "1362776343914643460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031704499270893653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason23818126 关了，一起，百分百回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362776343914643460",
+        "conversation_id": "2031704499270893653",
+        "created_at": "2026-03-11T12:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031704499270893653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031704499270893653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！为了和更多志同道合的伙伴交个朋友\n\n我决定在这里开个长期互关帖冲刺下10000\n\n我目前xhunt排名2.6万 \n\n关注我应该可以提高你账号的权重排名\n\n因为关注有限制 为了防止找不到你\n\n大家记得留言和去评论区的朋友互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 773,
+          "like_count": 1023,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 1219
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-19T14:49:49.000Z",
+        "description": "观察 拆解 下注 生活\nWeb3 · AI · 美股 长期主义\nStay lazy, stay early. 🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+txok2GLDHZE1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+txok2GLDHZE1NGY1",
+                "start": 0,
+                "url": "https://t.co/35eaFuw27P"
+              }
+            ]
+          }
+        },
+        "id": "1362776343914643460",
+        "location": "合作DM｜TG @jchok666",
+        "name": "Dr. Moyu 摸鱼局长🕵️",
+        "pinned_tweet_id": "2031561742929768455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996879212297560064/UyZ3ZqAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 1787,
+          "like_count": 1288,
+          "listed_count": 38,
+          "media_count": 122,
+          "tweet_count": 4871
+        },
+        "url": "https://t.co/35eaFuw27P",
+        "username": "Jason23818126",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031099800440156602",
+    "created_at": "2026-03-09T20:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T21:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031099800440156602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimi_VnV/statu…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/mimi_VnV/status/2031019947443487113",
+          "start": 86,
+          "url": "https://t.co/HFUXzggQqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031099800440156602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031019947443487113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好我是号主家长 妈了个死逼这个畜生,我天天在外面辛苦赚钱她每天在朋友圈到处发傻逼东西 我实在受不了她了 刚才趁他睡觉时我拿刀在她身上捅了三十刀 她已经没气了 各位节哀 https://t.co/HFUXzggQqb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031099800440156602",
+        "created_at": "2026-03-09T20:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031099800440156602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimi_VnV/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/mimi_VnV/status/2031019947443487113",
+              "start": 86,
+              "url": "https://t.co/HFUXzggQqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031099800440156602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031019947443487113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我是号主家长 妈了个死逼这个畜生,我天天在外面辛苦赚钱她每天在朋友圈到处发傻逼东西 我实在受不了她了 刚才趁他睡觉时我拿刀在她身上捅了三十刀 她已经没气了 各位节哀 https://t.co/HFUXzggQqb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551813602553757697",
+        "conversation_id": "2031019947443487113",
+        "created_at": "2026-03-09T14:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031019947443487113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/2030985184603156658",
+              "start": 86,
+              "url": "https://t.co/IJeKrLfLZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031019947443487113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030985184603156658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我是号主家长 妈了个死逼这个畜生,我天天在外面辛苦赚钱他每天在朋友圈到处发傻逼东西 我实在受不了他了 刚才趁他睡觉时我拿刀在她身上捅了三十刀 他已经没气了 各位节哀 https://t.co/IJeKrLfLZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 651,
+          "like_count": 697,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1001
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才    音游吃    屎屁尿小孩    \n                                                   三次绕道喵😾\nhttps://t.co/g9bldFhSZO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 104,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 81,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "location": "雾之湖",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668774198960128/sO-vj3AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 673,
+          "like_count": 22341,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 5195
+        },
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

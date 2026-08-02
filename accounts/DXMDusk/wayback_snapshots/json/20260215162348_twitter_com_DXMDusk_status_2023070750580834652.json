@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023057940635414543",
+    "created_at": "2026-02-15T16:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023070750580834652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023070750580834652",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023057940635414543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 我一直觉得宣传的那些说的太夸张了，烷胺十片我没感觉，然后加了sns结果也就是睡了一觉，无事发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023057940635414543",
+        "created_at": "2026-02-15T16:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023070750580834652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023070750580834652",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023057940635414543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 我一直觉得宣传的那些说的太夸张了，烷胺十片我没感觉，然后加了sns结果也就是睡了一觉，无事发生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2023057940635414543",
+        "created_at": "2026-02-15T15:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023057940635414543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023057940635414543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我对烷胺印象没你们一般说的那么差      我吃止吐药o晚安就没吐过了幻觉也没有恐怖的东西？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 149,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 291
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 1535,
+          "like_count": 26887,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2879
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

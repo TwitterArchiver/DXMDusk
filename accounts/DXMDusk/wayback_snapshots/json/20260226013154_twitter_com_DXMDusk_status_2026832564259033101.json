@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026832561574653952"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "HuffPost",
+          "id": "1104055595164872705",
+          "name": "HuffPost"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040667021",
+          "name": "The Huffington Post"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040667021",
+          "name": "The Huffington Post"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2026828284680454273",
+    "created_at": "2026-02-26T01:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026832564259033101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14511951",
+          "start": 0,
+          "username": "HuffPost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SPQGPMKQf",
+          "end": 33,
+          "expanded_url": "https://x.com/DXMDusk/status/2026832564259033101/photo/1",
+          "media_key": "3_2026832561574653952",
+          "start": 10,
+          "url": "https://t.co/9SPQGPMKQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026832564259033101",
+    "in_reply_to_user_id": "14511951",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026828284680454273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffPost https://t.co/9SPQGPMKQf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2026832561574653952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDBeePaMAAuQAZ.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026832561574653952"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "HuffPost",
+              "id": "1104055595164872705",
+              "name": "HuffPost"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667021",
+              "name": "The Huffington Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667021",
+              "name": "The Huffington Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2026828284680454273",
+        "created_at": "2026-02-26T01:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026832564259033101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14511951",
+              "start": 0,
+              "username": "HuffPost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SPQGPMKQf",
+              "end": 33,
+              "expanded_url": "https://x.com/DXMDusk/status/2026832564259033101/photo/1",
+              "media_key": "3_2026832561574653952",
+              "start": 10,
+              "url": "https://t.co/9SPQGPMKQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026832564259033101",
+        "in_reply_to_user_id": "14511951",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026828284680454273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffPost https://t.co/9SPQGPMKQf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14511951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Travis Kelce",
+              "id": "806179852613140481",
+              "name": "Travis Kelce"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "HuffPost",
+              "id": "1104055595164872705",
+              "name": "HuffPost"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Travis Kelce",
+              "id": "806179852613140481",
+              "name": "Travis Kelce"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travis Kelce",
+              "id": "806179852613140481",
+              "name": "Travis Kelce"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263187885970227200",
+              "name": "NFL players"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ohio",
+              "id": "1010253454822895616",
+              "name": "Ohio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667021",
+              "name": "The Huffington Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667021",
+              "name": "The Huffington Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "A fly-on-the-wall series detailing the inner workings of Burnley FC throughout their 2025/26 Premier League campaign. New episodes drop every Thursday in partnership with @Unilever.",
+              "id": "1965872710732468224",
+              "name": "Burnley: Keeping The Faith"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2026828284680454273",
+        "created_at": "2026-02-26T01:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026828284680454273"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Travis Kelce",
+              "probability": 0.8274,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Ohio city",
+              "probability": 0.6621,
+              "start": 97,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Travis Kelce gave a \"tip of the cap\" to the trailblazing gold medalist, who has ties to the same Ohio city as the football star brothers.",
+              "display_url": "huffpost.com/entry/travis-k…",
+              "end": 161,
+              "expanded_url": "https://www.huffpost.com/entry/travis-kelce-jason-kelce-laila-edwards-team-usa-womens-hockey_n_699f2afce4b01b76c0e32719?d_id=11569584&ncid_tag=tweetlnkushpmg00000067&utm_medium=Social&utm_source=Twitter&utm_campaign=us_main",
+              "images": [
+                {
+                  "height": 629,
+                  "url": "https://pbs.twimg.com/news_img/2026828288534913024/wEkGx1yM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026828288534913024/wEkGx1yM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "Kelce Brothers Cheer On U.S. Women's Hockey Star Days After Viral Trump Call",
+              "unwound_url": "https://www.huffpost.com/entry/travis-kelce-jason-kelce-laila-edwards-team-usa-womens-hockey_n_699f2afce4b01b76c0e32719?d_id=11569584&ncid_tag=tweetlnkushpmg00000067&utm_medium=Social&utm_source=Twitter&utm_campaign=us_main",
+              "url": "https://t.co/iXlNfOO1cK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026828284680454273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2653,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Travis Kelce gave a \"tip of the cap\" to the trailblazing gold medalist, who has ties to the same Ohio city as the football star brothers. https://t.co/iXlNfOO1cK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 248,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 610
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-24T14:07:28.000Z",
+        "description": "🚨 Fair and fearless reporting since 2005. 🚨 \n\nGot a scoop? Send us news tips here 🔍 https://t.co/LnjAnL08e7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tips.huffpost.com",
+                "end": 107,
+                "expanded_url": "https://tips.huffpost.com/",
+                "start": 84,
+                "url": "https://t.co/LnjAnL08e7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "huffpost.com",
+                "end": 23,
+                "expanded_url": "https://www.huffpost.com",
+                "start": 0,
+                "url": "https://t.co/57kEwE8FZD"
+              }
+            ]
+          }
+        },
+        "id": "14511951",
+        "name": "HuffPost",
+        "pinned_tweet_id": "1882546182288982273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963012341110538240/UWT1Nr81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9965373,
+          "following_count": 5278,
+          "like_count": 1048,
+          "listed_count": 73773,
+          "media_count": 90670,
+          "tweet_count": 696867
+        },
+        "url": "https://t.co/57kEwE8FZD",
+        "username": "HuffPost",
+        "verified": true
+      }
+    ]
+  }
+}

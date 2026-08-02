@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023729790663225347"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023729813081780486",
+    "created_at": "2026-02-17T12:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023729813081780486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZllfZi3kD",
+          "end": 61,
+          "expanded_url": "https://x.com/DXMDusk/status/2023729813081780486/video/1",
+          "media_key": "7_2023729790663225347",
+          "start": 38,
+          "url": "https://t.co/uZllfZi3kD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023729813081780486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来看打铁花啦，怕你们没在现场，所以我特地录了视频，祝各位顺风顺水，万事如意 https://t.co/uZllfZi3kD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3630,
+        "height": 720,
+        "media_key": "7_2023729790663225347",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023729790663225347/pu/img/58Wc5FTVOGpvWscF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023729790663225347/pu/vid/avc1/480x270/DpmgMSYQGwAtMFJi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023729790663225347/pu/vid/avc1/640x360/O5dSEXvUbRsYhiFI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023729790663225347/pu/vid/avc1/1280x720/Ps04IYpY6RGA72iM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023729790663225347/pu/pl/GqyevjJcRrNGXEb-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023729790663225347"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023729813081780486",
+        "created_at": "2026-02-17T12:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023729813081780486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZllfZi3kD",
+              "end": 61,
+              "expanded_url": "https://x.com/DXMDusk/status/2023729813081780486/video/1",
+              "media_key": "7_2023729790663225347",
+              "start": 38,
+              "url": "https://t.co/uZllfZi3kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023729813081780486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来看打铁花啦，怕你们没在现场，所以我特地录了视频，祝各位顺风顺水，万事如意 https://t.co/uZllfZi3kD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 162,
+          "like_count": 166,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 376
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

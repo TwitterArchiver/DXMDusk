@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030367332527177972",
+    "created_at": "2026-03-08T04:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030506374799728937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708402364388880385",
+          "start": 0,
+          "username": "eco_del_tiempo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030506374799728937",
+    "in_reply_to_user_id": "1708402364388880385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030367332527177972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eco_del_tiempo 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030367332527177972",
+        "created_at": "2026-03-08T04:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030506374799728937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708402364388880385",
+              "start": 0,
+              "username": "eco_del_tiempo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030506374799728937",
+        "in_reply_to_user_id": "1708402364388880385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030367332527177972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eco_del_tiempo 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708402364388880385",
+        "conversation_id": "2030367332527177972",
+        "created_at": "2026-03-07T19:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T20:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030367332527177972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030367332527177972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2033,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人吗？ 蓝V互关，诚信第一。有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 539,
+          "like_count": 526,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 813
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T08:44:27.000Z",
+        "description": "想在这个混乱的世界里，\n活得健康一点，清醒一点。🌲\n💎蓝V互关必回",
+        "id": "1708402364388880385",
+        "name": "日子还在继续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029258723684696065/ILWiKmQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 1467,
+          "like_count": 1378,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 1545
+        },
+        "username": "eco_del_tiempo",
+        "verified": true
+      }
+    ]
+  }
+}

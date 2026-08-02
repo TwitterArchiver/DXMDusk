@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031771887022616576",
+        "3_2031771889308450816"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031771891967660341",
+    "created_at": "2026-03-11T16:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031771891967660341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FScvd1r28o",
+          "end": 64,
+          "expanded_url": "https://x.com/DXMDusk/status/2031771891967660341/photo/1",
+          "media_key": "3_2031771887022616576",
+          "start": 41,
+          "url": "https://t.co/FScvd1r28o"
+        },
+        {
+          "display_url": "pic.x.com/FScvd1r28o",
+          "end": 64,
+          "expanded_url": "https://x.com/DXMDusk/status/2031771891967660341/photo/1",
+          "media_key": "3_2031771889308450816",
+          "start": 41,
+          "url": "https://t.co/FScvd1r28o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031771891967660341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前的网络，每个人都是自由的探险者，现在每一个人就是一座被算法围起来的信息孤岛… https://t.co/FScvd1r28o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2031771887022616576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJNxDabsAAKkYq.jpg",
+        "width": 1241
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2031771889308450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJNxL7awAAE-g3.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031771887022616576",
+            "3_2031771889308450816"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031771891967660341",
+        "created_at": "2026-03-11T16:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031771891967660341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FScvd1r28o",
+              "end": 64,
+              "expanded_url": "https://x.com/DXMDusk/status/2031771891967660341/photo/1",
+              "media_key": "3_2031771887022616576",
+              "start": 41,
+              "url": "https://t.co/FScvd1r28o"
+            },
+            {
+              "display_url": "pic.x.com/FScvd1r28o",
+              "end": 64,
+              "expanded_url": "https://x.com/DXMDusk/status/2031771891967660341/photo/1",
+              "media_key": "3_2031771889308450816",
+              "start": 41,
+              "url": "https://t.co/FScvd1r28o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031771891967660341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前的网络，每个人都是自由的探险者，现在每一个人就是一座被算法围起来的信息孤岛… https://t.co/FScvd1r28o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 784,
+          "like_count": 1057,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1229
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040455831213453771",
+    "created_at": "2026-04-05T18:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040864709424140312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862811500945235970",
+          "start": 0,
+          "username": "tiedanggege"
+        },
+        {
+          "end": 24,
+          "id": "1637154854677401600",
+          "start": 13,
+          "username": "xiaomianTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040864709424140312",
+    "in_reply_to_user_id": "1862811500945235970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040846270898520434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiedanggege @xiaomianTT 也是我没说清"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040455831213453771",
+        "created_at": "2026-04-05T18:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040864709424140312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862811500945235970",
+              "start": 0,
+              "username": "tiedanggege"
+            },
+            {
+              "end": 24,
+              "id": "1637154854677401600",
+              "start": 13,
+              "username": "xiaomianTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040864709424140312",
+        "in_reply_to_user_id": "1862811500945235970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040846270898520434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiedanggege @xiaomianTT 也是我没说清"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862811500945235970",
+        "conversation_id": "2040455831213453771",
+        "created_at": "2026-04-05T17:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040846270898520434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 20,
+              "id": "1637154854677401600",
+              "start": 9,
+              "username": "xiaomianTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040846270898520434",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040714015257899068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @xiaomianTT 你活该啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1102,
+          "like_count": 2050,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 2094
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T10:51:02.000Z",
+        "description": "7⃣️👽🐺",
+        "id": "1862811500945235970",
+        "name": "cocona🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916174662465118208/wgC36fb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 3491,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 832
+        },
+        "username": "tiedanggege",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T18:11:56.000Z",
+        "description": "les/0.5switch单身",
+        "id": "1637154854677401600",
+        "name": "怎么每天都好困",
+        "pinned_tweet_id": "2028597800603435392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034659743445516288/E0HahRP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 271,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 144
+        },
+        "username": "xiaomianTT",
+        "verified": false
+      }
+    ]
+  }
+}

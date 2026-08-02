@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040239846703137186",
+    "created_at": "2026-04-04T05:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040306888940904767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560623376183574528",
+          "start": 0,
+          "username": "prettierdaily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040306888940904767",
+    "in_reply_to_user_id": "1560623376183574528",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040239846703137186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prettierdaily I understand and fully support people being themselves, but I think this is a bit too much and looks strange."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2040239841779277824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBjU5HaYAAWwWA.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040239846703137186",
+        "created_at": "2026-04-04T05:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040306888940904767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560623376183574528",
+              "start": 0,
+              "username": "prettierdaily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040306888940904767",
+        "in_reply_to_user_id": "1560623376183574528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040239846703137186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prettierdaily I understand and fully support people being themselves, but I think this is a bit too much and looks strange."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040239841779277824"
+          ]
+        },
+        "author_id": "1560623376183574528",
+        "conversation_id": "2040239846703137186",
+        "created_at": "2026-04-04T01:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040239846703137186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8lP9tFdaV",
+              "end": 60,
+              "expanded_url": "https://x.com/prettierdaily/status/2040239846703137186/photo/1",
+              "media_key": "3_2040239841779277824",
+              "start": 37,
+              "url": "https://t.co/N8lP9tFdaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040239846703137186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 592,
+          "impression_count": 130513,
+          "like_count": 3582,
+          "quote_count": 31,
+          "reply_count": 37,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "tbh i don’t know if i like it or not https://t.co/N8lP9tFdaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 1096,
+          "like_count": 2006,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 1996
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T13:43:15.000Z",
+        "description": "Let's become delicate princesses together | i’m 23",
+        "id": "1560623376183574528",
+        "location": "dm for removal/credits",
+        "name": "daily motivation",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000203750208684034/EHkI0G7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89713,
+          "following_count": 0,
+          "like_count": 2230,
+          "listed_count": 190,
+          "media_count": 4604,
+          "tweet_count": 7080
+        },
+        "username": "prettierdaily",
+        "verified": true
+      }
+    ]
+  }
+}

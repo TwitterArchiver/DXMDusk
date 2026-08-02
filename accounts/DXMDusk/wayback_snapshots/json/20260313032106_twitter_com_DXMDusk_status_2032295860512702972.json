@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031978983567585334",
+    "created_at": "2026-03-13T03:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T04:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032295860512702972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514059721812381696",
+          "start": 0,
+          "username": "Ktongzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032295860512702972",
+    "in_reply_to_user_id": "1514059721812381696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031978983567585334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ktongzhi 来，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031978983567585334",
+        "created_at": "2026-03-13T03:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032295860512702972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514059721812381696",
+              "start": 0,
+              "username": "Ktongzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032295860512702972",
+        "in_reply_to_user_id": "1514059721812381696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031978983567585334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ktongzhi 来，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514059721812381696",
+        "conversation_id": "2031978983567585334",
+        "created_at": "2026-03-12T06:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031978983567585334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031978983567585334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1259,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果想要我关注你      \n\n请评论告诉我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 862,
+          "like_count": 1382,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1346
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-13T01:55:57.000Z",
+        "description": "高中开始入圈 受男朋友影响进入#web3 大学生一枚 什么都玩 分享生活  一起学习😘",
+        "id": "1514059721812381696",
+        "location": "Hong Kong",
+        "name": "Crypto.凯然（蓝v互关版）",
+        "pinned_tweet_id": "2031520390380663005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031563458865774592/hBkkIGgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1017,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 312
+        },
+        "username": "Ktongzhi",
+        "verified": true
+      }
+    ]
+  }
+}

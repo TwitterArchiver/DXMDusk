@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      }
+    ],
+    "conversation_id": "2040158444884566130",
+    "created_at": "2026-04-03T20:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T21:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040158444884566130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 153,
+          "id": "705777407794352129",
+          "start": 140,
+          "username": "ServalCandle"
+        },
+        {
+          "end": 165,
+          "id": "1070694634098065410",
+          "start": 155,
+          "username": "BootJenna"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Shared with kDrive, the ethical cloud",
+          "display_url": "kdrive.infomaniak.com/app/share/2789…",
+          "end": 98,
+          "expanded_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3",
+          "start": 75,
+          "status": 200,
+          "title": "ServalCandle BELL",
+          "unwound_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3/files/9",
+          "url": "https://t.co/Xg183NfsrC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040158444884566130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 153,
+            "id": "705777407794352129",
+            "start": 140,
+            "username": "ServalCandle"
+          },
+          {
+            "end": 165,
+            "id": "1070694634098065410",
+            "start": 155,
+            "username": "BootJenna"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "kdrive.infomaniak.com/app/share/2789…",
+            "end": 98,
+            "expanded_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3",
+            "start": 75,
+            "url": "https://t.co/0jwXQQa7kl"
+          }
+        ]
+      },
+      "text": "咴咴走了，但她的声音还在。\n\n推文存档已经做好了，放在瑞士服务器上，受FADP和GDPR保护。\n\n现在还能公开下，建议有回忆的朋友尽快保存。\n\n链接：https://t.co/0jwXQQa7kl\n\n•长期获取管道：待帐号注销或lockdown后，若需获取存档，请随时私讯联系我（@ServalCandle）或@BootJenna\n\n感谢她们把她的痕迹留下来。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咴咴走了，但她的声音还在。\n\n推文存档已经做好了，放在瑞士服务器上，受FADP和GDPR保护。\n\n现在还能公开下，建议有回忆的朋友尽快保存。\n\n链接：https://t.co/Xg183NfsrC\n\n•长期获取管道：待帐号注销或lockdown后，若需获取存档，请随时私讯联系我（@ServalCandle）或@BootJenna"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2040158444884566130",
+        "created_at": "2026-04-03T20:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040158444884566130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 153,
+              "id": "705777407794352129",
+              "start": 140,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 165,
+              "id": "1070694634098065410",
+              "start": 155,
+              "username": "BootJenna"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Shared with kDrive, the ethical cloud",
+              "display_url": "kdrive.infomaniak.com/app/share/2789…",
+              "end": 98,
+              "expanded_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3",
+              "start": 75,
+              "status": 200,
+              "title": "ServalCandle BELL",
+              "unwound_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3/files/9",
+              "url": "https://t.co/Xg183NfsrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040158444884566130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 153,
+                "id": "705777407794352129",
+                "start": 140,
+                "username": "ServalCandle"
+              },
+              {
+                "end": 165,
+                "id": "1070694634098065410",
+                "start": 155,
+                "username": "BootJenna"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdrive.infomaniak.com/app/share/2789…",
+                "end": 98,
+                "expanded_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3",
+                "start": 75,
+                "url": "https://t.co/0jwXQQa7kl"
+              }
+            ]
+          },
+          "text": "咴咴走了，但她的声音还在。\n\n推文存档已经做好了，放在瑞士服务器上，受FADP和GDPR保护。\n\n现在还能公开下，建议有回忆的朋友尽快保存。\n\n链接：https://t.co/0jwXQQa7kl\n\n•长期获取管道：待帐号注销或lockdown后，若需获取存档，请随时私讯联系我（@ServalCandle）或@BootJenna\n\n感谢她们把她的痕迹留下来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咴咴走了，但她的声音还在。\n\n推文存档已经做好了，放在瑞士服务器上，受FADP和GDPR保护。\n\n现在还能公开下，建议有回忆的朋友尽快保存。\n\n链接：https://t.co/Xg183NfsrC\n\n•长期获取管道：待帐号注销或lockdown后，若需获取存档，请随时私讯联系我（@ServalCandle）或@BootJenna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1093,
+          "like_count": 2005,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1989
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33789,
+          "following_count": 416,
+          "like_count": 233310,
+          "listed_count": 105,
+          "media_count": 8984,
+          "tweet_count": 58399
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-06T15:01:08.000Z",
+        "description": "我不会找你要钱 包括 我不收门槛 🇨🇦泛+4i 靴控 大爱紧身衣 白丝 Love boots/zentai/bodysuit🇨🇳",
+        "id": "1070694634098065410",
+        "location": "Toronto, Ontario",
+        "name": "娜酱小可爱",
+        "pinned_tweet_id": "2034997462297935922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991625381028274177/mx5McTQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12603,
+          "following_count": 4175,
+          "like_count": 18805,
+          "listed_count": 45,
+          "media_count": 3433,
+          "tweet_count": 28818
+        },
+        "username": "BootJenna",
+        "verified": true
+      }
+    ]
+  }
+}

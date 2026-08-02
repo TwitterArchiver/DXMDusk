@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025129267567493424",
+    "created_at": "2026-02-22T11:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025529039478509790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1953688493160542208",
+          "start": 0,
+          "username": "SYFSASN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025529039478509790",
+    "in_reply_to_user_id": "1953688493160542208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025353973528756585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SYFSASN 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025129267567493424",
+        "created_at": "2026-02-22T11:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025529039478509790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1953688493160542208",
+              "start": 0,
+              "username": "SYFSASN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025529039478509790",
+        "in_reply_to_user_id": "1953688493160542208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025353973528756585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SYFSASN 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953688493160542208",
+        "conversation_id": "2025129267567493424",
+        "created_at": "2026-02-21T23:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025353973528756585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025353973528756585",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025129267567493424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 这只是单纯的止痛片吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 203,
+          "like_count": 307,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 515
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T05:23:44.000Z",
+        "description": "09年3月出厂/欢迎互fo/闲聊找乐子/友跨🏳️‍⚧️/明日方舟/星穹铁道/大部分pc游戏/不聊政治/有事情请私信/（暂时锁推",
+        "id": "1953688493160542208",
+        "location": "Hong Kong",
+        "name": "SYFSASN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953688655807361025/DeCX868C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 1173,
+          "like_count": 10339,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 396
+        },
+        "username": "SYFSASN",
+        "verified": false
+      }
+    ]
+  }
+}

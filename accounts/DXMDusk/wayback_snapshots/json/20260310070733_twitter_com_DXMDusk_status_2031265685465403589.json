@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031000268230516993",
+    "created_at": "2026-03-10T07:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031265685465403589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573147965585137665",
+          "start": 0,
+          "username": "maomaohong018"
+        },
+        {
+          "end": 27,
+          "id": "1818608397677453312",
+          "start": 15,
+          "username": "wangABC2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031265685465403589",
+    "in_reply_to_user_id": "1573147965585137665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031251866210939115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaohong018 @wangABC2233 来了，百分百互的喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031000268230516993",
+        "created_at": "2026-03-10T07:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031265685465403589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573147965585137665",
+              "start": 0,
+              "username": "maomaohong018"
+            },
+            {
+              "end": 27,
+              "id": "1818608397677453312",
+              "start": 15,
+              "username": "wangABC2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031265685465403589",
+        "in_reply_to_user_id": "1573147965585137665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031251866210939115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaohong018 @wangABC2233 来了，百分百互的喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573147965585137665",
+        "conversation_id": "2031000268230516993",
+        "created_at": "2026-03-10T06:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031251866210939115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818608397677453312",
+              "start": 0,
+              "username": "wangABC2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031251866210939115",
+        "in_reply_to_user_id": "1818608397677453312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031000268230516993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangABC2233 借楼！奉旨借楼！还有哪位蓝V兄弟没关注我的，我先祝你发大财，互关之后再祝你性生活愉快！赶紧来互关！诚信互关永不取关！评论我必回踩啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 663,
+          "like_count": 709,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1007
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-23T03:11:46.000Z",
+        "description": "🚀没有牛逼Bio的普通一中登｜💰5wU逆袭之路｜🕹️互联网废物｜ 日常摆烂\n\n🐮🐴把996过成躺平｜长期主义者｜注电备考ing💪｜随性日常分享 🏖️\n\n✨注：贴文内容仅个人观点非投资建议",
+        "id": "1573147965585137665",
+        "location": "上海",
+        "name": "一名理工蓝✨Alan（长期互fo）",
+        "pinned_tweet_id": "2028371962318508370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019324622433579010/PzuXx-u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1059,
+          "like_count": 175,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 236
+        },
+        "username": "maomaohong018",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T11:23:46.000Z",
+        "description": "专注于测试网 Depin 链游 不错过每一个项目 梦想是在wb3赚到第一桶金 #链游 #Web3游戏 #区块链游戏 #GameFi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "链游"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Web3游戏"
+              },
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "区块链游戏"
+              },
+              {
+                "end": 65,
+                "start": 58,
+                "tag": "GameFi"
+              }
+            ]
+          }
+        },
+        "id": "1818608397677453312",
+        "name": "SansuiXC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946964086279036928/u_wLU5yU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1885,
+          "like_count": 5285,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 5469
+        },
+        "username": "wangABC2233",
+        "verified": true
+      }
+    ]
+  }
+}

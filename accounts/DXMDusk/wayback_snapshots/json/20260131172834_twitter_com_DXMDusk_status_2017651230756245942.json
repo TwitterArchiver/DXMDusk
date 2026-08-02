@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2017619292456730739",
+    "created_at": "2026-01-31T17:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017651230756245942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017651230756245942",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017619292456730739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF 人生没有后悔，自己走的这条路，那就走到黑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_2017619289327734786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAGDchbEAI-1aP.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2017619292456730739",
+        "created_at": "2026-01-31T17:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017651230756245942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017651230756245942",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017619292456730739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 人生没有后悔，自己走的这条路，那就走到黑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017619289327734786"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017619292456730739",
+        "created_at": "2026-01-31T15:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017619292456730739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "爱吃蛋"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "药娘"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "切蛋"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "自切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyn1LfBYZ7",
+              "end": 47,
+              "expanded_url": "https://x.com/HFLMTF/status/2017619292456730739/photo/1",
+              "media_key": "3_2017619289327734786",
+              "start": 24,
+              "url": "https://t.co/yyn1LfBYZ7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2017619292456730739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2515,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后悔切蛋了😭\n#爱吃蛋 #药娘 #切蛋 #自切 https://t.co/yyn1LfBYZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 123,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 187
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/欢迎扩列(记得私信)喵~/🚪52？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgcDlZ"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968042296778752/utd9W8jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 191,
+          "like_count": 1904,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/N9WRdgcDlZ",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030413883207545343",
+    "created_at": "2026-03-08T15:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030667828307820719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030667828307820719",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030413883207545343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 如果有陌生电话，直接不接。如果是固定居住地，请另外找一个居住地，不要用自己的信息，一个月后就安全了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2030413604210806784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC16alobEAAU-os.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030413883207545343",
+        "created_at": "2026-03-08T15:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030667828307820719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030667828307820719",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030413883207545343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 如果有陌生电话，直接不接。如果是固定居住地，请另外找一个居住地，不要用自己的信息，一个月后就安全了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030413604210806784"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030413883207545343",
+        "created_at": "2026-03-07T22:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T23:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030413883207545343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dVrTtI3zv",
+              "end": 135,
+              "expanded_url": "https://x.com/inks_chain/status/2030413883207545343/photo/1",
+              "media_key": "3_2030413604210806784",
+              "start": 112,
+              "url": "https://t.co/2dVrTtI3zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030413883207545343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惊恐发作，好像遇到晶哥钓鱼了，坏了被加上微信了我现在我好慌我好慌我会不会今天就被调过去尿检我不要啊我还没见过我对象😭，不管了先挂一个，大家看着避雷吧，买卖精二均为犯罪行为小朋友们一定要远离哦（此句来自我们裴裴大王-药神版） https://t.co/2dVrTtI3zv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 556,
+          "like_count": 534,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 834
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "流浪在互联网上的幽灵，一个不该继续活着的人\n#odtwt#shtwt\n#自残#od\n嗯，性别？别在意，至少我自己早就不在意了。。。或许吧\nCN/EN/JP",
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2029713864993247628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000078965458014209/yImgtI0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 427,
+          "like_count": 6666,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2458
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

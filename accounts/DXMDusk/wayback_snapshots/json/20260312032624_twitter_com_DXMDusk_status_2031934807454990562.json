@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031921442665984461",
+    "created_at": "2026-03-12T03:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031934807454990562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806365498910609408",
+          "start": 0,
+          "username": "chnlngyn1773816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031934807454990562",
+    "in_reply_to_user_id": "1806365498910609408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031921442665984461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnlngyn1773816 已关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2031921416199946243",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLVwzAbQAMkV1W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031921442665984461",
+        "created_at": "2026-03-12T03:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031934807454990562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806365498910609408",
+              "start": 0,
+              "username": "chnlngyn1773816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031934807454990562",
+        "in_reply_to_user_id": "1806365498910609408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031921442665984461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnlngyn1773816 已关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031921416199946243"
+          ]
+        },
+        "author_id": "1806365498910609408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031921442665984461",
+        "created_at": "2026-03-12T02:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031921442665984461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T78DvN6Y4D",
+              "end": 72,
+              "expanded_url": "https://x.com/chnlngyn1773816/status/2031921442665984461/photo/1",
+              "media_key": "3_2031921416199946243",
+              "start": 49,
+              "url": "https://t.co/T78DvN6Y4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031921442665984461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关第50天了，战绩一般，还在为如何达到5m的浏览而努力。\n持续24小时在线蓝v互关的朋友来 https://t.co/T78DvN6Y4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 4,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1255
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T16:35:28.000Z",
+        "description": "金融行业从业15年，入圈5年。深耕defi；\n沈万三的后代;\n每日紧赚万3",
+        "id": "1806365498910609408",
+        "location": "Hong Kong",
+        "name": "Web 万3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015310799582191616/nS_Kqrv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 992
+        },
+        "username": "chnlngyn1773816",
+        "verified": true
+      }
+    ]
+  }
+}

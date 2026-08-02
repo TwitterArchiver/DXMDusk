@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033092257985999242",
+    "created_at": "2026-03-16T05:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033413519207731343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845787176149389312",
+          "start": 0,
+          "username": "__M__I__K__U__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033413519207731343",
+    "in_reply_to_user_id": "1845787176149389312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033412349852631072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__M__I__K__U__ 你也要吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033092257985999242",
+        "created_at": "2026-03-16T05:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033413519207731343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845787176149389312",
+              "start": 0,
+              "username": "__M__I__K__U__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033413519207731343",
+        "in_reply_to_user_id": "1845787176149389312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033412349852631072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__M__I__K__U__ 你也要吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845787176149389312",
+        "conversation_id": "2033092257985999242",
+        "created_at": "2026-03-16T05:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033412349852631072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033412349852631072",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033092257985999242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 老大，我們要泡死在浴缸嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1516
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T11:22:23.000Z",
+        "description": "",
+        "id": "1845787176149389312",
+        "name": "弥苦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845788490765889536/QzJlGfvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "username": "__M__I__K__U__",
+        "verified": false
+      }
+    ]
+  }
+}

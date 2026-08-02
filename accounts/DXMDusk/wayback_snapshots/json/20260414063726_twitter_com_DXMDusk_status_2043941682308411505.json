@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043595293481140447",
+    "created_at": "2026-04-14T06:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043941682308411505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043941682308411505",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043930713549091067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@canderyy 确实彩了，但是固定的彩色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043595293481140447",
+        "created_at": "2026-04-14T06:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043941682308411505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043941682308411505",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043930713549091067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@canderyy 确实彩了，但是固定的彩色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "2043595293481140447",
+        "created_at": "2026-04-14T05:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043930713549091067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043930713549091067",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043595293481140447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DXMDusk 你就说彩没彩吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 1122,
+          "like_count": 2176,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 2292
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "38岁老登，老倒霉蛋一个，老婆我永远爱着你😘",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "向晚初霁",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037042569549598720/zURglia8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 157,
+          "like_count": 4125,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 2302
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

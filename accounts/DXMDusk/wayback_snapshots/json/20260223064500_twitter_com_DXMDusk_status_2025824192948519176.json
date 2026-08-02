@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025597814403981312"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025824192948519176",
+    "created_at": "2026-02-23T06:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025824192948519176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AM3p87Pm18",
+          "end": 158,
+          "expanded_url": "https://x.com/DXMDusk/status/2025824192948519176/photo/1",
+          "media_key": "3_2025597814403981312",
+          "start": 135,
+          "url": "https://t.co/AM3p87Pm18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025824192948519176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要跟我说性少数身份有特权，在小群体里面自己开开玩笑还行，要是认真说的，那我很怀疑你的人生经验了，\n尤其是拿跨有特权出来说事的，在跨性别群体待久了，那大概率是要吃药自切，或者手术换证的，还不谈跨性别群体目前面临的种种恶意，比其他性少数身份困难的多，你还确定你真的是跨吗， https://t.co/AM3p87Pm18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2025597814403981312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxeeulbYAAGkT0.jpg",
+        "width": 440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025597814403981312"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025824192948519176",
+        "created_at": "2026-02-23T06:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025824192948519176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AM3p87Pm18",
+              "end": 158,
+              "expanded_url": "https://x.com/DXMDusk/status/2025824192948519176/photo/1",
+              "media_key": "3_2025597814403981312",
+              "start": 135,
+              "url": "https://t.co/AM3p87Pm18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025824192948519176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要跟我说性少数身份有特权，在小群体里面自己开开玩笑还行，要是认真说的，那我很怀疑你的人生经验了，\n尤其是拿跨有特权出来说事的，在跨性别群体待久了，那大概率是要吃药自切，或者手术换证的，还不谈跨性别群体目前面临的种种恶意，比其他性少数身份困难的多，你还确定你真的是跨吗， https://t.co/AM3p87Pm18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 209,
+          "like_count": 333,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 539
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

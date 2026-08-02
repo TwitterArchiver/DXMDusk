@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2017321910837875159",
+    "created_at": "2026-01-31T07:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017504925400613126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017504925400613126",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017321910837875159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2017321910837875159",
+        "created_at": "2026-01-31T07:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017504925400613126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017504925400613126",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017321910837875159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "2017321910837875159",
+        "created_at": "2026-01-30T19:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017321910837875159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ks_nitori/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/ks_nitori/status/2016854834079834166",
+              "start": 147,
+              "url": "https://t.co/kWLVnDGXHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017321910837875159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2415,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016854834079834166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cynun当时去的时候整个人精神摇摇欲坠的\n\n现在只记得当时邸晓兰医生好像给家长说“她都已经拖着你们来了，做到这个地步了，我不开她早晚会自己弄到这些东西的，那我们还不如现在给她开了，给她正规的医疗支持，这样她的身体状况还有保障……”\n\nbrittle的我当时没能哭出来 但感觉什么东西被击穿了 https://t.co/kWLVnDGXHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 115,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 174
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1089,
+          "like_count": 29566,
+          "listed_count": 7,
+          "media_count": 123,
+          "tweet_count": 4698
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      }
+    ]
+  }
+}

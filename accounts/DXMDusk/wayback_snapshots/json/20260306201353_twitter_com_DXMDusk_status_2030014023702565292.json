@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030014020376481792"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029987187954221061",
+    "created_at": "2026-03-06T20:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T21:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030014023702565292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s5jdlO3kbw",
+          "end": 40,
+          "expanded_url": "https://x.com/DXMDusk/status/2030014023702565292/photo/1",
+          "media_key": "3_2030014020376481792",
+          "start": 17,
+          "url": "https://t.co/s5jdlO3kbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030014023702565292",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029987187954221061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 好死不如赖活 https://t.co/s5jdlO3kbw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2030014020376481792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwO_v2aUAAsdMZ.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029987185949298691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCv2lx0aUAMycKi.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030014020376481792"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029987187954221061",
+        "created_at": "2026-03-06T20:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030014023702565292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5jdlO3kbw",
+              "end": 40,
+              "expanded_url": "https://x.com/DXMDusk/status/2030014023702565292/photo/1",
+              "media_key": "3_2030014020376481792",
+              "start": 17,
+              "url": "https://t.co/s5jdlO3kbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030014023702565292",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029987187954221061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 好死不如赖活 https://t.co/s5jdlO3kbw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029987185949298691"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2029987187954221061",
+        "created_at": "2026-03-06T18:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T19:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029987187954221061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jg3hylsnuR",
+              "end": 55,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2029987187954221061/photo/1",
+              "media_key": "3_2029987185949298691",
+              "start": 32,
+              "url": "https://t.co/Jg3hylsnuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029987187954221061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我活着。没用。是加剂量了\n最后2850pr  sns 35mg https://t.co/Jg3hylsnuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 459,
+          "like_count": 499,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 758
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2027442466060931175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027067181448798208/Fcxrrme-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 280,
+          "like_count": 4180,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 589
+        },
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016863654650733004",
+    "created_at": "2026-01-29T14:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016879151354171683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516058815652777989",
+          "start": 0,
+          "username": "PaulKochakin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016879151354171683",
+    "in_reply_to_user_id": "1516058815652777989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016863654650733004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulKochakin 网络是可以美化的，现实都一个样，有钱没钱都是人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2016863651387625478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1Wzh1bUAYLYMP.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016863654650733004",
+        "created_at": "2026-01-29T14:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016879151354171683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516058815652777989",
+              "start": 0,
+              "username": "PaulKochakin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016879151354171683",
+        "in_reply_to_user_id": "1516058815652777989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016863654650733004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulKochakin 网络是可以美化的，现实都一个样，有钱没钱都是人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016863651387625478"
+          ]
+        },
+        "author_id": "1516058815652777989",
+        "conversation_id": "2016863654650733004",
+        "created_at": "2026-01-29T13:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016863654650733004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFMFMo2ajR",
+              "end": 136,
+              "expanded_url": "https://x.com/PaulKochakin/status/2016863654650733004/photo/1",
+              "media_key": "3_2016863651387625478",
+              "start": 113,
+              "url": "https://t.co/yFMFMo2ajR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016863654650733004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真别让我在网络上看到谁谁谁过的太好了，家里几岁才告诉他是大资本家富二代这种视频了\n我觉得很大一部分人都该退网关注自己的现实生活，包括我\n再在互联网上吓逼看就会被卷进去然后被别人当经验包刷走\n操你妈的资本主义，操你妈的社会主义 https://t.co/yFMFMo2ajR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 94,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 137
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T14:19:37.000Z",
+        "description": "你好啊，恭喜你找到了一具尸体（很普通的摄影师，核生化防护研究中）｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |摄影/NVG微光管 |LGBTQ+/MTF |整点薯条先 |Gas Mask爱好者，Military enthusias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "militarykit.com",
+                "end": 23,
+                "expanded_url": "https://www.militarykit.com/",
+                "start": 0,
+                "url": "https://t.co/NGAYH5taxB"
+              }
+            ]
+          }
+        },
+        "id": "1516058815652777989",
+        "location": "「向日葵花開滿的地方」",
+        "name": "超级神奇白皮书书 #​9-12A",
+        "pinned_tweet_id": "1766872326799294882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1116,
+          "like_count": 39059,
+          "listed_count": 4,
+          "media_count": 1977,
+          "tweet_count": 10964
+        },
+        "url": "https://t.co/NGAYH5taxB",
+        "username": "PaulKochakin",
+        "verified": false
+      }
+    ]
+  }
+}

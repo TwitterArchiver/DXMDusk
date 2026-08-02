@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033065273595670598",
+    "created_at": "2026-03-15T15:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033202657977156058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        },
+        {
+          "end": 25,
+          "id": "1670705567688704001",
+          "start": 10,
+          "username": "RailhamChiMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033202657977156058",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033083440162369538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD @RailhamChiMing 可怕😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2033083437264080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb2nUzbEAAQYzH.jpg",
+        "width": 1239
+      },
+      {
+        "height": 843,
+        "media_key": "3_2033083437943500804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb2nXVaMAQ3v2T.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033065273595670598",
+        "created_at": "2026-03-15T15:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033202657977156058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            },
+            {
+              "end": 25,
+              "id": "1670705567688704001",
+              "start": 10,
+              "username": "RailhamChiMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033202657977156058",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033083440162369538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD @RailhamChiMing 可怕😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033083437264080896",
+            "3_2033083437943500804"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "conversation_id": "2033065273595670598",
+        "created_at": "2026-03-15T07:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033083440162369538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670705567688704001",
+              "start": 0,
+              "username": "RailhamChiMing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSHi6gOiN1",
+              "end": 185,
+              "expanded_url": "https://x.com/QXY_WARD/status/2033083440162369538/photo/1",
+              "media_key": "3_2033083437264080896",
+              "start": 162,
+              "url": "https://t.co/wSHi6gOiN1"
+            },
+            {
+              "display_url": "pic.x.com/wSHi6gOiN1",
+              "end": 185,
+              "expanded_url": "https://x.com/QXY_WARD/status/2033083440162369538/photo/1",
+              "media_key": "3_2033083437943500804",
+              "start": 162,
+              "url": "https://t.co/wSHi6gOiN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033083440162369538",
+        "in_reply_to_user_id": "1670705567688704001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033065808453341479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RailhamChiMing 快手备注推荐基于社交关系链匹配。当你点击“设置备注”时，系统会检索你与对方的共同好友，并展示这些共同好友在你通讯录中对TA的备注（如“小明”），以此作为参考，方便你快速认识对方，这是一种很流行的社交方式，不是“开户”\n目前官方没有出面解释这是怎么回事 但在备注页面告诉了备注可能来自某些地方 https://t.co/wSHi6gOiN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 986,
+          "like_count": 1664,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 1503
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "翻车顺男 2025.8-2025.12(含糖but cease HRT)/友跨🏳️‍⚧️/femboy/翻唱歌手/喜欢的歌手是G.E.M.邓紫棋/WARD UNLIMITED #ZARD @gemoving",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ZARD"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "gemoving"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031964019851231233/c9QZySdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1274,
+          "like_count": 2851,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1530
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T08:11:28.000Z",
+        "description": "不要随便划分我的成分喵/RHS腐竹/168 57 0.5/俄留子/双形态/猫/上白沢慧音/🚅進化清洲兄弟/历史/诗词创作/舞萌w5星星批/巧克力/深夜陪聊/中推生态观察者/空谈误国，实干兴邦/本人关注列表不代表本人立场/瑞汉语推：@RoyhanChyMinh/小🐱:@Forth_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "RoyhanChyMinh"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "Forth_0"
+              }
+            ]
+          }
+        },
+        "id": "1670705567688704001",
+        "location": "瑞汉服务器 迟家镇 昭地辖区 瑞汉铁路办大学 国际教育学院",
+        "name": "瑞汉迟铭(Рейлхам Чи Мин)",
+        "pinned_tweet_id": "2027041863463735636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023787911364440070/W9zF1wwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 1069,
+          "like_count": 29047,
+          "listed_count": 5,
+          "media_count": 1594,
+          "tweet_count": 13344
+        },
+        "username": "RailhamChiMing",
+        "verified": false
+      }
+    ]
+  }
+}

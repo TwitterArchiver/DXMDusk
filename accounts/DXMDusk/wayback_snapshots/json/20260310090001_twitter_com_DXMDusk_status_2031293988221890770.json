@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027728591358988421",
+    "created_at": "2026-03-10T09:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T10:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031293988221890770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1655163365751418880",
+          "start": 0,
+          "username": "SuRen1688"
+        },
+        {
+          "end": 21,
+          "id": "1894591517270151168",
+          "start": 11,
+          "username": "anjie9800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031293988221890770",
+    "in_reply_to_user_id": "1655163365751418880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027746244446327101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuRen1688 @anjie9800 +1了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027728591358988421",
+        "created_at": "2026-03-10T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031293988221890770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1655163365751418880",
+              "start": 0,
+              "username": "SuRen1688"
+            },
+            {
+              "end": 21,
+              "id": "1894591517270151168",
+              "start": 11,
+              "username": "anjie9800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031293988221890770",
+        "in_reply_to_user_id": "1655163365751418880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027746244446327101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuRen1688 @anjie9800 +1了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655163365751418880",
+        "conversation_id": "2027728591358988421",
+        "created_at": "2026-02-28T14:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027746244446327101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894591517270151168",
+              "start": 0,
+              "username": "anjie9800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027746244446327101",
+        "in_reply_to_user_id": "1894591517270151168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027728591358988421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anjie9800 关注了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 669,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1013
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-07T10:51:23.000Z",
+        "description": "专注于BNB链项目调研，链上PVP行情分享与发掘。分享meme币叙事与彩票机会和历史事件热点关联的代币推荐。一位平凡却不甘平凡得P小将，希望通过自己得努力改变现状。欢迎志同道合得朋友关注一起交流！",
+        "id": "1655163365751418880",
+        "name": "SuRen🔶 BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030295708440694784/2qUiqnSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 2347,
+          "like_count": 2100,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 828
+        },
+        "username": "SuRen1688",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T03:33:39.000Z",
+        "description": "DeFi协议开发者丨挖矿套利实战派丨加密老韭菜丨链上侦探 币安 App ：https://t.co/bDmtj21cfZ 邀请码： 903811461",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsmkweb.com/download-guide…",
+                "end": 60,
+                "expanded_url": "https://www.bsmkweb.com/download-guide?hl=zh-CN",
+                "start": 37,
+                "url": "https://t.co/bDmtj21cfZ"
+              }
+            ]
+          }
+        },
+        "id": "1894591517270151168",
+        "name": "安🐬TermMax",
+        "pinned_tweet_id": "2018358857412870639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014938490824491014/MNR8TOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1654,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 329
+        },
+        "username": "anjie9800",
+        "verified": true
+      }
+    ]
+  }
+}

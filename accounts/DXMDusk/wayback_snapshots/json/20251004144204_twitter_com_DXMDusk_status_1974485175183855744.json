@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "1974485175183855744",
+    "created_at": "2025-10-04T14:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974485175183855744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1849038858039754752",
+          "start": 3,
+          "username": "tsukisakura100"
+        },
+        {
+          "end": 50,
+          "id": "1946188508433203201",
+          "start": 39,
+          "username": "XiYu126203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974485175183855744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971672534363131914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsukisakura100: 虽然感到机会渺茫，但还是想问有没有人有@xiyu126203 的联络方式（\n感觉本人蛮可爱的（\n总之目前的状况是我不知道前段时间发生了啥，因为忙着考试完全没怎么刷推，总之回来的时候推特也注销了qq也注销了（\n想着稍微扩散一下，所以这条推文…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [XiYu126203].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "XiYu126203",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "XiYu126203"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "1974485175183855744",
+        "created_at": "2025-10-04T14:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974485175183855744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1849038858039754752",
+              "start": 3,
+              "username": "tsukisakura100"
+            },
+            {
+              "end": 50,
+              "id": "1946188508433203201",
+              "start": 39,
+              "username": "XiYu126203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974485175183855744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971672534363131914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsukisakura100: 虽然感到机会渺茫，但还是想问有没有人有@xiyu126203 的联络方式（\n感觉本人蛮可爱的（\n总之目前的状况是我不知道前段时间发生了啥，因为忙着考试完全没怎么刷推，总之回来的时候推特也注销了qq也注销了（\n想着稍微扩散一下，所以这条推文…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849038858039754752",
+        "conversation_id": "1971672534363131914",
+        "created_at": "2025-09-26T20:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T21:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971672534363131914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1946188508433203201",
+              "start": 19,
+              "username": "XiYu126203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971672534363131914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1965,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "虽然感到机会渺茫，但还是想问有没有人有@xiyu126203 的联络方式（\n感觉本人蛮可爱的（\n总之目前的状况是我不知道前段时间发生了啥，因为忙着考试完全没怎么刷推，总之回来的时候推特也注销了qq也注销了（\n想着稍微扩散一下，所以这条推文在转发与关注里抽5个5r红包好了外加一条ddr4内存（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "",
+        "id": "1974276207496867842",
+        "name": "Dusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974280613768388608/UZVD82q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:43:20.000Z",
+        "description": "含过糖但最后还是放弃了（ 东京在住 主包38岁离异带两娃 身高148 体重 365 出生38线县城 买了恒大房子贷款500万  曦光渐冷，欲问归人。",
+        "id": "1849038858039754752",
+        "name": "樱雪",
+        "pinned_tweet_id": "1917627253997068320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849039604953001985/Kva_9RSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 236,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 310
+        },
+        "username": "tsukisakura100",
+        "verified": false
+      }
+    ]
+  }
+}

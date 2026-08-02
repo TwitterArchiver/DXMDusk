@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031250471797801247",
+    "created_at": "2026-03-10T08:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031293145955422227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "34337365",
+          "start": 0,
+          "username": "lihuaizhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031293145955422227",
+    "in_reply_to_user_id": "34337365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031250471797801247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihuaizhi +1了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "3_2031250305816604672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBzZCAaMAALZpx.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031250471797801247",
+        "created_at": "2026-03-10T08:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031293145955422227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "34337365",
+              "start": 0,
+              "username": "lihuaizhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031293145955422227",
+        "in_reply_to_user_id": "34337365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031250471797801247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihuaizhi +1了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031250305816604672"
+          ]
+        },
+        "author_id": "34337365",
+        "conversation_id": "2031250471797801247",
+        "created_at": "2026-03-10T06:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031250471797801247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9YjEzRU8A",
+              "end": 130,
+              "expanded_url": "https://x.com/lihuaizhi/status/2031250471797801247/photo/1",
+              "media_key": "3_2031250305816604672",
+              "start": 107,
+              "url": "https://t.co/t9YjEzRU8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031250471797801247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 806,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，姐妹们，大哥大姐们，爷爷奶奶外公外婆，姥姥姥爷们，谢谢大家了，马上就完成任务了，小可爱给你们叩头了。让我们冲一把，今天就完成任务。蓝v马上粉丝500了，大家一起加油。三天半完成500蓝v，看能不能破记录。 https://t.co/t9YjEzRU8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 664,
+          "like_count": 710,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1009
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-22T17:35:28.000Z",
+        "description": "乍见之欢，不若久处不厌，不能相互关注，不如相忘于江湖",
+        "id": "34337365",
+        "location": "United States",
+        "name": "李坏之",
+        "pinned_tweet_id": "2030911022845042789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024090371035475968/gA_MFL8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 584,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1125
+        },
+        "username": "lihuaizhi",
+        "verified": true
+      }
+    ]
+  }
+}

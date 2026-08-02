@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2015817465813725486",
+    "created_at": "2026-02-18T15:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024140355432521781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007357281160278017",
+          "start": 0,
+          "username": "EliFoca5201314"
+        },
+        {
+          "end": 31,
+          "id": "1796937387899064320",
+          "start": 16,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024140355432521781",
+    "in_reply_to_user_id": "2007357281160278017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016128056428265954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EliFoca5201314 @CleverFf050755 避我锋芒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2015817465813725486",
+        "created_at": "2026-02-18T15:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024140355432521781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007357281160278017",
+              "start": 0,
+              "username": "EliFoca5201314"
+            },
+            {
+              "end": 31,
+              "id": "1796937387899064320",
+              "start": 16,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024140355432521781",
+        "in_reply_to_user_id": "2007357281160278017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016128056428265954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EliFoca5201314 @CleverFf050755 避我锋芒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007357281160278017",
+        "conversation_id": "2015817465813725486",
+        "created_at": "2026-01-27T12:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016128056428265954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016128056428265954",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015817465813725486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 王不見王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 164,
+          "like_count": 189,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 390
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T07:44:15.000Z",
+        "description": "🏳️‍⚧️身高158🏳️‍🌈/ #男娘 / #娼年 / #正太 #萝莉 /🚪52 /娼年系神侍美少年❤️/我一定会成为登峰造极的娼年系的【】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "男娘"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "娼年"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "正太"
+              },
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "萝莉"
+              }
+            ]
+          }
+        },
+        "id": "2007357281160278017",
+        "location": "投喂52r🉑➕好友",
+        "name": "千葉芙卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007453964460273667/-37A4lME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 55,
+          "like_count": 12,
+          "listed_count": 7,
+          "media_count": 11,
+          "tweet_count": 19
+        },
+        "username": "EliFoca5201314",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n提问盒：https://t.co/ZSBub0L9dM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 74,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 51,
+                "url": "https://t.co/ZSBub0L9dM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 294,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029820154163634501",
+    "created_at": "2026-03-06T16:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029962032632713325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1395331334957010947",
+          "start": 0,
+          "username": "quxian0818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029962032632713325",
+    "in_reply_to_user_id": "1395331334957010947",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029820154163634501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quxian0818 +1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2029820146223865856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCteqyWa4AA_ga1.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029820154163634501",
+        "created_at": "2026-03-06T16:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029962032632713325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1395331334957010947",
+              "start": 0,
+              "username": "quxian0818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029962032632713325",
+        "in_reply_to_user_id": "1395331334957010947",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029820154163634501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quxian0818 +1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029820146223865856"
+          ]
+        },
+        "author_id": "1395331334957010947",
+        "conversation_id": "2029820154163634501",
+        "created_at": "2026-03-06T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029820154163634501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "蓝v关注必回"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "权重"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "互动"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "粉丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvdvOf7qxQ",
+              "end": 145,
+              "expanded_url": "https://x.com/quxian0818/status/2029820154163634501/photo/1",
+              "media_key": "3_2029820146223865856",
+              "start": 122,
+              "url": "https://t.co/DvdvOf7qxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029820154163634501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位帅哥美女，各位兄弟姐妹，各位大哥大姐，各位弟弟妹妹，各位爷爷奶奶各位叔叔伯伯，各位婶婶姨姨，各位领导，各位来宾，各位粉丝，各位朋友，各位家人，各位宝宝，各位宝子，各位老铁，帮帮弟弟突破两千吧。谢谢了 #蓝v关注必回 #权重 #互动 #粉丝 https://t.co/DvdvOf7qxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 451,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 739
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-20T10:51:37.000Z",
+        "description": "诚信互关版 看见了我会慢慢回关的 一起玩转X",
+        "id": "1395331334957010947",
+        "location": "蓝V互关国",
+        "name": "阿让",
+        "pinned_tweet_id": "2029452853954396283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825086106939047936/cQLQa9Ac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1433,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 538
+        },
+        "username": "quxian0818",
+        "verified": true
+      }
+    ]
+  }
+}

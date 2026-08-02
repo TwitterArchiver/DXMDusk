@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030823536512864495",
+    "created_at": "2026-03-09T07:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030916025118822699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "953173060835729408",
+          "start": 0,
+          "username": "PIRLO_JIANG"
+        },
+        {
+          "end": 22,
+          "id": "1995041096049786880",
+          "start": 13,
+          "username": "AnAuTCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030916025118822699",
+    "in_reply_to_user_id": "953173060835729408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030837434272059700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PIRLO_JIANG @AnAuTCat 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030823536512864495",
+        "created_at": "2026-03-09T07:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030916025118822699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "953173060835729408",
+              "start": 0,
+              "username": "PIRLO_JIANG"
+            },
+            {
+              "end": 22,
+              "id": "1995041096049786880",
+              "start": 13,
+              "username": "AnAuTCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030916025118822699",
+        "in_reply_to_user_id": "953173060835729408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030837434272059700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PIRLO_JIANG @AnAuTCat 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "953173060835729408",
+        "conversation_id": "2030823536512864495",
+        "created_at": "2026-03-09T02:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030837434272059700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995041096049786880",
+              "start": 0,
+              "username": "AnAuTCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030837434272059700",
+        "in_reply_to_user_id": "1995041096049786880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030823536512864495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnAuTCat 回，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 611,
+          "like_count": 605,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 912
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-16T07:52:21.000Z",
+        "description": "程序员 | Vibe Coder | AI参与者 | 健身爱好者 | 面包师 | 奔跑者\n有方向的努力是幸福的 , 享受每一天。(互关必回)",
+        "id": "953173060835729408",
+        "name": "Pirlo_Jiang",
+        "pinned_tweet_id": "2012488549111881836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011791511126753280/pi0h_BcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 1778,
+          "like_count": 805,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 2060
+        },
+        "username": "PIRLO_JIANG",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T08:04:18.000Z",
+        "description": "👏AI tools → real work｜AI 工具拆解｜真实使用场景",
+        "id": "1995041096049786880",
+        "name": "Rong Yan",
+        "pinned_tweet_id": "2020406023446814720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025839523192786944/3aOl4AgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 945,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 723
+        },
+        "username": "AnAuTCat",
+        "verified": true
+      }
+    ]
+  }
+}

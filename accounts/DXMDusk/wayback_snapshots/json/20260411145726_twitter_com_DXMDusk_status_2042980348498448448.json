@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2042927864195223943",
+    "created_at": "2026-04-11T14:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042980348498448448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1229228568946675712",
+          "start": 0,
+          "username": "yinoenya__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042980348498448448",
+    "in_reply_to_user_id": "1229228568946675712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042978584533570025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yinoenya__ 芭比Q了！家人们😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2042978582188953606",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoeMkMakAY1Qnf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2042927864195223943",
+        "created_at": "2026-04-11T14:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042980348498448448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1229228568946675712",
+              "start": 0,
+              "username": "yinoenya__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042980348498448448",
+        "in_reply_to_user_id": "1229228568946675712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042978584533570025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yinoenya__ 芭比Q了！家人们😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042978582188953606"
+          ]
+        },
+        "author_id": "1229228568946675712",
+        "conversation_id": "2042927864195223943",
+        "created_at": "2026-04-11T14:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042978584533570025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdA5eNbXj5",
+              "end": 47,
+              "expanded_url": "https://x.com/yinoenya__/status/2042978584533570025/photo/1",
+              "media_key": "3_2042978582188953606",
+              "start": 24,
+              "url": "https://t.co/sdA5eNbXj5"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2042978584533570025",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042927864195223943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DXMDusk 我用第三方主题你不就炸缸了吗 https://t.co/sdA5eNbXj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1104,
+          "like_count": 2094,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2200
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-17T02:18:37.000Z",
+        "description": "⚠️ Fragile/Flammable | 🇺🇳 en/zh-Hans | ❌ No politics | 🩷💛💚🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "syltus.top",
+                "end": 23,
+                "expanded_url": "https://syltus.top/",
+                "start": 0,
+                "url": "https://t.co/uhN0Pc8lPC"
+              }
+            ]
+          }
+        },
+        "id": "1229228568946675712",
+        "location": "Earth",
+        "name": "佚傩 이노에 Yinoe အီနိုး🍃",
+        "pinned_tweet_id": "1950567515735965743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039329094094168064/5FMxyMHW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 538,
+          "like_count": 118777,
+          "listed_count": 6,
+          "media_count": 878,
+          "tweet_count": 8857
+        },
+        "url": "https://t.co/uhN0Pc8lPC",
+        "username": "yinoenya__",
+        "verified": false
+      }
+    ]
+  }
+}

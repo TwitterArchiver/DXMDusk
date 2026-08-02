@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038519553232420864"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038519555895759028",
+    "created_at": "2026-03-30T07:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038519555895759028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tETrtSPr3q",
+          "end": 166,
+          "expanded_url": "https://x.com/DXMDusk/status/2038519555895759028/photo/1",
+          "media_key": "3_2038519553232420864",
+          "start": 143,
+          "url": "https://t.co/tETrtSPr3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038519555895759028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理创伤的代际传递\n【当父母的伤，成了孩子的枷锁】\n父母那些未被疗愈的创伤，会像看不见的墨水，在孩子心里写下相似的剧本——\n▸ 总是情绪失控的父亲，教会儿子用愤怒替代沟通\n▸ 抑郁寡欢的母亲，让女儿认为“快乐是种罪恶”\n▸ 童年缺爱的父母，既过度宠溺孩子又突然冷漠，制造出混乱的安全感 https://t.co/tETrtSPr3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_2038519553232420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpGu64bQAAPiJL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038519553232420864"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038519555895759028",
+        "created_at": "2026-03-30T07:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038519555895759028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tETrtSPr3q",
+              "end": 166,
+              "expanded_url": "https://x.com/DXMDusk/status/2038519555895759028/photo/1",
+              "media_key": "3_2038519553232420864",
+              "start": 143,
+              "url": "https://t.co/tETrtSPr3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038519555895759028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理创伤的代际传递\n【当父母的伤，成了孩子的枷锁】\n父母那些未被疗愈的创伤，会像看不见的墨水，在孩子心里写下相似的剧本——\n▸ 总是情绪失控的父亲，教会儿子用愤怒替代沟通\n▸ 抑郁寡欢的母亲，让女儿认为“快乐是种罪恶”\n▸ 童年缺爱的父母，既过度宠溺孩子又突然冷漠，制造出混乱的安全感 https://t.co/tETrtSPr3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 1074,
+          "like_count": 1845,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1821
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

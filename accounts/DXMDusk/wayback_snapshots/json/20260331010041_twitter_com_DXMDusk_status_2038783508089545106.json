@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038783508089545106",
+    "created_at": "2026-03-31T01:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038783508089545106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SakurabaEma_IT…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2038450135659856324",
+          "start": 100,
+          "url": "https://t.co/eHc0KbIVaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038783508089545106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038450135659856324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也需要投票吗，直接用描述代替代词不行吗，该人士，该个体，该人员，此人，当事人，相关人员，他们，TA，患者，受害人，受害者，等等都可以用于代替吧，写文章要抓主要矛盾，重点不是纠结这些所谓的敏感代词吧 https://t.co/eHc0KbIVaN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038783508089545106",
+        "created_at": "2026-03-31T01:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038783508089545106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurabaEma_IT…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/SakurabaEma_ITN/status/2038450135659856324",
+              "start": 100,
+              "url": "https://t.co/eHc0KbIVaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038783508089545106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450135659856324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也需要投票吗，直接用描述代替代词不行吗，该人士，该个体，该人员，此人，当事人，相关人员，他们，TA，患者，受害人，受害者，等等都可以用于代替吧，写文章要抓主要矛盾，重点不是纠结这些所谓的敏感代词吧 https://t.co/eHc0KbIVaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038450134191865856"
+          ]
+        },
+        "author_id": "1991445096013918208",
+        "conversation_id": "2038450135659856324",
+        "created_at": "2026-03-30T02:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038450135659856324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038450135659856324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18861,
+          "like_count": 82,
+          "quote_count": 9,
+          "reply_count": 36,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我与温柔，牧鸢等人聊了一下，温柔希望大家能给他一个大家都能接受的方案\n这是目前来说网上的几种观点，能代表大家对此事的意见，希望大家进行投票，投票的意见将能决定未来他们会怎么更好的救助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1082,
+          "like_count": 1856,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1891
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 91,
+          "like_count": 3876,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

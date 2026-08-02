@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2022797021766361305",
+    "created_at": "2026-02-16T07:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023304078957387958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        },
+        {
+          "end": 28,
+          "id": "705777407794352129",
+          "start": 15,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023304078957387958",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023034561400283148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko @ServalCandle 想死不是冲动，而是对活着产生了彻底的无奈和绝望，才会选择一走了之，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022797021766361305",
+        "created_at": "2026-02-16T07:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023304078957387958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            },
+            {
+              "end": 28,
+              "id": "705777407794352129",
+              "start": 15,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023304078957387958",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023034561400283148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko @ServalCandle 想死不是冲动，而是对活着产生了彻底的无奈和绝望，才会选择一走了之，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "2022797021766361305",
+        "created_at": "2026-02-15T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023034561400283148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023034561400283148",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022797021766361305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 真正有自杀意向的人是不会透露这种计划的，会安安静静的，悄无声息的淡出大家的视野，你觉得呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 151,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 321
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜有两只小黑猫，一只叫多多，一只叫@MeowCatherina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "MeowCatherina"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Guangzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "1912579886939824486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018637275614363648/vW4y4RPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9130,
+          "following_count": 2855,
+          "like_count": 16561,
+          "listed_count": 13,
+          "media_count": 906,
+          "tweet_count": 9415
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016599737370365954/FsaeDbNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33476,
+          "following_count": 350,
+          "like_count": 229597,
+          "listed_count": 106,
+          "media_count": 8735,
+          "tweet_count": 56901
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

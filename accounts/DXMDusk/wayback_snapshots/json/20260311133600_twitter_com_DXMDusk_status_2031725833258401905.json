@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031719426413019199",
+    "created_at": "2026-03-11T13:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031725833258401905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2019243346112430080",
+          "start": 0,
+          "username": "7868uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031725833258401905",
+    "in_reply_to_user_id": "2019243346112430080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031719426413019199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7868uu 也没有看到实际的显示，回一下关呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031719402790641664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIeCEaa4AAsD0g.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031719426413019199",
+        "created_at": "2026-03-11T13:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031725833258401905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2019243346112430080",
+              "start": 0,
+              "username": "7868uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031725833258401905",
+        "in_reply_to_user_id": "2019243346112430080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031719426413019199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7868uu 也没有看到实际的显示，回一下关呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031719402790641664"
+          ]
+        },
+        "author_id": "2019243346112430080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031719426413019199",
+        "created_at": "2026-03-11T13:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031719426413019199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Yn10TtsuT",
+              "end": 45,
+              "expanded_url": "https://x.com/7868uu/status/2031719426413019199/photo/1",
+              "media_key": "3_2031719402790641664",
+              "start": 22,
+              "url": "https://t.co/7Yn10TtsuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031719426413019199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥玩意儿🌚，哎(~_~💧)，我真的是真人啊 https://t.co/7Yn10TtsuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 767,
+          "like_count": 993,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1198
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T02:55:24.000Z",
+        "description": "Think independently and distinguish right from wrong.",
+        "id": "2019243346112430080",
+        "name": "7868uu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029381239069954048/yNxWbTWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1183,
+          "like_count": 213,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 444
+        },
+        "username": "7868uu",
+        "verified": true
+      }
+    ]
+  }
+}

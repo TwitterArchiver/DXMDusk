@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031009294095990835",
+    "created_at": "2026-03-10T05:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031236700400398664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1087274291060629504",
+          "start": 0,
+          "username": "xcxcxcxcooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031236700400398664",
+    "in_reply_to_user_id": "1087274291060629504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031126397159354657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcxcxcxcooo 提高专注力，动力，记忆力等等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031009294095990835",
+        "created_at": "2026-03-10T05:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031236700400398664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1087274291060629504",
+              "start": 0,
+              "username": "xcxcxcxcooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031236700400398664",
+        "in_reply_to_user_id": "1087274291060629504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031126397159354657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcxcxcxcooo 提高专注力，动力，记忆力等等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087274291060629504",
+        "conversation_id": "2031009294095990835",
+        "created_at": "2026-03-09T21:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T22:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031126397159354657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031126397159354657",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031009294095990835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 这个药吃了是干嘛的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 652,
+          "like_count": 704,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1004
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-21T09:02:46.000Z",
+        "description": "真水无香，大爱无疆，人这一辈子，修心，争命！G+er! 买基金，炒股，机械结构专业，喜欢羽毛球，摄影！ @bobbyhu@mastodon.social",
+        "id": "1087274291060629504",
+        "name": "獨孤求跌",
+        "pinned_tweet_id": "2030864078416359775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685654306413023233/sBF8qXd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5797,
+          "following_count": 5922,
+          "like_count": 38111,
+          "listed_count": 49,
+          "media_count": 3361,
+          "tweet_count": 37703
+        },
+        "username": "xcxcxcxcooo",
+        "verified": true
+      }
+    ]
+  }
+}

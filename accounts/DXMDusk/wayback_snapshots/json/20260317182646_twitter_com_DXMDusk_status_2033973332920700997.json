@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2022959378715070628",
+    "created_at": "2026-03-17T18:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033973332920700997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691566339524321281",
+          "start": 0,
+          "username": "zongtianshuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033973332920700997",
+    "in_reply_to_user_id": "1691566339524321281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033973047380873374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zongtianshuo 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022959378715070628",
+        "created_at": "2026-03-17T18:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033973332920700997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691566339524321281",
+              "start": 0,
+              "username": "zongtianshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033973332920700997",
+        "in_reply_to_user_id": "1691566339524321281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033973047380873374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zongtianshuo 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691566339524321281",
+        "conversation_id": "2022959378715070628",
+        "created_at": "2026-03-17T18:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033973047380873374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033973047380873374",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033972713413627910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 不好意思已经出掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1027,
+          "like_count": 1792,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1618
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T21:43:54.000Z",
+        "description": "zongtianshuo@vinyl.com\n渴望路演的踪天朔，🎻🎶\n网易云, Twitter, Ins, Spotify, Apple Music\n2006. 现居香港，偶尔北京深圳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ykbhX5ZXMM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ykbhX5ZXMM",
+                "start": 0,
+                "url": "https://t.co/ygO64bHbiy"
+              }
+            ]
+          }
+        },
+        "id": "1691566339524321281",
+        "location": "Beijing",
+        "name": "踪天朔",
+        "pinned_tweet_id": "1775165848178807228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979720526877642752/F6UvP_Lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 421,
+          "like_count": 29100,
+          "listed_count": 6,
+          "media_count": 946,
+          "tweet_count": 11228
+        },
+        "url": "https://t.co/ygO64bHbiy",
+        "username": "zongtianshuo",
+        "verified": false
+      }
+    ]
+  }
+}

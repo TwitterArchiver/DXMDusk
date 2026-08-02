@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032296065249264014",
+    "created_at": "2026-03-13T07:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T08:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032360760584913121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935582910217912320",
+          "start": 0,
+          "username": "ameyorui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032360760584913121",
+    "in_reply_to_user_id": "1935582910217912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032356014981517628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameyorui 拉，在我躁狂时，50t才把我放倒，平时作为用做情绪稳定剂还是挺好的，至于睡觉就算了吧，基本没作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032296065249264014",
+        "created_at": "2026-03-13T07:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032360760584913121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935582910217912320",
+              "start": 0,
+              "username": "ameyorui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032360760584913121",
+        "in_reply_to_user_id": "1935582910217912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032356014981517628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameyorui 拉，在我躁狂时，50t才把我放倒，平时作为用做情绪稳定剂还是挺好的，至于睡觉就算了吧，基本没作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935582910217912320",
+        "conversation_id": "2032296065249264014",
+        "created_at": "2026-03-13T07:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032356014981517628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032356014981517628",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032296065249264014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 最猛的王炸是氯硝西泮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 874,
+          "like_count": 1457,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1402
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T06:19:07.000Z",
+        "description": "在虚无与幻灭中刻下属于自己的痕迹吧。🌿无性人偶🍃浮世/荒诞/凄美/交融/戏剧性缥缈",
+        "id": "1935582910217912320",
+        "location": "乐园",
+        "name": "雨夜兰陵行路人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935583269468110849/1rP4Zh0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 1612,
+          "like_count": 9717,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "ameyorui",
+        "verified": false
+      }
+    ]
+  }
+}

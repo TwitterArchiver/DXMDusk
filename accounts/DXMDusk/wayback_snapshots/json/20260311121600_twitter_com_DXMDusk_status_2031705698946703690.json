@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031379006457872685",
+    "created_at": "2026-03-11T12:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031705698946703690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        },
+        {
+          "end": 22,
+          "id": "1726969617850286080",
+          "start": 7,
+          "username": "Kikunashi30712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031705698946703690",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031379006457872685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu @Kikunashi30712 抱抱你，感觉你现在已经处于一种自我解意状态了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031379006457872685",
+        "created_at": "2026-03-11T12:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031705698946703690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            },
+            {
+              "end": 22,
+              "id": "1726969617850286080",
+              "start": 7,
+              "username": "Kikunashi30712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031705698946703690",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031379006457872685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu @Kikunashi30712 抱抱你，感觉你现在已经处于一种自我解意状态了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2031379006457872685",
+        "created_at": "2026-03-10T14:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031379006457872685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031379006457872685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么我的精神看起来稳定…\n我精神病史已经4年了，\n期间服用过大部分常规治疗的药物：安非他酮 碳酸锂 喹硫平 米氮平 奥氮平 文拉法辛 氟西汀\n现在还在用舍曲林 阿戈美拉汀 坦度螺酮和各种精二安眠药\n\n我感觉我自己的大脑就是一种「我不在乎了 我已经麻木了 我不想对任何事情产生情绪波动了」\n\n实际上不稳定的后果已经完全的体现在我的皮肤上，我的皮肤有恶心至极的黑紫色增生疤，要做植皮手术才能修复的那种，加上曾经大量的用各种od的药物（右美沙芬 普瑞巴林 白兔bron 苯海明 金刚烷胺 还有各种嗜睡max的药物）od带来的高原感已经在药效发作之前被昏睡或者呕吐全部冲荡一空了\n\n不od不自残其实或许也不代表我就是健全人什么的 只是我不想…… 以及 在做完之后 我的精神也不会因此变得更好了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4679,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的精神看起来稳定…\n我精神病史已经4年了，\n期间服用过大部分常规治疗的药物：安非他酮 碳酸锂 喹硫平 米氮平 奥氮平 文拉法辛 氟西汀\n现在还在用舍曲林 阿戈美拉汀 坦度螺酮和各种精二安眠药\n\n我感觉我自己的大脑就是一种「我不在乎了 我已经麻木了 我不想对任何事情产生情绪波动了」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 759,
+          "like_count": 947,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1175
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "まのさば"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 57,
+                "start": 39,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ@共犯者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006152830395244545/iz0dS4_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28483,
+          "following_count": 3767,
+          "like_count": 12696,
+          "listed_count": 28,
+          "media_count": 4506,
+          "tweet_count": 31530
+        },
+        "username": "_ropu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZSL5y"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015768177091936256/sDXcJM8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 211,
+          "like_count": 24605,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 13435
+        },
+        "url": "https://t.co/5udd6ZSL5y",
+        "username": "Kikunashi30712",
+        "verified": false
+      }
+    ]
+  }
+}

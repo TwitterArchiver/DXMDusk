@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026515218717978747",
+    "created_at": "2026-03-06T19:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030002164836487211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1769324132955766784",
+          "start": 0,
+          "username": "REYORIu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org",
+          "end": 49,
+          "expanded_url": "https://freeodwiki.org/",
+          "images": [
+            {
+              "height": 352,
+              "url": "https://pbs.twimg.com/news_img/2028878040642850816/bClavsnr?format=png&name=orig",
+              "width": 459
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028878040642850816/bClavsnr?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/",
+          "url": "https://t.co/OAGyGrLb0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030002164836487211",
+    "in_reply_to_user_id": "1769324132955766784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026515218717978747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REYORIu FreeODWiki目前，还可以\nhttps://t.co/OAGyGrLb0y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026515218717978747",
+        "created_at": "2026-03-06T19:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030002164836487211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1769324132955766784",
+              "start": 0,
+              "username": "REYORIu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org",
+              "end": 49,
+              "expanded_url": "https://freeodwiki.org/",
+              "images": [
+                {
+                  "height": 352,
+                  "url": "https://pbs.twimg.com/news_img/2028878040642850816/bClavsnr?format=png&name=orig",
+                  "width": 459
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028878040642850816/bClavsnr?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/OAGyGrLb0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030002164836487211",
+        "in_reply_to_user_id": "1769324132955766784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026515218717978747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REYORIu FreeODWiki目前，还可以\nhttps://t.co/OAGyGrLb0y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769324132955766784",
+        "conversation_id": "2026515218717978747",
+        "created_at": "2026-02-25T04:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026515218717978747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026515218717978747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个真正的有用的科普详细的odwiki，而不是看wiki主们大战，谁给我推荐好的wiki……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 455,
+          "like_count": 495,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 753
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T11:25:29.000Z",
+        "description": "你站在我面前 我觉得隔了一个海洋 你恐水 而我不会游泳 你和我大概都有苦衷 所以最后无法成为我们",
+        "id": "1769324132955766784",
+        "name": "世界的最后一天你会见到我吗",
+        "pinned_tweet_id": "1987881488034246737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987415085137207298/ukJGpAhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 160,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 796
+        },
+        "username": "REYORIu",
+        "verified": false
+      }
+    ]
+  }
+}

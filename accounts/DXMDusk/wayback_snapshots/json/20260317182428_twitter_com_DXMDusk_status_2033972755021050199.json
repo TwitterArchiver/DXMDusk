@@ -1,0 +1,795 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022959371249160192",
+        "3_2022959366882947072",
+        "3_2022959366736166912",
+        "3_2022959375749648384"
+      ],
+      "media_source_tweet_id": [
+        "2022959378715070628",
+        "2022959378715070628",
+        "2022959378715070628",
+        "2022959378715070628"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2033972755021050199",
+    "created_at": "2026-03-17T18:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033972755021050199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1691566339524321281",
+          "start": 3,
+          "username": "zongtianshuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJbUVhgO1A",
+          "end": 137,
+          "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+          "media_key": "3_2022959371249160192",
+          "start": 114,
+          "url": "https://t.co/dJbUVhgO1A"
+        },
+        {
+          "display_url": "pic.x.com/dJbUVhgO1A",
+          "end": 137,
+          "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+          "media_key": "3_2022959366882947072",
+          "start": 114,
+          "url": "https://t.co/dJbUVhgO1A"
+        },
+        {
+          "display_url": "pic.x.com/dJbUVhgO1A",
+          "end": 137,
+          "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+          "media_key": "3_2022959366736166912",
+          "start": 114,
+          "url": "https://t.co/dJbUVhgO1A"
+        },
+        {
+          "display_url": "pic.x.com/dJbUVhgO1A",
+          "end": 137,
+          "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+          "media_key": "3_2022959375749648384",
+          "start": 114,
+          "url": "https://t.co/dJbUVhgO1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033972755021050199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022959378715070628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zongtianshuo: 帮弟弟出一台iPhone 8，电池健康75%，英国版，已越狱，2020年换过一次夏普的屏幕。\n有意向可以直接评论区或私信。400 CNY/ 450HKD，顺丰包邮。也可在深圳罗湖或港岛面交。 https://t.co/dJbUVhgO1A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2022959371249160192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL-1H5akAA5TjZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2022959366882947072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL-03obcAA1n1O.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2022959366736166912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL-03FbwAAmfjR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022959375749648384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL-1YqakAATXHO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022959371249160192",
+            "3_2022959366882947072",
+            "3_2022959366736166912",
+            "3_2022959375749648384"
+          ],
+          "media_source_tweet_id": [
+            "2022959378715070628",
+            "2022959378715070628",
+            "2022959378715070628",
+            "2022959378715070628"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2033972755021050199",
+        "created_at": "2026-03-17T18:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033972755021050199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691566339524321281",
+              "start": 3,
+              "username": "zongtianshuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 137,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959371249160192",
+              "start": 114,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 137,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959366882947072",
+              "start": 114,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 137,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959366736166912",
+              "start": 114,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 137,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959375749648384",
+              "start": 114,
+              "url": "https://t.co/dJbUVhgO1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033972755021050199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022959378715070628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zongtianshuo: 帮弟弟出一台iPhone 8，电池健康75%，英国版，已越狱，2020年换过一次夏普的屏幕。\n有意向可以直接评论区或私信。400 CNY/ 450HKD，顺丰包邮。也可在深圳罗湖或港岛面交。 https://t.co/dJbUVhgO1A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022959371249160192",
+            "3_2022959366882947072",
+            "3_2022959366736166912",
+            "3_2022959375749648384"
+          ]
+        },
+        "author_id": "1691566339524321281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2022959378715070628",
+        "created_at": "2026-02-15T09:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022959378715070628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 119,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959371249160192",
+              "start": 96,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 119,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959366882947072",
+              "start": 96,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 119,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959366736166912",
+              "start": 96,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "pic.x.com/dJbUVhgO1A",
+              "end": 119,
+              "expanded_url": "https://x.com/zongtianshuo/status/2022959378715070628/photo/1",
+              "media_key": "3_2022959375749648384",
+              "start": 96,
+              "url": "https://t.co/dJbUVhgO1A"
+            },
+            {
+              "display_url": "x.com/zongtianshuo/s…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/zongtianshuo/status/2021082329314361716",
+              "start": 120,
+              "url": "https://t.co/F0bIx2isRR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2022959378715070628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24411,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021082329314361716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮弟弟出一台iPhone 8，电池健康75%，英国版，已越狱，2020年换过一次夏普的屏幕。\n有意向可以直接评论区或私信。400 CNY/ 450HKD，顺丰包邮。也可在深圳罗湖或港岛面交。 https://t.co/dJbUVhgO1A https://t.co/F0bIx2isRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1027,
+          "like_count": 1792,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1618
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T21:43:54.000Z",
+        "description": "zongtianshuo@vinyl.com\n渴望路演的踪天朔，🎻🎶\n网易云, Twitter, Ins, Spotify, Apple Music\n2006. 现居香港，偶尔北京深圳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ykbhX5ZXMM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ykbhX5ZXMM",
+                "start": 0,
+                "url": "https://t.co/ygO64bHbiy"
+              }
+            ]
+          }
+        },
+        "id": "1691566339524321281",
+        "location": "Beijing",
+        "name": "踪天朔",
+        "pinned_tweet_id": "1775165848178807228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979720526877642752/F6UvP_Lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 421,
+          "like_count": 29097,
+          "listed_count": 6,
+          "media_count": 946,
+          "tweet_count": 11227
+        },
+        "url": "https://t.co/ygO64bHbiy",
+        "username": "zongtianshuo",
+        "verified": false
+      }
+    ]
+  }
+}

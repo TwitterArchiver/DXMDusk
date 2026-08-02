@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "1779109175265722448",
+    "created_at": "2026-01-28T17:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016558356903973173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2954346651",
+          "start": 0,
+          "username": "EN__Ien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016558356903973173",
+    "in_reply_to_user_id": "2954346651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1779109175265722448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EN__Ien 他怎么了，让你这样做"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1779109172006522881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLCqXaYWkAEhr-T.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "1779109175265722448",
+        "created_at": "2026-01-28T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016558356903973173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2954346651",
+              "start": 0,
+              "username": "EN__Ien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016558356903973173",
+        "in_reply_to_user_id": "2954346651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1779109175265722448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EN__Ien 他怎么了，让你这样做"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1779109172006522881"
+          ]
+        },
+        "author_id": "2954346651",
+        "conversation_id": "1779109175265722448",
+        "created_at": "2024-04-13T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-13T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1779109175265722448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDZrPCx1il",
+              "end": 28,
+              "expanded_url": "https://x.com/EN__Ien/status/1779109175265722448/photo/1",
+              "media_key": "3_1779109172006522881",
+              "start": 5,
+              "url": "https://t.co/VDZrPCx1il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1779109175265722448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全都是我 https://t.co/VDZrPCx1il"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 77,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 72
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-01T07:01:15.000Z",
+        "description": "随意\n                  \n                老婆 @MizukawaYui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "MizukawaYui"
+              }
+            ]
+          }
+        },
+        "id": "2954346651",
+        "name": "米粥（我叫苗博然 🏳️‍⚧️",
+        "pinned_tweet_id": "1264035637847416832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1213137153955205120/3A6SaSLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1984,
+          "like_count": 18956,
+          "listed_count": 4,
+          "media_count": 810,
+          "tweet_count": 18441
+        },
+        "username": "EN__Ien",
+        "verified": false
+      }
+    ]
+  }
+}

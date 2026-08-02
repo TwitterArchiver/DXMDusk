@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029991875248349555",
+    "created_at": "2026-03-06T19:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030007358525690362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1439593497841987586",
+          "start": 0,
+          "username": "RealHanyaHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030007358525690362",
+    "in_reply_to_user_id": "1439593497841987586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029995605620404588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealHanyaHu 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029991875248349555",
+        "created_at": "2026-03-06T19:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030007358525690362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1439593497841987586",
+              "start": 0,
+              "username": "RealHanyaHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030007358525690362",
+        "in_reply_to_user_id": "1439593497841987586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029995605620404588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealHanyaHu 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439593497841987586",
+        "conversation_id": "2029991875248349555",
+        "created_at": "2026-03-06T19:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029995605620404588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029995605620404588",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029991875248349555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 关了～互关！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 458,
+          "like_count": 498,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 755
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T14:13:49.000Z",
+        "description": "HerPower AI 创始人🤖 | Ex-COO | 硅谷天使投资人 • 作家 | #HerPowerAI | 专注AI时代女性赋能  | CSTU兼职教授 | 油管频道《众里寻她》主理人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 43,
+                "tag": "HerPowerAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "HerPower.ai",
+                "end": 23,
+                "expanded_url": "http://HerPower.ai",
+                "start": 0,
+                "url": "https://t.co/hoXjqu94hy"
+              }
+            ]
+          }
+        },
+        "id": "1439593497841987586",
+        "location": "US",
+        "name": "Hanya Hu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960475316641783809/ZttCZ7NX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10251,
+          "following_count": 2821,
+          "like_count": 38084,
+          "listed_count": 39,
+          "media_count": 1582,
+          "tweet_count": 11720
+        },
+        "url": "https://t.co/hoXjqu94hy",
+        "username": "RealHanyaHu",
+        "verified": true
+      }
+    ]
+  }
+}

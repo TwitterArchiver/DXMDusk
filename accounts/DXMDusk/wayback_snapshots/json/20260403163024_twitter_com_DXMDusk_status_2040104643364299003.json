@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040010671442796767",
+    "created_at": "2026-04-03T16:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040104643364299003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786206274365104129",
+          "start": 0,
+          "username": "zealcat_231008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040104643364299003",
+    "in_reply_to_user_id": "1786206274365104129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040101920933925151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zealcat_231008 实际上，我能吃十包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040010671442796767",
+        "created_at": "2026-04-03T16:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040104643364299003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786206274365104129",
+              "start": 0,
+              "username": "zealcat_231008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040104643364299003",
+        "in_reply_to_user_id": "1786206274365104129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040101920933925151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zealcat_231008 实际上，我能吃十包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786206274365104129",
+        "conversation_id": "2040010671442796767",
+        "created_at": "2026-04-03T16:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040101920933925151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040101920933925151",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040010671442796767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 才十粒…我每次最少OD三分之一包🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1092,
+          "like_count": 2013,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1988
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T01:29:26.000Z",
+        "description": "你好，我是梓皓zeal，很高兴能够认识你！\n一名想要在X上交到知心朋友的高中生 | 正在为自己流浪的心灵寻找避难所 | 爱好很多 但最喜欢心理学与摇滚乐 |注意力缺陷型ADHD | 热爱互联网 | 渴望自由 | 偶尔厌世 但对可爱的事物没有抵抗力 | 对未来仍充满憧憬（失眠中）欢迎互fo",
+        "id": "1786206274365104129",
+        "location": "99号围城",
+        "name": "梓皓zeal",
+        "pinned_tweet_id": "1967977018517323881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039000605365313537/3uoXSBLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 129,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 294
+        },
+        "username": "zealcat_231008",
+        "verified": false
+      }
+    ]
+  }
+}

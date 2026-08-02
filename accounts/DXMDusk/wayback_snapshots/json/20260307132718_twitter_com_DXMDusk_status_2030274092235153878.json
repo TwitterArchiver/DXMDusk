@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030206384047063455",
+    "created_at": "2026-03-07T13:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030274092235153878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952004090994786304",
+          "start": 0,
+          "username": "Baoer_BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030274092235153878",
+    "in_reply_to_user_id": "1952004090994786304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030206384047063455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baoer_BTC 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2030206376715370496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCy98XDaQAAw2Mm.jpg",
+        "width": 828
+      },
+      {
+        "height": 680,
+        "media_key": "3_2030206376736325632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCy98XIaAAAV-Wv.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030206384047063455",
+        "created_at": "2026-03-07T13:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030274092235153878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952004090994786304",
+              "start": 0,
+              "username": "Baoer_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030274092235153878",
+        "in_reply_to_user_id": "1952004090994786304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030206384047063455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baoer_BTC 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030206376715370496",
+            "3_2030206376736325632"
+          ]
+        },
+        "author_id": "1952004090994786304",
+        "conversation_id": "2030206384047063455",
+        "created_at": "2026-03-07T08:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030206384047063455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEtD3elV1M",
+              "end": 158,
+              "expanded_url": "https://x.com/Baoer_BTC/status/2030206384047063455/photo/1",
+              "media_key": "3_2030206376715370496",
+              "start": 135,
+              "url": "https://t.co/rEtD3elV1M"
+            },
+            {
+              "display_url": "pic.x.com/rEtD3elV1M",
+              "end": 158,
+              "expanded_url": "https://x.com/Baoer_BTC/status/2030206384047063455/photo/1",
+              "media_key": "3_2030206376736325632",
+              "start": 135,
+              "url": "https://t.co/rEtD3elV1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030206384047063455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么要蓝v互关而不要纯互关的？\n\n很多新人只知道互关涨粉，却不知道蓝V互关和普通互关，完全是两回事。\n\n普通互关：只是数字，没权重\n随便互关、互粉、抱团，账号权重低、质量差，\n平台一看就是刷出来的，不给流量、不给推荐、容易限流。\n粉再多，也是“死粉”，发东西没人看。\n\n蓝V互关：是身份，是权重，是圈子\n\n蓝V本身就是认证账号，平台信任度高\n\n蓝V之间互关，会互相抬权重、抬曝光\n\n蓝V粉丝更稳定，不容易掉，不会被清粉\n\n别人点进你主页，看到你关注、粉丝全是蓝V，可信度直接拉满\n\n以后做账号、做推广、接合作、做引流，只认蓝V圈子\n\n对新人最现实的一句话\n普通互关：涨得快，死得快，没用\n蓝V互关：慢一点，但稳、值钱、能长期用\n\n想把号做起来，只和蓝V玩，别乱跟普通号互关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要蓝v互关而不要纯互关的？\n\n很多新人只知道互关涨粉，却不知道蓝V互关和普通互关，完全是两回事。\n\n普通互关：只是数字，没权重\n随便互关、互粉、抱团，账号权重低、质量差，\n平台一看就是刷出来的，不给流量、不给推荐、容易限流。\n粉再多，也是“死粉”，发东西没人看。 https://t.co/rEtD3elV1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 497,
+          "like_count": 515,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 781
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T13:50:46.000Z",
+        "description": "#BNB ｜You can call me, Sister Bao'er.｜阿威十八式，全活不打折｜#ETH ｜开车看路，炒币看势。 不追高，不接飞刀，不瞎变道，不猛踩刹车。 行情好就踩油，行情差就怠速。 别人慌得一批，我稳如老狗。 ｜#BTC ｜合作DM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "ETH"
+              },
+              {
+                "end": 122,
+                "start": 118,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "1952004090994786304",
+        "location": "Wong Tai Sin District",
+        "name": "宝儿姐（阿威十八式）",
+        "pinned_tweet_id": "2030206544915410978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022735071560765441/_-DHp-lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 1920,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1869
+        },
+        "username": "Baoer_BTC",
+        "verified": true
+      }
+    ]
+  }
+}

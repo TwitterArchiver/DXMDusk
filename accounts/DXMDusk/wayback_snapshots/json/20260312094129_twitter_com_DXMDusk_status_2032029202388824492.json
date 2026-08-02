@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031888216937402590",
+    "created_at": "2026-03-12T09:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032029202388824492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795842941371727873",
+          "start": 0,
+          "username": "yzjbaofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032029202388824492",
+    "in_reply_to_user_id": "1795842941371727873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031888216937402590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzjbaofu 来了，百分百的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2031888214412443648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDK3kMtbQAAFcon.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031888216937402590",
+        "created_at": "2026-03-12T09:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032029202388824492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795842941371727873",
+              "start": 0,
+              "username": "yzjbaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032029202388824492",
+        "in_reply_to_user_id": "1795842941371727873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031888216937402590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzjbaofu 来了，百分百的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031888214412443648"
+          ]
+        },
+        "author_id": "1795842941371727873",
+        "conversation_id": "2031888216937402590",
+        "created_at": "2026-03-12T00:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T01:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031888216937402590"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vm5EVPExGH",
+              "end": 63,
+              "expanded_url": "https://x.com/yzjbaofu/status/2031888216937402590/photo/1",
+              "media_key": "3_2031888214412443648",
+              "start": 40,
+              "url": "https://t.co/vm5EVPExGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031888216937402590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说好了蓝V互关，一定回关。\n\n记得在评论区留言，我们一起互动起来\n\n#蓝V互关 https://t.co/vm5EVPExGH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 808,
+          "like_count": 1191,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1266
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T15:41:53.000Z",
+        "description": "一起发财！",
+        "id": "1795842941371727873",
+        "location": "暴富山⛰️",
+        "name": "🔥江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970083940993265664/P6y2OYtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 505,
+          "like_count": 381,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 2894
+        },
+        "username": "yzjbaofu",
+        "verified": true
+      }
+    ]
+  }
+}

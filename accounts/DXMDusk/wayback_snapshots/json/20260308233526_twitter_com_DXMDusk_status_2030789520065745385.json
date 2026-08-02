@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030629133592727587",
+    "created_at": "2026-03-08T23:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T00:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030789520065745385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022903278330343424",
+          "start": 0,
+          "username": "littlecat889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030789520065745385",
+    "in_reply_to_user_id": "2022903278330343424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030629133592727587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlecat889 互～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030629133592727587",
+        "created_at": "2026-03-08T23:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030789520065745385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022903278330343424",
+              "start": 0,
+              "username": "littlecat889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030789520065745385",
+        "in_reply_to_user_id": "2022903278330343424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030629133592727587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlecat889 互～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022903278330343424",
+        "conversation_id": "2030629133592727587",
+        "created_at": "2026-03-08T12:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030629133592727587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030629133592727587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做个调查问个卷：\n\n宝宝们会关注不带蓝V的X友吗？会给不带蓝V的X友点赞评论吗？😋\n\n……………………………………………………………………………………\n\n我会回关｜但不会点赞评论直接划走｜\n……………………………………………………………………………………\n\n不是蓝V的宝宝别破防哦哈哈。🤣\n……………………………………………………………………………………"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做个调查问个卷：\n\n宝宝们会关注不带蓝V的X友吗？会给不带蓝V的X友点赞评论吗？😋\n\n……………………………………………………………………………………\n\n我会回关｜但不会点赞评论直接划走｜\n……………………………………………………………………………………\n\n不是蓝V的宝宝别破防哦哈哈。🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 568,
+          "like_count": 543,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 851
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-15T05:19:15.000Z",
+        "description": "不搞对立，因为凡事不是非黑即白；不抹黑祖国，因为那是生养我的土地；不搞人身攻击，希望所遇都是善良的人。你好，朋友，一起在虚拟的世界里触摸最真实的自己；一起在互联网里分享你我的真知灼见；你好，知音知己，一起前行。",
+        "id": "2022903278330343424",
+        "name": "Little&cat🌸",
+        "pinned_tweet_id": "2030236401103688020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023750200066797568/lyCo-498_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 2560,
+          "like_count": 622,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1631
+        },
+        "username": "littlecat889",
+        "verified": true
+      }
+    ]
+  }
+}

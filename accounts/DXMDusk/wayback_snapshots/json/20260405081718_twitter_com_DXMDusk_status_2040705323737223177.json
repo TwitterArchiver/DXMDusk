@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040688330220949796",
+    "created_at": "2026-04-05T08:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040705323737223177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969407639621943296",
+          "start": 0,
+          "username": "UKIMevoli1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040705323737223177",
+    "in_reply_to_user_id": "1969407639621943296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040703854661230794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UKIMevoli1145 啊，我是在别的平台看到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040688330220949796",
+        "created_at": "2026-04-05T08:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040705323737223177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969407639621943296",
+              "start": 0,
+              "username": "UKIMevoli1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040705323737223177",
+        "in_reply_to_user_id": "1969407639621943296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040703854661230794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UKIMevoli1145 啊，我是在别的平台看到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969407639621943296",
+        "conversation_id": "2040688330220949796",
+        "created_at": "2026-04-05T08:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040703854661230794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040703854661230794",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040702830965936576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 几天前看到的这张图刷新了一遍（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 1101,
+          "like_count": 2043,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2067
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T14:26:02.000Z",
+        "description": "也就是网上说说了，现实里谁不想把房子车子全卖了贷高利贷急头白脸的去玩熊大快跑把所有角色都升到满级呢",
+        "id": "1969407639621943296",
+        "location": "我不知道",
+        "name": "UKIMevoli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028095513023905792/Sifpv0rN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 487
+        },
+        "username": "UKIMevoli1145",
+        "verified": false
+      }
+    ]
+  }
+}

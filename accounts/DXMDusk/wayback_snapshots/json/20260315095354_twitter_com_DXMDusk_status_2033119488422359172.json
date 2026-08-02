@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026135003256795136",
+        "3_2026135285499928576"
+      ],
+      "media_source_tweet_id": [
+        "2026135302579060863",
+        "2026135302579060863"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033119488422359172",
+    "created_at": "2026-03-15T09:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033119488422359172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xUqhTmghr9",
+          "end": 41,
+          "expanded_url": "https://x.com/DXMDusk/status/2026135302579060863/video/1",
+          "media_key": "13_2026135003256795136",
+          "start": 18,
+          "url": "https://t.co/xUqhTmghr9"
+        },
+        {
+          "display_url": "pic.x.com/xUqhTmghr9",
+          "end": 41,
+          "expanded_url": "https://x.com/DXMDusk/status/2026135302579060863/video/1",
+          "media_key": "3_2026135285499928576",
+          "start": 18,
+          "url": "https://t.co/xUqhTmghr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033119488422359172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026135302579060863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 解离干的 https://t.co/xUqhTmghr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18111,
+        "height": 1280,
+        "media_key": "13_2026135003256795136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026135003256795136/img/C81NdZxGebHh6gKA.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026135003256795136/vid/avc1/320x568/_XqoHuRX66L4gO6F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026135003256795136/vid/avc1/480x852/Pxis2MYdD9yF3bft.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026135003256795136/vid/avc1/720x1280/UyWl9Kvo6w-RSPxb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026135003256795136/pl/ztTj84AzAbff0u60.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 495,
+        "media_key": "3_2026135285499928576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5HTqcboAAbAAC.png",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026135003256795136",
+            "3_2026135285499928576"
+          ],
+          "media_source_tweet_id": [
+            "2026135302579060863",
+            "2026135302579060863"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033119488422359172",
+        "created_at": "2026-03-15T09:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033119488422359172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUqhTmghr9",
+              "end": 41,
+              "expanded_url": "https://x.com/DXMDusk/status/2026135302579060863/video/1",
+              "media_key": "13_2026135003256795136",
+              "start": 18,
+              "url": "https://t.co/xUqhTmghr9"
+            },
+            {
+              "display_url": "pic.x.com/xUqhTmghr9",
+              "end": 41,
+              "expanded_url": "https://x.com/DXMDusk/status/2026135302579060863/video/1",
+              "media_key": "3_2026135285499928576",
+              "start": 18,
+              "url": "https://t.co/xUqhTmghr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033119488422359172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026135302579060863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 解离干的 https://t.co/xUqhTmghr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026135003256795136",
+            "3_2026135285499928576"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026135302579060863",
+        "created_at": "2026-02-24T03:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026135302579060863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUqhTmghr9",
+              "end": 28,
+              "expanded_url": "https://x.com/DXMDusk/status/2026135302579060863/video/1",
+              "media_key": "13_2026135003256795136",
+              "start": 5,
+              "url": "https://t.co/xUqhTmghr9"
+            },
+            {
+              "display_url": "pic.x.com/xUqhTmghr9",
+              "end": 28,
+              "expanded_url": "https://x.com/DXMDusk/status/2026135302579060863/video/1",
+              "media_key": "3_2026135285499928576",
+              "start": 5,
+              "url": "https://t.co/xUqhTmghr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026135302579060863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "解离干的 https://t.co/xUqhTmghr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 970,
+          "like_count": 1606,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 1482
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

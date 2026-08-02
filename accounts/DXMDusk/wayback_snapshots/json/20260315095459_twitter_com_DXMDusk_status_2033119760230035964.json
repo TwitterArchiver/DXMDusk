@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025539767677657088",
+        "3_2025539767904178176"
+      ],
+      "media_source_tweet_id": [
+        "2025539770492010861",
+        "2025539770492010861"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033119760230035964",
+    "created_at": "2026-03-15T09:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033119760230035964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VvWUFZNflQ",
+          "end": 49,
+          "expanded_url": "https://x.com/DXMDusk/status/2025539770492010861/photo/1",
+          "media_key": "3_2025539767677657088",
+          "start": 26,
+          "url": "https://t.co/VvWUFZNflQ"
+        },
+        {
+          "display_url": "pic.x.com/VvWUFZNflQ",
+          "end": 49,
+          "expanded_url": "https://x.com/DXMDusk/status/2025539770492010861/photo/1",
+          "media_key": "3_2025539767904178176",
+          "start": 26,
+          "url": "https://t.co/VvWUFZNflQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033119760230035964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025539770492010861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 这种事情不要发生啊🥺😭😭 https://t.co/VvWUFZNflQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 403,
+        "media_key": "3_2025539767677657088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwpr9raoAA_uPU.jpg",
+        "width": 397
+      },
+      {
+        "height": 360,
+        "media_key": "3_2025539767904178176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwpr-hbEAA8WFu.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025539767677657088",
+            "3_2025539767904178176"
+          ],
+          "media_source_tweet_id": [
+            "2025539770492010861",
+            "2025539770492010861"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033119760230035964",
+        "created_at": "2026-03-15T09:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033119760230035964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvWUFZNflQ",
+              "end": 49,
+              "expanded_url": "https://x.com/DXMDusk/status/2025539770492010861/photo/1",
+              "media_key": "3_2025539767677657088",
+              "start": 26,
+              "url": "https://t.co/VvWUFZNflQ"
+            },
+            {
+              "display_url": "pic.x.com/VvWUFZNflQ",
+              "end": 49,
+              "expanded_url": "https://x.com/DXMDusk/status/2025539770492010861/photo/1",
+              "media_key": "3_2025539767904178176",
+              "start": 26,
+              "url": "https://t.co/VvWUFZNflQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033119760230035964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025539770492010861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 这种事情不要发生啊🥺😭😭 https://t.co/VvWUFZNflQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025539767677657088",
+            "3_2025539767904178176"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025539770492010861",
+        "created_at": "2026-02-22T11:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025539770492010861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvWUFZNflQ",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2025539770492010861/photo/1",
+              "media_key": "3_2025539767677657088",
+              "start": 13,
+              "url": "https://t.co/VvWUFZNflQ"
+            },
+            {
+              "display_url": "pic.x.com/VvWUFZNflQ",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2025539770492010861/photo/1",
+              "media_key": "3_2025539767904178176",
+              "start": 13,
+              "url": "https://t.co/VvWUFZNflQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025539770492010861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种事情不要发生啊🥺😭😭 https://t.co/VvWUFZNflQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 970,
+          "like_count": 1606,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 1483
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

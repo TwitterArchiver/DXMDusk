@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032044868101685581",
+    "created_at": "2026-03-12T14:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032096066078933140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599598815098519552",
+          "start": 0,
+          "username": "Bitgold_Hold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032096066078933140",
+    "in_reply_to_user_id": "1599598815098519552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032044868101685581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitgold_Hold 一起互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032044868101685581",
+        "created_at": "2026-03-12T14:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032096066078933140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599598815098519552",
+              "start": 0,
+              "username": "Bitgold_Hold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032096066078933140",
+        "in_reply_to_user_id": "1599598815098519552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032044868101685581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitgold_Hold 一起互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599598815098519552",
+        "conversation_id": "2032044868101685581",
+        "created_at": "2026-03-12T10:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:43:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032044791182344339",
+          "2032044868101685581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032044868101685581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3164,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉大家一个提高流量的方法，就是要甘愿做一个推特“街溜子”，具体做法我总结为“三多”：\n多浏览、多跟帖、多互动！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 841,
+          "like_count": 1326,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 1319
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T02:58:27.000Z",
+        "description": "理性、逻辑、批评 、调侃 | 解释生活中的经济学现象，剖析社会问题 ｜关注时事，分享趣事｜观察世情百态，体验人生感悟｜崇尚Bitcoin去中心化理念｜ #精彩世界，广交朋友， #蓝V有关必回 ♥♥♥",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "精彩世界"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "蓝V有关必回"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Bitgold_Hold",
+                "end": 23,
+                "expanded_url": "https://x.com/Bitgold_Hold",
+                "start": 0,
+                "url": "https://t.co/0dITWLLPAT"
+              }
+            ]
+          }
+        },
+        "id": "1599598815098519552",
+        "location": "Taipei City, Taiwan",
+        "name": "Wonderful World",
+        "pinned_tweet_id": "2017746464072712323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012714503507509248/Vm7xAhZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 3770,
+          "like_count": 5514,
+          "listed_count": 8,
+          "media_count": 438,
+          "tweet_count": 5381
+        },
+        "url": "https://t.co/0dITWLLPAT",
+        "username": "Bitgold_Hold",
+        "verified": true
+      }
+    ]
+  }
+}

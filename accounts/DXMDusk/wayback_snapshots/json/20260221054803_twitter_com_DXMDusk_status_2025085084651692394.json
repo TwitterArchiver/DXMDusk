@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025062032043901295",
+    "created_at": "2026-02-21T05:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025085084651692394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "Fayoubaike000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025085084651692394",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025062032043901295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayoubaike000 口服剂量5~10mg，有心脏毒性，小心暴毙，以及半衰期随人体不同，可达几天，这你也敢宣传？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_2025062020253712388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp3LZ1bgAQpWQy.jpg",
+        "width": 719
+      },
+      {
+        "height": 1042,
+        "media_key": "3_2025062020274683905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp3LZ6bgAEPVEs.jpg",
+        "width": 720
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2025062020752830464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp3LbsbcAADnVI.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025062032043901295",
+        "created_at": "2026-02-21T05:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025085084651692394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "Fayoubaike000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025085084651692394",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025062032043901295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayoubaike000 口服剂量5~10mg，有心脏毒性，小心暴毙，以及半衰期随人体不同，可达几天，这你也敢宣传？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025062020253712388",
+            "3_2025062020274683905",
+            "3_2025062020752830464"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "conversation_id": "2025062032043901295",
+        "created_at": "2026-02-21T04:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025062032043901295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPruw9jWK5",
+              "end": 42,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2025062032043901295/photo/1",
+              "media_key": "3_2025062020253712388",
+              "start": 19,
+              "url": "https://t.co/BPruw9jWK5"
+            },
+            {
+              "display_url": "pic.x.com/BPruw9jWK5",
+              "end": 42,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2025062032043901295/photo/1",
+              "media_key": "3_2025062020274683905",
+              "start": 19,
+              "url": "https://t.co/BPruw9jWK5"
+            },
+            {
+              "display_url": "pic.x.com/BPruw9jWK5",
+              "end": 42,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2025062032043901295/photo/1",
+              "media_key": "3_2025062020752830464",
+              "start": 19,
+              "url": "https://t.co/BPruw9jWK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025062032043901295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 805,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "兴奋剂可直接购买\n剂量10-30mg https://t.co/BPruw9jWK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 181,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 435
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 387,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      }
+    ]
+  }
+}

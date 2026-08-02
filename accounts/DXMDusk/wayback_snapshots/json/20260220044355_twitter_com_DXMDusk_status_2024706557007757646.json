@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024518538577490361",
+    "created_at": "2026-02-20T04:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024706557007757646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896589600522731520",
+          "start": 0,
+          "username": "Wisadel_MM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024706557007757646",
+    "in_reply_to_user_id": "1896589600522731520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024518538577490361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wisadel_MM 想吃，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024518527697530880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiI3-SbsAAa6DX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024518538577490361",
+        "created_at": "2026-02-20T04:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024706557007757646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896589600522731520",
+              "start": 0,
+              "username": "Wisadel_MM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024706557007757646",
+        "in_reply_to_user_id": "1896589600522731520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024518538577490361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wisadel_MM 想吃，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024518527697530880"
+          ]
+        },
+        "author_id": "1896589600522731520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024518538577490361",
+        "created_at": "2026-02-19T16:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024518538577490361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiNHrNbLwq",
+              "end": 64,
+              "expanded_url": "https://x.com/Wisadel_MM/status/2024518538577490361/photo/1",
+              "media_key": "3_2024518527697530880",
+              "start": 41,
+              "url": "https://t.co/IiNHrNbLwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024518538577490361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天應該有人會被我欺負（\n不知道他願不願意讓我公開影片就是了（\n等著看明天啊各位 https://t.co/IiNHrNbLwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 177,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 408
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T15:53:00.000Z",
+        "description": "Soul seduces, flesh breeds 🖤 Pre-op trans / 牛子妹妹 | DM for friend req 擴列私信 | 🇯🇵 045 / 🇨🇳 021 | Focus 主營: Arknights W + snek girlies 蛇蛇 🐍",
+        "id": "1896589600522731520",
+        "location": "Minato Mirai 21 港灣未來21",
+        "name": "Wiš'adel",
+        "pinned_tweet_id": "2006347320712110129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016905196123934725/BjoWaaUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 294,
+          "like_count": 1161,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 366
+        },
+        "username": "Wisadel_MM",
+        "verified": true
+      }
+    ]
+  }
+}

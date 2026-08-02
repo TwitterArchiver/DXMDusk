@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025845040615182434",
+    "created_at": "2026-02-23T08:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025845040615182434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430936966066020353",
+          "start": 3,
+          "username": "Emma20131621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025845040615182434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1722933599123406905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emma20131621: （文字版\n    彩霞案是在2022年11月初于上海发生的针对跨性别女性彩霞的拘捕审讯案件，由于来自警方和家属的双重妨碍，最后由我方在非常规情况下为彩霞签出委托书，并于12月对外众筹律师费；由于该案件涉及的细节复杂、人数众多，其中涉及当事人安…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_1722933591062036480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F-kW-PrXQAARR8b.jpg",
+        "width": 1342
+      },
+      {
+        "height": 1513,
+        "media_key": "3_1722933590982361089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F-kW-PYXgAEG0aN.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025845040615182434",
+        "created_at": "2026-02-23T08:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025845040615182434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430936966066020353",
+              "start": 3,
+              "username": "Emma20131621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025845040615182434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "1722933599123406905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emma20131621: （文字版\n    彩霞案是在2022年11月初于上海发生的针对跨性别女性彩霞的拘捕审讯案件，由于来自警方和家属的双重妨碍，最后由我方在非常规情况下为彩霞签出委托书，并于12月对外众筹律师费；由于该案件涉及的细节复杂、人数众多，其中涉及当事人安…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1722933591062036480",
+            "3_1722933590982361089"
+          ]
+        },
+        "author_id": "1430936966066020353",
+        "conversation_id": "1722933599123406905",
+        "created_at": "2023-11-10T11:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-10T12:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1722933599123406905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVsU2K6E1M",
+              "end": 170,
+              "expanded_url": "https://x.com/Emma20131621/status/1722933599123406905/photo/1",
+              "media_key": "3_1722933591062036480",
+              "start": 147,
+              "url": "https://t.co/oVsU2K6E1M"
+            },
+            {
+              "display_url": "pic.x.com/oVsU2K6E1M",
+              "end": 170,
+              "expanded_url": "https://x.com/Emma20131621/status/1722933599123406905/photo/1",
+              "media_key": "3_1722933590982361089",
+              "start": 147,
+              "url": "https://t.co/oVsU2K6E1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1722933599123406905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 59429,
+          "like_count": 188,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "（文字版\n    彩霞案是在2022年11月初于上海发生的针对跨性别女性彩霞的拘捕审讯案件，由于来自警方和家属的双重妨碍，最后由我方在非常规情况下为彩霞签出委托书，并于12月对外众筹律师费；由于该案件涉及的细节复杂、人数众多，其中涉及当事人安全隐私等诸多问题，在经过与律师和其伴侣的沟通之后， https://t.co/oVsU2K6E1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 216,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 543
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T16:55:45.000Z",
+        "description": "是中国大陆的在逃学生，性别酷儿，泛性恋，厌恶威权、集体主义，想要大家都平等而自由地活着。I'm a student in UvA.I'm pansexual, queer, polyamorous, radically against the patriarchy and paternalism.",
+        "id": "1430936966066020353",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Emma Shi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430937154314715136/0fJt8ZbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 483,
+          "like_count": 56010,
+          "listed_count": 5,
+          "media_count": 491,
+          "tweet_count": 5813
+        },
+        "username": "Emma20131621",
+        "verified": false
+      }
+    ]
+  }
+}

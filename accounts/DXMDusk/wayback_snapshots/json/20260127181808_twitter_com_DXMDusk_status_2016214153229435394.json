@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1416808241091252230"
+      ],
+      "media_source_tweet_id": [
+        "1416808504359374848"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016214153229435394",
+    "created_at": "2026-01-27T18:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016214153229435394"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "直男"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "室友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1242094263820627969",
+          "start": 3,
+          "username": "likai9997"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i4l8Rme57I",
+          "end": 69,
+          "expanded_url": "https://x.com/likai9997/status/1416808504359374848/video/1",
+          "media_key": "7_1416808241091252230",
+          "start": 46,
+          "url": "https://t.co/i4l8Rme57I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016214153229435394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 373
+    },
+    "referenced_tweets": [
+      {
+        "id": "1416808504359374848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @likai9997: #直男 #室友  既然大家想看那就再更一条  ✈️杯子2.0 https://t.co/i4l8Rme57I"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016214153229435394].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016214153229435394",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016214153229435394"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26233,
+        "height": 1280,
+        "media_key": "7_1416808241091252230",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1416808241091252230/pu/img/68q3oufL_Svquf7H.jpg",
+        "public_metrics": {
+          "view_count": 110628
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1416808241091252230/pu/vid/320x568/5q9yNUHdMmnQq3EH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1416808241091252230/pu/vid/480x852/uLvdZloFvWCJ0VQ9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1416808241091252230/pu/vid/720x1280/_-XEyS6cU_U-um_G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1416808241091252230/pu/pl/MJsgU7Jz7QLYH_ob.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1416808241091252230"
+          ]
+        },
+        "author_id": "1242094263820627969",
+        "conversation_id": "1416808504359374848",
+        "created_at": "2021-07-18T17:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2021-07-18T17:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1416808504359374848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "直男"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "室友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4l8Rme57I",
+              "end": 54,
+              "expanded_url": "https://x.com/likai9997/status/1416808504359374848/video/1",
+              "media_key": "7_1416808241091252230",
+              "start": 31,
+              "url": "https://t.co/i4l8Rme57I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1416808504359374848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 0,
+          "like_count": 2192,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "#直男 #室友  既然大家想看那就再更一条  ✈️杯子2.0 https://t.co/i4l8Rme57I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T14:22:50.000Z",
+        "description": "不查户口🤫 要认识过门槛vx🚪💰38 （1️⃣杯星巴克都不舍得就算了🙅🏻‍♂️，长的好看免费🥰，回关互推私我）1️⃣头小号@kunkun8886",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "kunkun8886"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7765028522",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7765028522",
+                "start": 0,
+                "url": "https://t.co/6AlF3fk7VN"
+              }
+            ]
+          }
+        },
+        "id": "1242094263820627969",
+        "location": "宁波",
+        "name": "困困sokun",
+        "pinned_tweet_id": "1637805393673084928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242121633202081792/wJ58s14j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29620,
+          "following_count": 1407,
+          "like_count": 9539,
+          "listed_count": 110,
+          "media_count": 213,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/6AlF3fk7VN",
+        "username": "likai9997",
+        "verified": false
+      }
+    ]
+  }
+}

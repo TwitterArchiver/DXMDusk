@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037067359823986894",
+    "created_at": "2026-03-27T15:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037549593135882699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954570475792961537",
+          "start": 0,
+          "username": "rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037549593135882699",
+    "in_reply_to_user_id": "1954570475792961537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037067359823986894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainyosora 我知道你懂的东西还是挺多的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037067359823986894",
+        "created_at": "2026-03-27T15:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037549593135882699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954570475792961537",
+              "start": 0,
+              "username": "rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037549593135882699",
+        "in_reply_to_user_id": "1954570475792961537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037067359823986894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainyosora 我知道你懂的东西还是挺多的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954570475792961537",
+        "conversation_id": "2037067359823986894",
+        "created_at": "2026-03-26T07:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037067359823986894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037067359823986894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道不少药理知识，\n也知道不为人知的能O的药，\n也知道怎么那些不为人知药物连用\n也知道如何开药\n但是因为没流量，所以干脆什么都不发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1063,
+          "like_count": 1831,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 1727
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T15:48:26.000Z",
+        "description": "CN｜日本語はまだ勉強中なので、変な表現があったらすみません🙏  |  フォロバします  |  0verdose  |  有信息回复拖延症见谅(シ_ _)シ  |  真人互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyyosora1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainyyosora1",
+                "start": 0,
+                "url": "https://t.co/Lic0YPtaUU"
+              }
+            ]
+          }
+        },
+        "id": "1954570475792961537",
+        "location": "没回fo可以提醒我!",
+        "name": "薬井YAKUI（互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065795617120257/-bFel9Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 105,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/Lic0YPtaUU",
+        "username": "rainyosora",
+        "verified": false
+      }
+    ]
+  }
+}

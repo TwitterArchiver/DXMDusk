@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016578397213012265",
+    "created_at": "2026-01-29T13:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016870419358421025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1976707940729139200",
+          "start": 0,
+          "username": "jendnjsnwk45025"
+        },
+        {
+          "end": 29,
+          "id": "1974865605204586498",
+          "start": 17,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016870419358421025",
+    "in_reply_to_user_id": "1976707940729139200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016725321052279108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jendnjsnwk45025 @Krktmk_8964 你他妈是不是有点毛病呀？谁家主人没关好，让你跑出来在这狗叫？妈的，找存在感啊，你说你妈逼呀，是不是没朋友呀？只能在网上在这里找骂来找点存在感？一个人在家里孤单单的，是不是？我知道了，你可能就是喜欢被骂吧，然后故意在这里找骂，你个贱狗，妈的，把你搞成阉狗，你就开心了，操你妈的，找骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016578397213012265",
+        "created_at": "2026-01-29T13:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016870419358421025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1976707940729139200",
+              "start": 0,
+              "username": "jendnjsnwk45025"
+            },
+            {
+              "end": 29,
+              "id": "1974865605204586498",
+              "start": 17,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016870419358421025",
+        "in_reply_to_user_id": "1976707940729139200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016725321052279108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jendnjsnwk45025 @Krktmk_8964 你他妈是不是有点毛病呀？谁家主人没关好，让你跑出来在这狗叫？妈的，找存在感啊，你说你妈逼呀，是不是没朋友呀？只能在网上在这里找骂来找点存在感？一个人在家里孤单单的，是不是？我知道了，你可能就是喜欢被骂吧，然后故意在这里找骂，你个贱狗，妈的，把你搞成阉狗，你就开心了，操你妈的，找骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976707940729139200",
+        "conversation_id": "2016578397213012265",
+        "created_at": "2026-01-29T04:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016725321052279108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016725321052279108",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016578397213012265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 你纪念你妈了个逼,你想死就赶紧死知道么？以为自己活得可清醒了?傻了吧唧的,你这种人留在世上也是祸害,你在x上找你妈逼存在感,也只有几个跟你情况差不多的人怜悯你了😂😂😂什么样的人就有什么样的朋友😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 94,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 132
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T17:54:39.000Z",
+        "description": "",
+        "id": "1976707940729139200",
+        "name": "Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994082527250927616/To0H4M3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "jendnjsnwk45025",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1327,
+          "like_count": 22970,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2482
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

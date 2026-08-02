@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2017586160449818896",
+    "created_at": "2026-02-06T08:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019696195397132373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018162294497402880",
+          "start": 0,
+          "username": "FsBat7AlQy84731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019696195397132373",
+    "in_reply_to_user_id": "2018162294497402880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019477455027736775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FsBat7AlQy84731 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2017586160449818896",
+        "created_at": "2026-02-06T08:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019696195397132373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018162294497402880",
+              "start": 0,
+              "username": "FsBat7AlQy84731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019696195397132373",
+        "in_reply_to_user_id": "2018162294497402880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019477455027736775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FsBat7AlQy84731 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018162294497402880",
+        "conversation_id": "2017586160449818896",
+        "created_at": "2026-02-05T18:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019477455027736775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019477455027736775",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017586160449818896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 劲怎么样❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 139,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 214
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T03:19:29.000Z",
+        "description": "双向情感障碍 有时分享自己的日常 你的态度等于我的态度 不雷任何 祝大家新年快乐",
+        "id": "2018162294497402880",
+        "name": "叙酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018162427343646720/7fArAMrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "username": "FsBat7AlQy84731",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023295884218204541",
+    "created_at": "2026-02-16T07:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023295884218204541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RuriCoral/stat…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/RuriCoral/status/2023111831645204923",
+          "start": 87,
+          "url": "https://t.co/WPT6Rrrrom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023295884218204541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023111831645204923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "选择走的话，我至少有五种以上无痛方式可以离开，但是这些方法和渠道是绝对不能公布出来的，\n人生苦短生命可贵，也许正是由于有太多牵挂和责任的存在才是让人舍不得轻易选择一走了之， https://t.co/WPT6Rrrrom"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023295884218204541",
+        "created_at": "2026-02-16T07:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023295884218204541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RuriCoral/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/RuriCoral/status/2023111831645204923",
+              "start": 87,
+              "url": "https://t.co/WPT6Rrrrom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023295884218204541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023111831645204923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "选择走的话，我至少有五种以上无痛方式可以离开，但是这些方法和渠道是绝对不能公布出来的，\n人生苦短生命可贵，也许正是由于有太多牵挂和责任的存在才是让人舍不得轻易选择一走了之， https://t.co/WPT6Rrrrom"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867883727143227392",
+        "conversation_id": "2023027606019559890",
+        "created_at": "2026-02-15T19:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023111831645204923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023111831645204923",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023027606019559890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 和百草枯不一定死 很有可能多脏器衰竭躺在icu里痛苦的维持生命 。\n吃安眠药也不现实，吃安眠药会抑制呼吸 会被活活憋死，比上吊好受不了多少 。\n能活尽量活着吧 死了就什么机会都没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 150,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 309
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T10:46:10.000Z",
+        "description": "我不要做跨女，我要做个女孩子🏳️‍⚧️",
+        "id": "1867883727143227392",
+        "location": "在你身后",
+        "name": "琉珊哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956258119178493952/BbwH070W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 1038,
+          "like_count": 10136,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1077
+        },
+        "username": "RuriCoral",
+        "verified": false
+      }
+    ]
+  }
+}

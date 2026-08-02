@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038995489698517270",
+    "created_at": "2026-03-31T15:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038995489698517270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2038958135839424849",
+          "start": 141,
+          "url": "https://t.co/IJ0HXSEgS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038995489698517270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038958135839424849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我更想说的是，他在没有管制的一个物质基础下，对外宣传这个物质使用等同于吸毒，还较为详细的描述这个物质的使用效果，这就很蠢了，（这里主要指愚美片以及普瑞巴林，因此也真的分不清广州禁毒是在禁毒还是在禁药又或者是想成为Oder的官方宣传，但不管是禁毒还是禁药，也都应该做到先禁后宣才对！ https://t.co/IJ0HXSEgS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2038958128654692353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvVnXpbsAEa9Qn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038995489698517270",
+        "created_at": "2026-03-31T15:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038995489698517270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2038958135839424849",
+              "start": 141,
+              "url": "https://t.co/IJ0HXSEgS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038995489698517270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038958135839424849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我更想说的是，他在没有管制的一个物质基础下，对外宣传这个物质使用等同于吸毒，还较为详细的描述这个物质的使用效果，这就很蠢了，（这里主要指愚美片以及普瑞巴林，因此也真的分不清广州禁毒是在禁毒还是在禁药又或者是想成为Oder的官方宣传，但不管是禁毒还是禁药，也都应该做到先禁后宣才对！ https://t.co/IJ0HXSEgS4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038958128654692353"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038958135839424849",
+        "created_at": "2026-03-31T12:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038958135839424849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7ewwdCMUB",
+              "end": 49,
+              "expanded_url": "https://x.com/DXMDusk/status/2038958135839424849/photo/1",
+              "media_key": "3_2038958128654692353",
+              "start": 26,
+              "url": "https://t.co/R7ewwdCMUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038958135839424849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1415,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咖啡因是何意味，请问什么时候开始标配咖啡因验尿板？ https://t.co/R7ewwdCMUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 1085,
+          "like_count": 1975,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 1957
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

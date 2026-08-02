@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038559106643173524",
+    "created_at": "2026-03-30T17:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038668775160168951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009488009180401667",
+          "start": 0,
+          "username": "asabakasaiko"
+        },
+        {
+          "end": 21,
+          "id": "1732356232290222080",
+          "start": 14,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038668775160168951",
+    "in_reply_to_user_id": "2009488009180401667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038653450805018901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asabakasaiko @8964_Y 不好吗，牢37，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038559106643173524",
+        "created_at": "2026-03-30T17:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038668775160168951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            },
+            {
+              "end": 21,
+              "id": "1732356232290222080",
+              "start": 14,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038668775160168951",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038653450805018901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko @8964_Y 不好吗，牢37，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009488009180401667",
+        "conversation_id": "2038559106643173524",
+        "created_at": "2026-03-30T16:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038653450805018901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            },
+            {
+              "end": 16,
+              "id": "1974276207496867842",
+              "start": 8,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038653450805018901",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038651557491916929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y @DXMDusk 呜呜呜妈妈不要带我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 1078,
+          "like_count": 1852,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1870
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看也很想死，🚪58，88其实同类真的不用给❤️，什么事都可以来私我🤔，免费的用药指导和和陪玩🥺，主营美白和致幻剂💊和pcp",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "pinned_tweet_id": "2035621862408102015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 418,
+          "like_count": 8451,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1654
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2037717481960443971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6257,
+          "following_count": 732,
+          "like_count": 21970,
+          "listed_count": 20,
+          "media_count": 1057,
+          "tweet_count": 15634
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

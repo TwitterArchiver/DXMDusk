@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031653740655292417",
+        "3_2031653740378468353",
+        "3_2031653740571394048",
+        "3_2031653741230006272"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031653744241442870",
+    "created_at": "2026-03-11T08:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031653744241442870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JexnvRCVQd",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+          "media_key": "3_2031653740655292417",
+          "start": 28,
+          "url": "https://t.co/JexnvRCVQd"
+        },
+        {
+          "display_url": "pic.x.com/JexnvRCVQd",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+          "media_key": "3_2031653740378468353",
+          "start": 28,
+          "url": "https://t.co/JexnvRCVQd"
+        },
+        {
+          "display_url": "pic.x.com/JexnvRCVQd",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+          "media_key": "3_2031653740571394048",
+          "start": 28,
+          "url": "https://t.co/JexnvRCVQd"
+        },
+        {
+          "display_url": "pic.x.com/JexnvRCVQd",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+          "media_key": "3_2031653741230006272",
+          "start": 28,
+          "url": "https://t.co/JexnvRCVQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031653744241442870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "读书导致了我百分之80的疾病\n投胎可以决定99%的命运 https://t.co/JexnvRCVQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2031653740655292417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHiUB5aMAE9V3Y.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2031653740378468353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHiUA3aMAEhest.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2031653740571394048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHiUBlaAAAUIaI.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2031653741230006272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHiUECboAAXU5G.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031653740655292417",
+            "3_2031653740378468353",
+            "3_2031653740571394048",
+            "3_2031653741230006272"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031653744241442870",
+        "created_at": "2026-03-11T08:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031653744241442870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JexnvRCVQd",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+              "media_key": "3_2031653740655292417",
+              "start": 28,
+              "url": "https://t.co/JexnvRCVQd"
+            },
+            {
+              "display_url": "pic.x.com/JexnvRCVQd",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+              "media_key": "3_2031653740378468353",
+              "start": 28,
+              "url": "https://t.co/JexnvRCVQd"
+            },
+            {
+              "display_url": "pic.x.com/JexnvRCVQd",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+              "media_key": "3_2031653740571394048",
+              "start": 28,
+              "url": "https://t.co/JexnvRCVQd"
+            },
+            {
+              "display_url": "pic.x.com/JexnvRCVQd",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2031653744241442870/photo/1",
+              "media_key": "3_2031653741230006272",
+              "start": 28,
+              "url": "https://t.co/JexnvRCVQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031653744241442870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "读书导致了我百分之80的疾病\n投胎可以决定99%的命运 https://t.co/JexnvRCVQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 731,
+          "like_count": 876,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1133
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

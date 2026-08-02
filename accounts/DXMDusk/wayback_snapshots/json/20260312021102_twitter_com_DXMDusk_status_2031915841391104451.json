@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031915841391104451",
+    "created_at": "2026-03-12T02:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T03:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031915841391104451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2031902494440432109",
+          "start": 100,
+          "url": "https://t.co/ke0MnQafLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031915841391104451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031902494440432109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过量服药，已经导致很多药品相继被列管受控，都是以前那些药品被禁后的替代品，以前吃的可比现在好太多了，管制不完的，唉，好吃的只会越来越少，替代品越来越差，\n右美和普瑞也都是近几年才陆续出现并被大量滥用 https://t.co/ke0MnQafLX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031915841391104451",
+        "created_at": "2026-03-12T02:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031915841391104451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2031902494440432109",
+              "start": 100,
+              "url": "https://t.co/ke0MnQafLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031915841391104451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031902494440432109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过量服药，已经导致很多药品相继被列管受控，都是以前那些药品被禁后的替代品，以前吃的可比现在好太多了，管制不完的，唉，好吃的只会越来越少，替代品越来越差，\n右美和普瑞也都是近几年才陆续出现并被大量滥用 https://t.co/ke0MnQafLX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2031902494440432109",
+        "created_at": "2026-03-12T01:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031902494440432109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guodongmaikefe…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/guodongmaikefe2/status/2031666889680998707",
+              "start": 16,
+              "url": "https://t.co/wU3qvxnJKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031902494440432109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031666889680998707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ODer毁了国民神药普瑞巴林。 https://t.co/wU3qvxnJKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 802,
+          "like_count": 1149,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1245
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨药物/减害知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 935,
+          "like_count": 20816,
+          "listed_count": 9,
+          "media_count": 348,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

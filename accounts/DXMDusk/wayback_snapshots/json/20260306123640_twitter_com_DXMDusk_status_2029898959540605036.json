@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029451613149319241",
+    "created_at": "2026-03-06T12:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029898959540605036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1405112849261760520",
+          "start": 0,
+          "username": "biquanliergou"
+        },
+        {
+          "end": 24,
+          "id": "1668887123217510401",
+          "start": 15,
+          "username": "xhunt_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029898959540605036",
+    "in_reply_to_user_id": "1405112849261760520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029451613149319241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biquanliergou @xhunt_ai 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_2029451482505134080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoPXu-bwAAUqLX.png",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029451613149319241",
+        "created_at": "2026-03-06T12:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029898959540605036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1405112849261760520",
+              "start": 0,
+              "username": "biquanliergou"
+            },
+            {
+              "end": 24,
+              "id": "1668887123217510401",
+              "start": 15,
+              "username": "xhunt_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029898959540605036",
+        "in_reply_to_user_id": "1405112849261760520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029451613149319241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biquanliergou @xhunt_ai 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029451482505134080"
+          ]
+        },
+        "author_id": "1405112849261760520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029451613149319241",
+        "created_at": "2026-03-05T06:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029451613149319241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "蓝V互关"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1668887123217510401",
+              "start": 70,
+              "username": "xhunt_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHmLrUYTaE",
+              "end": 123,
+              "expanded_url": "https://x.com/biquanliergou/status/2029451613149319241/photo/1",
+              "media_key": "3_2029451482505134080",
+              "start": 100,
+              "url": "https://t.co/HHmLrUYTaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029451613149319241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7868,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 167,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "继续互关，继续提升分数，顶帅顶美快来关注我求求了！   \n\n依旧24小时在线，嘎嘎抽象，秒回关，天天去跟你互动！    #蓝V互关 \n\n现在@xhunt_ai总排名 31797 中文排名 27235 https://t.co/HHmLrUYTaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 422,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 718
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-16T10:39:51.000Z",
+        "description": "Kaito已死，撸猫博主即将回归丨不接广告，免开尊口 #Binance 你的数字货币购买/交易平台就是 #币安👉 https://t.co/Z8WRcDPYvm 玩美股就用MSX：https://t.co/usbp7Vzw7l",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "Binance"
+              },
+              {
+                "end": 55,
+                "start": 52,
+                "tag": "币安"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/register?ref=S…",
+                "end": 80,
+                "expanded_url": "https://accounts.binance.com/register?ref=SC6CWEMN",
+                "start": 57,
+                "url": "https://t.co/Z8WRcDPYvm"
+              },
+              {
+                "display_url": "msx.com/?code=58bx98",
+                "end": 113,
+                "expanded_url": "https://msx.com/?code=58bx98",
+                "start": 90,
+                "url": "https://t.co/usbp7Vzw7l"
+              }
+            ]
+          }
+        },
+        "id": "1405112849261760520",
+        "name": "币圈李二狗",
+        "pinned_tweet_id": "2013133940375404800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872553164467240960/ax0r1E99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29768,
+          "following_count": 2466,
+          "like_count": 6614,
+          "listed_count": 17,
+          "media_count": 434,
+          "tweet_count": 6790
+        },
+        "username": "biquanliergou",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-14T07:45:25.000Z",
+        "description": "The First AI-Powered KOLFi Platform\n\nOpen Source Extension: https://t.co/xyiaT4uBuI\n\nhttps://t.co/oXfqRKwQQg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chromewebstore.google.com/detail/gonmfaf…",
+                "end": 83,
+                "expanded_url": "https://chromewebstore.google.com/detail/gonmfafjcdkngkbhcpmcphlgfhabkeji",
+                "start": 60,
+                "url": "https://t.co/xyiaT4uBuI"
+              },
+              {
+                "display_url": "t.me/xhunt_ai",
+                "end": 108,
+                "expanded_url": "https://t.me/xhunt_ai",
+                "start": 85,
+                "url": "https://t.co/oXfqRKwQQg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhunt.ai",
+                "end": 23,
+                "expanded_url": "https://www.xhunt.ai/",
+                "start": 0,
+                "url": "https://t.co/nLgs4yh5eJ"
+              }
+            ]
+          }
+        },
+        "id": "1668887123217510401",
+        "location": "HK",
+        "name": "XHunt",
+        "pinned_tweet_id": "2028751096316146053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957373648488263681/blkhPYP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13990,
+          "following_count": 46,
+          "like_count": 811,
+          "listed_count": 143,
+          "media_count": 199,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/nLgs4yh5eJ",
+        "username": "xhunt_ai",
+        "verified": true
+      }
+    ]
+  }
+}

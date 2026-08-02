@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030633417227006444",
+    "created_at": "2026-03-10T11:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031324409227784196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103578776351367168",
+          "start": 0,
+          "username": "kumi_biz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031324409227784196",
+    "in_reply_to_user_id": "1103578776351367168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030633417227006444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumi_biz +1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2030633409589174272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5CU8eaYAASHks.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030633417227006444",
+        "created_at": "2026-03-10T11:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031324409227784196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103578776351367168",
+              "start": 0,
+              "username": "kumi_biz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031324409227784196",
+        "in_reply_to_user_id": "1103578776351367168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030633417227006444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumi_biz +1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030633409589174272"
+          ]
+        },
+        "author_id": "1103578776351367168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030633417227006444",
+        "created_at": "2026-03-08T13:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030633417227006444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fJ6mekpQl",
+              "end": 28,
+              "expanded_url": "https://x.com/kumi_biz/status/2030633417227006444/photo/1",
+              "media_key": "3_2030633409589174272",
+              "start": 5,
+              "url": "https://t.co/2fJ6mekpQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030633417227006444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来关注吧 https://t.co/2fJ6mekpQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 672,
+          "like_count": 721,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1018
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-07T08:50:58.000Z",
+        "description": "株式投資で資産形成に挑戦（増配、優待銘柄中心）。 リスクを取らずに何を得られる？この市場の荒波を乗り越えてこそ、伝説的なリターンが待っている！私は恐れず、突き進む！ 👇 よく「なぜ有料にしないの？」と聞かれますが、株の発信はあくまで趣味。 https://t.co/oCxwzSS5kD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Ubby294sL2Q5N…",
+                "end": 143,
+                "expanded_url": "https://t.me/+Ubby294sL2Q5NGJl",
+                "start": 120,
+                "url": "https://t.co/oCxwzSS5kD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Ubby294sL2Q5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Ubby294sL2Q5NGJl",
+                "start": 0,
+                "url": "https://t.co/oCxwzSS5kD"
+              }
+            ]
+          }
+        },
+        "id": "1103578776351367168",
+        "location": "東京",
+        "name": "大津尚之📚👨🏻‍🎓💹【株式投資】💹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005441047506411520/VhUduN02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 1022,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 3305,
+          "tweet_count": 12587
+        },
+        "url": "https://t.co/oCxwzSS5kD",
+        "username": "kumi_biz",
+        "verified": true
+      }
+    ]
+  }
+}

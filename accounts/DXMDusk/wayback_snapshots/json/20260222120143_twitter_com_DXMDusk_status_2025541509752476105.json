@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025508469357400237",
+    "created_at": "2026-02-22T12:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T13:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025541509752476105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025541509752476105",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025508469357400237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 以我20片没感觉来看，50片应该是一般人十几t的水平，100片感觉于我是死不了，医院洗胃能救的程度，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025508466316509185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwNN_BXgAE_qt4.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025508469357400237",
+        "created_at": "2026-02-22T12:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025541509752476105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025541509752476105",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025508469357400237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 以我20片没感觉来看，50片应该是一般人十几t的水平，100片感觉于我是死不了，医院洗胃能救的程度，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025508466316509185"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2025508469357400237",
+        "created_at": "2026-02-22T09:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025508469357400237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1PzQyIwRm",
+              "end": 70,
+              "expanded_url": "https://x.com/Citrus_amara/status/2025508469357400237/photo/1",
+              "media_key": "3_2025508466316509185",
+              "start": 47,
+              "url": "https://t.co/e1PzQyIwRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025508469357400237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呕吐。\n如果成功吸收的话应该是类似阿托品中毒的效果，谵妄，高热，震颤，口干，最终痛苦地死去。 https://t.co/e1PzQyIwRm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 206,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 520
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\n磕药的傻逼\nHRT：2025.8.28。\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "shsh548866"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 1016,
+          "like_count": 17009,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 9205
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

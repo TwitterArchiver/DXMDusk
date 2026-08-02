@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024456878919733721",
+    "created_at": "2026-02-19T12:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T13:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024456878919733721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Spr1ngWlnd/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Spr1ngWlnd/status/2023996995975684451",
+          "start": 10,
+          "url": "https://t.co/Niehw6NUiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024456878919733721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023996995975684451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "100% 的炒作， https://t.co/Niehw6NUiZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2023996992742158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBauipLa8AAEVeN.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024456878919733721",
+        "created_at": "2026-02-19T12:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024456878919733721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Spr1ngWlnd/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Spr1ngWlnd/status/2023996995975684451",
+              "start": 10,
+              "url": "https://t.co/Niehw6NUiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024456878919733721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023996995975684451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "100% 的炒作， https://t.co/Niehw6NUiZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023996992742158336"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2023996995975684451",
+        "created_at": "2026-02-18T05:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023996995975684451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TX6HrisdxR",
+              "end": 52,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996995975684451/photo/1",
+              "media_key": "3_2023996992742158336",
+              "start": 29,
+              "url": "https://t.co/TX6HrisdxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023996995975684451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10272,
+          "like_count": 77,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谨以此号，纪念我的童年\n那是一段小有遗憾的幸福时光... https://t.co/TX6HrisdxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 167,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 395
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 27
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

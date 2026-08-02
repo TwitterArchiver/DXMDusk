@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2022681380044296385",
+    "created_at": "2026-02-16T09:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023329989312049642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1485662446220201994",
+          "start": 0,
+          "username": "koinoesutoron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023329989312049642",
+    "in_reply_to_user_id": "1485662446220201994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022681380044296385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koinoesutoron 维稳是这样的，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2022681184174563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIB0gSXYAAT-Sr.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022681380044296385",
+        "created_at": "2026-02-16T09:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023329989312049642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1485662446220201994",
+              "start": 0,
+              "username": "koinoesutoron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023329989312049642",
+        "in_reply_to_user_id": "1485662446220201994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022681380044296385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koinoesutoron 维稳是这样的，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022681184174563328"
+          ]
+        },
+        "author_id": "1485662446220201994",
+        "conversation_id": "2022681380044296385",
+        "created_at": "2026-02-14T14:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022681380044296385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsbH7HZnuK",
+              "end": 120,
+              "expanded_url": "https://x.com/koinoesutoron/status/2022681380044296385/photo/1",
+              "media_key": "3_2022681184174563328",
+              "start": 97,
+              "url": "https://t.co/rsbH7HZnuK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "2022681380044296385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 161523,
+          "like_count": 1033,
+          "quote_count": 29,
+          "reply_count": 81,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "2月14日，70个反同系贴吧被封。\n评价：这次下手真狠，比如说“黑同”这个吧也就十几个关注，这种反同小吧都没了，而且反同分子基本上是建立一个吧就被封一个吧，有的反同新吧在建立几小时后就被封了。 https://t.co/rsbH7HZnuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 156,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 352
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T17:15:21.000Z",
+        "description": "WikipediaのLTAです。\nLGBT｜ポスドク｜自己嫌悪｜精神疾患｜トランスジェンダー｜LTA｜Wikipedia｜など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.wikipedia.org/wiki/LTA:ISECH…",
+                "end": 23,
+                "expanded_url": "http://ja.wikipedia.org/wiki/LTA:ISECHIKA",
+                "start": 0,
+                "url": "https://t.co/Km1SZucwOo"
+              }
+            ]
+          }
+        },
+        "id": "1485662446220201994",
+        "location": "東京 千代田区",
+        "name": "伊瀬知夏🏳️‍⚧️",
+        "pinned_tweet_id": "1558859092545769472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984410811058831363/2uZasvuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 44,
+          "like_count": 78,
+          "listed_count": 5,
+          "media_count": 2594,
+          "tweet_count": 8119
+        },
+        "url": "https://t.co/Km1SZucwOo",
+        "username": "koinoesutoron",
+        "verified": false
+      }
+    ]
+  }
+}

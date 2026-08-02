@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043257516151497201",
+    "created_at": "2026-04-12T17:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043374614932574258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "ObserveDiary_"
+        },
+        {
+          "end": 28,
+          "id": "2030722843491827712",
+          "start": 15,
+          "username": "lucky_542968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043374614932574258",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043364623878086796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObserveDiary_ @lucky_542968 现在13多点"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043364623878086796].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043364623878086796",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043364623878086796"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043257516151497201",
+        "created_at": "2026-04-12T17:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043374614932574258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "ObserveDiary_"
+            },
+            {
+              "end": 28,
+              "id": "2030722843491827712",
+              "start": 15,
+              "username": "lucky_542968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043374614932574258",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043364623878086796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObserveDiary_ @lucky_542968 现在13多点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1118,
+          "like_count": 2119,
+          "listed_count": 3,
+          "media_count": 395,
+          "tweet_count": 2243
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢丨没有repo的习惯",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "pinned_tweet_id": "2037862485924216868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 595,
+          "like_count": 12333,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2545
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T19:11:17.000Z",
+        "description": "神性与兽性的交织",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lucky53609",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lucky53609",
+                "start": 0,
+                "url": "https://t.co/Fx95iKfz72"
+              }
+            ]
+          }
+        },
+        "id": "2030722843491827712",
+        "location": "2.3km",
+        "name": "缘雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036022010120409088/r-amY0Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/Fx95iKfz72",
+        "username": "lucky_542968",
+        "verified": false
+      }
+    ]
+  }
+}

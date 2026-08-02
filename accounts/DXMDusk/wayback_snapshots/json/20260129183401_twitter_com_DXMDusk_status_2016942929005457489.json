@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016911176643555542",
+    "created_at": "2026-01-29T18:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T19:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016942929005457489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016942929005457489",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016911176643555542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016911176643555542",
+        "created_at": "2026-01-29T18:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016942929005457489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016942929005457489",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016911176643555542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2016911176643555542",
+        "created_at": "2026-01-29T16:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016911176643555542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016911176643555542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 524,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在丹麦的好哥们在聚会还半夜给我打个视频电话\n问了我跨的事情进展如何，结果知道我要术了之后\n“我们社交圈里总算有个女生了”\n😇唉不知道该怎么批评这几个死宅，难怪没女朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 101,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 155
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/毛绒玩具饲养员/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2016335943842885810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108,
+          "following_count": 1549,
+          "like_count": 40560,
+          "listed_count": 13,
+          "media_count": 404,
+          "tweet_count": 8445
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

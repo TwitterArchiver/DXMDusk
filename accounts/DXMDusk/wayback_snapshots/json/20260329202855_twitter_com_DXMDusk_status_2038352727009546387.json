@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037397026670092692",
+    "created_at": "2026-03-29T20:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038352727009546387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990025288189960193",
+          "start": 0,
+          "username": "0524Asp"
+        },
+        {
+          "end": 21,
+          "id": "1780369819310981120",
+          "start": 9,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038352727009546387",
+    "in_reply_to_user_id": "1990025288189960193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037397026670092692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0524Asp @520illusion 氯硝能有用？我50片氯硝也就睡一觉而已"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2037397022068838400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZJzAbaEAAsv14.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037397026670092692",
+        "created_at": "2026-03-29T20:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038352727009546387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990025288189960193",
+              "start": 0,
+              "username": "0524Asp"
+            },
+            {
+              "end": 21,
+              "id": "1780369819310981120",
+              "start": 9,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038352727009546387",
+        "in_reply_to_user_id": "1990025288189960193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037397026670092692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0524Asp @520illusion 氯硝能有用？我50片氯硝也就睡一觉而已"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037397022068838400"
+          ]
+        },
+        "author_id": "1990025288189960193",
+        "conversation_id": "2037397026670092692",
+        "created_at": "2026-03-27T05:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037397026670092692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBYp2ugueQ",
+              "end": 105,
+              "expanded_url": "https://x.com/0524Asp/status/2037397026670092692/photo/1",
+              "media_key": "3_2037397022068838400",
+              "start": 82,
+              "url": "https://t.co/iBYp2ugueQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037397026670092692",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4486,
+          "like_count": 10,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@520illusion \n（非正式）讣告：\nill哥昨天晚上吃完氯硝以后又吃了2粒25mg的思瑞康\n现在还没醒/：\n当然如果晚上还没醒过来可能是真那啥了…🥲🥲🥲 https://t.co/iBYp2ugueQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 1071,
+          "like_count": 1843,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 1801
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T11:53:16.000Z",
+        "description": "不是火车迷/：（本命CR400BF-Z-0524）｜HRT：2024.11.22｜持证含🍥（2025.7.17）｜双A（AS+ADHD）｜17岁｜宁波站票房S级通缉人士（逃/：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rail.re",
+                "end": 23,
+                "expanded_url": "http://rail.re",
+                "start": 0,
+                "url": "https://t.co/HN2tY3G4P1"
+              }
+            ]
+          }
+        },
+        "id": "1990025288189960193",
+        "name": "Asp.CR400BF-Z-0524🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990025901287837696/KS_2lubG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 176,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/HN2tY3G4P1",
+        "username": "0524Asp",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 🏳‍⚧ | 杭州南京武汉随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2038243830164799504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4303,
+          "following_count": 273,
+          "like_count": 9162,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 5408
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

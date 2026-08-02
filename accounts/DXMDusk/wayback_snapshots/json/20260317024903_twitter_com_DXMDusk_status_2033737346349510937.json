@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033737305975099392",
+        "3_2033737297796206595",
+        "3_2033737299389980672",
+        "3_2033737305970900992"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033737346349510937",
+    "created_at": "2026-03-17T02:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033737346349510937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qjs69Z5O83",
+          "end": 36,
+          "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+          "media_key": "3_2033737305975099392",
+          "start": 13,
+          "url": "https://t.co/qjs69Z5O83"
+        },
+        {
+          "display_url": "pic.x.com/qjs69Z5O83",
+          "end": 36,
+          "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+          "media_key": "3_2033737297796206595",
+          "start": 13,
+          "url": "https://t.co/qjs69Z5O83"
+        },
+        {
+          "display_url": "pic.x.com/qjs69Z5O83",
+          "end": 36,
+          "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+          "media_key": "3_2033737299389980672",
+          "start": 13,
+          "url": "https://t.co/qjs69Z5O83"
+        },
+        {
+          "display_url": "pic.x.com/qjs69Z5O83",
+          "end": 36,
+          "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+          "media_key": "3_2033737305970900992",
+          "start": 13,
+          "url": "https://t.co/qjs69Z5O83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033737346349510937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是ai永远不能超越的！ https://t.co/qjs69Z5O83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033737305975099392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlJTfkbEAAYw74.jpg",
+        "width": 903
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033737297796206595",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlJTBGbEAMxX_n.jpg",
+        "width": 905
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033737299389980672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlJTHCaIAA76WC.jpg",
+        "width": 902
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033737305970900992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlJTfjbAAAhAAV.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033737305975099392",
+            "3_2033737297796206595",
+            "3_2033737299389980672",
+            "3_2033737305970900992"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033737346349510937",
+        "created_at": "2026-03-17T02:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033737346349510937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjs69Z5O83",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+              "media_key": "3_2033737305975099392",
+              "start": 13,
+              "url": "https://t.co/qjs69Z5O83"
+            },
+            {
+              "display_url": "pic.x.com/qjs69Z5O83",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+              "media_key": "3_2033737297796206595",
+              "start": 13,
+              "url": "https://t.co/qjs69Z5O83"
+            },
+            {
+              "display_url": "pic.x.com/qjs69Z5O83",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+              "media_key": "3_2033737299389980672",
+              "start": 13,
+              "url": "https://t.co/qjs69Z5O83"
+            },
+            {
+              "display_url": "pic.x.com/qjs69Z5O83",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2033737346349510937/photo/1",
+              "media_key": "3_2033737305970900992",
+              "start": 13,
+              "url": "https://t.co/qjs69Z5O83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033737346349510937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是ai永远不能超越的！ https://t.co/qjs69Z5O83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 1017,
+          "like_count": 1746,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 1559
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

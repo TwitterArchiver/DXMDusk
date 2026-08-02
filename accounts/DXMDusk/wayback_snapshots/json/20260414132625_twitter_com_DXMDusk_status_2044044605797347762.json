@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2044044605797347762",
+    "created_at": "2026-04-14T13:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044044605797347762"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044044605797347762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "原来是o⭕啊，不知道还以为是后藤，梨子，420，沐雨一起去广西执行秘密任务，结果在离开的过程中遇到广西武直追击，前来接应的555小队坠机了，整车人落水，555被卡住腿，在车里化身耐憋王了。之后又前往南宁拯救o圈的民选领导人爱德华，刚开车行驶到马路上就被路人骂丢雷老母，还被人用燃烧瓶给烧到车了结果导致车失控卡住了，又在大街上看到了鸡哥的演讲，在大楼坐电梯时候一不小心按错楼层被最优质的o圈战士看到大喊：“减害人! 哎呀！”之后救下了爱德华和静音。逃跑途中炸了鸡哥的99坦克和09步战，硬吃一发emp开民用船走了，并把下城区难民带到了广州禁毒号上。在这件事过后，爱德华，静音，后藤回到了南宁。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来是o⭕啊，不知道还以为是后藤，梨子，420，沐雨一起去广西执行秘密任务，结果在离开的过程中遇到广西武直追击，前来接应的555小队坠机了，整车人落水，555被卡住腿，在车里化身耐憋王了。之后又前往南宁拯救o圈的民选领导人爱德华，刚开车行驶到马路上就被路人骂丢雷老母，还被人用燃烧瓶给烧到车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2044044605797347762",
+        "created_at": "2026-04-14T13:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044044605797347762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044044605797347762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "原来是o⭕啊，不知道还以为是后藤，梨子，420，沐雨一起去广西执行秘密任务，结果在离开的过程中遇到广西武直追击，前来接应的555小队坠机了，整车人落水，555被卡住腿，在车里化身耐憋王了。之后又前往南宁拯救o圈的民选领导人爱德华，刚开车行驶到马路上就被路人骂丢雷老母，还被人用燃烧瓶给烧到车了结果导致车失控卡住了，又在大街上看到了鸡哥的演讲，在大楼坐电梯时候一不小心按错楼层被最优质的o圈战士看到大喊：“减害人! 哎呀！”之后救下了爱德华和静音。逃跑途中炸了鸡哥的99坦克和09步战，硬吃一发emp开民用船走了，并把下城区难民带到了广州禁毒号上。在这件事过后，爱德华，静音，后藤回到了南宁。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是o⭕啊，不知道还以为是后藤，梨子，420，沐雨一起去广西执行秘密任务，结果在离开的过程中遇到广西武直追击，前来接应的555小队坠机了，整车人落水，555被卡住腿，在车里化身耐憋王了。之后又前往南宁拯救o圈的民选领导人爱德华，刚开车行驶到马路上就被路人骂丢雷老母，还被人用燃烧瓶给烧到车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1126,
+          "like_count": 2192,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 2307
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

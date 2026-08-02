@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2017936791630999651",
+    "created_at": "2026-02-01T13:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017946888520278029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "835579549",
+          "start": 0,
+          "username": "baggio61197107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017946888520278029",
+    "in_reply_to_user_id": "835579549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017936791630999651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baggio61197107 嗯，现在改设置了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2017936791630999651",
+        "created_at": "2026-02-01T13:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017946888520278029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "835579549",
+              "start": 0,
+              "username": "baggio61197107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017946888520278029",
+        "in_reply_to_user_id": "835579549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017936791630999651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baggio61197107 嗯，现在改设置了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835579549",
+        "conversation_id": "2017936791630999651",
+        "created_at": "2026-02-01T12:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017936791630999651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2017578862352490849",
+              "start": 13,
+              "url": "https://t.co/Eeur237mfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017936791630999651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017578862352490849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩们挺好，评论区恶心🤢 https://t.co/Eeur237mfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 135,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 201
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-20T13:30:04.000Z",
+        "description": "football \nSue\nخاللې  .كۆك يولۋاس\n磨剪子嘞 勥菜刀……\n非🌈肌肉💪猛女请勿骚扰\n㊗️🐯哥早日财务🆓拥有农村户口养老",
+        "id": "835579549",
+        "location": "渔村",
+        "name": "🐯🐯听🐱话",
+        "pinned_tweet_id": "1295633241257336833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484578795315429376/1r2udLJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 1715,
+          "like_count": 22378,
+          "listed_count": 0,
+          "media_count": 4201,
+          "tweet_count": 37891
+        },
+        "username": "baggio61197107",
+        "verified": false
+      }
+    ]
+  }
+}

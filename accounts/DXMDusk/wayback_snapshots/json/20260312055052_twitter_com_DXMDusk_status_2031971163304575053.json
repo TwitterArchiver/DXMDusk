@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031712817125130653",
+    "created_at": "2026-03-12T05:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031971163304575053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        },
+        {
+          "end": 28,
+          "id": "1600208165269741570",
+          "start": 14,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031971163304575053",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031970580715749600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio @MeowCatherina 这要看亲密关系程度而定～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031712817125130653",
+        "created_at": "2026-03-12T05:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031971163304575053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            },
+            {
+              "end": 28,
+              "id": "1600208165269741570",
+              "start": 14,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031971163304575053",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031970580715749600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio @MeowCatherina 这要看亲密关系程度而定～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "conversation_id": "2031712817125130653",
+        "created_at": "2026-03-12T05:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031970580715749600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            },
+            {
+              "end": 23,
+              "id": "1974276207496867842",
+              "start": 15,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031970580715749600",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031765361109197261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina @DXMDusk 感覺還是靠自己，靠別人都是有條件的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 802,
+          "like_count": 1169,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1258
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "Moonlight @RedteaCattleya ｜📷 | 🚃 | 🇲🇴 | 🇭🇰 | contact@amiya.eu.org ｜Best Linux @debian | https://t.co/hCUoYwZJKC in Computer Science ｜💫@McXiaowei @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "RedteaCattleya"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "debian"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "RenkoUsagi1155"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "B.Sc",
+                "end": 111,
+                "expanded_url": "http://B.Sc",
+                "start": 88,
+                "url": "https://t.co/hCUoYwZJKC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "win7.win",
+                "end": 23,
+                "expanded_url": "https://win7.win",
+                "start": 0,
+                "url": "https://t.co/ds9KOmWKdy"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "name": "Mio",
+        "pinned_tweet_id": "1911442925419975127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000262071259377664/pPzK0Ja7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 849,
+          "like_count": 76056,
+          "listed_count": 4,
+          "media_count": 540,
+          "tweet_count": 4461
+        },
+        "url": "https://t.co/ds9KOmWKdy",
+        "username": "Meowneko_Mio",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻 ｜AM&CS&EE｜某司高管(逃)｜ 意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜做教育学科研还能画电路板子的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010743490523934720/Y4ddxxG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 1100,
+          "like_count": 84408,
+          "listed_count": 20,
+          "media_count": 2122,
+          "tweet_count": 25397
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

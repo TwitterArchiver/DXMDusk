@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031575625270780132",
+    "created_at": "2026-03-11T12:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031714376303235152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654457531123785728",
+          "start": 0,
+          "username": "BTC_daxiong888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031714376303235152",
+    "in_reply_to_user_id": "1654457531123785728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031575625270780132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC_daxiong888 回一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031575625270780132",
+        "created_at": "2026-03-11T12:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031714376303235152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654457531123785728",
+              "start": 0,
+              "username": "BTC_daxiong888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031714376303235152",
+        "in_reply_to_user_id": "1654457531123785728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031575625270780132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC_daxiong888 回一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654457531123785728",
+        "conversation_id": "2031575625270780132",
+        "created_at": "2026-03-11T03:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T04:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031575625270780132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031575625270780132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人吗？ 蓝V互关，诚信第一。有关必回\n\n熊市抱团取暖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 761,
+          "like_count": 965,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1188
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T12:06:47.000Z",
+        "description": "大雄｜ 实战派交易员，从10年前铁矿开铲运机，到如今职业交易员，一路逆袭蜕变。 一头扎进金融市场，只为逆天改命。 有幸遇恩师指点传授，现已小有成就，深耕交易8年，独创裸K交易体系。 风格：精准狙击｜风控优先 主要交易品种：XAU｜BTC｜ETH |精准信号·内部实战群，私信大雄。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Daxiongdejuexi…",
+                "end": 23,
+                "expanded_url": "https://t.me/Daxiongdejuexing",
+                "start": 0,
+                "url": "https://t.co/goT5wkteZ0"
+              }
+            ]
+          }
+        },
+        "id": "1654457531123785728",
+        "location": "大雄电报的联系方式👉",
+        "name": "Web3大雄",
+        "pinned_tweet_id": "2029114822009471414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012431335936471040/tePpxC1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 767,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/goT5wkteZ0",
+        "username": "BTC_daxiong888",
+        "verified": true
+      }
+    ]
+  }
+}

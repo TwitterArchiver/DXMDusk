@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025455213902286848"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025455219967213877",
+    "created_at": "2026-02-22T06:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025455219967213877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "蓝v互关"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "蓝V互关互推联盟"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "蓝v关注必回"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wO1wNLXxvd",
+          "end": 68,
+          "expanded_url": "https://x.com/DXMDusk/status/2025455219967213877/photo/1",
+          "media_key": "3_2025455213902286848",
+          "start": 45,
+          "url": "https://t.co/wO1wNLXxvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025455219967213877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝v互关来，百分百回关，可以借楼一起互关 #蓝v互关 #蓝V互关互推联盟 #蓝v关注必回 https://t.co/wO1wNLXxvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2025455213902286848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvcySUb0AArkOD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025455213902286848"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025455219967213877",
+        "created_at": "2026-02-22T06:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025455219967213877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "蓝V互关互推联盟"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "蓝v关注必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wO1wNLXxvd",
+              "end": 68,
+              "expanded_url": "https://x.com/DXMDusk/status/2025455219967213877/photo/1",
+              "media_key": "3_2025455213902286848",
+              "start": 45,
+              "url": "https://t.co/wO1wNLXxvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025455219967213877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关来，百分百回关，可以借楼一起互关 #蓝v互关 #蓝V互关互推联盟 #蓝v关注必回 https://t.co/wO1wNLXxvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 197,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 490
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

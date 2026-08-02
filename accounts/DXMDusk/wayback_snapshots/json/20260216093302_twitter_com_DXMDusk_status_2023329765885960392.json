@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023329765885960392",
+    "created_at": "2026-02-16T09:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023329765885960392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2023318645859086582",
+          "start": 73,
+          "url": "https://t.co/HDUeJSDqNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023329765885960392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023318645859086582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝大家行大運，O大D，吃藥不耐受，幻覺超好受，買藥不被標，賣藥不被抓，pr不成癮，小美不耐受，晚安不恐幻，思思不失憶。新的一年，越o越有勁！！！ https://t.co/HDUeJSDqNM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023329765885960392",
+        "created_at": "2026-02-16T09:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023329765885960392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2023318645859086582",
+              "start": 73,
+              "url": "https://t.co/HDUeJSDqNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023329765885960392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023318645859086582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝大家行大運，O大D，吃藥不耐受，幻覺超好受，買藥不被標，賣藥不被抓，pr不成癮，小美不耐受，晚安不恐幻，思思不失憶。新的一年，越o越有勁！！！ https://t.co/HDUeJSDqNM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2023318645859086582",
+        "created_at": "2026-02-16T08:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023318645859086582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikawakaede3/s…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/hikawakaede3/status/2023052503500394983",
+              "start": 73,
+              "url": "https://t.co/9P7h0c1T4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023318645859086582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023052503500394983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝大家行大運，O大D，吃藥不耐受，幻覺超好受，買藥不被標，賣藥不被抓，pr不成癮，小美不耐受，晚安不恐幻，思思不失憶。新的一年，越o越有勁！！！ https://t.co/9P7h0c1T4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 156,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 351
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 195,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2010
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

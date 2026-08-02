@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "1980333398196711476",
+    "created_at": "2025-10-20T18:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T19:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980333398196711476"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980333398196711476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些特殊的图在想要不要发出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "1980333398196711476",
+        "created_at": "2025-10-20T18:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T19:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980333398196711476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980333398196711476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些特殊的图在想要不要发出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "",
+        "id": "1974276207496867842",
+        "name": "Dusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974280613768388608/UZVD82q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 143,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

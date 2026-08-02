@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033567210158043136"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033567212796285433",
+    "created_at": "2026-03-16T15:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033567212796285433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4WEjfYLK8e",
+          "end": 38,
+          "expanded_url": "https://x.com/DXMDusk/status/2033567212796285433/photo/1",
+          "media_key": "3_2033567210158043136",
+          "start": 15,
+          "url": "https://t.co/4WEjfYLK8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033567212796285433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的，这是真的，因为我遇到过 https://t.co/4WEjfYLK8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2033567210158043136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiumnRaMAAprYo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033567210158043136"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033567212796285433",
+        "created_at": "2026-03-16T15:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033567212796285433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WEjfYLK8e",
+              "end": 38,
+              "expanded_url": "https://x.com/DXMDusk/status/2033567212796285433/photo/1",
+              "media_key": "3_2033567210158043136",
+              "start": 15,
+              "url": "https://t.co/4WEjfYLK8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033567212796285433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，这是真的，因为我遇到过 https://t.co/4WEjfYLK8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1006,
+          "like_count": 1721,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 1536
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2040436021092057088"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040436193180237942",
+    "created_at": "2026-04-04T14:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040436193180237942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RVX01bRcBB",
+          "end": 92,
+          "expanded_url": "https://x.com/DXMDusk/status/2040436193180237942/photo/1",
+          "media_key": "16_2040436021092057088",
+          "start": 69,
+          "url": "https://t.co/RVX01bRcBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040436193180237942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界田径锦标赛上，来自日本92岁的选手，在60岁以上组的60米短跑比赛上，以10秒95的成绩夺得冠军…我觉得，平时不运动的人可能没他快… https://t.co/RVX01bRcBB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2040436021092057088",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFEVwCAagAA20XF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFEVwCAagAA20XF.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2040436021092057088"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040436193180237942",
+        "created_at": "2026-04-04T14:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040436193180237942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVX01bRcBB",
+              "end": 92,
+              "expanded_url": "https://x.com/DXMDusk/status/2040436193180237942/photo/1",
+              "media_key": "16_2040436021092057088",
+              "start": 69,
+              "url": "https://t.co/RVX01bRcBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040436193180237942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界田径锦标赛上，来自日本92岁的选手，在60岁以上组的60米短跑比赛上，以10秒95的成绩夺得冠军…我觉得，平时不运动的人可能没他快… https://t.co/RVX01bRcBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1101,
+          "like_count": 2028,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 2021
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

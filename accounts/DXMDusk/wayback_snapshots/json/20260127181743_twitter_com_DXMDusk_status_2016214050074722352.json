@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016214050074722352",
+    "created_at": "2026-01-27T18:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016214050074722352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804849792121499648",
+          "start": 3,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016214050074722352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004234124228538620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OnlyLenKagamine: 【这是一条抽奖推！】镜音连18岁生日快乐🎈🎂！\n𝑯𝑨𝑷𝑷𝒀 𝑩𝑰𝑹𝑻𝑯𝑫𝑨𝒀 𝑻𝑶 𝑲𝑨𝑮𝑨𝑴𝑰𝑵𝑬 𝑹𝑰𝑵𝑳𝑬𝑵（鏡音リンレン）\n  ♡•• ♬┈✰ ๑⋅୨12.27୧⋅๑ ✰┈♪ •• ♡\n2007.12.27---2025.12.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3724,
+        "media_key": "3_2004234054032568320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9B4QNVaMAASs4M.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016214050074722352",
+        "created_at": "2026-01-27T18:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016214050074722352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804849792121499648",
+              "start": 3,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016214050074722352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004234124228538620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OnlyLenKagamine: 【这是一条抽奖推！】镜音连18岁生日快乐🎈🎂！\n𝑯𝑨𝑷𝑷𝒀 𝑩𝑰𝑹𝑻𝑯𝑫𝑨𝒀 𝑻𝑶 𝑲𝑨𝑮𝑨𝑴𝑰𝑵𝑬 𝑹𝑰𝑵𝑳𝑬𝑵（鏡音リンレン）\n  ♡•• ♬┈✰ ๑⋅୨12.27୧⋅๑ ✰┈♪ •• ♡\n2007.12.27---2025.12.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004234054032568320"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004234124228538620",
+        "created_at": "2025-12-25T16:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004234124228538620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 174,
+              "start": 162,
+              "tag": "鏡音レン生誕祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WV23yGGcXq",
+              "end": 198,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2004234124228538620/photo/1",
+              "media_key": "3_2004234054032568320",
+              "start": 175,
+              "url": "https://t.co/WV23yGGcXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004234124228538620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 35441,
+          "like_count": 125,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "【这是一条抽奖推！】镜音连18岁生日快乐🎈🎂！\n𝑯𝑨𝑷𝑷𝒀 𝑩𝑰𝑹𝑻𝑯𝑫𝑨𝒀 𝑻𝑶 𝑲𝑨𝑮𝑨𝑴𝑰𝑵𝑬 𝑹𝑰𝑵𝑳𝑬𝑵（鏡音リンレン）\n  ♡•• ♬┈✰ ๑⋅୨12.27୧⋅๑ ✰┈♪ •• ♡\n2007.12.27---2025.12.27\n陪你的第四年，我爱你。\n\n转发+点赞推文，抽一人122.7rmb🧧\n1.27开奖\n#鏡音レン生誕祭2025 https://t.co/WV23yGGcXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "再怎麼愛也無法愛上｜只愛鏡音レン、棘刺｜廚力w+｜內容R16🌈 🏳️‍🌈｜就算昨天喜歡，今天也厭倦了",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫Amoris🇹🇼🇰🇷🇨🇳🏳️‍🌈",
+        "pinned_tweet_id": "2004234124228538620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 361,
+          "like_count": 27798,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 3316
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

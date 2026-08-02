@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024832057520840706",
+    "created_at": "2026-02-22T15:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025596017174085768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1675336861957644288",
+          "start": 0,
+          "username": "ftxbtc800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025596017174085768",
+    "in_reply_to_user_id": "1675336861957644288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024832057520840706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ftxbtc800 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2024832049446793217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmmBV0aMAECDGt.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024832057520840706",
+        "created_at": "2026-02-22T15:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025596017174085768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1675336861957644288",
+              "start": 0,
+              "username": "ftxbtc800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025596017174085768",
+        "in_reply_to_user_id": "1675336861957644288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024832057520840706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ftxbtc800 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024832049446793217"
+          ]
+        },
+        "author_id": "1675336861957644288",
+        "conversation_id": "2024832057520840706",
+        "created_at": "2026-02-20T13:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024832057520840706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndFo0CtKPh",
+              "end": 102,
+              "expanded_url": "https://x.com/ftxbtc800/status/2024832057520840706/photo/1",
+              "media_key": "3_2024832049446793217",
+              "start": 79,
+              "url": "https://t.co/ndFo0CtKPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024832057520840706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 949,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关 在线秒回\n永不取关 诚信第一\n我会进你主页给你的帖子点赞\n关注的同时帮忙提高权重和热度\n感谢大家回关，帮忙点赞👍🏻\n蓝v掉了 正在审查中 很快恢复 https://t.co/ndFo0CtKPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 208,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 532
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T02:53:41.000Z",
+        "description": "90后长期投资者 | Bitkoi 核心成员 🐬 币安广场认证创作者 | 币百通 👉🏻每天分享链上机会 & 真实Alpha 👉🏻蓝V持续互关中，永不取关！Blue V mutual follow forever, never unfollow👀",
+        "id": "1675336861957644288",
+        "name": "币百通｜Bitkoi🐬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819753251673358336/N5NWEWj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 1797,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 570
+        },
+        "username": "ftxbtc800",
+        "verified": true
+      }
+    ]
+  }
+}

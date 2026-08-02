@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030948808499270064",
+    "created_at": "2026-03-09T11:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030973838549475749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        },
+        {
+          "end": 25,
+          "id": "1704469304077611008",
+          "start": 10,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030973838549475749",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030963537854775323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy @jiaoyanboluooo 乳腺是无法被减掉的，胸可以变小，但是已经生长完整的乳腺是块状的，无法通过减肥变小，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030948808499270064",
+        "created_at": "2026-03-09T11:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030973838549475749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            },
+            {
+              "end": 25,
+              "id": "1704469304077611008",
+              "start": 10,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030973838549475749",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030963537854775323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy @jiaoyanboluooo 乳腺是无法被减掉的，胸可以变小，但是已经生长完整的乳腺是块状的，无法通过减肥变小，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "2030948808499270064",
+        "created_at": "2026-03-09T11:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030963537854775323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030963537854775323",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030948808499270064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 不管用什么方法减肥，都是全身脂肪减少🌚区别是哪边的脂肪耐用“顽固”  耐用的就少的慢点，正好内脏脂肪和胸部脂肪都是“高质量”比其他部位减的慢点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 623,
+          "like_count": 625,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 942
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "38岁人夫，GAHT2025.4.8大证，老倒霉蛋一个，已和家人出柜    最后：老婆我永远爱着你😘",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "向晚初霁🍥",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855814437990400/0mAddQZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 160,
+          "like_count": 3495,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 1984
+        },
+        "username": "canderyy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 3041,
+          "like_count": 19780,
+          "listed_count": 12,
+          "media_count": 1197,
+          "tweet_count": 4131
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032316541933625552",
+    "created_at": "2026-03-13T17:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032510561968337371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597219403871178755",
+          "start": 0,
+          "username": "0xColorNFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032510561968337371",
+    "in_reply_to_user_id": "1597219403871178755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032316541933625552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xColorNFT +1啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032316541933625552",
+        "created_at": "2026-03-13T17:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032510561968337371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597219403871178755",
+              "start": 0,
+              "username": "0xColorNFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032510561968337371",
+        "in_reply_to_user_id": "1597219403871178755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032316541933625552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xColorNFT +1啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597219403871178755",
+        "conversation_id": "2032316541933625552",
+        "created_at": "2026-03-13T04:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032316541933625552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032316541933625552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1098,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关呀蓝V #蓝V互关#蓝v关注必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 896,
+          "like_count": 1476,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1428
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T13:22:50.000Z",
+        "description": "用交易证明自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FPIkkWk2QdE1Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FPIkkWk2QdE1ZjFl",
+                "start": 0,
+                "url": "https://t.co/fghvdKorqZ"
+              }
+            ]
+          }
+        },
+        "id": "1597219403871178755",
+        "name": "Color🎋",
+        "pinned_tweet_id": "2024641349954462071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029347331141976068/r60UCgTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 646,
+          "like_count": 338,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/fghvdKorqZ",
+        "username": "0xColorNFT",
+        "verified": true
+      }
+    ]
+  }
+}

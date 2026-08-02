@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025231663786328278",
+    "created_at": "2026-02-22T11:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025537946162765926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512280643761479680",
+          "start": 0,
+          "username": "nianshoulong"
+        },
+        {
+          "end": 23,
+          "id": "1842504398850928640",
+          "start": 14,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025537946162765926",
+    "in_reply_to_user_id": "1512280643761479680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025324943903523116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianshoulong @hsn8086k 这个电脑端有软件可以实现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025231663786328278",
+        "created_at": "2026-02-22T11:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025537946162765926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512280643761479680",
+              "start": 0,
+              "username": "nianshoulong"
+            },
+            {
+              "end": 23,
+              "id": "1842504398850928640",
+              "start": 14,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025537946162765926",
+        "in_reply_to_user_id": "1512280643761479680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025324943903523116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianshoulong @hsn8086k 这个电脑端有软件可以实现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512280643761479680",
+        "conversation_id": "2025231663786328278",
+        "created_at": "2026-02-21T21:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T22:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025324943903523116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025324943903523116",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025231663786328278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 顺便帮我把白袜也码一下，每次刷着刷着都被吓晕😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 206,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 518
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T04:06:27.000Z",
+        "description": "愿你能拥抱希望和爱｜愿你有能力爱与被爱｜变成可爱毛茸茸的我@JiLi_Fox丨勿挂念坠入深渊的我@jilifuneng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "JiLi_Fox"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "jilifuneng"
+              }
+            ]
+          }
+        },
+        "id": "1512280643761479680",
+        "location": "Guangdong",
+        "name": "年兽龙（等待重生版）",
+        "pinned_tweet_id": "1792404911176728870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659240762838781954/YNM77ZXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 174,
+          "like_count": 2866,
+          "listed_count": 3,
+          "media_count": 677,
+          "tweet_count": 5286
+        },
+        "username": "nianshoulong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 167,
+          "like_count": 4542,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1298
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

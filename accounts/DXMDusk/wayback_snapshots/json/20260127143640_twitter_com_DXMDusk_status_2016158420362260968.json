@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016125988011442489",
+    "created_at": "2026-01-27T14:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016158420362260968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016158420362260968",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016125988011442489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 想有什么用，大致地址有吧，想办法过去，找到她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016125988011442489",
+        "created_at": "2026-01-27T14:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016158420362260968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016158420362260968",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016125988011442489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 想有什么用，大致地址有吧，想办法过去，找到她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "2016125988011442489",
+        "created_at": "2026-01-27T12:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016125988011442489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagamine_8964/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kagamine_8964/status/2016120502985883713",
+              "start": 20,
+              "url": "https://t.co/wWdA4VClup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016125988011442489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016120502985883713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kagamine能看到我吗……我好想你 https://t.co/wWdA4VClup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 63,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎/FOW参与者/FOW网页端维护者/退役OIer转ODer/ADHD/MTX/生存、梦想、进取/不盈利不卖药/互fo🉑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/2k0YxzO4Vn"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "红船上的炸弹旁",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2013683719157289444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008623613470273536/BFTxYY73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 792,
+          "like_count": 9701,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 5740
+        },
+        "url": "https://t.co/2k0YxzO4Vn",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

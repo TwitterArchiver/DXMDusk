@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040447017823211970",
+    "created_at": "2026-04-04T18:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040494428922826979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032475934947975168",
+          "start": 0,
+          "username": "SuSu__OVOciallo"
+        },
+        {
+          "end": 32,
+          "id": "1810873766119100416",
+          "start": 17,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040494428922826979",
+    "in_reply_to_user_id": "2032475934947975168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040490550764417079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuSu__OVOciallo @RainBuild_2024 酒精一点不比药物效果差，只是危害却更强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040447017823211970",
+        "created_at": "2026-04-04T18:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040494428922826979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032475934947975168",
+              "start": 0,
+              "username": "SuSu__OVOciallo"
+            },
+            {
+              "end": 32,
+              "id": "1810873766119100416",
+              "start": 17,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040494428922826979",
+        "in_reply_to_user_id": "2032475934947975168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040490550764417079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuSu__OVOciallo @RainBuild_2024 酒精一点不比药物效果差，只是危害却更强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032475934947975168",
+        "conversation_id": "2040447017823211970",
+        "created_at": "2026-04-04T18:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040490550764417079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 24,
+              "id": "1810873766119100416",
+              "start": 9,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040490550764417079",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040450181800579275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @RainBuild_2024 比这爽吧？毕竟解离了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 1101,
+          "like_count": 2035,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 2035
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T15:17:04.000Z",
+        "description": "关注我的都会关注/🏳️‍⚧️mtf/已出柜/撞大运可以转生异世界当美少女吗？ 二次元死宅，让我烂在床上吧……都来和我聊天 🇨🇳",
+        "id": "2032475934947975168",
+        "name": "蘇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039407039072681984/83S5ARqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 60,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 291
+        },
+        "username": "SuSu__OVOciallo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9393,
+          "following_count": 883,
+          "like_count": 69393,
+          "listed_count": 17,
+          "media_count": 1438,
+          "tweet_count": 10069
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

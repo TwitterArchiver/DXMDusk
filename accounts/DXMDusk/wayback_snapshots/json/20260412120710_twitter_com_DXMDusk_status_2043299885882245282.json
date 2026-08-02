@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043299882925211649"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043273000213270747",
+    "created_at": "2026-04-12T12:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043299885882245282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y1S7aAxxAk",
+          "end": 32,
+          "expanded_url": "https://x.com/DXMDusk/status/2043299885882245282/photo/1",
+          "media_key": "3_2043299882925211649",
+          "start": 9,
+          "url": "https://t.co/Y1S7aAxxAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043299885882245282",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043273000213270747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 https://t.co/Y1S7aAxxAk"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043273000213270747].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043273000213270747",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043273000213270747"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043299882925211649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtCautawAEMI4J.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043299882925211649"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043273000213270747",
+        "created_at": "2026-04-12T12:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043299885882245282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1S7aAxxAk",
+              "end": 32,
+              "expanded_url": "https://x.com/DXMDusk/status/2043299885882245282/photo/1",
+              "media_key": "3_2043299882925211649",
+              "start": 9,
+              "url": "https://t.co/Y1S7aAxxAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043299885882245282",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043273000213270747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 https://t.co/Y1S7aAxxAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1118,
+          "like_count": 2116,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 2234
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 240,
+          "like_count": 15560,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 4362
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

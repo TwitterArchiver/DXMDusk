@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029157108072235195",
+    "created_at": "2026-03-05T13:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T14:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029542934237086001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1903259343744823296",
+          "start": 0,
+          "username": "OxFeng777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029542934237086001",
+    "in_reply_to_user_id": "1903259343744823296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029157108072235195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxFeng777 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "3_2029157055588909058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkDl1PawAIu3qt.png",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029157108072235195",
+        "created_at": "2026-03-05T13:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029542934237086001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1903259343744823296",
+              "start": 0,
+              "username": "OxFeng777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029542934237086001",
+        "in_reply_to_user_id": "1903259343744823296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029157108072235195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxFeng777 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029157055588909058"
+          ]
+        },
+        "author_id": "1903259343744823296",
+        "conversation_id": "2029157108072235195",
+        "created_at": "2026-03-04T11:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029157108072235195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxM4jxPFS0",
+              "end": 56,
+              "expanded_url": "https://x.com/OxFeng777/status/2029157108072235195/photo/1",
+              "media_key": "3_2029157055588909058",
+              "start": 33,
+              "url": "https://t.co/QxM4jxPFS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029157108072235195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1612,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注册推特一年了，想认识更多长期活跃、愿意互动的朋友\n\n#蓝V互关 https://t.co/QxM4jxPFS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 341,
+          "like_count": 462,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 678
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T01:36:21.000Z",
+        "description": "长期主义 | Paradise NFT ✨  |   OKX Wallet：https://t.co/9kLPUMmvh6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/OXFENG",
+                "end": 61,
+                "expanded_url": "https://web3.okx.com/join/OXFENG",
+                "start": 38,
+                "url": "https://t.co/9kLPUMmvh6"
+              }
+            ]
+          }
+        },
+        "id": "1903259343744823296",
+        "location": "China",
+        "name": "星辰 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007842222923034624/GcgGpoUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1730,
+          "like_count": 8480,
+          "listed_count": 6,
+          "media_count": 164,
+          "tweet_count": 1804
+        },
+        "username": "OxFeng777",
+        "verified": true
+      }
+    ]
+  }
+}

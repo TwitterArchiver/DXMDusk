@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030096658634268949",
+    "created_at": "2026-03-07T11:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030239131960566008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490718133333934080",
+          "start": 0,
+          "username": "bayc666"
+        },
+        {
+          "end": 16,
+          "id": "1526809346050772993",
+          "start": 9,
+          "username": "ttzzy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030239131960566008",
+    "in_reply_to_user_id": "1490718133333934080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030223383984767163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bayc666 @ttzzy7 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030096658634268949",
+        "created_at": "2026-03-07T11:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030239131960566008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490718133333934080",
+              "start": 0,
+              "username": "bayc666"
+            },
+            {
+              "end": 16,
+              "id": "1526809346050772993",
+              "start": 9,
+              "username": "ttzzy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030239131960566008",
+        "in_reply_to_user_id": "1490718133333934080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030223383984767163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bayc666 @ttzzy7 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490718133333934080",
+        "conversation_id": "2030096658634268949",
+        "created_at": "2026-03-07T10:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030223383984767163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1526809346050772993",
+              "start": 0,
+              "username": "ttzzy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030223383984767163",
+        "in_reply_to_user_id": "1526809346050772993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030096658634268949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttzzy7 我也是蓝V，最近发的东西阅读量都不过百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 470,
+          "like_count": 509,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 769
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T16:04:46.000Z",
+        "description": "BITCOIN is the most important AI meme.\nshoggoth科普网站 https://t.co/1HXg80u6sq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shoggothai-w4qvny2v.manus.space",
+                "end": 75,
+                "expanded_url": "https://shoggothai-w4qvny2v.manus.space/",
+                "start": 52,
+                "url": "https://t.co/1HXg80u6sq"
+              }
+            ]
+          }
+        },
+        "id": "1490718133333934080",
+        "name": "张三🐙",
+        "pinned_tweet_id": "1927897433071120577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930617710658072576/jXf4hrc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 2253,
+          "like_count": 1868,
+          "listed_count": 11,
+          "media_count": 914,
+          "tweet_count": 1381
+        },
+        "username": "bayc666",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-18T06:18:55.000Z",
+        "description": "互 fo 中🔥/#04｜一介凡人。",
+        "id": "1526809346050772993",
+        "location": "Wuhan",
+        "name": "xiaoDing",
+        "pinned_tweet_id": "2030101392996884765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010785797318881280/vt-2ajXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1353,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 240
+        },
+        "username": "ttzzy7",
+        "verified": true
+      }
+    ]
+  }
+}

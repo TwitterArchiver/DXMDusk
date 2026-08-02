@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2042502949637886155",
+    "created_at": "2026-04-10T07:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042502949637886155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042502949637886155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个AI大时代，大部分人都是\"太监\"，装个龙虾就像太监给自己装了个假牛子。既爽不了自己，也不能传宗接代。只能在那来回扭胯，假装自己还行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2042502949637886155",
+        "created_at": "2026-04-10T07:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042502949637886155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042502949637886155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个AI大时代，大部分人都是\"太监\"，装个龙虾就像太监给自己装了个假牛子。既爽不了自己，也不能传宗接代。只能在那来回扭胯，假装自己还行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 1102,
+          "like_count": 2080,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 2158
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

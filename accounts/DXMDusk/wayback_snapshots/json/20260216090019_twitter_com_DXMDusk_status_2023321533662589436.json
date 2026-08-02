@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023321533662589436",
+    "created_at": "2026-02-16T09:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023321533662589436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721381996960845824",
+          "start": 3,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023321533662589436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022991465832730964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laozhouhengmei: 很多人以为，翻译成中文的西方著作被删减了。\n\n但其实比删减更糟糕。\n\n有一种手段叫“增补”。\n\n比如在斯塔夫里阿诺斯的历史著作《全球通史》里，中国文明只是人类历史长河中普通的一段历史。 \n\n但是中文翻译和中文出版方为了迎合中国读者，硬是在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_2022991458052276224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMcA0jbAAA9ZJM.jpg",
+        "width": 732
+      },
+      {
+        "height": 343,
+        "media_key": "3_2022991458115186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMcA0ya8AA3laS.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023321533662589436",
+        "created_at": "2026-02-16T09:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023321533662589436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721381996960845824",
+              "start": 3,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023321533662589436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022991465832730964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laozhouhengmei: 很多人以为，翻译成中文的西方著作被删减了。\n\n但其实比删减更糟糕。\n\n有一种手段叫“增补”。\n\n比如在斯塔夫里阿诺斯的历史著作《全球通史》里，中国文明只是人类历史长河中普通的一段历史。 \n\n但是中文翻译和中文出版方为了迎合中国读者，硬是在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022991458052276224",
+            "3_2022991458115186688"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "conversation_id": "2022991465832730964",
+        "created_at": "2026-02-15T11:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022991465832730964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSoz7Pp3Xl",
+              "end": 158,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2022991465832730964/photo/1",
+              "media_key": "3_2022991458052276224",
+              "start": 135,
+              "url": "https://t.co/uSoz7Pp3Xl"
+            },
+            {
+              "display_url": "pic.x.com/uSoz7Pp3Xl",
+              "end": 158,
+              "expanded_url": "https://x.com/laozhouhengmei/status/2022991465832730964/photo/1",
+              "media_key": "3_2022991458115186688",
+              "start": 135,
+              "url": "https://t.co/uSoz7Pp3Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022991465832730964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人以为，翻译成中文的西方著作被删减了。\n\n但其实比删减更糟糕。\n\n有一种手段叫“增补”。\n\n比如在斯塔夫里阿诺斯的历史著作《全球通史》里，中国文明只是人类历史长河中普通的一段历史。 \n\n但是中文翻译和中文出版方为了迎合中国读者，硬是在这里插进去了几万字的“历史”。\n\n全球只有中文版的《全球通史》里有所谓中国的“技术成就表”，里面当然插进去了所谓的“四大发明”。\n\n黄河流域的文明起源，原版写的是公园前1500年，中文版改成3000年。\n\n这还不只是一个真假历史的问题，还在于完全不尊重原作者（已故）。\n\n所以说，要学好英语，很多书还是要看原文的，不然被骗了都不知道。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 193247,
+          "like_count": 1732,
+          "quote_count": 8,
+          "reply_count": 119,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "很多人以为，翻译成中文的西方著作被删减了。\n\n但其实比删减更糟糕。\n\n有一种手段叫“增补”。\n\n比如在斯塔夫里阿诺斯的历史著作《全球通史》里，中国文明只是人类历史长河中普通的一段历史。 \n\n但是中文翻译和中文出版方为了迎合中国读者，硬是在这里插进去了几万字的“历史”。 https://t.co/uSoz7Pp3Xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 156,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 340
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "CEO转自媒体人 | YouTube 10个月破30万订阅 | 原本是墙内百万粉丝主播，现已被中共全网封杀。斯坦福大学计算机系，前金融企业CEO。美国8年，上海15年，现居新加坡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126485,
+          "following_count": 120,
+          "like_count": 12467,
+          "listed_count": 491,
+          "media_count": 1142,
+          "tweet_count": 2989
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

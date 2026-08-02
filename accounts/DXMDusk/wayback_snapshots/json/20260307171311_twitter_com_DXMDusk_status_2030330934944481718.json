@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2030330866350915585"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030330934944481718",
+    "created_at": "2026-03-07T17:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T18:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030330934944481718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bo5AmuAU9r",
+          "end": 31,
+          "expanded_url": "https://x.com/DXMDusk/status/2030330934944481718/video/1",
+          "media_key": "7_2030330866350915585",
+          "start": 8,
+          "url": "https://t.co/Bo5AmuAU9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030330934944481718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么也没有发生 https://t.co/Bo5AmuAU9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8887,
+        "height": 1920,
+        "media_key": "7_2030330866350915585",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030330866350915585/pu/img/VTT77jYmUMwzHfV4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030330866350915585/pu/vid/avc1/320x568/_Z2qFbrIdL-mMFJr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030330866350915585/pu/vid/avc1/480x852/V_E8xmJNmvy3okIa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030330866350915585/pu/vid/avc1/720x1280/szBKHSTNYkH2Q2IJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030330866350915585/pu/pl/JfFvCcs5MSb4b7U-.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030330866350915585/pu/vid/avc1/1080x1920/euwZqLNMwRAQ4x0S.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030330866350915585"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030330934944481718",
+        "created_at": "2026-03-07T17:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030330934944481718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo5AmuAU9r",
+              "end": 31,
+              "expanded_url": "https://x.com/DXMDusk/status/2030330934944481718/video/1",
+              "media_key": "7_2030330866350915585",
+              "start": 8,
+              "url": "https://t.co/Bo5AmuAU9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030330934944481718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么也没有发生 https://t.co/Bo5AmuAU9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 531,
+          "like_count": 522,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 802
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

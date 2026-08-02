@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2044074168795431412",
+    "created_at": "2026-04-14T16:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044088857302577356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044088857302577356",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044074168795431412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 一个月左右"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2225,
+        "media_key": "3_2044074166010425344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4Cn7-asAA0vdA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2044074168795431412",
+        "created_at": "2026-04-14T16:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044088857302577356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044088857302577356",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044074168795431412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 一个月左右"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044074166010425344"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2044074168795431412",
+        "created_at": "2026-04-14T15:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044074168795431412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJJa8y7OPW",
+              "end": 45,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2044074168795431412/photo/1",
+              "media_key": "3_2044074166010425344",
+              "start": 22,
+              "url": "https://t.co/hJJa8y7OPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044074168795431412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道还得等多长时间这块指甲才会恢复qwq https://t.co/hJJa8y7OPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1129,
+          "like_count": 2208,
+          "listed_count": 3,
+          "media_count": 420,
+          "tweet_count": 2321
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9523,
+          "following_count": 922,
+          "like_count": 75588,
+          "listed_count": 19,
+          "media_count": 1506,
+          "tweet_count": 10721
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

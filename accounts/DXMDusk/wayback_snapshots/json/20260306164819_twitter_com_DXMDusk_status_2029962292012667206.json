@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029831549756256460",
+    "created_at": "2026-03-06T16:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029962292012667206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1737760645234507776",
+          "start": 0,
+          "username": "WQLOVE0909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029962292012667206",
+    "in_reply_to_user_id": "1737760645234507776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029831549756256460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WQLOVE0909 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2029831532354097153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtpBi_aUAEBUJI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029831541992669184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtpCG5bQAAFnuN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029831549756256460",
+        "created_at": "2026-03-06T16:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029962292012667206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1737760645234507776",
+              "start": 0,
+              "username": "WQLOVE0909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029962292012667206",
+        "in_reply_to_user_id": "1737760645234507776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029831549756256460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WQLOVE0909 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029831532354097153",
+            "3_2029831541992669184"
+          ]
+        },
+        "author_id": "1737760645234507776",
+        "conversation_id": "2029831549756256460",
+        "created_at": "2026-03-06T08:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029831549756256460"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "互关必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNriv8PNKA",
+              "end": 92,
+              "expanded_url": "https://x.com/WQLOVE0909/status/2029831549756256460/photo/1",
+              "media_key": "3_2029831532354097153",
+              "start": 69,
+              "url": "https://t.co/cNriv8PNKA"
+            },
+            {
+              "display_url": "pic.x.com/cNriv8PNKA",
+              "end": 92,
+              "expanded_url": "https://x.com/WQLOVE0909/status/2029831549756256460/photo/1",
+              "media_key": "3_2029831541992669184",
+              "start": 69,
+              "url": "https://t.co/cNriv8PNKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029831549756256460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2265,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你的粉丝还不到1000+\n那就来评论区打个招呼吧🤝\n你就能快速获取粉丝30+\n亲测有效\n带着你的诚意来關起来\n#蓝V互关 #互关必回 https://t.co/cNriv8PNKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 453,
+          "like_count": 490,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 742
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-21T09:03:26.000Z",
+        "description": "勇闯币圈、抓住币圈的机会，Web3的未来，陪你拆解链上机会、避坑避雷，做你的加密搭子 。",
+        "id": "1737760645234507776",
+        "name": "乐乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012670545020571648/_ayrkouG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3932,
+          "following_count": 3317,
+          "like_count": 1798,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 1809
+        },
+        "username": "WQLOVE0909",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030936529380720724",
+    "created_at": "2026-03-09T13:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030993215709691984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "717056546",
+          "start": 0,
+          "username": "77Sevenbtc"
+        },
+        {
+          "end": 25,
+          "id": "1847287669946245120",
+          "start": 12,
+          "username": "BlueGang1968"
+        },
+        {
+          "end": 36,
+          "id": "1938350011726893056",
+          "start": 26,
+          "username": "jieruibtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030993215709691984",
+    "in_reply_to_user_id": "717056546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030981338103419277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77Sevenbtc @BlueGang1968 @jieruibtc 好的喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030936529380720724",
+        "created_at": "2026-03-09T13:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030993215709691984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "717056546",
+              "start": 0,
+              "username": "77Sevenbtc"
+            },
+            {
+              "end": 25,
+              "id": "1847287669946245120",
+              "start": 12,
+              "username": "BlueGang1968"
+            },
+            {
+              "end": 36,
+              "id": "1938350011726893056",
+              "start": 26,
+              "username": "jieruibtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030993215709691984",
+        "in_reply_to_user_id": "717056546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030981338103419277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77Sevenbtc @BlueGang1968 @jieruibtc 好的喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "717056546",
+        "conversation_id": "2030936529380720724",
+        "created_at": "2026-03-09T12:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030981338103419277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 22,
+              "id": "1847287669946245120",
+              "start": 9,
+              "username": "BlueGang1968"
+            },
+            {
+              "end": 33,
+              "id": "1938350011726893056",
+              "start": 23,
+              "username": "jieruibtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030981338103419277",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030974152178614648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @BlueGang1968 @jieruibtc 回了宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 627,
+          "like_count": 636,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 952
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-26T00:31:28.000Z",
+        "description": "Crypto is my new lipstick.别给我贴标签你对我没那么了解. 清醒的大脑好看的钱包，只是一位普通的女性，欢迎来到我的小圈子聊聊成长聊聊生活让我们一起慢慢变富.｜#BNB #Binance DM：https://t.co/PJZ4FPLmEV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "BNB"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Seven77btc",
+                "end": 131,
+                "expanded_url": "https://t.me/Seven77btc",
+                "start": 108,
+                "url": "https://t.co/PJZ4FPLmEV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Seven77btc",
+                "end": 23,
+                "expanded_url": "https://t.me/Seven77btc",
+                "start": 0,
+                "url": "https://t.co/PJZ4FPLmEV"
+              }
+            ]
+          }
+        },
+        "id": "717056546",
+        "name": "77Seven(币圈七七)",
+        "pinned_tweet_id": "2030922215588598024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030265534449922048/zcCdmWT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 1605,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/PJZ4FPLmEV",
+        "username": "77Sevenbtc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T14:44:55.000Z",
+        "description": "吃货大叔的各种碎碎念，各种玩物丧志。",
+        "id": "1847287669946245120",
+        "name": "大雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847288009684910080/wUR9JhaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 1768,
+          "like_count": 97,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 778
+        },
+        "username": "BlueGang1968",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T21:34:04.000Z",
+        "description": "BTC长期持有者 16年至今年资深币圈老炮｜二级实盘交易员｜一级投研｜挖矿｜数据分析｜🌊Persevere and work hard❄️拒绝短期博弈，只做大概率正确的事 #BTC #Binance 合作联系TG：https://t.co/OaInsdWaWw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 86,
+                "tag": "BTC"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jieruibtc",
+                "end": 130,
+                "expanded_url": "https://t.me/jieruibtc",
+                "start": 107,
+                "url": "https://t.co/OaInsdWaWw"
+              }
+            ]
+          }
+        },
+        "id": "1938350011726893056",
+        "name": "Asix-老6币圈日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030616142222614530/GJHT_nLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 330,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1007
+        },
+        "username": "jieruibtc",
+        "verified": true
+      }
+    ]
+  }
+}

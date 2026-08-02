@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040446567833042944"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040446570488074382",
+    "created_at": "2026-04-04T15:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040446570488074382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPn7zF1PK7",
+          "end": 144,
+          "expanded_url": "https://x.com/DXMDusk/status/2040446570488074382/photo/1",
+          "media_key": "3_2040446567833042944",
+          "start": 121,
+          "url": "https://t.co/uPn7zF1PK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040446570488074382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一部分禁毒科普，我们花了很长时间才决定该如何写完。普瑞巴林是最难的部分之一，我们进行了无数头脑风暴构思方案。最后，灵光一闪，原命题是禁毒，就抄点机关单位的模板，抖音里特多oder，那就抄点抖友爱说的od药。完成啦！这就是我们拿高薪干的活。 https://t.co/uPn7zF1PK7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040446567833042944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEfV7ragAA_9m9.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040446567833042944"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040446570488074382",
+        "created_at": "2026-04-04T15:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040446570488074382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPn7zF1PK7",
+              "end": 144,
+              "expanded_url": "https://x.com/DXMDusk/status/2040446570488074382/photo/1",
+              "media_key": "3_2040446567833042944",
+              "start": 121,
+              "url": "https://t.co/uPn7zF1PK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040446570488074382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一部分禁毒科普，我们花了很长时间才决定该如何写完。普瑞巴林是最难的部分之一，我们进行了无数头脑风暴构思方案。最后，灵光一闪，原命题是禁毒，就抄点机关单位的模板，抖音里特多oder，那就抄点抖友爱说的od药。完成啦！这就是我们拿高薪干的活。 https://t.co/uPn7zF1PK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1101,
+          "like_count": 2029,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 2023
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

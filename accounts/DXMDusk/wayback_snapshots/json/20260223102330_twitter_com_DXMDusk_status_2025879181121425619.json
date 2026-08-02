@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025779350289936685",
+    "created_at": "2026-02-23T10:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025879181121425619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025879181121425619",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025779350289936685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 能不能删掉，拜托，不要宣传，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025779350289936685",
+        "created_at": "2026-02-23T10:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025879181121425619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025879181121425619",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025779350289936685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 能不能删掉，拜托，不要宣传，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025779350289936685",
+        "created_at": "2026-02-23T03:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025779350289936685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025779350289936685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1910,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在推特上找地芬尼多报告结果一个都没，去微博搜索地芬尼多发现很多人用这个玩意重开的，我靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 223,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 544
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 108,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 70
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

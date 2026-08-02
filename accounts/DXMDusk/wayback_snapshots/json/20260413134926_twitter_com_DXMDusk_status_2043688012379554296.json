@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043688003957407744"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043688012379554296",
+    "created_at": "2026-04-13T13:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043688012379554296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o6Ur3C4DRN",
+          "end": 33,
+          "expanded_url": "https://x.com/DXMDusk/status/2043688012379554296/photo/1",
+          "media_key": "3_2043688003957407744",
+          "start": 10,
+          "url": "https://t.co/o6Ur3C4DRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043688012379554296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "这是不是每天的你？ https://t.co/o6Ur3C4DRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2043688003957407744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyjaWObwAAih13.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043688003957407744"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043688012379554296",
+        "created_at": "2026-04-13T13:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043688012379554296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6Ur3C4DRN",
+              "end": 33,
+              "expanded_url": "https://x.com/DXMDusk/status/2043688012379554296/photo/1",
+              "media_key": "3_2043688003957407744",
+              "start": 10,
+              "url": "https://t.co/o6Ur3C4DRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043688012379554296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这是不是每天的你？ https://t.co/o6Ur3C4DRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1120,
+          "like_count": 2142,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 2273
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

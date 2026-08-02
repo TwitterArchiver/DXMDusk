@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032105772566319439",
+    "created_at": "2026-03-13T04:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032318697503932661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765300689578983424",
+          "start": 0,
+          "username": "CherryWang2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032318697503932661",
+    "in_reply_to_user_id": "1765300689578983424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032105772566319439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CherryWang2024 来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032105761476661249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDN9bGrXUAEYKHQ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032105772566319439",
+        "created_at": "2026-03-13T04:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032318697503932661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1765300689578983424",
+              "start": 0,
+              "username": "CherryWang2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032318697503932661",
+        "in_reply_to_user_id": "1765300689578983424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032105772566319439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CherryWang2024 来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032105761476661249"
+          ]
+        },
+        "author_id": "1765300689578983424",
+        "conversation_id": "2032105772566319439",
+        "created_at": "2026-03-12T14:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032105772566319439"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RilkLD3SBl",
+              "end": 78,
+              "expanded_url": "https://x.com/CherryWang2024/status/2032105772566319439/photo/1",
+              "media_key": "3_2032105761476661249",
+              "start": 55,
+              "url": "https://t.co/RilkLD3SBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032105772566319439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3023,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "是个江湖儿女 \n讲义气 爱恨分明 \n水瓶座♒️姐姐 \n\n#蓝V互关 \n\n爱取关的 真的别关注我 反手一个拉黑 https://t.co/RilkLD3SBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 868,
+          "like_count": 1425,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1374
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T08:57:49.000Z",
+        "description": "Cherry全球会客厅| $币安社区基金 builder and holder | BTC OTC Global #Mandarin and English Speaker",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 57,
+                "tag": "Mandarin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binancecommunityfund.com",
+                "end": 23,
+                "expanded_url": "http://www.binancecommunityfund.com",
+                "start": 0,
+                "url": "https://t.co/xAr8BGZBww"
+              }
+            ]
+          }
+        },
+        "id": "1765300689578983424",
+        "name": "Cherry 上帝的宝贝",
+        "pinned_tweet_id": "2031880773452616036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022563241277186048/elMg5xEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2898,
+          "following_count": 1428,
+          "like_count": 1375,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/xAr8BGZBww",
+        "username": "CherryWang2024",
+        "verified": true
+      }
+    ]
+  }
+}

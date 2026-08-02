@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040349231408672965",
+    "created_at": "2026-04-05T02:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040617484135588108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040617484135588108",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040603076521017402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd 用筋膜枪打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040349231408672965",
+        "created_at": "2026-04-05T02:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040617484135588108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040617484135588108",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040603076521017402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd 用筋膜枪打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "2040349231408672965",
+        "created_at": "2026-04-05T01:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040603076521017402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040603076521017402",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040602809289367681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 但是一有感觉就浑身没力气继续不下去😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 1101,
+          "like_count": 2039,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2047
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998618563142447104/xdsmEU8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 120,
+          "like_count": 5016,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 6545
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      }
+    ]
+  }
+}

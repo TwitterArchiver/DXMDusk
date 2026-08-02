@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025201824484171776"
+      ],
+      "media_source_tweet_id": [
+        "2025201827575464332"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2025448683962335656",
+    "created_at": "2026-02-22T05:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025448683962335656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506521082853216258",
+          "start": 3,
+          "username": "17891956wer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrUZlPirBg",
+          "end": 138,
+          "expanded_url": "https://x.com/17891956wer/status/2025201827575464332/photo/1",
+          "media_key": "3_2025201824484171776",
+          "start": 115,
+          "url": "https://t.co/jrUZlPirBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025448683962335656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025201827575464332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17891956wer: 这个世界到底怎么了，我身边所以人本来都很健康的，我们都是普普通通的孩子啊，为什么都od生大病，我们只是想好好的活着，就算过着普通是生活也好啊，看着身边的朋友一个一个的离去，内心的伤痛没有人能愈合 https://t.co/jrUZlPirBg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2025201824484171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr2VFLaIAAZbeL.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025201824484171776"
+          ],
+          "media_source_tweet_id": [
+            "2025201827575464332"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2025448683962335656",
+        "created_at": "2026-02-22T05:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025448683962335656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506521082853216258",
+              "start": 3,
+              "username": "17891956wer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrUZlPirBg",
+              "end": 138,
+              "expanded_url": "https://x.com/17891956wer/status/2025201827575464332/photo/1",
+              "media_key": "3_2025201824484171776",
+              "start": 115,
+              "url": "https://t.co/jrUZlPirBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025448683962335656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025201827575464332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17891956wer: 这个世界到底怎么了，我身边所以人本来都很健康的，我们都是普普通通的孩子啊，为什么都od生大病，我们只是想好好的活着，就算过着普通是生活也好啊，看着身边的朋友一个一个的离去，内心的伤痛没有人能愈合 https://t.co/jrUZlPirBg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025201824484171776"
+          ]
+        },
+        "author_id": "1506521082853216258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2025201827575464332",
+        "created_at": "2026-02-21T13:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025201827575464332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrUZlPirBg",
+              "end": 121,
+              "expanded_url": "https://x.com/17891956wer/status/2025201827575464332/photo/1",
+              "media_key": "3_2025201824484171776",
+              "start": 98,
+              "url": "https://t.co/jrUZlPirBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025201827575464332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界到底怎么了，我身边所以人本来都很健康的，我们都是普普通通的孩子啊，为什么都od生大病，我们只是想好好的活着，就算过着普通是生活也好啊，看着身边的朋友一个一个的离去，内心的伤痛没有人能愈合 https://t.co/jrUZlPirBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 196,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 485
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中（改被迫上学）/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫/mtx～\n欢迎互粉喵～\n（有时互of没看到的私信）\n匿名私信https://t.co/6s74CaEsDY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Mumu",
+                "end": 136,
+                "expanded_url": "https://miyu.link/Mumu",
+                "start": 113,
+                "url": "https://t.co/6s74CaEsDY"
+              }
+            ]
+          }
+        },
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "pinned_tweet_id": "2025353338393694611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 197,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 315
+        },
+        "username": "17891956wer",
+        "verified": false
+      }
+    ]
+  }
+}

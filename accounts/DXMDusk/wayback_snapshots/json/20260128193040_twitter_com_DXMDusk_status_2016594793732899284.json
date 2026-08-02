@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016550060402803073",
+    "created_at": "2026-01-28T19:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T20:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016594793732899284"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016594793732899284",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016588229978575257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "03:30，大脑胀胀的，身体全身有抽动的，操作设备会因为身体颤抖点错位置，现在眼睛不受控制的要闭合，\n我打开音乐，戴上耳机了。很舒服的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016550060402803073",
+        "created_at": "2026-01-28T19:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T20:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016594793732899284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016594793732899284",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016588229978575257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "03:30，大脑胀胀的，身体全身有抽动的，操作设备会因为身体颤抖点错位置，现在眼睛不受控制的要闭合，\n我打开音乐，戴上耳机了。很舒服的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016550060402803073",
+        "created_at": "2026-01-28T19:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T20:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016588229978575257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016588229978575257",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016572460255367591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3:00，能正常看电视，脑袋胀胀的，有点晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 84,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 83
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

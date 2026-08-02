@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029546145106604535",
+    "created_at": "2026-03-06T12:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029899385904193868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1505418581336502273",
+          "start": 0,
+          "username": "AsiaHohlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029899385904193868",
+    "in_reply_to_user_id": "1505418581336502273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029546145106604535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsiaHohlt 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029546145106604535",
+        "created_at": "2026-03-06T12:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029899385904193868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1505418581336502273",
+              "start": 0,
+              "username": "AsiaHohlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029899385904193868",
+        "in_reply_to_user_id": "1505418581336502273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029546145106604535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsiaHohlt 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505418581336502273",
+        "conversation_id": "2029546145106604535",
+        "created_at": "2026-03-05T13:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029546145106604535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029546145106604535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5293,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 109,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开蓝V到现在，三个月。我想把蓝朋友交够一万个，诚信交蓝V朋友。\n刷到我就主动关注我，我会一一回关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 424,
+          "like_count": 482,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 720
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-20T05:39:01.000Z",
+        "description": "Web3 &加密日常分享| DeFi/NFT/链上讨论|欢迎观点碰撞 DYOR & NFA Gate实盘20倍 3年交易员 主页链接星火社区tg 交易策略 空投",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+fFFc7BaH9k8yN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+fFFc7BaH9k8yNjU1",
+                "start": 0,
+                "url": "https://t.co/vgj1y6AlHY"
+              }
+            ]
+          }
+        },
+        "id": "1505418581336502273",
+        "location": "hongkong",
+        "name": "Crtypo believer",
+        "pinned_tweet_id": "2026589182651482447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000253793582112771/hl5tZi23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1608,
+          "like_count": 649,
+          "listed_count": 5,
+          "media_count": 107,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/vgj1y6AlHY",
+        "username": "AsiaHohlt",
+        "verified": true
+      }
+    ]
+  }
+}

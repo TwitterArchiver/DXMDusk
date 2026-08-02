@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025607289408049152"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025847848848241097",
+    "created_at": "2026-02-23T08:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025847848848241097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gwv91bLXAA",
+          "end": 45,
+          "expanded_url": "https://x.com/DXMDusk/status/2025847848848241097/photo/1",
+          "media_key": "3_2025607289408049152",
+          "start": 22,
+          "url": "https://t.co/Gwv91bLXAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025847848848241097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坚定不移的在毛泽东思想的指引下进行HRT（ https://t.co/Gwv91bLXAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2025607289408049152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxnGPub0AATGzj.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025607289408049152"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025847848848241097",
+        "created_at": "2026-02-23T08:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025847848848241097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gwv91bLXAA",
+              "end": 45,
+              "expanded_url": "https://x.com/DXMDusk/status/2025847848848241097/photo/1",
+              "media_key": "3_2025607289408049152",
+              "start": 22,
+              "url": "https://t.co/Gwv91bLXAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025847848848241097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坚定不移的在毛泽东思想的指引下进行HRT（ https://t.co/Gwv91bLXAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 216,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 544
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

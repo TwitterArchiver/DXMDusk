@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023033353331761281",
+    "created_at": "2026-02-15T13:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023033353331761281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023033353331761281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闲在x没事做？ 不如跟我一起做复读机，复制这段话再发出去，每天收入0元，我和身边的朋友都在做，反正闲着也是闲着。吃饱了也是撑着，不如挨顿骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023033353331761281",
+        "created_at": "2026-02-15T13:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023033353331761281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023033353331761281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲在x没事做？ 不如跟我一起做复读机，复制这段话再发出去，每天收入0元，我和身边的朋友都在做，反正闲着也是闲着。吃饱了也是撑着，不如挨顿骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 149,
+          "like_count": 88,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 273
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

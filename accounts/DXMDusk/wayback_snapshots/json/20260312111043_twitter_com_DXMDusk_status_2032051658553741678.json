@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031771894526181583",
+    "created_at": "2026-03-12T11:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032051658553741678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1516813764258983946",
+          "start": 0,
+          "username": "A0szqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032051658553741678",
+    "in_reply_to_user_id": "1516813764258983946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031771894526181583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0szqn 来一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031771894526181583",
+        "created_at": "2026-03-12T11:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032051658553741678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1516813764258983946",
+              "start": 0,
+              "username": "A0szqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032051658553741678",
+        "in_reply_to_user_id": "1516813764258983946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031771894526181583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0szqn 来一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516813764258983946",
+        "conversation_id": "2031771894526181583",
+        "created_at": "2026-03-11T16:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031771894526181583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031771894526181583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "善待偷偷取关者行吗？\n      开启蓝标模式已经有15天了，现在感觉就像过山车一样，由原来的每篇小作文有几个人看到后来的1000多人看，挺兴奋的，关注者也有几个变成500个甚至一千多，都在我内心深处留下了一些美好记忆，啊原来有人和我一样喜欢X平台上谈天说地啊，再然后就是烦恼了，一些人开始私聊你了，整天的私聊其实我们大家都知道是什么意思，再就是有些人几十个的过来关注你，然后又几十个的离去，他弄的你很沮丧，他关注你（因为我当初说的是互关）你就不得不关注他，一个一个的加很费劲的，然后他走了留下一地鸡毛给你，想一想很生气的，刚才咨询专家，然后经过专家的辅导现在释怀了，你来我不烦你走我不想，我们天各一方吧，最后说一下我是一个普通打工人，我不私聊没时间，有事在我帖子上留言我万分感激，什么要求只要我能做到的就可以，私聊就是白费力气我不会回答你的任何问题，谢谢大家。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1287,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "善待偷偷取关者行吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 822,
+          "like_count": 1236,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1289
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T16:19:54.000Z",
+        "description": "卡车司机",
+        "id": "1516813764258983946",
+        "name": "A挂车哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670620125677092864/5VVxGPW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1850,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 849
+        },
+        "username": "A0szqn",
+        "verified": true
+      }
+    ]
+  }
+}

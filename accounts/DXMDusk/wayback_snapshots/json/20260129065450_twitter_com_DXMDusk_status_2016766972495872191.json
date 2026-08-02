@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016766972495872191",
+    "created_at": "2026-01-29T06:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016766972495872191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GFWfrog/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/GFWfrog/status/2016472298627240333",
+          "start": 20,
+          "url": "https://t.co/Hzt3Oiu8Qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016766972495872191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016472298627240333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老天啊，收了这个孽畜牢A吧，我受不了了 https://t.co/Hzt3Oiu8Qq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_2016472069664366592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vyqePXYAAKtLK.jpg",
+        "width": 540
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2016472073774792704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vyqtjXgAAzbUx.jpg",
+        "width": 540
+      },
+      {
+        "height": 1475,
+        "media_key": "3_2016472069261672449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vyqcvWwAEqzmR.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016766972495872191",
+        "created_at": "2026-01-29T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016766972495872191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2016472298627240333",
+              "start": 20,
+              "url": "https://t.co/Hzt3Oiu8Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016766972495872191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016472298627240333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老天啊，收了这个孽畜牢A吧，我受不了了 https://t.co/Hzt3Oiu8Qq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016472069664366592",
+            "3_2016472073774792704",
+            "3_2016472069261672449"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2016472298627240333",
+        "created_at": "2026-01-28T11:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:23:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016472076400427497",
+          "2016472298627240333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "糖霜苹果"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "牢a"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "尸油香水"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8V6gFE0EEq",
+              "end": 62,
+              "expanded_url": "https://x.com/GFWfrog/status/2016472298627240333/photo/1",
+              "media_key": "3_2016472069664366592",
+              "start": 39,
+              "url": "https://t.co/8V6gFE0EEq"
+            },
+            {
+              "display_url": "pic.x.com/8V6gFE0EEq",
+              "end": 62,
+              "expanded_url": "https://x.com/GFWfrog/status/2016472298627240333/photo/1",
+              "media_key": "3_2016472073774792704",
+              "start": 39,
+              "url": "https://t.co/8V6gFE0EEq"
+            },
+            {
+              "display_url": "pic.x.com/8V6gFE0EEq",
+              "end": 62,
+              "expanded_url": "https://x.com/GFWfrog/status/2016472298627240333/photo/1",
+              "media_key": "3_2016472069261672449",
+              "start": 39,
+              "url": "https://t.co/8V6gFE0EEq"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2016396651909316981",
+              "start": 63,
+              "url": "https://t.co/Dbhi10EYWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016472298627240333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 425886,
+          "like_count": 755,
+          "quote_count": 27,
+          "reply_count": 168,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016396651909316981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继 #糖霜苹果 后， #牢a 宇宙又一全新发明：\n\n#尸油香水 😅😅😅😅😅😅 https://t.co/8V6gFE0EEq https://t.co/Dbhi10EYWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 90,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 92
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/RDqRjAemGp 150岁爷习近平粉丝群：https://t.co/tzbqdA1pKg\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 #大冲塔运动 #大传单运动 全中国🇨🇳 #遍地开花 进行中…\n🐸邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "大传单运动"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "遍地开花"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/laohuhaha_bot",
+                "end": 33,
+                "expanded_url": "http://t.me/laohuhaha_bot",
+                "start": 10,
+                "url": "https://t.co/RDqRjAemGp"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 69,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 46,
+                "url": "https://t.co/tzbqdA1pKg"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 96,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 73,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2016323302780789080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261475,
+          "following_count": 2469,
+          "like_count": 121675,
+          "listed_count": 891,
+          "media_count": 6775,
+          "tweet_count": 12994
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031619507865924054",
+    "created_at": "2026-03-12T05:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031967164736159917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770798751524720640",
+          "start": 0,
+          "username": "ri_fumo"
+        },
+        {
+          "end": 21,
+          "id": "1845674780416208897",
+          "start": 9,
+          "username": "Sakura_llyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031967164736159917",
+    "in_reply_to_user_id": "1770798751524720640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031938335506305334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri_fumo @Sakura_llyo 我是高雌，不用抗雄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031619507865924054",
+        "created_at": "2026-03-12T05:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031967164736159917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770798751524720640",
+              "start": 0,
+              "username": "ri_fumo"
+            },
+            {
+              "end": 21,
+              "id": "1845674780416208897",
+              "start": 9,
+              "username": "Sakura_llyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031967164736159917",
+        "in_reply_to_user_id": "1770798751524720640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031938335506305334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri_fumo @Sakura_llyo 我是高雌，不用抗雄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770798751524720640",
+        "conversation_id": "2031619507865924054",
+        "created_at": "2026-03-12T03:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031938335506305334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 21,
+              "id": "1845674780416208897",
+              "start": 9,
+              "username": "Sakura_llyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031938335506305334",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031634040978325710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @Sakura_llyo 用*孕酮抗雄的话再加个泌乳素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 802,
+          "like_count": 1168,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1256
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-21T13:05:04.000Z",
+        "description": "ᗜ_ᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜˬᗜ ᗜωᗜ ᗜˬᗜ ᗜ‸ᗜ ᗜᴗᗜ ᗜˬᗜ\n废物\nふも 🥵🤤 ふも 🥵🤤\nふも好吃 🤤 可食用ふも好 🤤",
+        "id": "1770798751524720640",
+        "location": "幻想ふも鄉，魔法森林，霧雨魔法ふも店，D9221A6B",
+        "name": "ri☆fumo ᗜˬᗜ? 🌠",
+        "pinned_tweet_id": "1838279324618887376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830094266841899008/egZFquzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 168,
+          "like_count": 13016,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 5272
+        },
+        "username": "ri_fumo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年mtx偏mtf｜174cm52kg｜喜欢🇯🇵🇹🇼🇰🇷｜右上角比特幣投喂處｜🍥hrt2024.10-today",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "小林家",
+        "name": "鈴悠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028105670059565056/B0mvm27X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 538,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "Sakura_llyo",
+        "verified": false
+      }
+    ]
+  }
+}

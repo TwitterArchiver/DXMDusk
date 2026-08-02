@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033160062928310348",
+    "created_at": "2026-03-15T15:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033205663724368187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883421457528832000",
+          "start": 0,
+          "username": "Elena9947961379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033205663724368187",
+    "in_reply_to_user_id": "1883421457528832000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033204946481610760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elena9947961379 是这样的，我也差不多，每天吃药，结果也就一般般，转抑就会睡不够，转躁就睡不着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033160062928310348",
+        "created_at": "2026-03-15T15:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033205663724368187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883421457528832000",
+              "start": 0,
+              "username": "Elena9947961379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033205663724368187",
+        "in_reply_to_user_id": "1883421457528832000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033204946481610760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elena9947961379 是这样的，我也差不多，每天吃药，结果也就一般般，转抑就会睡不够，转躁就睡不着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883421457528832000",
+        "conversation_id": "2033160062928310348",
+        "created_at": "2026-03-15T15:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033204946481610760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033204946481610760",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033160062928310348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 当时怕没公司要硬顶着上完学，结果毕业后没上多久班，到现在躺了三年了（悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 989,
+          "like_count": 1670,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1506
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-26T07:47:32.000Z",
+        "description": "喵\nINTJ 无性恋 双向 分享碎碎念",
+        "id": "1883421457528832000",
+        "name": "Elena",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Elena9947961379",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040356554642526430",
+    "created_at": "2026-04-04T09:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040356554642526430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2040349231408672965",
+          "start": 32,
+          "url": "https://t.co/zVcIGNyLq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040356554642526430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040349231408672965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用筋膜枪试了，半个多小时，只有一点前列腺液流出来，冲不要一点😋 https://t.co/zVcIGNyLq9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040356554642526430",
+        "created_at": "2026-04-04T09:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040356554642526430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2040349231408672965",
+              "start": 32,
+              "url": "https://t.co/zVcIGNyLq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040356554642526430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040349231408672965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用筋膜枪试了，半个多小时，只有一点前列腺液流出来，冲不要一点😋 https://t.co/zVcIGNyLq9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040349231408672965",
+        "created_at": "2026-04-04T08:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040349231408672965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+              "start": 31,
+              "url": "https://t.co/SUxwlDae5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040349231408672965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会，夹腿，蹭腿，压床，但不会手冲，而且吃糖太久了，冲不出一点 https://t.co/SUxwlDae5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 1102,
+          "like_count": 2012,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 2007
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

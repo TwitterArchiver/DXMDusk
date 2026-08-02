@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031342587106267327",
+    "created_at": "2026-03-10T23:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T00:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031515343064387593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1663443434420707328",
+          "start": 0,
+          "username": "enlighss"
+        },
+        {
+          "end": 25,
+          "id": "1516975944484990977",
+          "start": 10,
+          "username": "SuisPasDaVinci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031515343064387593",
+    "in_reply_to_user_id": "1663443434420707328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031344167201419286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enlighss @SuisPasDaVinci 来一起互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031342587106267327",
+        "created_at": "2026-03-10T23:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031515343064387593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663443434420707328",
+              "start": 0,
+              "username": "enlighss"
+            },
+            {
+              "end": 25,
+              "id": "1516975944484990977",
+              "start": 10,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031515343064387593",
+        "in_reply_to_user_id": "1663443434420707328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031344167201419286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enlighss @SuisPasDaVinci 来一起互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663443434420707328",
+        "conversation_id": "2031342587106267327",
+        "created_at": "2026-03-10T12:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031344167201419286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031344167201419286",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们总以为自己在 “冲浪”，实则是算法在 “圈养”。很多人困在 X 的推圈、币圈里，不是平台没广度，是自己主动关上了门。参考用户行为数据，超 70% 的社交平台用户，会因 “观点舒适区” 主动屏蔽异质内容，最终让首页变成 “回音壁”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2042,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031342587106267327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 我们总以为自己在 “冲浪”，实则是算法在 “圈养”。很多人困在 X 的推圈、币圈里，不是平台没广度，是自己主动关上了门。参考用户行为数据，超 70% 的社交平台用户，会因 “观点舒适区” 主动屏蔽异质内容，最终让首页变成 “回音壁”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 698,
+          "like_count": 759,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1050
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-30T07:13:31.000Z",
+        "description": "置身信息洪流，愿做一只腹有学识、胸有格局、心有深度、行有执行力的小蚂蚁。",
+        "id": "1663443434420707328",
+        "name": "拾光遇趣",
+        "pinned_tweet_id": "2029887497669583104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018914415903703040/d-6ByiGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 2652,
+          "like_count": 4656,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 4299
+        },
+        "username": "enlighss",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "中年老登在🇨🇦苦撑\n\n跨界思考的万事屋",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6517,
+          "following_count": 1399,
+          "like_count": 30811,
+          "listed_count": 17,
+          "media_count": 1016,
+          "tweet_count": 13888
+        },
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033087556338987207",
+    "created_at": "2026-03-15T13:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033168329972789263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1604313808096202752",
+          "start": 0,
+          "username": "tdfhi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033168329972789263",
+    "in_reply_to_user_id": "1604313808096202752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033167653389648322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tdfhi8 每天都要吃药，几年了也没办法工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033087556338987207",
+        "created_at": "2026-03-15T13:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033168329972789263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604313808096202752",
+              "start": 0,
+              "username": "tdfhi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033168329972789263",
+        "in_reply_to_user_id": "1604313808096202752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033167653389648322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdfhi8 每天都要吃药，几年了也没办法工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604313808096202752",
+        "conversation_id": "2033087556338987207",
+        "created_at": "2026-03-15T13:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033167653389648322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033167653389648322",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033087556338987207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 抑郁了还搞的动什么，天天怀疑人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 984,
+          "like_count": 1635,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 1485
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-18T03:13:21.000Z",
+        "description": "。",
+        "id": "1604313808096202752",
+        "location": "海南",
+        "name": "述影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929216346065432576/O26W5Svg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 550,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 474
+        },
+        "username": "tdfhi8",
+        "verified": false
+      }
+    ]
+  }
+}

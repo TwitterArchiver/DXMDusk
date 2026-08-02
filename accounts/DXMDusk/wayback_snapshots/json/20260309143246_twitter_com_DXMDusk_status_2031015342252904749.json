@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030920598717952078",
+    "created_at": "2026-03-09T14:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031015342252904749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031015342252904749",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031011738938966115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 每7天刷新49片sns，如果想要更多，也可以和医生沟通一下，这还只是这两个医院能开到的，而这两个医院我也相对比较熟，\n如果愿意的话，还有别的医院可以开，但我没去过，只知道能开出来药，不知道具体情况怎么样，\n只能说小城市的医院都没联网，所以每个医院都可以去尝试尝试，说不定那个医院就有呢，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030920598717952078",
+        "created_at": "2026-03-09T14:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031015342252904749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031015342252904749",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031011738938966115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 每7天刷新49片sns，如果想要更多，也可以和医生沟通一下，这还只是这两个医院能开到的，而这两个医院我也相对比较熟，\n如果愿意的话，还有别的医院可以开，但我没去过，只知道能开出来药，不知道具体情况怎么样，\n只能说小城市的医院都没联网，所以每个医院都可以去尝试尝试，说不定那个医院就有呢，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2030920598717952078",
+        "created_at": "2026-03-09T14:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031011738938966115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031011738938966115",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031010897989337306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 我靠每次能开49t吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 634,
+          "like_count": 645,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 964
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo会回-没品b我也回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 1977,
+          "like_count": 7507,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 6459
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

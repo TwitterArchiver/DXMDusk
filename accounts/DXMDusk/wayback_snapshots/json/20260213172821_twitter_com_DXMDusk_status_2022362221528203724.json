@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022362183213228032",
+        "3_2022362182890254337",
+        "3_2022362183058026496",
+        "3_2022362183125098496"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2022361432650874909",
+    "created_at": "2026-02-13T17:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022362221528203724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KuJwEEGKal",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+          "media_key": "3_2022362183213228032",
+          "start": 28,
+          "url": "https://t.co/KuJwEEGKal"
+        },
+        {
+          "display_url": "pic.x.com/KuJwEEGKal",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+          "media_key": "3_2022362182890254337",
+          "start": 28,
+          "url": "https://t.co/KuJwEEGKal"
+        },
+        {
+          "display_url": "pic.x.com/KuJwEEGKal",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+          "media_key": "3_2022362183058026496",
+          "start": 28,
+          "url": "https://t.co/KuJwEEGKal"
+        },
+        {
+          "display_url": "pic.x.com/KuJwEEGKal",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+          "media_key": "3_2022362183125098496",
+          "start": 28,
+          "url": "https://t.co/KuJwEEGKal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022362221528203724",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022361826588266897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自行去势手术（切除睾丸）记录，全过程分析总结，9-12 https://t.co/KuJwEEGKal"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022362183213228032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfsNGboAAxZwa.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022362182890254337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfsL5bcAEH3Ah.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022362183058026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfsMhbcAAj1A9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022362183125098496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfsMxa4AA8rmX.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022361815725019140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfW0GakAQkAux.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022361816123527168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfW1lbUAAXvEw.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022361815892865024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfW0ubsAAbB-K.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022361815993495552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDfW1GbMAARbw8.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022362183213228032",
+            "3_2022362182890254337",
+            "3_2022362183058026496",
+            "3_2022362183125098496"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022361432650874909",
+        "created_at": "2026-02-13T17:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022362221528203724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuJwEEGKal",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+              "media_key": "3_2022362183213228032",
+              "start": 28,
+              "url": "https://t.co/KuJwEEGKal"
+            },
+            {
+              "display_url": "pic.x.com/KuJwEEGKal",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+              "media_key": "3_2022362182890254337",
+              "start": 28,
+              "url": "https://t.co/KuJwEEGKal"
+            },
+            {
+              "display_url": "pic.x.com/KuJwEEGKal",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+              "media_key": "3_2022362183058026496",
+              "start": 28,
+              "url": "https://t.co/KuJwEEGKal"
+            },
+            {
+              "display_url": "pic.x.com/KuJwEEGKal",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022362221528203724/photo/1",
+              "media_key": "3_2022362183125098496",
+              "start": 28,
+              "url": "https://t.co/KuJwEEGKal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022362221528203724",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022361826588266897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自行去势手术（切除睾丸）记录，全过程分析总结，9-12 https://t.co/KuJwEEGKal"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022361815725019140",
+            "3_2022361816123527168",
+            "3_2022361815892865024",
+            "3_2022361815993495552"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2022361432650874909",
+        "created_at": "2026-02-13T17:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022361826588266897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3i1m1uDHC",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022361826588266897/photo/1",
+              "media_key": "3_2022361815725019140",
+              "start": 28,
+              "url": "https://t.co/N3i1m1uDHC"
+            },
+            {
+              "display_url": "pic.x.com/N3i1m1uDHC",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022361826588266897/photo/1",
+              "media_key": "3_2022361816123527168",
+              "start": 28,
+              "url": "https://t.co/N3i1m1uDHC"
+            },
+            {
+              "display_url": "pic.x.com/N3i1m1uDHC",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022361826588266897/photo/1",
+              "media_key": "3_2022361815892865024",
+              "start": 28,
+              "url": "https://t.co/N3i1m1uDHC"
+            },
+            {
+              "display_url": "pic.x.com/N3i1m1uDHC",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2022361826588266897/photo/1",
+              "media_key": "3_2022361815993495552",
+              "start": 28,
+              "url": "https://t.co/N3i1m1uDHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022361826588266897",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022361432650874909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自行去势手术（切除睾丸）记录，全过程分析总结，5-8， https://t.co/N3i1m1uDHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 147,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 260
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

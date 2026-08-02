@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033786801069150359",
+    "created_at": "2026-03-17T13:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033902557681357235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013892455503142915",
+          "start": 0,
+          "username": "_with_tomato"
+        },
+        {
+          "end": 21,
+          "id": "1613079089879076864",
+          "start": 14,
+          "username": "Cldeop"
+        },
+        {
+          "end": 29,
+          "id": "1900168705847500800",
+          "start": 22,
+          "username": "wxb_NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033902557681357235",
+    "in_reply_to_user_id": "2013892455503142915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033786801069150359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_with_tomato @Cldeop @wxb_NB 我这里物资齐全，你什么时候翻一个☝️，有需要联系我～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033786801069150359",
+        "created_at": "2026-03-17T13:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033902557681357235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013892455503142915",
+              "start": 0,
+              "username": "_with_tomato"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            },
+            {
+              "end": 29,
+              "id": "1900168705847500800",
+              "start": 22,
+              "username": "wxb_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033902557681357235",
+        "in_reply_to_user_id": "2013892455503142915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033786801069150359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_with_tomato @Cldeop @wxb_NB 我这里物资齐全，你什么时候翻一个☝️，有需要联系我～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013892455503142915",
+        "conversation_id": "2033786801069150359",
+        "created_at": "2026-03-17T06:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033786801069150359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1613079089879076864",
+              "start": 11,
+              "username": "Cldeop"
+            },
+            {
+              "end": 29,
+              "id": "1900168705847500800",
+              "start": 22,
+              "username": "wxb_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033786801069150359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1723,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "番茄2026预言\n云鸠@cldeop和小草莓@wxb_NB 年内必翻车起码一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1026,
+          "like_count": 1778,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 1606
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T08:32:43.000Z",
+        "description": "会直接block鉴证的/个人推不严肃/随机性发布评论a股美股币圈lgbt➕日常生活涩涩推/帖子内容和回复内容均为自己在床上边打飞机边想出来的文案，请有自己的判断不要上纲上线/比较脆弱怼我的时候请尽量不用脏话谢谢",
+        "id": "2013892455503142915",
+        "name": "番茄与全球资本大战然后全球资本毫发无伤番茄躺在地上呜呜呜呜😭",
+        "pinned_tweet_id": "2023823951483596911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028813632818278400/z3804bcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 494,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 872
+        },
+        "username": "_with_tomato",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2027908377758863690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101640,
+          "following_count": 734,
+          "like_count": 35247,
+          "listed_count": 290,
+          "media_count": 16772,
+          "tweet_count": 24117
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 439,
+          "like_count": 5761,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

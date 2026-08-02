@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040110834165391360"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2040373310903775296",
+    "created_at": "2026-04-04T10:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040373310903775296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LWsq0435uI",
+          "end": 83,
+          "expanded_url": "https://x.com/DXMDusk/status/2040373310903775296/photo/1",
+          "media_key": "3_2040110834165391360",
+          "start": 60,
+          "url": "https://t.co/LWsq0435uI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040373310903775296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严重精神障碍上报流程中需要签署的知情同意书\n\n卫生健康委关于印发严重精神障碍管理治疗\n\n工作规范（2018年版）的通知 https://t.co/LWsq0435uI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2040110834165391360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_t_qTaoAAtwoP.png",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040110834165391360"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2040373310903775296",
+        "created_at": "2026-04-04T10:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040373310903775296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWsq0435uI",
+              "end": 83,
+              "expanded_url": "https://x.com/DXMDusk/status/2040373310903775296/photo/1",
+              "media_key": "3_2040110834165391360",
+              "start": 60,
+              "url": "https://t.co/LWsq0435uI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040373310903775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严重精神障碍上报流程中需要签署的知情同意书\n\n卫生健康委关于印发严重精神障碍管理治疗\n\n工作规范（2018年版）的通知 https://t.co/LWsq0435uI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1100,
+          "like_count": 2021,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 2011
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

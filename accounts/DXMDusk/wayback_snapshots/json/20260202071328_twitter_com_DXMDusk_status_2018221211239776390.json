@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018221205522935808"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2018221211239776390",
+    "created_at": "2026-02-02T07:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T08:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018221211239776390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cj0PFpma1S",
+          "end": 35,
+          "expanded_url": "https://x.com/DXMDusk/status/2018221211239776390/photo/1",
+          "media_key": "3_2018221205522935808",
+          "start": 12,
+          "url": "https://t.co/cj0PFpma1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018221211239776390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "排队一小时，开药一分钟 https://t.co/cj0PFpma1S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018221205522935808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIpflFa8AAaMO1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018221205522935808"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2018221211239776390",
+        "created_at": "2026-02-02T07:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T08:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018221211239776390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cj0PFpma1S",
+              "end": 35,
+              "expanded_url": "https://x.com/DXMDusk/status/2018221211239776390/photo/1",
+              "media_key": "3_2018221205522935808",
+              "start": 12,
+              "url": "https://t.co/cj0PFpma1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018221211239776390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排队一小时，开药一分钟 https://t.co/cj0PFpma1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 135,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 202
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

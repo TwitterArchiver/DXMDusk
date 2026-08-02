@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030177572227797405",
+    "created_at": "2026-03-07T15:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030307521391669702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "171802603",
+          "start": 0,
+          "username": "JMLSF2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030307521391669702",
+    "in_reply_to_user_id": "171802603",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030177572227797405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JMLSF2002 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030177572227797405",
+        "created_at": "2026-03-07T15:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030307521391669702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "171802603",
+              "start": 0,
+              "username": "JMLSF2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030307521391669702",
+        "in_reply_to_user_id": "171802603",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030177572227797405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMLSF2002 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "171802603",
+        "conversation_id": "2030177572227797405",
+        "created_at": "2026-03-07T07:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030177572227797405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030177572227797405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关，一起成长，向1万关注冲刺啊啊啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 519,
+          "like_count": 520,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 798
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-28T05:46:45.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/YNqF2rU5aM 预测市场最快的跟单平台PolyCop：https://t.co/ZJbmmbfZYi 加入我的PolyMarket电报群：https://t.co/09zXdVMzzG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?via=YINGGE…",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?via=YINGGE888",
+                "start": 17,
+                "url": "https://t.co/YNqF2rU5aM"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/ZJbmmbfZYi"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/09zXdVMzzG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/ok168",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/ok168",
+                "start": 0,
+                "url": "https://t.co/X1dMK3zSjA"
+              }
+            ]
+          }
+        },
+        "id": "171802603",
+        "location": "币圈你需要的全部工具👉",
+        "name": "加密老师傅",
+        "pinned_tweet_id": "2030103890562355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942127501846687744/qcW3YxLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 3456,
+          "like_count": 8711,
+          "listed_count": 4,
+          "media_count": 12298,
+          "tweet_count": 35490
+        },
+        "url": "https://t.co/X1dMK3zSjA",
+        "username": "JMLSF2002",
+        "verified": true
+      }
+    ]
+  }
+}

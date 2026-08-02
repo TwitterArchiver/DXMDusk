@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2041177717287342137",
+    "created_at": "2026-04-06T15:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041177717287342137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BI3BXI/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/BI3BXI/status/2041169065360978244",
+          "start": 15,
+          "url": "https://t.co/xp1yzYFFWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041177717287342137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041169065360978244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等我买个保险，异世界！我来了 https://t.co/xp1yzYFFWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2040976078949478400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMA7iTacAAw-78.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2041177717287342137",
+        "created_at": "2026-04-06T15:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041177717287342137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BI3BXI/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/BI3BXI/status/2041169065360978244",
+              "start": 15,
+              "url": "https://t.co/xp1yzYFFWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041177717287342137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041169065360978244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等我买个保险，异世界！我来了 https://t.co/xp1yzYFFWt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040976078949478400"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2041169065360978244",
+        "created_at": "2026-04-06T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041169065360978244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Umv91KINuU",
+              "end": 27,
+              "expanded_url": "https://x.com/BI3BXI/status/2041169065360978244/photo/1",
+              "media_key": "3_2040976078949478400",
+              "start": 4,
+              "url": "https://t.co/Umv91KINuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041169065360978244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排队！ https://t.co/Umv91KINuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1101,
+          "like_count": 2063,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 2111
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Premium+用户｜Enby🏳️‍⚧️｜❤️@Show5560｜杂鱼@Lingjiaxin233｜日常在@yqua_｜Sister @Tennoujinyano｜Work for @snowfairy011026｜小说见文章栏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Show5560"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 59,
+                "start": 53,
+                "username": "yqua_"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "snowfairy011026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 3919,
+          "like_count": 39148,
+          "listed_count": 21,
+          "media_count": 2410,
+          "tweet_count": 9438
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

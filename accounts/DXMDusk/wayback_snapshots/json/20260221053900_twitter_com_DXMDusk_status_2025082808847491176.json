@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025082808847491176",
+    "created_at": "2026-02-21T05:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025082808847491176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/2024713458789584967",
+          "start": 26,
+          "url": "https://t.co/K6gzsSmwLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025082808847491176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024713458789584967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜，脱跨入顺，而且人们也忘记你曾经所做过的恶了， https://t.co/K6gzsSmwLP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024713452993073155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBk6KHmbUAMtWiR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025082808847491176",
+        "created_at": "2026-02-21T05:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025082808847491176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2024713458789584967",
+              "start": 26,
+              "url": "https://t.co/K6gzsSmwLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025082808847491176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024713458789584967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜，脱跨入顺，而且人们也忘记你曾经所做过的恶了， https://t.co/K6gzsSmwLP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024713452993073155"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2024713458789584967",
+        "created_at": "2026-02-20T05:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024713458789584967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHJG51eJYo",
+              "end": 59,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2024713458789584967/photo/1",
+              "media_key": "3_2024713452993073155",
+              "start": 36,
+              "url": "https://t.co/uHJG51eJYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024713458789584967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 928427,
+          "like_count": 1126,
+          "quote_count": 9,
+          "reply_count": 192,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "不出意外，将无限期淡推淡圈\n最后，感谢大家的陪伴以及5200fo纪念~ https://t.co/uHJG51eJYo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 181,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 433
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "家长党"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "MTF"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "HRT"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "Les"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "双相"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "ADHD"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "持证残疾人"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5652,
+          "following_count": 1457,
+          "like_count": 19718,
+          "listed_count": 25,
+          "media_count": 308,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

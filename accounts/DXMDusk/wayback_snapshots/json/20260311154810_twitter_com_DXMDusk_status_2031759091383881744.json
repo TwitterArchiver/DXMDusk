@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031756088454832469",
+    "created_at": "2026-03-11T15:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031759091383881744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031759091383881744",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031756088454832469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 避 我 锋 芒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2031756078212354048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDI_Y3AWkAAZIP7.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031756088454832469",
+        "created_at": "2026-03-11T15:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031759091383881744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031759091383881744",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031756088454832469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 避 我 锋 芒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031756078212354048"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2031756088454832469",
+        "created_at": "2026-03-11T15:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:35:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031755975770714300",
+          "2031756088454832469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QwGMtNULi",
+              "end": 31,
+              "expanded_url": "https://x.com/Goldwater8964/status/2031756088454832469/photo/1",
+              "media_key": "3_2031756078212354048",
+              "start": 8,
+              "url": "https://t.co/9QwGMtNULi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031756088454832469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王 不 见 王 https://t.co/9QwGMtNULi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 773,
+          "like_count": 1024,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 1220
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 全网最自由的space—上麦判断认知学历 绝对的右派分子 🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2029126357465350502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 625,
+          "like_count": 3499,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 653
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

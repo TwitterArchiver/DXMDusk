@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016500472648192000",
+        "3_2016500472644038657",
+        "3_2016500472941858816",
+        "3_2016500473319313408"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2016500305006121443",
+    "created_at": "2026-01-28T13:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T14:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016500484681744689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/na2m6gm9CY",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+          "media_key": "3_2016500472648192000",
+          "start": 0,
+          "url": "https://t.co/na2m6gm9CY"
+        },
+        {
+          "display_url": "pic.x.com/na2m6gm9CY",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+          "media_key": "3_2016500472644038657",
+          "start": 0,
+          "url": "https://t.co/na2m6gm9CY"
+        },
+        {
+          "display_url": "pic.x.com/na2m6gm9CY",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+          "media_key": "3_2016500472941858816",
+          "start": 0,
+          "url": "https://t.co/na2m6gm9CY"
+        },
+        {
+          "display_url": "pic.x.com/na2m6gm9CY",
+          "end": 23,
+          "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+          "media_key": "3_2016500473319313408",
+          "start": 0,
+          "url": "https://t.co/na2m6gm9CY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016500484681744689",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016500305006121443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/na2m6gm9CY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_2016500472648192000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMfvmaUAABLiI.jpg",
+        "width": 568
+      },
+      {
+        "height": 1761,
+        "media_key": "3_2016500472644038657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMfvla8AENGI8.jpg",
+        "width": 568
+      },
+      {
+        "height": 1577,
+        "media_key": "3_2016500472941858816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMfwsbUAAZ_Oc.jpg",
+        "width": 568
+      },
+      {
+        "height": 1965,
+        "media_key": "3_2016500473319313408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMfyGa0AA2SvR.jpg",
+        "width": 568
+      },
+      {
+        "height": 1407,
+        "media_key": "3_2016500292641284096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMVRBa4AAG-Um.jpg",
+        "width": 568
+      },
+      {
+        "height": 1574,
+        "media_key": "3_2016500292641325057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMVRBbgAE4e-S.jpg",
+        "width": 568
+      },
+      {
+        "height": 1675,
+        "media_key": "3_2016500292792233984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMVRlaMAA22un.jpg",
+        "width": 568
+      },
+      {
+        "height": 1481,
+        "media_key": "3_2016500292700065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wMVRPb0AAchaH.jpg",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016500472648192000",
+            "3_2016500472644038657",
+            "3_2016500472941858816",
+            "3_2016500473319313408"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016500305006121443",
+        "created_at": "2026-01-28T13:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016500484681744689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/na2m6gm9CY",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+              "media_key": "3_2016500472648192000",
+              "start": 0,
+              "url": "https://t.co/na2m6gm9CY"
+            },
+            {
+              "display_url": "pic.x.com/na2m6gm9CY",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+              "media_key": "3_2016500472644038657",
+              "start": 0,
+              "url": "https://t.co/na2m6gm9CY"
+            },
+            {
+              "display_url": "pic.x.com/na2m6gm9CY",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+              "media_key": "3_2016500472941858816",
+              "start": 0,
+              "url": "https://t.co/na2m6gm9CY"
+            },
+            {
+              "display_url": "pic.x.com/na2m6gm9CY",
+              "end": 23,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500484681744689/photo/1",
+              "media_key": "3_2016500473319313408",
+              "start": 0,
+              "url": "https://t.co/na2m6gm9CY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016500484681744689",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016500305006121443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/na2m6gm9CY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016500292641284096",
+            "3_2016500292641325057",
+            "3_2016500292792233984",
+            "3_2016500292700065792"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016500305006121443",
+        "created_at": "2026-01-28T13:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016500305006121443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0NEJmUU5z",
+              "end": 30,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500305006121443/photo/1",
+              "media_key": "3_2016500292641284096",
+              "start": 7,
+              "url": "https://t.co/b0NEJmUU5z"
+            },
+            {
+              "display_url": "pic.x.com/b0NEJmUU5z",
+              "end": 30,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500305006121443/photo/1",
+              "media_key": "3_2016500292641325057",
+              "start": 7,
+              "url": "https://t.co/b0NEJmUU5z"
+            },
+            {
+              "display_url": "pic.x.com/b0NEJmUU5z",
+              "end": 30,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500305006121443/photo/1",
+              "media_key": "3_2016500292792233984",
+              "start": 7,
+              "url": "https://t.co/b0NEJmUU5z"
+            },
+            {
+              "display_url": "pic.x.com/b0NEJmUU5z",
+              "end": 30,
+              "expanded_url": "https://x.com/DXMDusk/status/2016500305006121443/photo/1",
+              "media_key": "3_2016500292700065792",
+              "start": 7,
+              "url": "https://t.co/b0NEJmUU5z"
+            },
+            {
+              "display_url": "x.com/K7qWcfzcdAPW5Y…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/K7qWcfzcdAPW5Y9/status/2015442833071853647",
+              "start": 31,
+              "url": "https://t.co/zhztmqd8F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016500305006121443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015442833071853647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于周宇老师 https://t.co/b0NEJmUU5z https://t.co/zhztmqd8F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 71,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

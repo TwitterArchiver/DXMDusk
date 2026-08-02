@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2015554076726182048",
+    "created_at": "2026-01-27T10:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016095649553645735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_kuma"
+        },
+        {
+          "end": 26,
+          "id": "1641968587102621696",
+          "start": 16,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 41,
+          "id": "1976224313339777024",
+          "start": 27,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016095649553645735",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015746067913212332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_kuma @0voki33Me @WinbornN94577 人在无语到极致时，真的是会狂笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2015554076726182048",
+        "created_at": "2026-01-27T10:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016095649553645735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 26,
+              "id": "1641968587102621696",
+              "start": 16,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 41,
+              "id": "1976224313339777024",
+              "start": 27,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016095649553645735",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015746067913212332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @0voki33Me @WinbornN94577 人在无语到极致时，真的是会狂笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2015554076726182048",
+        "created_at": "2026-01-26T11:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015746067913212332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015746067913212332",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6073,
+          "like_count": 185,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015554076726182048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 跟他耳语“剧烈变形”，绷不住的就是吸毒人员"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 63,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychel重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "mentallychel"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "舞萌丨中二",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 3429,
+          "like_count": 34051,
+          "listed_count": 6,
+          "media_count": 460,
+          "tweet_count": 8982
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜温良人士一枚｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 926,
+          "like_count": 4193,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2009440325455294908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 78,
+          "like_count": 2405,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030635256739758342",
+    "created_at": "2026-03-09T02:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030837499996799077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988967982488514563",
+          "start": 0,
+          "username": "EmilyAI7181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030837499996799077",
+    "in_reply_to_user_id": "1988967982488514563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030635256739758342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmilyAI7181 +1，我是百分百互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2030634387268853760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5DN2naYAAY_FE.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030635256739758342",
+        "created_at": "2026-03-09T02:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030837499996799077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988967982488514563",
+              "start": 0,
+              "username": "EmilyAI7181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030837499996799077",
+        "in_reply_to_user_id": "1988967982488514563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030635256739758342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmilyAI7181 +1，我是百分百互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030634387268853760"
+          ]
+        },
+        "author_id": "1988967982488514563",
+        "conversation_id": "2030635256739758342",
+        "created_at": "2026-03-08T13:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030635256739758342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVFg0HgXb6",
+              "end": 108,
+              "expanded_url": "https://x.com/EmilyAI7181/status/2030635256739758342/photo/1",
+              "media_key": "3_2030634387268853760",
+              "start": 85,
+              "url": "https://t.co/UVFg0HgXb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030635256739758342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1200,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家欢迎来互相关注，只要我没被限制，发现后必定回关。 也非常欢迎AI创作者和喜欢AI视频的宝宝们来互相关注，因为我非常喜欢看AI作品。（如果会取关的就算了）\n#蓝V互关 https://t.co/UVFg0HgXb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 591,
+          "like_count": 575,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 876
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-13T13:51:47.000Z",
+        "description": "Meet Emily, a curious AI robot girl exploring the human world. From daily adventures to heartfelt moments, I’m learning emotions, friendship, and life。",
+        "id": "1988967982488514563",
+        "name": "Emily艾米丽_AI",
+        "pinned_tweet_id": "2030237413663191153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988968035894587394/mfmC9qbx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 613,
+          "like_count": 2161,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 160
+        },
+        "username": "EmilyAI7181",
+        "verified": true
+      }
+    ]
+  }
+}

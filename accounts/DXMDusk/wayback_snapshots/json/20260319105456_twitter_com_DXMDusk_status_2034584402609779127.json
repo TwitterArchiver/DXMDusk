@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2034584402609779127",
+    "created_at": "2026-03-19T10:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034584402609779127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UBERSOY1/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/UBERSOY1/status/2034202681028305233",
+          "start": 12,
+          "url": "https://t.co/ozGFxznmBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034584402609779127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034202681028305233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这又是哪来的重症监护室 https://t.co/ozGFxznmBQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2034202325791694848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrwPNYWYAA8TIC.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2034584402609779127",
+        "created_at": "2026-03-19T10:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034584402609779127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UBERSOY1/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/UBERSOY1/status/2034202681028305233",
+              "start": 12,
+              "url": "https://t.co/ozGFxznmBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034584402609779127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034202681028305233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这又是哪来的重症监护室 https://t.co/ozGFxznmBQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034202325791694848"
+          ]
+        },
+        "author_id": "1347702221065117696",
+        "conversation_id": "2034202681028305233",
+        "created_at": "2026-03-18T09:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034202681028305233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Israel",
+              "probability": 0.7756,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Bezalel Smotrich",
+              "probability": 0.9768,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 131,
+              "normalized_text": "Hezbollah",
+              "probability": 0.7272,
+              "start": 123,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Re4dX8OH4k",
+              "end": 157,
+              "expanded_url": "https://x.com/UBERSOY1/status/2034202681028305233/photo/1",
+              "media_key": "3_2034202325791694848",
+              "start": 134,
+              "url": "https://t.co/Re4dX8OH4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034202681028305233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1731,
+          "impression_count": 2297136,
+          "like_count": 9407,
+          "quote_count": 245,
+          "reply_count": 934,
+          "retweet_count": 488
+        },
+        "reply_settings": "everyone",
+        "text": "Israel's Finance Minister Bezalel Smotrich shared a photo of his son in intensive care after being wounded in clashes with Hezbollah. https://t.co/Re4dX8OH4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1029,
+          "like_count": 1813,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 1637
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-09T00:30:30.000Z",
+        "description": "🧲Russian Human Capital 🇷🇺 💯|🌍Global Minority‼️| ⚠️Creator of Right-Wing Progressivism💡|📺RW YouTuber ⏯️|📝I write here: https://t.co/KQi0K9Hzxa 👈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ubersoy.substack.com",
+                "end": 141,
+                "expanded_url": "http://ubersoy.substack.com",
+                "start": 118,
+                "url": "https://t.co/KQi0K9Hzxa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqBN8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqBN8cSd6hfwqq0BM2biXOg",
+                "start": 0,
+                "url": "https://t.co/3IsUgBQRHM"
+              }
+            ]
+          }
+        },
+        "id": "1347702221065117696",
+        "location": "Leafland🍁",
+        "name": "UBERSOY",
+        "pinned_tweet_id": "2033467290847445237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850018906271825920/bgKjC8_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27480,
+          "following_count": 604,
+          "like_count": 54099,
+          "listed_count": 284,
+          "media_count": 15349,
+          "tweet_count": 55810
+        },
+        "url": "https://t.co/3IsUgBQRHM",
+        "username": "UBERSOY1",
+        "verified": true
+      }
+    ]
+  }
+}

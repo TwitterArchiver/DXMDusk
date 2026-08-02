@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031340038911406418",
+    "created_at": "2026-03-11T05:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031610535582847357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "827194640310865921",
+          "start": 0,
+          "username": "CryptoOracle666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031610535582847357",
+    "in_reply_to_user_id": "827194640310865921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031340038911406418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptoOracle666 已关，百分百回关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 175,
+        "media_key": "3_2031325066261082113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDC3YqXWsAEJ6ZE.png",
+        "width": 343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031340038911406418",
+        "created_at": "2026-03-11T05:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031610535582847357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "827194640310865921",
+              "start": 0,
+              "username": "CryptoOracle666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031610535582847357",
+        "in_reply_to_user_id": "827194640310865921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031340038911406418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoOracle666 已关，百分百回关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031325066261082113"
+          ]
+        },
+        "author_id": "827194640310865921",
+        "conversation_id": "2031340038911406418",
+        "created_at": "2026-03-10T12:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031340038911406418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrHMOo0y6E",
+              "end": 76,
+              "expanded_url": "https://x.com/CryptoOracle666/status/2031340038911406418/photo/1",
+              "media_key": "3_2031325066261082113",
+              "start": 53,
+              "url": "https://t.co/HrHMOo0y6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031340038911406418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12684,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 192,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝V互关 ！  #蓝V互关 ！#蓝V互关 ！\n\n想要真正的认证粉丝？评论区留下你的印记，我会挨个回关！ https://t.co/HrHMOo0y6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 707,
+          "like_count": 798,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1081
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-02T16:39:05.000Z",
+        "description": "Alfa Researcher 🔍 • Airdrop Professional & deep ploughing 🪂 • Threadoor 🧵 • 入坑8年💦 | #BTC | web3段子手 | 精彩视频 | \n\n合作DM TG；@haidengdeng\n\n广告自辨，亏钱被骗不负责/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "BTC"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "haidengdeng"
+              }
+            ]
+          }
+        },
+        "id": "827194640310865921",
+        "location": "web4",
+        "name": "海登",
+        "pinned_tweet_id": "2031340246323937725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763606183305256960/ZVPU5U2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51525,
+          "following_count": 1380,
+          "like_count": 25508,
+          "listed_count": 214,
+          "media_count": 7556,
+          "tweet_count": 35451
+        },
+        "username": "CryptoOracle666",
+        "verified": true
+      }
+    ]
+  }
+}

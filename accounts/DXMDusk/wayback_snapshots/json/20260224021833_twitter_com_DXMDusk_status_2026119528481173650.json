@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026119526468005888"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025866330470297699",
+    "created_at": "2026-02-24T02:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026119528481173650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBO8A3DQEl",
+          "end": 38,
+          "expanded_url": "https://x.com/DXMDusk/status/2026119528481173650/photo/1",
+          "media_key": "3_2026119526468005888",
+          "start": 15,
+          "url": "https://t.co/lBO8A3DQEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026119528481173650",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025866330470297699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ https://t.co/lBO8A3DQEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2026119526468005888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB44-XebsAAZTMR.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026119526468005888"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025866330470297699",
+        "created_at": "2026-02-24T02:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026119528481173650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBO8A3DQEl",
+              "end": 38,
+              "expanded_url": "https://x.com/DXMDusk/status/2026119528481173650/photo/1",
+              "media_key": "3_2026119526468005888",
+              "start": 15,
+              "url": "https://t.co/lBO8A3DQEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026119528481173650",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025866330470297699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ https://t.co/lBO8A3DQEl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2025866330470297699",
+        "created_at": "2026-02-23T09:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025866330470297699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025866330470297699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 739,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有物理的记录，记忆的消逝最终无可挽回。\n我讨厌失忆，讨厌抑郁，讨厌我自己。\n我爱大家…我爱所有人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 229,
+          "like_count": 374,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 569
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |zs日期基本确定 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 71,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 48,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 117,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 94,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 186,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 299
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

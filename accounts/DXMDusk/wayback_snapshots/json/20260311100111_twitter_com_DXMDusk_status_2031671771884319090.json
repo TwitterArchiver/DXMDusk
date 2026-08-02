@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031662601403555973",
+    "created_at": "2026-03-11T10:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T11:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031671771884319090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031671771884319090",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031662601403555973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike666 双通道文拉法辛，情感换取动力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031662601403555973",
+        "created_at": "2026-03-11T10:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031671771884319090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031671771884319090",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031662601403555973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike666 双通道文拉法辛，情感换取动力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916824571128287232",
+        "conversation_id": "2031662601403555973",
+        "created_at": "2026-03-11T09:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031662601403555973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031662601403555973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 121,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奥米氯氮喹硫平，三天长胖两公斤\n\n辉瑞盐酸舍曲林，自杀倾向还应激\n\n单胺氧化抑制剂，加奶酪赛DPT\n\n加巴喷丁喜思平，戒断堪比鸦片瘾\n\n抗多动托莫西汀，一粒让人变傻逼\n\n百忧解，氟西汀，性欲衰退不产精\n\n强迫症氯丙咪嗪，癫痫阈值狂降低\n\n锂盐心境稳定剂，手抖呕吐还头晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 736,
+          "like_count": 898,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1145
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与meng运营",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科#物质研究",
+        "pinned_tweet_id": "2031291592368337051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 247,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 205
+        },
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

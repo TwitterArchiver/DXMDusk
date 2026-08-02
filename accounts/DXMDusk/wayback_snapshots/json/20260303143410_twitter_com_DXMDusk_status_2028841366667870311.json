@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2028439923750232472",
+    "created_at": "2026-03-03T14:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028841366667870311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028841366667870311",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028439923750232472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 175"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2028439923750232472",
+        "created_at": "2026-03-03T14:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028841366667870311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028841366667870311",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028439923750232472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 175"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804849792121499648",
+        "conversation_id": "2028439923750232472",
+        "created_at": "2026-03-02T11:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:58:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028439879840047128",
+          "2028439923750232472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028439923750232472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7349,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇一下推友的身高/脚尺寸\n我180/40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 277,
+          "like_count": 440,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 650
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "平权 평균 equal ｜只愛鏡音レン、棘刺❤️｜KU｜ 不喜欢我推R18",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫要平权Amoris🇹🇼🇰🇷🏳️‍🌈🇨🇳평균Equal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 384,
+          "like_count": 28044,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 3595
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

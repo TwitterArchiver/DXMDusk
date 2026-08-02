@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025439394010988568",
+    "created_at": "2026-02-22T05:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025439394010988568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Freundis21/sta…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/Freundis21/status/2025328797264859516",
+          "start": 62,
+          "url": "https://t.co/Y4qNyzp4G8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025439394010988568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025328797264859516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好开，我试过一次开百片，全看在哪个地方，要是北上广深就不行了，就拿上海来说吧，第一次是不给开药的，外地医院病例也仅作参考， https://t.co/Y4qNyzp4G8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025328790830727168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtpzfrWQAAJIRS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025439394010988568",
+        "created_at": "2026-02-22T05:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025439394010988568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Freundis21/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Freundis21/status/2025328797264859516",
+              "start": 62,
+              "url": "https://t.co/Y4qNyzp4G8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025439394010988568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025328797264859516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好开，我试过一次开百片，全看在哪个地方，要是北上广深就不行了，就拿上海来说吧，第一次是不给开药的，外地医院病例也仅作参考， https://t.co/Y4qNyzp4G8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025328790830727168"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "conversation_id": "2025328797264859516",
+        "created_at": "2026-02-21T21:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T22:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025328797264859516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNRDYkmhWz",
+              "end": 157,
+              "expanded_url": "https://x.com/Freundis21/status/2025328797264859516/photo/1",
+              "media_key": "3_2025328790830727168",
+              "start": 134,
+              "url": "https://t.co/BNRDYkmhWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025328797264859516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 388,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯二氮卓类药物属于精二药物，你去精神科开短期改善的医生应该会给你开少量的（这是从我个人经验说的）因为我对这类药物的印象是我四年前去成都双流那边的一个医院挂了号，做了一下午问卷，其他啥也没做，花了六百多，医生才给开了两盒劳拉和几盒中成药，现在我不太清楚，应该也不好开吧 https://t.co/BNRDYkmhWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 190,
+          "like_count": 272,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 479
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物｜女性｜INFJ｜LGBTQ友好｜此账号包括：selfharm、drug/overdose&日常废话。直关无言抱歉，会互fo（如果有没fo到的请私信我ovo）。匿名提问（如果有的话）https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 117,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 94,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 649,
+          "like_count": 7316,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1049
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

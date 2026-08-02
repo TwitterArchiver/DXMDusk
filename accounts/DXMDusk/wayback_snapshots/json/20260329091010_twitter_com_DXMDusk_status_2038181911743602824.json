@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038181907121553409",
+        "3_2038181908199415809"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038171514579595320",
+    "created_at": "2026-03-29T09:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038181911743602824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0oKsXuvoS",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2038181911743602824/photo/1",
+          "media_key": "3_2038181907121553409",
+          "start": 28,
+          "url": "https://t.co/P0oKsXuvoS"
+        },
+        {
+          "display_url": "pic.x.com/P0oKsXuvoS",
+          "end": 51,
+          "expanded_url": "https://x.com/DXMDusk/status/2038181911743602824/photo/1",
+          "media_key": "3_2038181908199415809",
+          "start": 28,
+          "url": "https://t.co/P0oKsXuvoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038181911743602824",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038171514579595320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 设置，隐私安全，聊天设置 https://t.co/P0oKsXuvoS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038181907121553409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkTpVGbwAETe_B.jpg",
+        "width": 898
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038181908199415809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkTpZHaoAEiw3p.jpg",
+        "width": 904
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038171486440046592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkKKxCWwAAAv3q.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038181907121553409",
+            "3_2038181908199415809"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038171514579595320",
+        "created_at": "2026-03-29T09:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038181911743602824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0oKsXuvoS",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2038181911743602824/photo/1",
+              "media_key": "3_2038181907121553409",
+              "start": 28,
+              "url": "https://t.co/P0oKsXuvoS"
+            },
+            {
+              "display_url": "pic.x.com/P0oKsXuvoS",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2038181911743602824/photo/1",
+              "media_key": "3_2038181908199415809",
+              "start": 28,
+              "url": "https://t.co/P0oKsXuvoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038181911743602824",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038171514579595320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 设置，隐私安全，聊天设置 https://t.co/P0oKsXuvoS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038171486440046592"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "conversation_id": "2038171514579595320",
+        "created_at": "2026-03-29T08:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038171514579595320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVVCYK93Af",
+              "end": 48,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/2038171514579595320/photo/1",
+              "media_key": "3_2038171486440046592",
+              "start": 25,
+              "url": "https://t.co/qVVCYK93Af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038171514579595320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个我关注的人关注的人才能给我发私信的功能 https://t.co/qVVCYK93Af"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1064,
+          "like_count": 1840,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1771
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1368,
+          "like_count": 32738,
+          "listed_count": 3,
+          "media_count": 743,
+          "tweet_count": 9541
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031619507865924054",
+    "created_at": "2026-03-11T07:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031634040978325710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "Sakura_llyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031634040978325710",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031619507865924054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_llyo 检查雌二醇跟睾酮两项也就100块，别担心，身体会习惯的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031619507865924054",
+        "created_at": "2026-03-11T07:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031634040978325710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "Sakura_llyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031634040978325710",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031619507865924054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_llyo 检查雌二醇跟睾酮两项也就100块，别担心，身体会习惯的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2031619507865924054",
+        "created_at": "2026-03-11T06:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031619507865924054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031619507865924054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问了下网路医生，告诉剂量后他说我可能处于长期雌爆，甚至从第一天就开始雌爆了（一直在300甚至500pg/ml以上…）\n医生非常生气，额..毕竟我的睾丸已经明显低于正常人的大小，顶多和国一学生一样大..唔…\n他也猜到我已经出现了干性高潮，故名思意就是🦌的时候只有高潮，一点液体没有，说明睾酮低的可怜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 714,
+          "like_count": 804,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1089
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年mtx，偏mtf｜174｜53kg ｜喜欢🇯🇵🇹🇼🇰🇷｜不割手｜攒钱买女装｜网名就是真名｜曾经鉴正被骂，决定再也不说｜每天看番，厌学，🍥hrt2024.10-today |下方为mtf指南针網站",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "あなたから0.2km",
+        "name": "鈴悠ちゃん🏳️‍⚧️🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028105670059565056/B0mvm27X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 499,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "Sakura_llyo",
+        "verified": false
+      }
+    ]
+  }
+}

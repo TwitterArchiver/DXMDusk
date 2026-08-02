@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024470796249579637",
+    "created_at": "2026-02-20T07:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T08:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024744375679668250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989254812572196864",
+          "start": 0,
+          "username": "hzh1450627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024744375679668250",
+    "in_reply_to_user_id": "1989254812572196864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024470796249579637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzh1450627 没事，欧美的阿普剂量里有2mg一片的，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024470796249579637",
+        "created_at": "2026-02-20T07:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024744375679668250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989254812572196864",
+              "start": 0,
+              "username": "hzh1450627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024744375679668250",
+        "in_reply_to_user_id": "1989254812572196864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024470796249579637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzh1450627 没事，欧美的阿普剂量里有2mg一片的，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989254812572196864",
+        "conversation_id": "2024470796249579637",
+        "created_at": "2026-02-19T13:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024470796249579637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024470796249579637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普挫仑你妈死了，最开始我就吃0.4，后面变成0.8，现在1.2都压不住我，我操你妈逼你妈死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 180,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 417
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T08:51:31.000Z",
+        "description": "cn沥雨 I 可以叫我沥雨或者鲤鱼噢 I 是一个双相障碍患者 I 超级想和与od/精神疾病/割腕/负面/二次元和一些有趣的朋友互fo交朋友聊天！此号为日常号互动负能量较多，属性持续发掘中，我≈废物，鲤鱼是躁狂，沥雨是抑郁，长期处于快速循环中，不再鉴证键政",
+        "id": "1989254812572196864",
+        "location": "年龄小，很多观念没有成熟和理解透彻，没必要当刻板印象",
+        "name": "人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023450577460752385/ebYeUguF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 83,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 791
+        },
+        "username": "hzh1450627",
+        "verified": false
+      }
+    ]
+  }
+}

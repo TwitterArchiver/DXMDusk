@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030669343911272755",
+    "created_at": "2026-03-08T15:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030669343911272755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1588523994872918018",
+          "start": 3,
+          "username": "cryptoyangqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030669343911272755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030456526151049474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryptoyangqi: 昨天一天涨了快300个蓝V朋友关注！\n\n我是这样做的，今天分享给还在苦恼涨粉的朋友\n\n其实蓝V朋友的关注不难，大部分的朋友都是愿意互相成就的\n\n我昨天做了以下几个动作，就轻松获得了300个蓝V粉丝和5000多的浏览量！\n\n1.我昨天加入了两个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44816,
+        "height": 1920,
+        "media_key": "13_2030456296403824640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030456296403824640/img/dEqgvvnNmzIhUiVX.jpg",
+        "public_metrics": {
+          "view_count": 742
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030456296403824640/vid/avc1/320x690/vFutlASIlwsuUCkI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030456296403824640/pl/uGQ7yfoteeJqSzT5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030456296403824640/vid/avc1/480x1036/bFTqqOApautMHrgU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030456296403824640/vid/avc1/720x1556/BLJRqPRPSxdbH9A_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030456296403824640/vid/avc1/888x1920/BqElNItNqRXqletk.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030669343911272755",
+        "created_at": "2026-03-08T15:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030669343911272755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1588523994872918018",
+              "start": 3,
+              "username": "cryptoyangqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030669343911272755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030456526151049474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryptoyangqi: 昨天一天涨了快300个蓝V朋友关注！\n\n我是这样做的，今天分享给还在苦恼涨粉的朋友\n\n其实蓝V朋友的关注不难，大部分的朋友都是愿意互相成就的\n\n我昨天做了以下几个动作，就轻松获得了300个蓝V粉丝和5000多的浏览量！\n\n1.我昨天加入了两个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030456296403824640"
+          ]
+        },
+        "author_id": "1588523994872918018",
+        "conversation_id": "2030456526151049474",
+        "created_at": "2026-03-08T01:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030456526151049474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIoRb9UpBl",
+              "end": 172,
+              "expanded_url": "https://x.com/cryptoyangqi/status/2030456526151049474/video/1",
+              "media_key": "13_2030456296403824640",
+              "start": 149,
+              "url": "https://t.co/zIoRb9UpBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030456526151049474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 349,
+                "start": 346,
+                "tag": "蓝V"
+              },
+              {
+                "end": 357,
+                "start": 350,
+                "tag": "蓝v关注必回"
+              }
+            ]
+          },
+          "text": "昨天一天涨了快300个蓝V朋友关注！\n\n我是这样做的，今天分享给还在苦恼涨粉的朋友\n\n其实蓝V朋友的关注不难，大部分的朋友都是愿意互相成就的\n\n我昨天做了以下几个动作，就轻松获得了300个蓝V粉丝和5000多的浏览量！\n\n1.我昨天加入了两个蓝V的社群，在群里我发了两个帖文，很快就有朋友关注我了 \n\n2.所有的关注我在第一时间就回了，保存了流失\n\n3.我是高质量的回关，我会进对方的主页看贴点赞在回关！\n\n4.社群是一个很好的地方，但是这种方法大家还是保持克制，最近听好多朋友说收益停了，可能和互关行为有关。\n\n5.关注的朋友最好是进主页进行互动，点赞浏览评论最好，更像是真人的习惯！这样对双方账号都好！\n\n好了，大概就是这些，不知道各位蓝V朋友喜欢这样的回关方式吗？可以在下面评论区讨论\n#蓝V #蓝v关注必回"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3494,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天一天涨了快300个蓝V朋友关注！\n\n我是这样做的，今天分享给还在苦恼涨粉的朋友\n\n其实蓝V朋友的关注不难，大部分的朋友都是愿意互相成就的\n\n我昨天做了以下几个动作，就轻松获得了300个蓝V粉丝和5000多的浏览量！\n\n1.我昨天加入了两个蓝V的社群，在群里我发了两个帖文，很快就有朋友关注我了 https://t.co/zIoRb9UpBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 558,
+          "like_count": 534,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 839
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T13:30:17.000Z",
+        "description": "前传统金融leader | 现 Web3 算法交易员 | 价格行为学坚定者 | 无编程基础，自研脚本辅助交易 | 交易没有圣杯，保持严格的盈亏比计划与交易纪律。 | 👇 点击链接https://t.co/FNAhdsC5AZ，免费试用AI预警信号3天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/V8yaoqingbot",
+                "end": 112,
+                "expanded_url": "https://t.me/V8yaoqingbot",
+                "start": 89,
+                "url": "https://t.co/FNAhdsC5AZ"
+              }
+            ]
+          }
+        },
+        "id": "1588523994872918018",
+        "name": "crypto洋气",
+        "pinned_tweet_id": "2029128832654164268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029450200599937025/LB-wITcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1146,
+          "like_count": 2477,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 1993
+        },
+        "username": "cryptoyangqi",
+        "verified": true
+      }
+    ]
+  }
+}

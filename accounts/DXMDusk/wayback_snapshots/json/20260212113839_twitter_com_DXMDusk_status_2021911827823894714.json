@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2021900463776596058",
+    "created_at": "2026-02-12T11:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021911827823894714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021911827823894714",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021900463776596058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 地址大爆露🤫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2021900456763826176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA87wMCboAASUgd.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2021900463776596058",
+        "created_at": "2026-02-12T11:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021911827823894714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021911827823894714",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021900463776596058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 地址大爆露🤫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021900456763826176"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "2021900463776596058",
+        "created_at": "2026-02-12T10:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021900463776596058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LqPQavcegl",
+              "end": 90,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2021900463776596058/photo/1",
+              "media_key": "3_2021900456763826176",
+              "start": 67,
+              "url": "https://t.co/LqPQavcegl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021900463776596058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路痴骑共享电车哭了 骑了14公里都没找到家 突发奇想从高铁站骑回家，结果绕了好多弯…\n终点地址离家还是有三四km，直接去打的士了😭😭 https://t.co/LqPQavcegl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 146,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 250
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "I misbehave, everybody craves｜只愛鏡音レン、棘刺❤️｜KU｜ 不喜欢我推R18",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "长沙in阿莫Amoris🇹🇼🇰🇷🏳️‍🌈🇨🇳",
+        "pinned_tweet_id": "2004234124228538620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 367,
+          "like_count": 28536,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 3421
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

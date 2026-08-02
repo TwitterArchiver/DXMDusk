@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023278031415263718",
+    "created_at": "2026-02-16T08:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023320441201549672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752344070385696768",
+          "start": 0,
+          "username": "date_reina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023320441201549672",
+    "in_reply_to_user_id": "1752344070385696768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023278031415263718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@date_reina 春节真是把所有隐藏着的矛盾都放大了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023278031415263718",
+        "created_at": "2026-02-16T08:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023320441201549672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752344070385696768",
+              "start": 0,
+              "username": "date_reina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023320441201549672",
+        "in_reply_to_user_id": "1752344070385696768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023278031415263718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@date_reina 春节真是把所有隐藏着的矛盾都放大了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752344070385696768",
+        "conversation_id": "2023278031415263718",
+        "created_at": "2026-02-16T06:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023278031415263718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023278031415263718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这很有可能是这个账号最后一条推了。\n过年回家发现我之前放在家里的一套cos服被咖喱人丢掉了，即使我找了半天并且质问他们，他们也死不承认。\n\n这并非是一套衣服或者钱的事情，这一套也就600多我也不差这点，而且我也买了这套衣服整整5年了，它也没有停产绝版。\n\n其一是咖喱人的这种控制欲让我甚至连找不到工作在家躺平的选项都无法接受。\n\n其二是我曾经的一位朋友（熟悉我的推油可能都知道是谁）也是因为cos服被家里丢掉的原因从世界上离开了。\n\n大概就是这样，我已经把房子都翻了一遍也没有找到衣服，即使他们不承认我也只能认为确实除了咖喱人以外没有人动过它，而且我屋子里的东西每次都被完全动了一遍。\n\n我之前就已经完全逃离原生家庭出去干活过一阵子，即使攒不下钱也至少能在外面租房以及有地方放cos服和道具之类的东西，可是现在大环境太差，工作特别不好找，而我要求已经很低了即使只是最低限度生存但是有地方放我自己手机的东西就好，即使是如此也是很难的。\n\n感谢这么多粉丝的支持，不过我确实可能没有办法在这样的家庭和世界上生存下去了，如果以后没有办法更新了真的很抱歉很抱歉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1171,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这很有可能是这个账号最后一条推了。\n过年回家发现我之前放在家里的一套cos服被咖喱人丢掉了，即使我找了半天并且质问他们，他们也死不承认。\n\n这并非是一套衣服或者钱的事情，这一套也就600多我也不差这点，而且我也买了这套衣服整整5年了，它也没有停产绝版。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 156,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 339
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:58.000Z",
+        "description": "TS Ladyboy 🚪88口令红包 / 江浙沪可空降，接寄拍地陪纯绿半绿等服务/ xp复杂 /穿孔/纹身/露出..\n\nLadyboy / Cosplay / Latex / Bondage / Piercing \n\nContact:  https://t.co/WZ0Y0Gg3QO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HibikiHut",
+                "end": 142,
+                "expanded_url": "https://t.me/HibikiHut",
+                "start": 119,
+                "url": "https://t.co/WZ0Y0Gg3QO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/Reina_Date/",
+                "end": 23,
+                "expanded_url": "https://fansly.com/Reina_Date/",
+                "start": 0,
+                "url": "https://t.co/egvMJ5yTeX"
+              }
+            ]
+          }
+        },
+        "id": "1752344070385696768",
+        "location": "Buy my content →",
+        "name": "伊达铃奈",
+        "pinned_tweet_id": "2023278031415263718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023264043424006144/SIgkoT7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13718,
+          "following_count": 1117,
+          "like_count": 5669,
+          "listed_count": 79,
+          "media_count": 222,
+          "tweet_count": 7684
+        },
+        "url": "https://t.co/egvMJ5yTeX",
+        "username": "date_reina",
+        "verified": true
+      }
+    ]
+  }
+}

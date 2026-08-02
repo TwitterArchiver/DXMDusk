@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025845033531031980",
+    "created_at": "2026-02-24T01:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026103375507640388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026103375507640388",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025845033531031980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 混血吗，好看🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2025845016124665856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0_TwwbMAAaQHP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2025845016145580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0_Tw1aUAACN3i.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025845033531031980",
+        "created_at": "2026-02-24T01:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026103375507640388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026103375507640388",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025845033531031980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 混血吗，好看🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025845016124665856",
+            "3_2025845016145580032"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "2025845033531031980",
+        "created_at": "2026-02-23T08:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025845033531031980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD3d1bJDQk",
+              "end": 44,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2025845033531031980/photo/1",
+              "media_key": "3_2025845016124665856",
+              "start": 21,
+              "url": "https://t.co/XD3d1bJDQk"
+            },
+            {
+              "display_url": "pic.x.com/XD3d1bJDQk",
+              "end": 44,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2025845033531031980/photo/1",
+              "media_key": "3_2025845016145580032",
+              "start": 21,
+              "url": "https://t.co/XD3d1bJDQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025845033531031980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17242,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的一套😋\n头发越来越黄了 我从没染过发 https://t.co/XD3d1bJDQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 228,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 563
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "I misbehave, everybody craves｜只愛鏡音レン、棘刺❤️｜KU｜ 不喜欢我推R18",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫Amoris🇹🇼🇰🇷🏳️‍🌈🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 371,
+          "like_count": 28038,
+          "listed_count": 6,
+          "media_count": 63,
+          "tweet_count": 3530
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

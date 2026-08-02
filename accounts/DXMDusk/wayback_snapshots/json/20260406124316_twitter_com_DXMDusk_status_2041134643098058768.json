@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2041134643098058768",
+    "created_at": "2026-04-06T12:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041134643098058768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804849792121499648",
+          "start": 3,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041134643098058768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041103091945320500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OnlyLenKagamine: 帮我曝光一下这个游戏可以吗？5.5周年的卡池，整整四张限定卡忘记加入到卡池了，只愿意发放一个10连补偿。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2041134643098058768",
+        "created_at": "2026-04-06T12:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041134643098058768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804849792121499648",
+              "start": 3,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041134643098058768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041103091945320500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OnlyLenKagamine: 帮我曝光一下这个游戏可以吗？5.5周年的卡池，整整四张限定卡忘记加入到卡池了，只愿意发放一个10连补偿。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804849792121499648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2041103091945320500",
+        "created_at": "2026-04-06T10:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041103091945320500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pj_sekai/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/pj_sekai/status/2041066492394140118",
+              "start": 53,
+              "url": "https://t.co/NczXSFihMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041103091945320500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "帮我曝光一下这个游戏可以吗？5.5周年的卡池，整整四张限定卡忘记加入到卡池了，只愿意发放一个10连补偿。 并且公告还是在卡池开放后三天以后才出的，我都抽了三天的卡了，才告诉我这四张卡没加进去！？谁知道你是故意的还是不小心的。这最新的道歉公告也没有一点诚意，一直在推卸责任逃避现实，最后告诉玩家，我们不愿意发放更多补偿。我甚至在这个道歉信中看不到几个道歉的字眼，80%都是在说为什么我们出错了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 749,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041066492394140118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮我曝光一下这个游戏可以吗？5.5周年的卡池，整整四张限定卡忘记加入到卡池了，只愿意发放一个10连补偿。 https://t.co/NczXSFihMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 1101,
+          "like_count": 2063,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 2109
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "2008年生｜Korea Uni.｜行政专业｜平权 ｜梦想是新闻行业｜玩第五人格S牌园丁 A牌红夫人｜pjsk400级 ｜IP：Seoul/Hunan",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2008.12.27",
+        "name": "阿莫🔜女性力量🇹🇼🇨🇳🏳️‍🌈Amoris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4887,
+          "following_count": 439,
+          "like_count": 29607,
+          "listed_count": 6,
+          "media_count": 60,
+          "tweet_count": 3925
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029231507374800927",
+    "created_at": "2026-03-05T13:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T14:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029543537289916555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896817503831207936",
+          "start": 0,
+          "username": "Family59110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029543537289916555",
+    "in_reply_to_user_id": "1896817503831207936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029231507374800927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Family59110 一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029231507374800927",
+        "created_at": "2026-03-05T13:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029543537289916555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896817503831207936",
+              "start": 0,
+              "username": "Family59110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029543537289916555",
+        "in_reply_to_user_id": "1896817503831207936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029231507374800927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Family59110 一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896817503831207936",
+        "conversation_id": "2029231507374800927",
+        "created_at": "2026-03-04T16:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029231507374800927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029231507374800927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2200,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这三天没发推文，没互动，因为做了三天活了，今天终于干完了！有蓝V兄弟姐妹们互关互助吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 345,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 681
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T07:00:00.000Z",
+        "description": "加密货币交易者,专注一级市场，Polymarket热爱追逐新兴项目，一路走来都是老师，寻找丢失的狗🛵！\nChasing crypto gems and my runaway pup 🐶💨",
+        "id": "1896817503831207936",
+        "name": "Crypto蓝先生",
+        "pinned_tweet_id": "2004549679137354130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901896637938806784/YKLcSZoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 1857,
+          "like_count": 7686,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 14354
+        },
+        "username": "Family59110",
+        "verified": true
+      }
+    ]
+  }
+}

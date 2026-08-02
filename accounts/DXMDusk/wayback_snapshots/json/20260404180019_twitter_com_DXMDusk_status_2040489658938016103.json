@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033201530288124353",
+    "created_at": "2026-04-04T18:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040489658938016103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820476378716000256",
+          "start": 0,
+          "username": "shizijidan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040489658938016103",
+    "in_reply_to_user_id": "1820476378716000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040485260023259159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizijidan_ 我喜欢她的歌，当时我们全班都在讨论这个事情，但慢慢的，好像都遗忘了\n那时我加了很多粉丝群，去了解关于她的一些事情真相之类的，但是和班级讨论一样，粉丝群慢慢的也不在讨论这件事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033201530288124353",
+        "created_at": "2026-04-04T18:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040489658938016103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820476378716000256",
+              "start": 0,
+              "username": "shizijidan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040489658938016103",
+        "in_reply_to_user_id": "1820476378716000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040485260023259159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizijidan_ 我喜欢她的歌，当时我们全班都在讨论这个事情，但慢慢的，好像都遗忘了\n那时我加了很多粉丝群，去了解关于她的一些事情真相之类的，但是和班级讨论一样，粉丝群慢慢的也不在讨论这件事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820476378716000256",
+        "conversation_id": "2033201530288124353",
+        "created_at": "2026-04-04T17:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040485260023259159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040485260023259159",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033201530288124353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 本兮……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 1101,
+          "like_count": 2034,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 2033
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-05T15:06:22.000Z",
+        "description": "",
+        "id": "1820476378716000256",
+        "name": "柿子鸡蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820476716923650048/K7LVp0LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 93,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 94
+        },
+        "username": "shizijidan_",
+        "verified": false
+      }
+    ]
+  }
+}

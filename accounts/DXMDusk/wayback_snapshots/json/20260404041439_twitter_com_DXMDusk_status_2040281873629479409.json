@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040027095276118435",
+    "created_at": "2026-04-04T04:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040281873629479409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20352…",
+          "end": 40,
+          "expanded_url": "https://x.com/i/status/2035273716645716060",
+          "start": 17,
+          "url": "https://t.co/3ayMaRPpNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040281873629479409",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035273716645716060",
+        "type": "quoted"
+      },
+      {
+        "id": "2040027095276118435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup https://t.co/3ayMaRPpNO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2035273714171092995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6-qOHboAMzI42.jpg",
+        "width": 850
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040027084312256512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-h0xyboAACIJ-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040027084312150016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-h0xyaAAAy1oJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040027095276118435",
+        "created_at": "2026-04-04T04:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040281873629479409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20352…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/status/2035273716645716060",
+              "start": 17,
+              "url": "https://t.co/3ayMaRPpNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040281873629479409",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035273716645716060",
+            "type": "quoted"
+          },
+          {
+            "id": "2040027095276118435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup https://t.co/3ayMaRPpNO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035273714171092995"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2035273716645716060",
+        "created_at": "2026-03-21T08:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035273716645716060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuhWB5b1eG",
+              "end": 51,
+              "expanded_url": "https://x.com/DXMDusk/status/2035273716645716060/photo/1",
+              "media_key": "3_2035273714171092995",
+              "start": 28,
+              "url": "https://t.co/zuhWB5b1eG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035273716645716060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1796,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看之前：谁不会洗个衣服啊\n看之后：我真不会洗衣服... https://t.co/zuhWB5b1eG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040027084312256512",
+            "3_2040027084312150016"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040027095276118435",
+        "created_at": "2026-04-03T11:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040027095276118435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBVd47eZNE",
+              "end": 46,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2040027095276118435/photo/1",
+              "media_key": "3_2040027084312256512",
+              "start": 23,
+              "url": "https://t.co/lBVd47eZNE"
+            },
+            {
+              "display_url": "pic.x.com/lBVd47eZNE",
+              "end": 46,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2040027095276118435/photo/1",
+              "media_key": "3_2040027084312150016",
+              "start": 23,
+              "url": "https://t.co/lBVd47eZNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040027095276118435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自行车链机油该怎么洗。这裤角骑车的时候打链子 https://t.co/lBVd47eZNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1094,
+          "like_count": 2004,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 1991
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040027095276118435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 2719,
+          "like_count": 18074,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 4684
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

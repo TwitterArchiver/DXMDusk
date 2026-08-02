@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024846285707383179",
+    "created_at": "2026-02-20T13:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024846285707383179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383473182854684674",
+          "start": 3,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024846285707383179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024197350261215665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanwangnan: 所以我说唐毓文这种货色现在能在这个X里这么多话题度甚至还有这么多跨和这人玩得来有的时候还给这人洗，是彻底的没救了\n其实在盐田姐走了之后我大概会预想到今天这种地步了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024846285707383179",
+        "created_at": "2026-02-20T13:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024846285707383179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383473182854684674",
+              "start": 3,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024846285707383179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024197350261215665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanwangnan: 所以我说唐毓文这种货色现在能在这个X里这么多话题度甚至还有这么多跨和这人玩得来有的时候还给这人洗，是彻底的没救了\n其实在盐田姐走了之后我大概会预想到今天这种地步了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "2024197350261215665",
+        "created_at": "2026-02-18T19:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T20:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024197350261215665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhh84672361/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/hhh84672361/status/2023016268287365152",
+              "start": 82,
+              "url": "https://t.co/qU77Q8Dmy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024197350261215665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023016268287365152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我说唐毓文这种货色现在能在这个X里这么多话题度甚至还有这么多跨和这人玩得来有的时候还给这人洗，是彻底的没救了\n其实在盐田姐走了之后我大概会预想到今天这种地步了 https://t.co/qU77Q8Dmy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 182,
+          "like_count": 226,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 427
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1996625486861185077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 168,
+          "like_count": 49166,
+          "listed_count": 18,
+          "media_count": 2155,
+          "tweet_count": 22464
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": true
+      }
+    ]
+  }
+}

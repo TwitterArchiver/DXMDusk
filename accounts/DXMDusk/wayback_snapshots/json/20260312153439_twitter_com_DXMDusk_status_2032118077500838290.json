@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032066774720458865",
+    "created_at": "2026-03-12T15:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032118077500838290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "912361410772037633",
+          "start": 0,
+          "username": "xiaojiagongzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032118077500838290",
+    "in_reply_to_user_id": "912361410772037633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032066774720458865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojiagongzi 等你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032066770979151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNZ9jwWYAAuu4s.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032066774720458865",
+        "created_at": "2026-03-12T15:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032118077500838290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "912361410772037633",
+              "start": 0,
+              "username": "xiaojiagongzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032118077500838290",
+        "in_reply_to_user_id": "912361410772037633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032066774720458865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiagongzi 等你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032066770979151872"
+          ]
+        },
+        "author_id": "912361410772037633",
+        "conversation_id": "2032066774720458865",
+        "created_at": "2026-03-12T12:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032066774720458865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHgZr3uji9",
+              "end": 115,
+              "expanded_url": "https://x.com/xiaojiagongzi/status/2032066774720458865/photo/1",
+              "media_key": "3_2032066770979151872",
+              "start": 92,
+              "url": "https://t.co/IHgZr3uji9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032066774720458865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看来系统终于良心发现，把 Bug 吐出来了。之前落下的‘蓝朋友’实在太多，这阵仗简直比当年跑电影节首映还要热闹。大家别急，容我这个老兵一个个‘翻牌子’，这就把欠你们的关注慢慢补回来。 https://t.co/IHgZr3uji9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 851,
+          "like_count": 1366,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1336
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-25T17:01:25.000Z",
+        "description": "曾任：北京台、央视电影频道记者/策划部主任。 制片作品：电视剧《第一伞兵队》、电影《追你到天边》；《勇士之城》执行制片人。 现状：纽约赌场 Joseph，凌晨3点起床的追梦人。 本色：萧湘山，守护两颗明珠。🎥 视频记录：中年媒体人的美国二次创业。",
+        "id": "912361410772037633",
+        "location": "Middletown, NY",
+        "name": "萧湘山 | Joseph Xiao",
+        "pinned_tweet_id": "2013391566316900480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007958525121556480/1qn_yyAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 2232,
+          "like_count": 10617,
+          "listed_count": 5,
+          "media_count": 1465,
+          "tweet_count": 15860
+        },
+        "username": "xiaojiagongzi",
+        "verified": true
+      }
+    ]
+  }
+}

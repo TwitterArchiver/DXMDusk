@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031241060710805862",
+    "created_at": "2026-03-10T13:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031366873628160144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736375109374689280",
+          "start": 0,
+          "username": "xuehhh174115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031366873628160144",
+    "in_reply_to_user_id": "1736375109374689280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031241060710805862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuehhh174115 坏了，我真的是每天1g维生素C配二甲双胍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031241060710805862",
+        "created_at": "2026-03-10T13:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031366873628160144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736375109374689280",
+              "start": 0,
+              "username": "xuehhh174115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031366873628160144",
+        "in_reply_to_user_id": "1736375109374689280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031241060710805862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuehhh174115 坏了，我真的是每天1g维生素C配二甲双胍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736375109374689280",
+        "conversation_id": "2031241060710805862",
+        "created_at": "2026-03-10T05:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031241060710805862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031241060710805862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7679,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "od这个圈子看不懂，什么都o，布洛芬都o，不如o点维生素吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 682,
+          "like_count": 732,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1023
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T13:17:53.000Z",
+        "description": "谁叫我妈妈，就拉黑谁，不接推广，无门\n\n     碎碎念念，话唠",
+        "id": "1736375109374689280",
+        "location": "♡",
+        "name": "芥末巧克力",
+        "pinned_tweet_id": "2008123687384633469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823716770924150784/psq2lkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 105,
+          "like_count": 3112,
+          "listed_count": 6,
+          "media_count": 100,
+          "tweet_count": 3505
+        },
+        "username": "xuehhh174115",
+        "verified": false
+      }
+    ]
+  }
+}

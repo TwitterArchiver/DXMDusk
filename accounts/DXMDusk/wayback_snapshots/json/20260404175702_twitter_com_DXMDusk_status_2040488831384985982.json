@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040271137729663209",
+    "created_at": "2026-04-04T17:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040488831384985982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016537704071340032",
+          "start": 0,
+          "username": "sekaihewa233"
+        },
+        {
+          "end": 27,
+          "id": "1802704441961017344",
+          "start": 14,
+          "username": "hikawakaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040488831384985982",
+    "in_reply_to_user_id": "2016537704071340032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040481748707057835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sekaihewa233 @hikawakaede3 中学生一般12～15岁，高中生一般15~18岁\n性同意年龄为14岁，这个年龄在初中生的年龄范围内\n成年的年龄为18岁，这个年龄在高中生的年龄范围内\n法律规定年满16岁就可以合法打工，虽然属于未成年工，但不再属于童工范围"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040271137729663209",
+        "created_at": "2026-04-04T17:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040488831384985982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016537704071340032",
+              "start": 0,
+              "username": "sekaihewa233"
+            },
+            {
+              "end": 27,
+              "id": "1802704441961017344",
+              "start": 14,
+              "username": "hikawakaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040488831384985982",
+        "in_reply_to_user_id": "2016537704071340032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040481748707057835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sekaihewa233 @hikawakaede3 中学生一般12～15岁，高中生一般15~18岁\n性同意年龄为14岁，这个年龄在初中生的年龄范围内\n成年的年龄为18岁，这个年龄在高中生的年龄范围内\n法律规定年满16岁就可以合法打工，虽然属于未成年工，但不再属于童工范围"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016537704071340032",
+        "conversation_id": "2040271137729663209",
+        "created_at": "2026-04-04T17:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040481748707057835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 22,
+              "id": "1802704441961017344",
+              "start": 9,
+              "username": "hikawakaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040481748707057835",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040332873971233201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @hikawakaede3 你这个解释就非常的无厘头啊，起码给出个理由\n如果没有理由就将自己的价值观强加给别人，那不叫评论那叫爹味男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 1101,
+          "like_count": 2033,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 2032
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-28T15:44:12.000Z",
+        "description": "現役中国工作員🥷🏻🤫\n居合道初段（道场及流派保密）/电影剧作/djent音乐享受者/悲剧爱好者\n前世被东百银所害，一怒之下点燃金阁沐浴于大火……\n遂转生",
+        "id": "2016537704071340032",
+        "name": "若き金閣よ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016538796427538432/gt5iPF8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 373,
+          "like_count": 5227,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 656
+        },
+        "username": "sekaihewa233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（大嘘）！2025.11.14｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "冰川枫#天车一",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040049209597153280/GDAWZlX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 938,
+          "like_count": 26520,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 7978
+        },
+        "username": "hikawakaede3",
+        "verified": false
+      }
+    ]
+  }
+}

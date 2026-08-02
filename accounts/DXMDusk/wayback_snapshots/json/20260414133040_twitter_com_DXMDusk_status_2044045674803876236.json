@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032490390671303017",
+    "created_at": "2026-04-14T13:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044045674803876236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 32,
+          "id": "1810873766119100416",
+          "start": 17,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044045674803876236",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044044730418544771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @RainBuild_2024这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032490390671303017",
+        "created_at": "2026-04-14T13:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044045674803876236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 32,
+              "id": "1810873766119100416",
+              "start": 17,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044045674803876236",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044044730418544771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @RainBuild_2024这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "2032490390671303017",
+        "created_at": "2026-04-14T13:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044044730418544771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044044730418544771",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032490390671303017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 现在怎么联系上雨晴姐呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1126,
+          "like_count": 2192,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 2309
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "小雾岛岚",
+        "pinned_tweet_id": "2028423136564441463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6575,
+          "following_count": 7203,
+          "like_count": 114416,
+          "listed_count": 10,
+          "media_count": 752,
+          "tweet_count": 82360
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9515,
+          "following_count": 921,
+          "like_count": 75472,
+          "listed_count": 19,
+          "media_count": 1502,
+          "tweet_count": 10706
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

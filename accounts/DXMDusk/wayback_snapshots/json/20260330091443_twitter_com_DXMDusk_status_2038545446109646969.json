@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038545446109646969",
+    "created_at": "2026-03-30T09:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038545446109646969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/khwan_230348/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/khwan_230348/status/1980830135055237559",
+          "start": 10,
+          "url": "https://t.co/MesuggLcEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038545446109646969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980830135055237559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "泰国，哈人的性行为 https://t.co/MesuggLcEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_1980830083691470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G31Sd1rWYAAeDRQ.jpg",
+        "width": 828
+      },
+      {
+        "duration_ms": 14767,
+        "height": 640,
+        "media_key": "7_1980830092218474496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980830092218474496/pu/img/4ayXiaUUgy8QFIz8.jpg",
+        "public_metrics": {
+          "view_count": 4625
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980830092218474496/pu/vid/avc1/320x568/5BzC05tKiIyLiYbb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980830092218474496/pu/vid/avc1/360x640/FgoqB5rXSu6RpH6a.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980830092218474496/pu/pl/y5aSa5dwsrkOi72k.m3u8?tag=12"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038545446109646969",
+        "created_at": "2026-03-30T09:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038545446109646969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/khwan_230348/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/khwan_230348/status/1980830135055237559",
+              "start": 10,
+              "url": "https://t.co/MesuggLcEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038545446109646969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980830135055237559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泰国，哈人的性行为 https://t.co/MesuggLcEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980830083691470848",
+            "7_1980830092218474496"
+          ]
+        },
+        "author_id": "1887077248249008128",
+        "conversation_id": "1980830135055237559",
+        "created_at": "2025-10-22T02:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980830135055237559"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 64,
+              "tag": "สนใจคริปทักมาเลยจ้าพร้อมตอบพร้อมส่งน๊า"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCg4lSbCti",
+              "end": 127,
+              "expanded_url": "https://x.com/khwan_230348/status/1980830135055237559/video/1",
+              "media_key": "3_1980830083691470848",
+              "start": 104,
+              "url": "https://t.co/iCg4lSbCti"
+            },
+            {
+              "display_url": "pic.x.com/iCg4lSbCti",
+              "end": 127,
+              "expanded_url": "https://x.com/khwan_230348/status/1980830135055237559/video/1",
+              "media_key": "7_1980830092218474496",
+              "start": 104,
+              "url": "https://t.co/iCg4lSbCti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980830135055237559",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 12600,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "คริปมาใหม่2คริปนะคะ มาอุดหนุนกันได้เลยจ้า เยสวดๆแตกในแตกคารู 💦🫦\n#สนใจคริปทักมาเลยจ้าพร้อมตอบพร้อมส่งน๊า https://t.co/iCg4lSbCti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1076,
+          "like_count": 1848,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 1839
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T09:54:31.000Z",
+        "description": "ช่องจิง ตัวจิง ไม่ปลอม ไม่โกง เงี่ยน💦#ขายรูปขายคริปเยส💦#ไม่รับงานไม่คอลเสียว👌ไม่มีกลุ่มลับ❌เลิกรับงานนานแล้ว👌🏻แอดไลน์มา ID👉🏻0801820119👈🏻ไลน์นี้เท่านั้น",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 37,
+                "tag": "ขายรูปขายคริปเยส"
+              },
+              {
+                "end": 76,
+                "start": 55,
+                "tag": "ไม่รับงานไม่คอลเสียว"
+              }
+            ]
+          }
+        },
+        "id": "1887077248249008128",
+        "location": "นครพนม, ประเทศไทย",
+        "name": "ขวัญ'เงี่ยน💦🌈",
+        "pinned_tweet_id": "1931763225269596279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980160427930554368/_VX1GJDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 175
+        },
+        "username": "khwan_230348",
+        "verified": false
+      }
+    ]
+  }
+}

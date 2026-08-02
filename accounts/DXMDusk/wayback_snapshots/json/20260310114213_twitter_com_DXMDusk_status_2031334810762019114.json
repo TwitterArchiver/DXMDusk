@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030953220122488839",
+    "created_at": "2026-03-10T11:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031334810762019114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1957424380100894720",
+          "start": 0,
+          "username": "BNBTION"
+        },
+        {
+          "end": 19,
+          "id": "34337365",
+          "start": 9,
+          "username": "lihuaizhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031334810762019114",
+    "in_reply_to_user_id": "1957424380100894720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031292635953115519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BNBTION @lihuaizhi 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030953220122488839",
+        "created_at": "2026-03-10T11:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031334810762019114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957424380100894720",
+              "start": 0,
+              "username": "BNBTION"
+            },
+            {
+              "end": 19,
+              "id": "34337365",
+              "start": 9,
+              "username": "lihuaizhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031334810762019114",
+        "in_reply_to_user_id": "1957424380100894720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031292635953115519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BNBTION @lihuaizhi 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957424380100894720",
+        "conversation_id": "2030953220122488839",
+        "created_at": "2026-03-10T08:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031292635953115519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "34337365",
+              "start": 0,
+              "username": "lihuaizhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031292635953115519",
+        "in_reply_to_user_id": "34337365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030953220122488839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihuaizhi 没错，大V小V都是V，互关100％"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 674,
+          "like_count": 725,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1020
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T12:48:57.000Z",
+        "description": "专注BNB生态深度研究 🔬 | 币安Alpha收益最大化策略 💰 | 只做数据党，不信Fomo 📊 | 币安广场创作者 | 开启小铃铛 🔔 获取第一手Alpha信息。",
+        "id": "1957424380100894720",
+        "name": "币安币研究猿🔶 BNB",
+        "pinned_tweet_id": "1993915180313698451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994646383949963264/ynDUVzh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 845,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 629
+        },
+        "username": "BNBTION",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-22T17:35:28.000Z",
+        "description": "乍见之欢，不若久处不厌，不能相互关注，不如相忘于江湖",
+        "id": "34337365",
+        "location": "United States",
+        "name": "李坏之",
+        "pinned_tweet_id": "2030911022845042789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024090371035475968/gA_MFL8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 653,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1144
+        },
+        "username": "lihuaizhi",
+        "verified": true
+      }
+    ]
+  }
+}

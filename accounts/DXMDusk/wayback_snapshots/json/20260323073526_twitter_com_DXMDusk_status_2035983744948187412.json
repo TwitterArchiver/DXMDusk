@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2035880071421206663",
+    "created_at": "2026-03-23T07:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035983744948187412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035983744948187412",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035880071421206663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usep_111 刷成就呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2035880071421206663",
+        "created_at": "2026-03-23T07:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035983744948187412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035983744948187412",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035880071421206663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usep_111 刷成就呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2035880071421206663",
+        "created_at": "2026-03-23T00:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035880071421206663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035880071421206663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1409,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无恶意，你们好多人咋像是把普瑞当饭吃一样，吃这么多药效也不会增强吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1045,
+          "like_count": 1839,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1680
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\nod/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 691,
+          "like_count": 2637,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

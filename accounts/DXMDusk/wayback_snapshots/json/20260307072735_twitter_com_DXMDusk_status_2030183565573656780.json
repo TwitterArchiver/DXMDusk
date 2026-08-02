@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030098091110543535",
+    "created_at": "2026-03-07T07:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030183565573656780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598030376219381761",
+          "start": 0,
+          "username": "xie_hanying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030183565573656780",
+    "in_reply_to_user_id": "1598030376219381761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030098091110543535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xie_hanying 互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2030098088191479809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxbdI3aUAENEWu.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030098091110543535",
+        "created_at": "2026-03-07T07:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030183565573656780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598030376219381761",
+              "start": 0,
+              "username": "xie_hanying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030183565573656780",
+        "in_reply_to_user_id": "1598030376219381761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030098091110543535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xie_hanying 互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030098088191479809"
+          ]
+        },
+        "author_id": "1598030376219381761",
+        "conversation_id": "2030098091110543535",
+        "created_at": "2026-03-07T01:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T02:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030098091110543535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "互关互赞"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRLAcXita7",
+              "end": 58,
+              "expanded_url": "https://x.com/xie_hanying/status/2030098091110543535/photo/1",
+              "media_key": "3_2030098088191479809",
+              "start": 35,
+              "url": "https://t.co/PRLAcXita7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030098091110543535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说在家靠妈，出门靠朋友。蓝朋友来手拉手\n #互关互赞 #蓝V互关 https://t.co/PRLAcXita7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 761
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-30T19:05:38.000Z",
+        "description": "文艺女青年 → 从国企辞职 → 开美容院 → 办工厂 → 定居美国 | 从理想主义到现实主义 | AI工具 · 投资洞见 · 人生反思 | Growing like grain, soaring with the wind",
+        "id": "1598030376219381761",
+        "location": "South Carolina, USA",
+        "name": "一禾Yi He",
+        "pinned_tweet_id": "2029562921232085359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030017757597634560/EoYsZu79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 597,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 723
+        },
+        "username": "xie_hanying",
+        "verified": true
+      }
+    ]
+  }
+}

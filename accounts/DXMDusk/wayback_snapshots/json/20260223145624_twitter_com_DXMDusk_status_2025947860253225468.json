@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2025947860253225468",
+    "created_at": "2026-02-23T14:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025947860253225468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/limo_0829/stat…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/limo_0829/status/2025483809605693767",
+          "start": 110,
+          "url": "https://t.co/wc1Ia0t3vD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025947860253225468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025483809605693767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "歌单分享：\nLemon中文版＋踏山河＋跳楼机＋人人都想做哪咤＋哪吒若不是魔丸+叮咚鸡＋少年＋大碗宽面＋八方来财＋大展宏图＋神的说唱＋苹果香＋孤勇者＋野狼disco＋燃烧我的卡路里＋鸡蛋鸭蛋荷包蛋＋蛋生蛋＋宝宝肚肚打雷了 https://t.co/wc1Ia0t3vD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2025947860253225468",
+        "created_at": "2026-02-23T14:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025947860253225468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/limo_0829/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/limo_0829/status/2025483809605693767",
+              "start": 110,
+              "url": "https://t.co/wc1Ia0t3vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025947860253225468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025483809605693767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "歌单分享：\nLemon中文版＋踏山河＋跳楼机＋人人都想做哪咤＋哪吒若不是魔丸+叮咚鸡＋少年＋大碗宽面＋八方来财＋大展宏图＋神的说唱＋苹果香＋孤勇者＋野狼disco＋燃烧我的卡路里＋鸡蛋鸭蛋荷包蛋＋蛋生蛋＋宝宝肚肚打雷了 https://t.co/wc1Ia0t3vD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961430478701182976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2025483809605693767",
+        "created_at": "2026-02-22T08:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025483809605693767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025483809605693767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 73945,
+          "like_count": 1181,
+          "quote_count": 19,
+          "reply_count": 158,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "歌单分享：\nLemon中文版＋踏山河＋跳楼机＋人人都想做哪咤＋哪吒若不是魔丸+叮咚鸡＋少年＋大碗宽面＋八方来财＋大展宏图＋神的说唱＋苹果香＋孤勇者＋野狼disco＋燃烧我的卡路里＋鸡蛋鸭蛋荷包蛋＋蛋生蛋＋宝宝肚肚打雷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 228,
+          "like_count": 352,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 559
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo丨旧账：@lizi5202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "lizi5202"
+              }
+            ]
+          }
+        },
+        "id": "1961430478701182976",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022228574091333632/ULOdG8Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 655,
+          "like_count": 5564,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 2547
+        },
+        "username": "limo_0829",
+        "verified": false
+      }
+    ]
+  }
+}

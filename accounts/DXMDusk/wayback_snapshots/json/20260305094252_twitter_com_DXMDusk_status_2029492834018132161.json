@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029156718643691852",
+    "created_at": "2026-03-05T09:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029492834018132161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1585221512260616192",
+          "start": 0,
+          "username": "moeye_1103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029492834018132161",
+    "in_reply_to_user_id": "1585221512260616192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029156718643691852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeye_1103 好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2029156393136410624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkC_Rab0AA5DYm.jpg",
+        "width": 2816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029156718643691852",
+        "created_at": "2026-03-05T09:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029492834018132161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1585221512260616192",
+              "start": 0,
+              "username": "moeye_1103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029492834018132161",
+        "in_reply_to_user_id": "1585221512260616192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029156718643691852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeye_1103 好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029156393136410624"
+          ]
+        },
+        "author_id": "1585221512260616192",
+        "conversation_id": "2029156718643691852",
+        "created_at": "2026-03-04T11:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029156718643691852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "蓝v关注必回"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "蓝朋友"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "蓝v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qweedBXnNT",
+              "end": 140,
+              "expanded_url": "https://x.com/moeye_1103/status/2029156718643691852/photo/1",
+              "media_key": "3_2029156393136410624",
+              "start": 117,
+              "url": "https://t.co/qweedBXnNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029156718643691852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关帖🤛\n\n不管你是谁，从哪里来的，关注我就会回关！\n简单粗暴，主打一个来者不拒！\n现在800粉，目标先冲个1000粉！\n每天起来第一件事，查看关注列表依次回关！\n欢迎各位借楼，一起努力，一起建设！\n#蓝v关注必回 #蓝朋友 #蓝v https://t.co/qweedBXnNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 329,
+          "like_count": 462,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 677
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T10:47:27.000Z",
+        "description": "Web3 小白，在努力成长中。",
+        "id": "1585221512260616192",
+        "name": "小螃蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930931269145403392/KaRMp-My_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1550,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1178
+        },
+        "username": "moeye_1103",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023325268275007924",
+    "created_at": "2026-02-16T09:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023325268275007924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hikawakaede3/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/hikawakaede3/status/2022997437397569820",
+          "start": 39,
+          "url": "https://t.co/YY5UZagfIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023325268275007924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022997437397569820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已摄入今日份人妖药，请父母死心。\n但是有一点我必须要说一句，胸大真的好麻烦， https://t.co/YY5UZagfIY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023325268275007924",
+        "created_at": "2026-02-16T09:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023325268275007924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikawakaede3/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/hikawakaede3/status/2022997437397569820",
+              "start": 39,
+              "url": "https://t.co/YY5UZagfIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023325268275007924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022997437397569820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已摄入今日份人妖药，请父母死心。\n但是有一点我必须要说一句，胸大真的好麻烦， https://t.co/YY5UZagfIY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2022997437397569820",
+        "created_at": "2026-02-15T11:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022997437397569820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagura_yukikaz…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kagura_yukikaze/status/2022867021738705263",
+              "start": 17,
+              "url": "https://t.co/JjcUbkUMqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022997437397569820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022867021738705263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已摄入今日份人妖药，请父母死心。 https://t.co/JjcUbkUMqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 156,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 345
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 恋人：@PrimAsdue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "PrimAsdue"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "冰川枫🏳️‍⚧️#天车一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021832109191725058/dy84pDM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 663,
+          "like_count": 16340,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 4422
+        },
+        "username": "hikawakaede3",
+        "verified": false
+      }
+    ]
+  }
+}

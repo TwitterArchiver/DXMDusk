@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016511925480493060",
+    "created_at": "2026-01-29T09:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016800594389062021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016800594389062021",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016511925480493060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 只能说国人是没有脑子的，教育得太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_2016511922581942274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wW6N7WMAI0oOV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 751,
+        "media_key": "3_2016511920883556352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wW6Hma4AAWr6t.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016511925480493060",
+        "created_at": "2026-01-29T09:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016800594389062021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016800594389062021",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016511925480493060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 只能说国人是没有脑子的，教育得太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016511922581942274",
+            "3_2016511920883556352"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2016511925480493060",
+        "created_at": "2026-01-28T14:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016511925480493060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLYXtdVb02",
+              "end": 166,
+              "expanded_url": "https://x.com/wuerbangbang/status/2016511925480493060/photo/1",
+              "media_key": "3_2016511922581942274",
+              "start": 143,
+              "url": "https://t.co/HLYXtdVb02"
+            },
+            {
+              "display_url": "pic.x.com/HLYXtdVb02",
+              "end": 166,
+              "expanded_url": "https://x.com/wuerbangbang/status/2016511925480493060/photo/1",
+              "media_key": "3_2016511920883556352",
+              "start": 143,
+              "url": "https://t.co/HLYXtdVb02"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2016472298627240333",
+              "start": 167,
+              "url": "https://t.co/y0TDmP2jGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016511925480493060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 61484,
+          "like_count": 285,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016472298627240333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是个非常典型的中式谣言母题，根源是中国古代的人殉。如石峁遗址有用大量女性人头奠基城墙的习俗，后来衍生出了长城一里埋一人的孟姜女传说。更多变种包括但不限于：师父跳入窑内才做出绝世瓷器/钟/剑的传说、晚清天津教案谣传洋教士用小孩眼睛入药、50年代华北谣传苏联人割男人蛋蛋做原子弹，等等。 https://t.co/HLYXtdVb02 https://t.co/y0TDmP2jGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 90,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 99
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、旅游手工、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Hmong,  lover of history, heritage, art & kitty🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "北京",
+        "name": "吴二棒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 674,
+          "like_count": 8698,
+          "listed_count": 15,
+          "media_count": 1643,
+          "tweet_count": 5143
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

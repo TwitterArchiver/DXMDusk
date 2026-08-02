@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031343091689599047",
+    "created_at": "2026-03-10T16:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031400169699422532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879722726837157888",
+          "start": 0,
+          "username": "jackjia425738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031400169699422532",
+    "in_reply_to_user_id": "1879722726837157888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031343091689599047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackjia425738 +1啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2031342065683181568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDG2KJasAAaPT1.png",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031343091689599047",
+        "created_at": "2026-03-10T16:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031400169699422532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879722726837157888",
+              "start": 0,
+              "username": "jackjia425738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031400169699422532",
+        "in_reply_to_user_id": "1879722726837157888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031343091689599047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackjia425738 +1啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031342065683181568"
+          ]
+        },
+        "author_id": "1879722726837157888",
+        "conversation_id": "2031343091689599047",
+        "created_at": "2026-03-10T12:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031343091689599047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 134,
+              "tag": "坚持不放弃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vegscEeDlr",
+              "end": 164,
+              "expanded_url": "https://x.com/jackjia425738/status/2031343091689599047/photo/1",
+              "media_key": "3_2031342065683181568",
+              "start": 141,
+              "url": "https://t.co/vegscEeDlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031343091689599047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 134,
+                "tag": "坚持不放弃"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "数据增长"
+              },
+              {
+                "end": 152,
+                "start": 147,
+                "tag": "慢就是快"
+              },
+              {
+                "end": 159,
+                "start": 153,
+                "tag": "创作者日常"
+              },
+              {
+                "end": 165,
+                "start": 160,
+                "tag": "感谢关注"
+              },
+              {
+                "end": 171,
+                "start": 166,
+                "tag": "长期主义"
+              },
+              {
+                "end": 177,
+                "start": 172,
+                "tag": "真诚内容"
+              }
+            ]
+          },
+          "text": "最近总觉得自己走得慢，翻了翻后台数据才发现：\n曝光在慢慢涨，关注也在一点点往上挪，\n互动率也在悄悄变好✨\n谢谢每一个愿意停留的你，我们一起慢慢变好。\n没有一夜爆红的运气，\n就靠每天认真发内容、认真和大家互动。\n慢一点也没关系，只要方向是向前的，\n坚持下去就会有回响。\n#坚持不放弃 #数据增长 #慢就是快 #创作者日常 #感谢关注 #长期主义 #真诚内容"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 665,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近总觉得自己走得慢，翻了翻后台数据才发现：\n曝光在慢慢涨，关注也在一点点往上挪，\n互动率也在悄悄变好✨\n谢谢每一个愿意停留的你，我们一起慢慢变好。\n没有一夜爆红的运气，\n就靠每天认真发内容、认真和大家互动。\n慢一点也没关系，只要方向是向前的，\n坚持下去就会有回响。\n#坚持不放弃 https://t.co/vegscEeDlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 695,
+          "like_count": 746,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1039
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-16T02:51:01.000Z",
+        "description": "多一个看世界的角度，寻找志同道合的人和圈子。\n坚持原创手搓，坚持分享自己的感悟思考和投资心得，\n在AI突飞猛进的时代，做一点慢的事情，做一个有人味的频道。",
+        "id": "1879722726837157888",
+        "location": "马尔代夫",
+        "name": "路遥知马力-jackjia4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000139309786284032/TV9ymb4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 601,
+          "like_count": 2829,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 471
+        },
+        "username": "jackjia425738",
+        "verified": true
+      }
+    ]
+  }
+}

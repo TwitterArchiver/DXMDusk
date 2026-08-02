@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043386527380856832"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043469461890736265",
+    "created_at": "2026-04-12T23:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T00:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043469461890736265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RU59Bc64ql",
+          "end": 63,
+          "expanded_url": "https://x.com/DXMDusk/status/2043469461890736265/photo/1",
+          "media_key": "3_2043386527380856832",
+          "start": 40,
+          "url": "https://t.co/RU59Bc64ql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043469461890736265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新发布的关于办理贪污贿赂刑事案件适用法律若干问题的解释\n看来茅台的销量要增加了 https://t.co/RU59Bc64ql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2043386527380856832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuROGda4AABr7Q.jpg",
+        "width": 813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043386527380856832"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043469461890736265",
+        "created_at": "2026-04-12T23:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043469461890736265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RU59Bc64ql",
+              "end": 63,
+              "expanded_url": "https://x.com/DXMDusk/status/2043469461890736265/photo/1",
+              "media_key": "3_2043386527380856832",
+              "start": 40,
+              "url": "https://t.co/RU59Bc64ql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043469461890736265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新发布的关于办理贪污贿赂刑事案件适用法律若干问题的解释\n看来茅台的销量要增加了 https://t.co/RU59Bc64ql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 1119,
+          "like_count": 2124,
+          "listed_count": 3,
+          "media_count": 396,
+          "tweet_count": 2251
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

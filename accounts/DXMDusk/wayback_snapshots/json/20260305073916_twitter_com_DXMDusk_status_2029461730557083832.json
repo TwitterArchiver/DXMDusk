@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2028857770251051346",
+    "created_at": "2026-03-05T07:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029461730557083832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3317811422",
+          "start": 0,
+          "username": "jkwd007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029461730557083832",
+    "in_reply_to_user_id": "3317811422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028857770251051346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkwd007 嗯，来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2028857770251051346",
+        "created_at": "2026-03-05T07:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029461730557083832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3317811422",
+              "start": 0,
+              "username": "jkwd007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029461730557083832",
+        "in_reply_to_user_id": "3317811422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028857770251051346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkwd007 嗯，来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3317811422",
+        "conversation_id": "2028857770251051346",
+        "created_at": "2026-03-03T15:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028857770251051346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028857770251051346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7497,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 118,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是现实？\n\n你没蓝V\n别人都不跟你互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 309,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 669
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-17T14:05:38.000Z",
+        "description": "来都来了，顺手点个关注吧，蓝v互关，永不取消。主营方向：分享大奶大长腿，真实spa探店，真实线下老师，需要联系",
+        "id": "3317811422",
+        "location": "TOKYO",
+        "name": "斯文禽兽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/645878049297182720/BgR1GPkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 1476,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3395
+        },
+        "username": "jkwd007",
+        "verified": true
+      }
+    ]
+  }
+}

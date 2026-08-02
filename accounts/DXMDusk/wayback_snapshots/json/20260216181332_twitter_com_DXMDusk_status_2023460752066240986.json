@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023042063307300911",
+    "created_at": "2026-02-16T18:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023460752066240986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        },
+        {
+          "end": 22,
+          "id": "1543806299074310144",
+          "start": 11,
+          "username": "qichangli1"
+        },
+        {
+          "end": 34,
+          "id": "1581478431274983424",
+          "start": 23,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023460752066240986",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023453309659652467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg @qichangli1 @yoyobewild 自制版本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023042063307300911",
+        "created_at": "2026-02-16T18:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023460752066240986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            },
+            {
+              "end": 22,
+              "id": "1543806299074310144",
+              "start": 11,
+              "username": "qichangli1"
+            },
+            {
+              "end": 34,
+              "id": "1581478431274983424",
+              "start": 23,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023460752066240986",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023453309659652467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg @qichangli1 @yoyobewild 自制版本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "2023042063307300911",
+        "created_at": "2026-02-16T17:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023453309659652467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543806299074310144",
+              "start": 0,
+              "username": "qichangli1"
+            },
+            {
+              "end": 20,
+              "id": "1974276207496867842",
+              "start": 12,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 32,
+              "id": "1581478431274983424",
+              "start": 21,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023453309659652467",
+        "in_reply_to_user_id": "1543806299074310144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023282465872429462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichangli1 @DXMDusk @yoyobewild lGPT是哪个版本的GPT，我怎么没用过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 160,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 365
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004213219150454784/M5m2uykH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 706,
+          "like_count": 7728,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 4207
+        },
+        "username": "banzaixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T03:58:20.000Z",
+        "description": "",
+        "id": "1543806299074310144",
+        "name": "qi chang li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543806390233223171/u4wMk6o2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 101,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 808
+        },
+        "username": "qichangli1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 191,
+          "like_count": 32626,
+          "listed_count": 17,
+          "media_count": 362,
+          "tweet_count": 7528
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

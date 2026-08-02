@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030152889033969957",
+    "created_at": "2026-03-07T14:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030295134315893190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824802283399622656",
+          "start": 0,
+          "username": "liuziyuhan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030295134315893190",
+    "in_reply_to_user_id": "1824802283399622656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030152889033969957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuziyuhan 互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030152889033969957",
+        "created_at": "2026-03-07T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030295134315893190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824802283399622656",
+              "start": 0,
+              "username": "liuziyuhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030295134315893190",
+        "in_reply_to_user_id": "1824802283399622656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030152889033969957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuziyuhan 互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824802283399622656",
+        "conversation_id": "2030152889033969957",
+        "created_at": "2026-03-07T05:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030152889033969957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030152889033969957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1321,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关 🤝\n看到必回，秒回不拖沓！\n一起扩列涨粉，互相扶持，把账号做大做强💪\n评论/私信「互关」，马上安排✔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 511,
+          "like_count": 518,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 790
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T13:35:52.000Z",
+        "description": "｜$BGB钻石手｜bitget注册链接:https://t.co/cbipF8oWib｜币安注册链接：https://t.co/PfWxYBs6lg注册连接：https|定投$bgb holder，付出总会有回报｜morph ｜love crypto｜加油！｜熊市建设｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bitget.com/zh-CN/referral…",
+                "end": 43,
+                "expanded_url": "https://www.bitget.com/zh-CN/referral/register?clacCode=3L3QYKRQ",
+                "start": 20,
+                "url": "https://t.co/cbipF8oWib"
+              },
+              {
+                "display_url": "bsmkweb.cc/register?ref=4…",
+                "end": 74,
+                "expanded_url": "https://www.bsmkweb.cc/register?ref=45943877|OK",
+                "start": 51,
+                "url": "https://t.co/PfWxYBs6lg"
+              }
+            ]
+          }
+        },
+        "id": "1824802283399622656",
+        "name": "刘子渝｜yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909599019703431168/1oHFXq6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1371,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 502
+        },
+        "username": "liuziyuhan",
+        "verified": true
+      }
+    ]
+  }
+}

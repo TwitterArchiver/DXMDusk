@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016887706970968108",
+    "created_at": "2026-01-29T17:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016924098602131785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016924098602131785",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016887706970968108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 我这个月到手工资在2000左右，租房，不包吃，我觉得你比我强，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016887706970968108",
+        "created_at": "2026-01-29T17:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016924098602131785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016924098602131785",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016887706970968108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 我这个月到手工资在2000左右，租房，不包吃，我觉得你比我强，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2016887706970968108",
+        "created_at": "2026-01-29T14:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016887706970968108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016887706970968108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1139,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 98,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 148
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "惨逼一个 聊黄滚 骂我死妈 被b自己找原因 fo你＝喜欢\n唯一的恋人是酷拉皮卡…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱→",
+        "name": "回木",
+        "pinned_tweet_id": "2016510432039571539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 608,
+          "like_count": 20447,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 4734
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

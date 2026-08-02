@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2039136147121787388",
+    "created_at": "2026-04-01T00:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039143765705883734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039143765705883734",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039142356314890496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 那我问你，蓝V从何而来☝️😆😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2039136147121787388",
+        "created_at": "2026-04-01T00:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039143765705883734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039143765705883734",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039142356314890496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 那我问你，蓝V从何而来☝️😆😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2039136147121787388",
+        "created_at": "2026-04-01T00:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039142356314890496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039142356314890496",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039136147121787388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 宝宝～，可是我…我真的好想吃饱饭😭😭😭🥳🥳🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 1092,
+          "like_count": 1992,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 1972
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的hrt开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 170cm 53kg ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "清流（手指停不下来）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039134012091047936/Ay5TJx5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 59,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 722
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

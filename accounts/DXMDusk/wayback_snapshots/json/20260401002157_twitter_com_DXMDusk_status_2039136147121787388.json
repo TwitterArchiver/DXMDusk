@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039135843995287552"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2039136147121787388",
+    "created_at": "2026-04-01T00:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039136147121787388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBunyy8gkK",
+          "end": 53,
+          "expanded_url": "https://x.com/DXMDusk/status/2039136147121787388/photo/1",
+          "media_key": "3_2039135843995287552",
+          "start": 30,
+          "url": "https://t.co/rBunyy8gkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039136147121787388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "评论区抽三个人，每个送三百块\n尽限今天参加\n4月31号开奖 https://t.co/rBunyy8gkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039135843995287552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx3Pw4bAAA0Fj4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039135843995287552"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2039136147121787388",
+        "created_at": "2026-04-01T00:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039136147121787388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBunyy8gkK",
+              "end": 53,
+              "expanded_url": "https://x.com/DXMDusk/status/2039136147121787388/photo/1",
+              "media_key": "3_2039135843995287552",
+              "start": 30,
+              "url": "https://t.co/rBunyy8gkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039136147121787388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论区抽三个人，每个送三百块\n尽限今天参加\n4月31号开奖 https://t.co/rBunyy8gkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 1092,
+          "like_count": 1991,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 1969
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

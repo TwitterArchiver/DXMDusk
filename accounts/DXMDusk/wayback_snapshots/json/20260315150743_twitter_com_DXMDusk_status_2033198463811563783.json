@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033092257985999242",
+    "created_at": "2026-03-15T15:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033198463811563783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1833158710849609728",
+          "start": 0,
+          "username": "CcEePpVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033198463811563783",
+    "in_reply_to_user_id": "1833158710849609728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033194774732181678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CcEePpVv 你不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033092257985999242",
+        "created_at": "2026-03-15T15:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033198463811563783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1833158710849609728",
+              "start": 0,
+              "username": "CcEePpVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033198463811563783",
+        "in_reply_to_user_id": "1833158710849609728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033194774732181678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CcEePpVv 你不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833158710849609728",
+        "conversation_id": "2033092257985999242",
+        "created_at": "2026-03-15T14:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033194774732181678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033194774732181678",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033092257985999242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 洗澡就洗澡吧。杂七杂八的也太乱了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 985,
+          "like_count": 1659,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 1500
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-09T15:01:23.000Z",
+        "description": "不想睡觉 不想起床",
+        "id": "1833158710849609728",
+        "location": "雄安新区",
+        "name": "Radio_Silence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032359093210402816/R16UCC35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 34,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 123
+        },
+        "username": "CcEePpVv",
+        "verified": false
+      }
+    ]
+  }
+}

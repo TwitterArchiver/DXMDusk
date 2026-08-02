@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030823536512864495",
+    "created_at": "2026-03-09T07:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030915884425134316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929780994632306689",
+          "start": 0,
+          "username": "lishun60938"
+        },
+        {
+          "end": 22,
+          "id": "1995041096049786880",
+          "start": 13,
+          "username": "AnAuTCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030915884425134316",
+    "in_reply_to_user_id": "1929780994632306689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030910884621730125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lishun60938 @AnAuTCat 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030823536512864495",
+        "created_at": "2026-03-09T07:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030915884425134316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929780994632306689",
+              "start": 0,
+              "username": "lishun60938"
+            },
+            {
+              "end": 22,
+              "id": "1995041096049786880",
+              "start": 13,
+              "username": "AnAuTCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030915884425134316",
+        "in_reply_to_user_id": "1929780994632306689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030910884621730125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lishun60938 @AnAuTCat 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929780994632306689",
+        "conversation_id": "2030823536512864495",
+        "created_at": "2026-03-09T07:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030910884621730125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995041096049786880",
+              "start": 0,
+              "username": "AnAuTCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030910884621730125",
+        "in_reply_to_user_id": "1995041096049786880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030823536512864495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnAuTCat 来一起互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 610,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 910
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T06:03:51.000Z",
+        "description": "擅长区块链软件开发、web3项目孵化及技术开发。10年行业经验，40多号技术人员，致力于推动区块链行业的创新发展。主营业务：公链、WEB3社交钱包、AI量化、区块链商城、IM聊天、DAPP开发、DEFI质押、链游、SWAP开发、RWA上链、发铭文等\n咨询TG:@shkayle\nWhatsApp:18025463806",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 130,
+                "username": "shkayle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shun88811",
+                "end": 23,
+                "expanded_url": "https://t.me/shun88811",
+                "start": 0,
+                "url": "https://t.co/kIi7LKSOAt"
+              }
+            ]
+          }
+        },
+        "id": "1929780994632306689",
+        "location": "深圳龙华",
+        "name": "web3软件开发/公链钱包/DAPP开发/区块链技术/区块链商城开发",
+        "pinned_tweet_id": "2013953930661871666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000905574154895360/fwRNbCbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 837,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/kIi7LKSOAt",
+        "username": "lishun60938",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T08:04:18.000Z",
+        "description": "👏AI tools → real work｜AI 工具拆解｜真实使用场景",
+        "id": "1995041096049786880",
+        "name": "Rong Yan",
+        "pinned_tweet_id": "2020406023446814720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025839523192786944/3aOl4AgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 945,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 723
+        },
+        "username": "AnAuTCat",
+        "verified": true
+      }
+    ]
+  }
+}

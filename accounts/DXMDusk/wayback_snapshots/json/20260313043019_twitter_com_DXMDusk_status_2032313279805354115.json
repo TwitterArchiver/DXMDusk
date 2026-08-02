@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032275288428855358",
+    "created_at": "2026-03-13T04:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032313279805354115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032313279805354115",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032275288428855358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 这个时间段会不会是315？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2032275284830142470",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQXmqYbQAYQQMW.jpg",
+        "width": 741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032275288428855358",
+        "created_at": "2026-03-13T04:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032313279805354115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032313279805354115",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032275288428855358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 这个时间段会不会是315？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032275284830142470"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2032275288428855358",
+        "created_at": "2026-03-13T01:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032275288428855358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVqwyAHee0",
+              "end": 100,
+              "expanded_url": "https://x.com/jlxc2001/status/2032275288428855358/photo/1",
+              "media_key": "3_2032275284830142470",
+              "start": 77,
+              "url": "https://t.co/uVqwyAHee0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032275288428855358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7439,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在参与央视的彩排中（\n我现在才知道甲方和我说的今晚我要参与直播指的是央视的直播（\n算是人生第一次上这种超大型官方的电视节目。早知道提前几天去理个发的（ https://t.co/uVqwyAHee0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 864,
+          "like_count": 1414,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1368
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12392,
+          "following_count": 145,
+          "like_count": 379,
+          "listed_count": 25,
+          "media_count": 680,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

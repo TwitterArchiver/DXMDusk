@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031255697405755646",
+    "created_at": "2026-03-10T15:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031398284926005279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929834225920032768",
+          "start": 0,
+          "username": "zaichangjilu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031398284926005279",
+    "in_reply_to_user_id": "1929834225920032768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031255697405755646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaichangjilu 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031255697405755646",
+        "created_at": "2026-03-10T15:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031398284926005279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929834225920032768",
+              "start": 0,
+              "username": "zaichangjilu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031398284926005279",
+        "in_reply_to_user_id": "1929834225920032768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031255697405755646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaichangjilu 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929834225920032768",
+        "conversation_id": "2031255697405755646",
+        "created_at": "2026-03-10T06:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031255697405755646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031255697405755646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1496,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关\n\n前两天看到到处刷屏的神人\n关注37万多，34万关注者\n\n好了，格调定好了。\n互关一直持续吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 692,
+          "like_count": 742,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1035
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T09:35:35.000Z",
+        "description": "HK / CN Project Builder\n港股｜美股｜NFT｜数字藏品｜RWA｜Crypto\n记录时代 · 长期主义\n欢迎有志之士，共谋发展",
+        "id": "1929834225920032768",
+        "location": "曼谷",
+        "name": "在场记录｜Web3 Builder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929835332062924806/BE7x-TZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 2914,
+          "like_count": 5291,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 3174
+        },
+        "username": "zaichangjilu",
+        "verified": true
+      }
+    ]
+  }
+}

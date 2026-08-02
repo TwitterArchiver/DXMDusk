@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032046975135416326",
+    "created_at": "2026-03-12T15:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032113453171949822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1269436213783457792",
+          "start": 0,
+          "username": "gracexm2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032113453171949822",
+    "in_reply_to_user_id": "1269436213783457792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032046975135416326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gracexm2010 +1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032044012232900608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNFQ00aAAAZXY9.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032046975135416326",
+        "created_at": "2026-03-12T15:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032113453171949822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1269436213783457792",
+              "start": 0,
+              "username": "gracexm2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032113453171949822",
+        "in_reply_to_user_id": "1269436213783457792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032046975135416326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gracexm2010 +1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032044012232900608"
+          ]
+        },
+        "author_id": "1269436213783457792",
+        "conversation_id": "2032046975135416326",
+        "created_at": "2026-03-12T10:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:40:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032044018553811452",
+          "2032046975135416326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1269436213783457792",
+              "start": 54,
+              "username": "gracexm2010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFPZv6la90",
+              "end": 200,
+              "expanded_url": "https://x.com/gracexm2010/status/2032046975135416326/photo/1",
+              "media_key": "3_2032044012232900608",
+              "start": 177,
+              "url": "https://t.co/NFPZv6la90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032046975135416326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 66,
+                "id": "1269436213783457792",
+                "start": 54,
+                "username": "gracexm2010"
+              }
+            ]
+          },
+          "text": "📣今天又看了下自己近4周的数据：\n\n曝光 3.7M\n互动 44.7K\n点赞 15.7K\n回复 2.6K\n\n我@gracexm2010  很多内容其实都是在和推友的交流中慢慢发酵的。\n\n更让我珍惜的是：\n\n我的 5.9K 粉丝里，有 4.3K 是蓝V，\n也就是 73% 的高质量朋友。\n\n这说明：\n\n很多认真、理性、有判断力的人\n愿意在这里一起讨论交流。\n\n真的很感谢大家🫡\n\n人到中年，心态平和，虽然还差 1.3M 曝光才达5M，\n\n但我也不会去搞什么邪修。\n\n继续坚持三件事：\n\n原创、认真表达、高质量回复评论。\n\n很多爆帖其实是推友一起讨论交流启发出来的。\n\n欢迎继续一起聊天、碰撞、思考🫡\n\n再次谢谢推友们的支持。🙏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1379,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📣今天又看了下自己近4周的数据：\n\n曝光 3.7M\n互动 44.7K\n点赞 15.7K\n回复 2.6K\n\n我@gracexm2010  很多内容其实都是在和推友的交流中慢慢发酵的。\n\n更让我珍惜的是：\n\n我的 5.9K 粉丝里，有 4.3K 是蓝V，\n也就是 73% 的高质量朋友。\n\n这说明：\n\n很多认真、理性、有判断力的人\n愿意在这里一起讨论交流。 https://t.co/NFPZv6la90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 850,
+          "like_count": 1347,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 1327
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-07T01:09:32.000Z",
+        "description": "🍳 家常美食 | 与孩子共成长：尊重·幽默·真心 Growing with my teen: respect, humor & heart 旅行·信仰·心理·阅读 | 拥抱生活，敞开心灵❤️ Travel · Faith · Psychology · Reading | Open soul to life ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/gracexm2010/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/gracexm2010/status/2018321301732229437?s=46",
+                "start": 0,
+                "url": "https://t.co/Jh7VUZQtQN"
+              }
+            ]
+          }
+        },
+        "id": "1269436213783457792",
+        "location": "与teen和长辈共成长的硬核智慧👇",
+        "name": "realgrace",
+        "pinned_tweet_id": "2032046975135416326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029608294042718209/HI5IKLcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6038,
+          "following_count": 5852,
+          "like_count": 47743,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 6271
+        },
+        "url": "https://t.co/Jh7VUZQtQN",
+        "username": "gracexm2010",
+        "verified": true
+      }
+    ]
+  }
+}

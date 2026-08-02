@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031616013041844471",
+    "created_at": "2026-03-11T07:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031638716956160142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800558524436766720",
+          "start": 0,
+          "username": "fan128168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031638716956160142",
+    "in_reply_to_user_id": "1800558524436766720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031616013041844471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan128168 来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2031615456738783233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDG_fnMbsAEfJaP.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031616013041844471",
+        "created_at": "2026-03-11T07:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031638716956160142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800558524436766720",
+              "start": 0,
+              "username": "fan128168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031638716956160142",
+        "in_reply_to_user_id": "1800558524436766720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031616013041844471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan128168 来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031615456738783233"
+          ]
+        },
+        "author_id": "1800558524436766720",
+        "conversation_id": "2031616013041844471",
+        "created_at": "2026-03-11T06:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031616013041844471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "蓝V互粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYXGytQAL3",
+              "end": 105,
+              "expanded_url": "https://x.com/fan128168/status/2031616013041844471/photo/1",
+              "media_key": "3_2031615456738783233",
+              "start": 82,
+              "url": "https://t.co/PYXGytQAL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031616013041844471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1366,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4300+ 的蓝V粉丝，占比 53%！\n\n我这权重应该很可以了吧~\n\n继续开启 #蓝V互粉  互关模式\n\n我预测 当蓝V粉丝 =  5000 时，我应该就万粉了！ https://t.co/PYXGytQAL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 725,
+          "like_count": 824,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1105
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-11T15:59:49.000Z",
+        "description": "Ai 赛道｜碎碎念博主｜@trondao & @0xProbable Ambassador｜蓝鸟会·飞轮·灯塔｜顺势而为，让结果掩盖噪音｜所有推文均不构成投资建议 DYOR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "trondao"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "0xProbable"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fan128168",
+                "end": 23,
+                "expanded_url": "https://t.me/fan128168",
+                "start": 0,
+                "url": "https://t.co/0R4MhJ3k64"
+              }
+            ]
+          }
+        },
+        "id": "1800558524436766720",
+        "location": "🍭 I LOVE Musk 🍭",
+        "name": "CandyDD💢",
+        "pinned_tweet_id": "2029848690077356048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961321623740719105/Np0ovzbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8259,
+          "following_count": 4999,
+          "like_count": 47753,
+          "listed_count": 53,
+          "media_count": 1212,
+          "tweet_count": 55086
+        },
+        "url": "https://t.co/0R4MhJ3k64",
+        "username": "fan128168",
+        "verified": true
+      }
+    ]
+  }
+}

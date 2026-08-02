@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030513927218753893",
+    "created_at": "2026-03-08T23:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T00:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030789189491626083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989175405069365251",
+          "start": 0,
+          "username": "cwq2026888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030789189491626083",
+    "in_reply_to_user_id": "1989175405069365251",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030513927218753893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwq2026888 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030513927218753893",
+        "created_at": "2026-03-08T23:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030789189491626083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989175405069365251",
+              "start": 0,
+              "username": "cwq2026888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030789189491626083",
+        "in_reply_to_user_id": "1989175405069365251",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030513927218753893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwq2026888 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989175405069365251",
+        "conversation_id": "2030513927218753893",
+        "created_at": "2026-03-08T05:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030513927218753893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030513927218753893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 566,
+          "like_count": 542,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 849
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T03:36:22.000Z",
+        "description": "一只幸运的猫在爬歪脖山~专注RSS3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cwq147258",
+                "end": 23,
+                "expanded_url": "https://t.me/cwq147258",
+                "start": 0,
+                "url": "https://t.co/BB9EUO6HUw"
+              }
+            ]
+          }
+        },
+        "id": "1989175405069365251",
+        "name": "一只幸运的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991147283296202753/59WPdSdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 2080,
+          "like_count": 1981,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/BB9EUO6HUw",
+        "username": "cwq2026888",
+        "verified": true
+      }
+    ]
+  }
+}

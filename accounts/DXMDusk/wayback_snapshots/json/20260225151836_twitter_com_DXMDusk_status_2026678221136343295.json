@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026671493699219963",
+    "created_at": "2026-02-25T15:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026678221136343295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1889695481938448384",
+          "start": 0,
+          "username": "PnKoZCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026678221136343295",
+    "in_reply_to_user_id": "1889695481938448384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026676104602509765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PnKoZCN 自带的笔记不支持改这些颜色🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026671493699219963",
+        "created_at": "2026-02-25T15:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026678221136343295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026678221136343295",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026676104602509765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN 自带的笔记不支持改这些颜色🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889695481938448384",
+        "conversation_id": "2026671493699219963",
+        "created_at": "2026-02-25T15:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026676104602509765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026676104602509765",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026671493699219963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 颜色不对，将图中黑色字替换为浅蓝色，橙色字替换为浅粉色，蓝色字替换为蓝白粉渐变(从左到右)这样可能会好一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 248,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 602
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 互fo | 不OD💊 | 不自残🔪 | 暂无心理以及身体疾病",
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 342,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 402
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

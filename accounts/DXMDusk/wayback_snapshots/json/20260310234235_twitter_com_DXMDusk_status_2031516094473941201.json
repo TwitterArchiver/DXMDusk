@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031357461572235422",
+    "created_at": "2026-03-10T23:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T00:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031516094473941201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031516094473941201",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031357461572235422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 薪火相传"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031357461572235422",
+        "created_at": "2026-03-10T23:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031516094473941201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031516094473941201",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031357461572235422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 薪火相传"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593547850637791233",
+        "conversation_id": "2031357461572235422",
+        "created_at": "2026-03-10T13:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031357461572235422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031357461572235422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当HR遇到过哪些奇葩的应聘者？\n\n匿名网友：\n\n做人事十年，头回遇见这样的求职者。\n\n小姑娘进门坐下，不问工资，不问保险，只问了一句话：“单位有宿舍吗？”\n\n我说有。她眼睛一亮，马上追问：“今天能搬进去吗？”\n\n我说不能——宿舍要过试用期才能申请，而且她的情况，大概率不会被录用。\n\n她听完，哇的一声哭了。\n\n仔细问了下我才知道，她的出租房今天到期，交不起房租，必须搬走。我问她为什么不找父母，她抹着眼泪说，家里条件不好，父亲常年生病，母亲一个人挣钱，不想再让她惦记。\n\n那一刻我很想破例录取她。但理智告诉我，得对公司和老板负责。\n\n最后我掏出五百块钱递给她，让她先找个地方住下。她很感激的给我鞠了一躬，说找到工作开了工资就还，然后转身就走了。\n\n助理问：“您觉得她会还吗？”\n\n我没回答，给她讲了个二十年前的故事。\n\n那年我去北京打工，混到连回家的路费都没有。一个河南大哥塞给我十块钱，车票九块三，剩下的够买个烧饼。这么多年我一直记着。\n\n我想他当年掏钱的时候，肯定没想过这钱还能不能回来。\n\n所以我也别想了。就当这丫头是那位河南大哥的女儿，我替他帮一把。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 154222,
+          "like_count": 807,
+          "quote_count": 2,
+          "reply_count": 96,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "当HR遇到过哪些奇葩的应聘者？\n\n匿名网友：\n\n做人事十年，头回遇见这样的求职者。\n\n小姑娘进门坐下，不问工资，不问保险，只问了一句话：“单位有宿舍吗？”\n\n我说有。她眼睛一亮，马上追问：“今天能搬进去吗？”\n\n我说不能——宿舍要过试用期才能申请，而且她的情况，大概率不会被录用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 699,
+          "like_count": 761,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1052
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187802,
+          "following_count": 1321,
+          "like_count": 3278,
+          "listed_count": 751,
+          "media_count": 3581,
+          "tweet_count": 6660
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

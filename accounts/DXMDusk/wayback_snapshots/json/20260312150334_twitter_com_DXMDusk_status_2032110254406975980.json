@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030620938778357857",
+    "created_at": "2026-03-12T15:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032110254406975980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1929245020735029248",
+          "start": 0,
+          "username": "fufu969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032110254406975980",
+    "in_reply_to_user_id": "1929245020735029248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030620938778357857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu969 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2030620930922430464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC42-l0awAAqb3Y.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030620938778357857",
+        "created_at": "2026-03-12T15:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032110254406975980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1929245020735029248",
+              "start": 0,
+              "username": "fufu969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032110254406975980",
+        "in_reply_to_user_id": "1929245020735029248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030620938778357857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu969 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030620930922430464"
+          ]
+        },
+        "author_id": "1929245020735029248",
+        "conversation_id": "2030620938778357857",
+        "created_at": "2026-03-08T12:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030620938778357857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdk5ZAi4Bx",
+              "end": 43,
+              "expanded_url": "https://x.com/fufu969/status/2030620938778357857/photo/1",
+              "media_key": "3_2030620930922430464",
+              "start": 20,
+              "url": "https://t.co/xdk5ZAi4Bx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030620938778357857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了，毁灭吧，我这人这辈子也就这样了。 https://t.co/xdk5ZAi4Bx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 848,
+          "like_count": 1339,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 1326
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T18:34:15.000Z",
+        "description": "10年我还是个孩子哇(´๑•ω•๑`) | mtf🏳️‍⚧ | 无证含糖 | 未出柜 | 1.7m 50kg | 现居成都欢迎贴贴 | 不割 | 不约 | 不卖 | 不od | 这么小你们也下得去手？| 同类互fo | 小孤独 | 需要陪伴 | 希望天天开心 |",
+        "id": "1929245020735029248",
+        "name": "奈奈さま🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027705448451956736/99Ps-YlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 89,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 20
+        },
+        "username": "fufu969",
+        "verified": true
+      }
+    ]
+  }
+}

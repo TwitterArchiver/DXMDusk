@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016517163864199227",
+    "created_at": "2026-03-07T13:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030280790219936099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1585221512260616192",
+          "start": 0,
+          "username": "moeye_1103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030280790219936099",
+    "in_reply_to_user_id": "1585221512260616192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029495369315598542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeye_1103 只是因为这是置顶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016517163864199227",
+        "created_at": "2026-03-07T13:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030280790219936099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1585221512260616192",
+              "start": 0,
+              "username": "moeye_1103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030280790219936099",
+        "in_reply_to_user_id": "1585221512260616192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029495369315598542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeye_1103 只是因为这是置顶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585221512260616192",
+        "conversation_id": "2016517163864199227",
+        "created_at": "2026-03-05T09:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029495369315598542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029495369315598542",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016517163864199227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 简单的四个字为什么会有2.1万的曝光啊？我的好朋友你到底做了什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 501,
+          "like_count": 516,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 785
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T10:47:27.000Z",
+        "description": "Web3 小白，在努力成长中。",
+        "id": "1585221512260616192",
+        "name": "小螃蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930931269145403392/KaRMp-My_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1878,
+          "like_count": 1847,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 1631
+        },
+        "username": "moeye_1103",
+        "verified": true
+      }
+    ]
+  }
+}

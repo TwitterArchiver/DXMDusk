@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030969741264015760",
+    "created_at": "2026-03-09T18:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T19:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031076828627304897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832364364483194882",
+          "start": 0,
+          "username": "Wdl196051Wei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031076828627304897",
+    "in_reply_to_user_id": "1832364364483194882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030969741264015760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wdl196051Wei 一起来，百分百互"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "互关互关",
+        "height": 665,
+        "media_key": "3_2030969735454863360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC90Nr9bMAAa7j2.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030969741264015760",
+        "created_at": "2026-03-09T18:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031076828627304897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832364364483194882",
+              "start": 0,
+              "username": "Wdl196051Wei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031076828627304897",
+        "in_reply_to_user_id": "1832364364483194882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030969741264015760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wdl196051Wei 一起来，百分百互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030969735454863360"
+          ]
+        },
+        "author_id": "1832364364483194882",
+        "conversation_id": "2030969741264015760",
+        "created_at": "2026-03-09T11:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030969741264015760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oXkeXbTex",
+              "end": 30,
+              "expanded_url": "https://x.com/Wdl196051Wei/status/2030969741264015760/photo/1",
+              "media_key": "3_2030969735454863360",
+              "start": 7,
+              "url": "https://t.co/6oXkeXbTex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030969741264015760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 884,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关互赞秒回 https://t.co/6oXkeXbTex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 645,
+          "like_count": 683,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 990
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-07T10:25:12.000Z",
+        "description": "",
+        "id": "1832364364483194882",
+        "name": "Steven wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832366153777463297/8Iq_4kbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 872,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 79
+        },
+        "username": "Wdl196051Wei",
+        "verified": true
+      }
+    ]
+  }
+}

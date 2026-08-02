@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037943707497058304"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038545013530058783",
+    "created_at": "2026-03-30T09:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038545013530058783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZzBc0wImB3",
+          "end": 42,
+          "expanded_url": "https://x.com/DXMDusk/status/2038545013530058783/photo/1",
+          "media_key": "3_2037943707497058304",
+          "start": 19,
+          "url": "https://t.co/ZzBc0wImB3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038545013530058783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么你们那么好看，明明我也吃糖了😭 https://t.co/ZzBc0wImB3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_2037943707497058304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEg7ASWa0AAbMQ7.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037943707497058304"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038545013530058783",
+        "created_at": "2026-03-30T09:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038545013530058783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzBc0wImB3",
+              "end": 42,
+              "expanded_url": "https://x.com/DXMDusk/status/2038545013530058783/photo/1",
+              "media_key": "3_2037943707497058304",
+              "start": 19,
+              "url": "https://t.co/ZzBc0wImB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038545013530058783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们那么好看，明明我也吃糖了😭 https://t.co/ZzBc0wImB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1076,
+          "like_count": 1848,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 1838
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

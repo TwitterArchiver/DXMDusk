@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032308279997837377",
+    "created_at": "2026-03-13T05:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032324859813118376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032324859813118376",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032308279997837377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz 这个设备，得要用多久才能回本🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2032308273232429057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ1m1wbQAES7m-.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032308279997837377",
+        "created_at": "2026-03-13T05:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032324859813118376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032324859813118376",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032308279997837377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 这个设备，得要用多久才能回本🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032308273232429057"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2032308279997837377",
+        "created_at": "2026-03-13T04:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032308279997837377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAVVDJCYCG",
+              "end": 32,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2032308279997837377/photo/1",
+              "media_key": "3_2032308273232429057",
+              "start": 9,
+              "url": "https://t.co/eAVVDJCYCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032308279997837377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好连电费都省了 https://t.co/eAVVDJCYCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 871,
+          "like_count": 1438,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1387
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1049,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 1213
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

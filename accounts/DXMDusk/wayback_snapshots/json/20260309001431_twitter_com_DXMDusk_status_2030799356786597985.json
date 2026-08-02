@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030456526151049474",
+    "created_at": "2026-03-09T00:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T01:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030799356786597985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847287669946245120",
+          "start": 0,
+          "username": "BlueGang1968"
+        },
+        {
+          "end": 27,
+          "id": "1588523994872918018",
+          "start": 14,
+          "username": "cryptoyangqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030799356786597985",
+    "in_reply_to_user_id": "1847287669946245120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030552732021784775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueGang1968 @cryptoyangqi 回一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030456526151049474",
+        "created_at": "2026-03-09T00:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030799356786597985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847287669946245120",
+              "start": 0,
+              "username": "BlueGang1968"
+            },
+            {
+              "end": 27,
+              "id": "1588523994872918018",
+              "start": 14,
+              "username": "cryptoyangqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030799356786597985",
+        "in_reply_to_user_id": "1847287669946245120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030552732021784775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueGang1968 @cryptoyangqi 回一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847287669946245120",
+        "conversation_id": "2030456526151049474",
+        "created_at": "2026-03-08T07:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030552732021784775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1588523994872918018",
+              "start": 0,
+              "username": "cryptoyangqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030552732021784775",
+        "in_reply_to_user_id": "1588523994872918018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030456526151049474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptoyangqi 来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 576,
+          "like_count": 562,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 865
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-18T14:44:55.000Z",
+        "description": "吃货大叔的各种碎碎念，各种玩物丧志。",
+        "id": "1847287669946245120",
+        "name": "大雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847288009684910080/wUR9JhaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 1709,
+          "like_count": 77,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 715
+        },
+        "username": "BlueGang1968",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T13:30:17.000Z",
+        "description": "前传统金融leader | 现 Web3 算法交易员 | 价格行为学坚定者 | 无编程基础，自研脚本辅助交易 | 交易没有圣杯，保持严格的盈亏比计划与交易纪律。 | 👇 点击链接https://t.co/FNAhdsC5AZ，免费试用AI预警信号3天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/V8yaoqingbot",
+                "end": 112,
+                "expanded_url": "https://t.me/V8yaoqingbot",
+                "start": 89,
+                "url": "https://t.co/FNAhdsC5AZ"
+              }
+            ]
+          }
+        },
+        "id": "1588523994872918018",
+        "name": "crypto洋气",
+        "pinned_tweet_id": "2029128832654164268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029450200599937025/LB-wITcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1176,
+          "like_count": 2585,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 1998
+        },
+        "username": "cryptoyangqi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "1990347472619892951",
+    "created_at": "2026-03-12T01:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T02:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031912091091943901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2916717738",
+          "start": 0,
+          "username": "0927baca96c641d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031912091091943901",
+    "in_reply_to_user_id": "2916717738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990347472619892951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0927baca96c641d 喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "1990347472619892951",
+        "created_at": "2026-03-12T01:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031912091091943901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2916717738",
+              "start": 0,
+              "username": "0927baca96c641d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031912091091943901",
+        "in_reply_to_user_id": "2916717738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990347472619892951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0927baca96c641d 喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916717738",
+        "conversation_id": "1990347472619892951",
+        "created_at": "2025-11-17T09:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990347472619892951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990347472619892951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1347,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一个互动贴，需要我关注的朋友，评论区说一声，凡是关注我的，我都会回关注。\n\n  无论粉丝多少，不管是不是蓝V，都是一视同仁，永不取关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 797,
+          "like_count": 1122,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1243
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-02T15:47:26.000Z",
+        "description": "取经误入加密界，炼成链上七十二变。\n火眼金睛辨妖币，筋斗云里定盈亏。\n金箍棒只破泡沫，不吹不割不站台。\n战绩铭刻链上碑，合作只接真金——\n经我三昧真火炼过，方是西天真经。\n\n｜链上斗战圣佛｜一跟头十万共识｜只与金刚不坏的项目过招｜",
+        "id": "2916717738",
+        "location": "lakhimpur kheri",
+        "name": "链上行者孙",
+        "pinned_tweet_id": "1990347472619892951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003755412282314752/lhy6qDOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 6450,
+          "like_count": 7289,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 7062
+        },
+        "username": "0927baca96c641d",
+        "verified": true
+      }
+    ]
+  }
+}

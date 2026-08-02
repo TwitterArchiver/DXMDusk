@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031534855339774114",
+    "created_at": "2026-03-11T05:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031610612791611607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "881085716058456065",
+          "start": 0,
+          "username": "MrLaoFou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031610612791611607",
+    "in_reply_to_user_id": "881085716058456065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031534855339774114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrLaoFou 已关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031534855339774114",
+        "created_at": "2026-03-11T05:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031610612791611607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "881085716058456065",
+              "start": 0,
+              "username": "MrLaoFou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031610612791611607",
+        "in_reply_to_user_id": "881085716058456065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031534855339774114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrLaoFou 已关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881085716058456065",
+        "conversation_id": "2031534855339774114",
+        "created_at": "2026-03-11T00:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T01:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031534855339774114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031534855339774114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来，互关走一波\n一般不会立马回关\n因为有限制\n后续我都会慢慢回关的\n蓝V百分百回关\n除了搞黄色，诈骗，政治的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 708,
+          "like_count": 798,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1082
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-01T09:42:59.000Z",
+        "description": "蜗居于深圳 | 我们可能正处在一个最好的时代\n信仰BTC | 看好稳定币(CRCL)与HYPE| 看好AI | 相信国运定投纳指 \n没有任何一个人有预测能力，都是从个自的认知出发，对未来的猜测。\n在此的只言片语当然是我的胡言乱语。\n实属不吐不快。\n人间需要温暖，欢迎蓝V互关。\n专注搞钱。\n政治黄推诈骗一边去。",
+        "id": "881085716058456065",
+        "name": "老否先生",
+        "pinned_tweet_id": "2026472101834797110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533244551007469568/8fQHtFKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 2110,
+          "like_count": 24,
+          "listed_count": 8,
+          "media_count": 68,
+          "tweet_count": 2187
+        },
+        "username": "MrLaoFou",
+        "verified": true
+      }
+    ]
+  }
+}

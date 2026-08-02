@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038958135839424849",
+    "created_at": "2026-03-31T13:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038967891308269902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849626003108397061",
+          "start": 0,
+          "username": "_SakuraCyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038967891308269902",
+    "in_reply_to_user_id": "1849626003108397061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038966442390131140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SakuraCyan_ 咖啡因这东西，就别搞地域黑了，卡车司机才是咖啡因摄入的主力军，而且对于卡车司机来说咖啡因是刚需，没有咖啡因的话，卡车司机车祸率至少提升好几个点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038958135839424849",
+        "created_at": "2026-03-31T13:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038967891308269902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849626003108397061",
+              "start": 0,
+              "username": "_SakuraCyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038967891308269902",
+        "in_reply_to_user_id": "1849626003108397061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038966442390131140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SakuraCyan_ 咖啡因这东西，就别搞地域黑了，卡车司机才是咖啡因摄入的主力军，而且对于卡车司机来说咖啡因是刚需，没有咖啡因的话，卡车司机车祸率至少提升好几个点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849626003108397061",
+        "conversation_id": "2038958135839424849",
+        "created_at": "2026-03-31T13:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038966442390131140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038966442390131140",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038958135839424849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 那你就该问问为什么山西人要搁那狠狠吸咖啡因给你吸成管制药品了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 1084,
+          "like_count": 1962,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 1950
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-25T01:36:29.000Z",
+        "description": "",
+        "id": "1849626003108397061",
+        "name": "本間桜ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030815368244342785/v6llBLnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 558
+        },
+        "username": "_SakuraCyan_",
+        "verified": false
+      }
+    ]
+  }
+}

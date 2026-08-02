@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023050789581930547",
+    "created_at": "2026-02-16T07:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023300058062389433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614176089580146688",
+          "start": 0,
+          "username": "ANONTaipei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023300058062389433",
+    "in_reply_to_user_id": "1614176089580146688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023182730289451380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANONTaipei 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023050789581930547",
+        "created_at": "2026-02-16T07:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023300058062389433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614176089580146688",
+              "start": 0,
+              "username": "ANONTaipei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023300058062389433",
+        "in_reply_to_user_id": "1614176089580146688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023182730289451380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANONTaipei 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614176089580146688",
+        "conversation_id": "2023050789581930547",
+        "created_at": "2026-02-15T23:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T00:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023182730289451380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023182730289451380",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023050789581930547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 150,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 313
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T08:22:52.000Z",
+        "description": "キスするとあなたは消えてしまう、だから頬を寄せていたい",
+        "id": "1614176089580146688",
+        "location": "花蓮市",
+        "name": "鱼",
+        "pinned_tweet_id": "2010350180957409379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017834098916732928/iiw6jOQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 499,
+          "like_count": 17359,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1749
+        },
+        "username": "ANONTaipei",
+        "verified": false
+      }
+    ]
+  }
+}

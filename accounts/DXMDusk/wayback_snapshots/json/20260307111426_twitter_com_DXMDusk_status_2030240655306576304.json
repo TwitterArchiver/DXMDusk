@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030136006180229438",
+    "created_at": "2026-03-07T11:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030240655306576304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465526091745873920",
+          "start": 0,
+          "username": "Mr57814170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030240655306576304",
+    "in_reply_to_user_id": "1465526091745873920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030136006180229438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr57814170 百分百互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2030135990103461889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCx97UfaUAEDtg0.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030136006180229438",
+        "created_at": "2026-03-07T11:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030240655306576304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465526091745873920",
+              "start": 0,
+              "username": "Mr57814170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030240655306576304",
+        "in_reply_to_user_id": "1465526091745873920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030136006180229438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr57814170 百分百互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030135990103461889"
+          ]
+        },
+        "author_id": "1465526091745873920",
+        "conversation_id": "2030136006180229438",
+        "created_at": "2026-03-07T04:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030136006180229438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "蓝v关注必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDKfeoNrGM",
+              "end": 90,
+              "expanded_url": "https://x.com/Mr57814170/status/2030136006180229438/photo/1",
+              "media_key": "3_2030135990103461889",
+              "start": 67,
+              "url": "https://t.co/CDKfeoNrGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030136006180229438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 635,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们限流了。我会在40分钟间隔关注一一回关15个兄弟；\n耐心等待。不要取关，我都会一一回关！谢谢大家！\n#蓝V互关 #蓝v关注必回 https://t.co/CDKfeoNrGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 474,
+          "like_count": 512,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 772
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T03:40:28.000Z",
+        "description": "经历2轮牛熊| Web3一级投研者+二级市场全职分析交易员；运用裸K结合西方指标、趋势结构、谐波形态等分析当下行情;\n#Binance 你的数字货币购买/交易平台，就是 #币安8折邀请链接https://t.co/AyB9UO2WUK\nTG：Ajiang0222",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marketwebb.com/join?ref=21809…",
+                "end": 117,
+                "expanded_url": "https://www.marketwebb.com/join?ref=218092388",
+                "start": 94,
+                "url": "https://t.co/AyB9UO2WUK"
+              }
+            ]
+          }
+        },
+        "id": "1465526091745873920",
+        "name": "Web3|良轩Mr蒋|",
+        "pinned_tweet_id": "2030081662793683300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846787330964946944/YNR4A3pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 936,
+          "like_count": 213,
+          "listed_count": 6,
+          "media_count": 1332,
+          "tweet_count": 3340
+        },
+        "username": "Mr57814170",
+        "verified": true
+      }
+    ]
+  }
+}

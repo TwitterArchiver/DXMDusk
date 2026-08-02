@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037192305376178570",
+    "created_at": "2026-03-27T13:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037528548702036410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037528548702036410",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037192305376178570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 你现在是男证还是女证，根据身份证关押的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037192305376178570",
+        "created_at": "2026-03-27T13:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037528548702036410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037528548702036410",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037192305376178570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 你现在是男证还是女证，根据身份证关押的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "2037192305376178570",
+        "created_at": "2026-03-26T15:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037192305376178570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037192305376178570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1455,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉监狱不会是在憋大招吧，因为我还没有切子宫卵巢就把身份证改成男性了，他们想把我改成女性？？那样我是不是就可以报难民了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1064,
+          "like_count": 1827,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1720
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "还要活多久才能被治愈",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "2031680381012119874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965360806159437824/TZDoSYs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1247,
+          "like_count": 14769,
+          "listed_count": 2,
+          "media_count": 1368,
+          "tweet_count": 7891
+        },
+        "username": "Martim036145",
+        "verified": false
+      }
+    ]
+  }
+}

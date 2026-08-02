@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032122844675784844",
+    "created_at": "2026-03-12T15:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032122844675784844"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032122844675784844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "双向情感障碍加ADHD地雷妹军训时的一日：\n早上起来先吃一片舍曲林减轻昨晚od喹硫平的宿醉感，起来在厕所洗个冷水澡保持头脑清醒，吃一颗妈妈准备的鱼油润润喉，在来两片每天早上必吃的文拉法辛和派甲酯。出门给自己跑一壶铁观音保证早上的清醒，感觉还是太困直接往嘴里丢了片咖啡因片。下楼开始早训先往太阳穴涂了点印度神油保证自己不会在几百人面前听无聊训话到睡倒，靠着男友前几天落下的一片伟哥血脉喷张地撑过了一个早上。中午吃的魔爪泡饭，od来点健胃消食片后又在小卖部买了瓶红牛当下午的饮料。结果不知道是不是伟哥的药效太过强劲，下午直接中暑了，在医务室校医给我灌了瓶藿香正气水，我感觉自己又可以了，炫了一瓶红牛又加入了训练。终于结束了疲惫的一天，回到寝室决定今晚不吃喹硫平了，换了阿普唑仑当做今晚的安眠药，又害怕药效不够于是又下床吃了片褪黑素，明天一定万无一失了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双向情感障碍加ADHD地雷妹军训时的一日："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032122844675784844",
+        "created_at": "2026-03-12T15:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032122844675784844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032122844675784844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "双向情感障碍加ADHD地雷妹军训时的一日：\n早上起来先吃一片舍曲林减轻昨晚od喹硫平的宿醉感，起来在厕所洗个冷水澡保持头脑清醒，吃一颗妈妈准备的鱼油润润喉，在来两片每天早上必吃的文拉法辛和派甲酯。出门给自己跑一壶铁观音保证早上的清醒，感觉还是太困直接往嘴里丢了片咖啡因片。下楼开始早训先往太阳穴涂了点印度神油保证自己不会在几百人面前听无聊训话到睡倒，靠着男友前几天落下的一片伟哥血脉喷张地撑过了一个早上。中午吃的魔爪泡饭，od来点健胃消食片后又在小卖部买了瓶红牛当下午的饮料。结果不知道是不是伟哥的药效太过强劲，下午直接中暑了，在医务室校医给我灌了瓶藿香正气水，我感觉自己又可以了，炫了一瓶红牛又加入了训练。终于结束了疲惫的一天，回到寝室决定今晚不吃喹硫平了，换了阿普唑仑当做今晚的安眠药，又害怕药效不够于是又下床吃了片褪黑素，明天一定万无一失了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双向情感障碍加ADHD地雷妹军训时的一日："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 852,
+          "like_count": 1371,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1342
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

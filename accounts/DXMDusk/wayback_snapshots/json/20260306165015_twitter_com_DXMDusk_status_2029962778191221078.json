@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2029728776016609570",
+    "created_at": "2026-03-06T16:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029962778191221078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573147965585137665",
+          "start": 0,
+          "username": "maomaohong018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029962778191221078",
+    "in_reply_to_user_id": "1573147965585137665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029728776016609570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaohong018 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 122,
+        "media_key": "16_2029728765836992512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCsLjv4bIAA1EIp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCsLjv4bIAA1EIp.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2029728776016609570",
+        "created_at": "2026-03-06T16:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029962778191221078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573147965585137665",
+              "start": 0,
+              "username": "maomaohong018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029962778191221078",
+        "in_reply_to_user_id": "1573147965585137665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029728776016609570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaohong018 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029728765836992512"
+          ]
+        },
+        "author_id": "1573147965585137665",
+        "conversation_id": "2029728776016609570",
+        "created_at": "2026-03-06T01:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029728776016609570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "互关"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "互关必回"
+            },
+            {
+              "end": 155,
+              "start": 151,
+              "tag": "互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrfNvkcuiF",
+              "end": 179,
+              "expanded_url": "https://x.com/maomaohong018/status/2029728776016609570/photo/1",
+              "media_key": "16_2029728765836992512",
+              "start": 156,
+              "url": "https://t.co/QrfNvkcuiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029728776016609570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "互关"
+              },
+              {
+                "end": 150,
+                "start": 145,
+                "tag": "互关必回"
+              },
+              {
+                "end": 155,
+                "start": 151,
+                "tag": "互fo"
+              },
+              {
+                "end": 161,
+                "start": 156,
+                "tag": "蓝V权重"
+              },
+              {
+                "end": 166,
+                "start": 162,
+                "tag": "X算法"
+              }
+            ]
+          },
+          "text": "新的一天从互关开始！！\n\n长期互关/新人互助/评论回踩\n\n新号启动需要大家坚持一起来互动\n\n为什么现在大家都冲蓝V互关？\n因为平台真的在偏爱蓝V社交圈：\n\n互关后曝光权重肉眼可见上涨\n\n评论/点赞更容易被推到更多人时间线\n\n我承诺：互关后永不取关\n直接fo我，走起！\n\n#蓝V互关 #互关 #互关必回 #互fo #蓝V权重 #X算法"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1799,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的一天从互关开始！！\n\n长期互关/新人互助/评论回踩\n\n新号启动需要大家坚持一起来互动\n\n为什么现在大家都冲蓝V互关？\n因为平台真的在偏爱蓝V社交圈：\n\n互关后曝光权重肉眼可见上涨\n\n评论/点赞更容易被推到更多人时间线\n\n我承诺：互关后永不取关\n直接fo我，走起！\n\n#蓝V互关 #互关 #互关必回 #互fo https://t.co/QrfNvkcuiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 454,
+          "like_count": 490,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 743
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-23T03:11:46.000Z",
+        "description": "🚀没有牛逼Bio的普通一中登｜💰5wU逆袭之路｜🕹️互联网废物｜ 日常摆烂\n\n🐮🐴把996过成躺平｜长期主义者｜注电备考ing💪｜随性日常分享 🏖️\n\n✨注：贴文内容仅个人观点非投资建议",
+        "id": "1573147965585137665",
+        "location": "上海",
+        "name": "一名理工蓝✨Alan（长期互fo）",
+        "pinned_tweet_id": "2028371962318508370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019324622433579010/PzuXx-u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 667,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 164
+        },
+        "username": "maomaohong018",
+        "verified": true
+      }
+    ]
+  }
+}

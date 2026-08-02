@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023298325710295143",
+    "created_at": "2026-02-16T07:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023298325710295143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lLhPUVCO4RuaNK…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/lLhPUVCO4RuaNKd/status/2023293580333494738",
+          "start": 95,
+          "url": "https://t.co/EvMJiuKg2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023298325710295143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023293580333494738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "处于困境中的人深陷其中，没有外力的帮助，往往难以逃脱困境的束缚，\n这点还得归功于互联网的存在吧，让身处困境中的人们可以更容易的从外界借助他人之力获得帮助和支持，从而拥有摆脱当前困境的能力， https://t.co/EvMJiuKg2L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023298325710295143",
+        "created_at": "2026-02-16T07:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023298325710295143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lLhPUVCO4RuaNK…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/lLhPUVCO4RuaNKd/status/2023293580333494738",
+              "start": 95,
+              "url": "https://t.co/EvMJiuKg2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023298325710295143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023293580333494738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "处于困境中的人深陷其中，没有外力的帮助，往往难以逃脱困境的束缚，\n这点还得归功于互联网的存在吧，让身处困境中的人们可以更容易的从外界借助他人之力获得帮助和支持，从而拥有摆脱当前困境的能力， https://t.co/EvMJiuKg2L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431905550678167553",
+        "conversation_id": "2022972072075596211",
+        "created_at": "2026-02-16T07:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023293580333494738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023293580333494738",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022972072075596211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 需要让自杀者找到活着的希望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 150,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 311
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T09:04:46.000Z",
+        "description": "千疮百孔，支离破碎",
+        "id": "1431905550678167553",
+        "name": "了却云归",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431907747822379011/SoAmlY1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 52,
+          "like_count": 3329,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 3087
+        },
+        "username": "lLhPUVCO4RuaNKd",
+        "verified": false
+      }
+    ]
+  }
+}

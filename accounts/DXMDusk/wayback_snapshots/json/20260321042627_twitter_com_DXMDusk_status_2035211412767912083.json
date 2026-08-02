@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035211409953628164"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2035211412767912083",
+    "created_at": "2026-03-21T04:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035211412767912083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mNBsDZ7bU",
+          "end": 109,
+          "expanded_url": "https://x.com/DXMDusk/status/2035211412767912083/photo/1",
+          "media_key": "3_2035211409953628164",
+          "start": 86,
+          "url": "https://t.co/7mNBsDZ7bU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035211412767912083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粤禁本意是好的，只是下面人执行坏了\n但结果是好的（扩散od）\n不能因为他的过（禁毒）摆在明面上，就抹杀他的功（扩散）在暗处发光\n广州禁毒，越禁越有（Oder最好的入门科普 https://t.co/7mNBsDZ7bU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1694,
+        "media_key": "3_2035211409953628164",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6F_o0boAQ-V9y.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035211409953628164"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2035211412767912083",
+        "created_at": "2026-03-21T04:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035211412767912083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mNBsDZ7bU",
+              "end": 109,
+              "expanded_url": "https://x.com/DXMDusk/status/2035211412767912083/photo/1",
+              "media_key": "3_2035211409953628164",
+              "start": 86,
+              "url": "https://t.co/7mNBsDZ7bU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035211412767912083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粤禁本意是好的，只是下面人执行坏了\n但结果是好的（扩散od）\n不能因为他的过（禁毒）摆在明面上，就抹杀他的功（扩散）在暗处发光\n广州禁毒，越禁越有（Oder最好的入门科普 https://t.co/7mNBsDZ7bU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1041,
+          "like_count": 1830,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 1668
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

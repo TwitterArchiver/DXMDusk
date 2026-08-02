@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023323427403124736"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023279266822262787",
+    "created_at": "2026-02-16T09:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023323445401190898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jhtQS9clvi",
+          "end": 38,
+          "expanded_url": "https://x.com/DXMDusk/status/2023323445401190898/photo/1",
+          "media_key": "3_2023323427403124736",
+          "start": 15,
+          "url": "https://t.co/jhtQS9clvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023323445401190898",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023279266822262787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 喵~ https://t.co/jhtQS9clvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2023323427403124736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRJ7-wW0AAUN57.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023323427403124736"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023279266822262787",
+        "created_at": "2026-02-16T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023323445401190898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhtQS9clvi",
+              "end": 38,
+              "expanded_url": "https://x.com/DXMDusk/status/2023323445401190898/photo/1",
+              "media_key": "3_2023323427403124736",
+              "start": 15,
+              "url": "https://t.co/jhtQS9clvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023323445401190898",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023279266822262787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 喵~ https://t.co/jhtQS9clvi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2023279266822262787",
+        "created_at": "2026-02-16T06:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023279266822262787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023279266822262787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2169,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有推友拿到压岁钱想狠狠消费一把的，我这有收款码！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 156,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 341
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 27,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 4,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26594,
+          "following_count": 10977,
+          "like_count": 85996,
+          "listed_count": 103,
+          "media_count": 4748,
+          "tweet_count": 16197
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

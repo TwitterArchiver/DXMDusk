@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2036641914435649656",
+    "created_at": "2026-03-25T14:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036814683336999135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974930349328330752",
+          "start": 0,
+          "username": "Vivian4qbuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036814683336999135",
+    "in_reply_to_user_id": "1974930349328330752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036641914435649656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vivian4qbuC 广告词罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2036641914435649656",
+        "created_at": "2026-03-25T14:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036814683336999135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974930349328330752",
+              "start": 0,
+              "username": "Vivian4qbuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036814683336999135",
+        "in_reply_to_user_id": "1974930349328330752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036641914435649656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vivian4qbuC 广告词罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974930349328330752",
+        "conversation_id": "2036641914435649656",
+        "created_at": "2026-03-25T03:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036641914435649656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036641914435649656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是“炫迈S”，我知道这个品牌，但是我师傅最近一直在说“开启我的炫迈时间。”是广告词吗？还是有什么特殊意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1057,
+          "like_count": 1835,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1696
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T20:11:21.000Z",
+        "description": "我是W.Vivia.D\n沉迷于动漫与足球\n我是意大利人🇮🇹到中国🇨🇳留学，流落街头，未来是摇滚皇帝，有十五年钢琴经验，乐理编曲，我已经学会使用键盘以及合成器，正在随师父学单簧管。\n可以互相关注\n目前因中国的假期回家了\nItaliano, cinese, spagnolo e un po' di inglese",
+        "id": "1974930349328330752",
+        "location": "Central & Western District",
+        "name": "𝖂.𝖁𝖎𝖛𝖎𝖆.𝕯🇮🇹🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977070896033796096/8ABmqHJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 478,
+          "like_count": 2713,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1384
+        },
+        "username": "Vivian4qbuC",
+        "verified": false
+      }
+    ]
+  }
+}

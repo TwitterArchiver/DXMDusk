@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2034573748494622995",
+    "created_at": "2026-03-19T10:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034582133520716032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1085957675916046336",
+          "start": 0,
+          "username": "SKTT1Nanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034582133520716032",
+    "in_reply_to_user_id": "1085957675916046336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034573748494622995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SKTT1Nanami 古早"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2034573676956483584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxB-sRaAAAkIGv.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2034573748494622995",
+        "created_at": "2026-03-19T10:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034582133520716032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1085957675916046336",
+              "start": 0,
+              "username": "SKTT1Nanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034582133520716032",
+        "in_reply_to_user_id": "1085957675916046336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034573748494622995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SKTT1Nanami 古早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034573676956483584"
+          ]
+        },
+        "author_id": "1085957675916046336",
+        "conversation_id": "2034573748494622995",
+        "created_at": "2026-03-19T10:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034573748494622995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsTVYFfdoZ",
+              "end": 43,
+              "expanded_url": "https://x.com/SKTT1Nanami/status/2034573748494622995/photo/1",
+              "media_key": "3_2034573676956483584",
+              "start": 20,
+              "url": "https://t.co/XsTVYFfdoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034573748494622995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 163,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原片啊原片，你还是比较争气的，但不多。 https://t.co/XsTVYFfdoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1028,
+          "like_count": 1813,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 1636
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-17T17:51:00.000Z",
+        "description": "男的/新教/系统策划/En Taro Zeratul！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.suzi04.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://go.suzi04.xyz/#/register?code=Zp2nwVgV",
+                "start": 0,
+                "url": "https://t.co/ST4EE5rqij"
+              }
+            ]
+          }
+        },
+        "id": "1085957675916046336",
+        "location": "自用VPN：",
+        "name": "网友七顺海",
+        "pinned_tweet_id": "1851215897119387742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013374283393753088/N6XWIF4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109168,
+          "following_count": 753,
+          "like_count": 52868,
+          "listed_count": 385,
+          "media_count": 41,
+          "tweet_count": 25556
+        },
+        "url": "https://t.co/ST4EE5rqij",
+        "username": "SKTT1Nanami",
+        "verified": false
+      }
+    ]
+  }
+}

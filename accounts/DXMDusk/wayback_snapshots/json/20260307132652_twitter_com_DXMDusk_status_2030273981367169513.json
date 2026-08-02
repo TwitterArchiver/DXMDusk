@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030241601394737652",
+    "created_at": "2026-03-07T13:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030273981367169513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "786973148545560576",
+          "start": 0,
+          "username": "shede1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030273981367169513",
+    "in_reply_to_user_id": "786973148545560576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030241601394737652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shede1208 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2030241596692918272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzd-bsacAAJ0CS.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030241601394737652",
+        "created_at": "2026-03-07T13:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030273981367169513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "786973148545560576",
+              "start": 0,
+              "username": "shede1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030273981367169513",
+        "in_reply_to_user_id": "786973148545560576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030241601394737652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shede1208 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030241596692918272"
+          ]
+        },
+        "author_id": "786973148545560576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030241601394737652",
+        "created_at": "2026-03-07T11:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030241601394737652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "互关"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "涨粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2gR5cej4V",
+              "end": 155,
+              "expanded_url": "https://x.com/shede1208/status/2030241601394737652/photo/1",
+              "media_key": "3_2030241596692918272",
+              "start": 132,
+              "url": "https://t.co/V2gR5cej4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030241601394737652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目标冲3000粉！各位朋友/蓝V兄弟姐妹，来波互关，先把基础人数打牢～\n一个人玩太冷清，互相关注后时间线瞬间热闹起来😂\n不管你多少粉，有蓝V的我优先回关！\n评论区 随便说句话（加油/已关/求带），我一个个回～\n一起努力，基础稳了后面内容才好起飞💪 #互关 #涨粉 https://t.co/V2gR5cej4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 497,
+          "like_count": 515,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 780
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-14T16:53:14.000Z",
+        "description": "技术分析 BTC ETH XAU XAG\n\n致虚极，守静笃，万物并作，吾以观复。",
+        "id": "786973148545560576",
+        "name": "知足",
+        "pinned_tweet_id": "2022200712927850591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022623899100549121/-39pZylB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 3030,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1089
+        },
+        "username": "shede1208",
+        "verified": true
+      }
+    ]
+  }
+}

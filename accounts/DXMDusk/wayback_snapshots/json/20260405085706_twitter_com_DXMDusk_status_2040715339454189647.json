@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2040455831213453771",
+    "created_at": "2026-04-05T08:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040715339454189647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637154854677401600",
+          "start": 0,
+          "username": "xiaomianTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040715339454189647",
+    "in_reply_to_user_id": "1637154854677401600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040714178886058002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomianTT 你觉得有问题可以引用推文批评，这我不说话，但截图背后蛐蛐是什么意思，背后批评是怕我不知道还是怎么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040455831213453771",
+        "created_at": "2026-04-05T08:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040715339454189647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637154854677401600",
+              "start": 0,
+              "username": "xiaomianTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040715339454189647",
+        "in_reply_to_user_id": "1637154854677401600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040714178886058002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomianTT 你觉得有问题可以引用推文批评，这我不说话，但截图背后蛐蛐是什么意思，背后批评是怕我不知道还是怎么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637154854677401600",
+        "conversation_id": "2040455831213453771",
+        "created_at": "2026-04-05T08:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040714178886058002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040714178886058002",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040714015257899068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 你有病吗，你自己是觉得你这条推没问题是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 1101,
+          "like_count": 2043,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2072
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-18T18:11:56.000Z",
+        "description": "les/0.5switch单身",
+        "id": "1637154854677401600",
+        "name": "怎么每天都好困",
+        "pinned_tweet_id": "2028597800603435392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034659743445516288/E0HahRP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 270,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "username": "xiaomianTT",
+        "verified": false
+      }
+    ]
+  }
+}

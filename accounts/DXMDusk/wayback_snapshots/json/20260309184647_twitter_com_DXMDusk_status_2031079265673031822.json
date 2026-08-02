@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030904105086890209",
+    "created_at": "2026-03-09T18:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T19:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031079265673031822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675855246684454913",
+          "start": 0,
+          "username": "nevis_5280"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031079265673031822",
+    "in_reply_to_user_id": "1675855246684454913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030904105086890209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nevis_5280 来，都来，百分百互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2030903888627589120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC84U5abYAA9yKY.png",
+        "width": 316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030904105086890209",
+        "created_at": "2026-03-09T18:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T19:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031079265673031822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675855246684454913",
+              "start": 0,
+              "username": "nevis_5280"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031079265673031822",
+        "in_reply_to_user_id": "1675855246684454913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030904105086890209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nevis_5280 来，都来，百分百互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030903888627589120"
+          ]
+        },
+        "author_id": "1675855246684454913",
+        "conversation_id": "2030904105086890209",
+        "created_at": "2026-03-09T07:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030904105086890209"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1MQ3r7h2q",
+              "end": 42,
+              "expanded_url": "https://x.com/nevis_5280/status/2030904105086890209/photo/1",
+              "media_key": "3_2030903888627589120",
+              "start": 19,
+              "url": "https://t.co/Y1MQ3r7h2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030904105086890209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1143,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v们！！诚信互关不取关 #蓝V互关 https://t.co/Y1MQ3r7h2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 646,
+          "like_count": 686,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 992
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T13:13:33.000Z",
+        "description": "蓝V互关",
+        "id": "1675855246684454913",
+        "name": "Shewolf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785665258818039808/XiD306sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 591,
+          "like_count": 2168,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 427
+        },
+        "username": "nevis_5280",
+        "verified": true
+      }
+    ]
+  }
+}

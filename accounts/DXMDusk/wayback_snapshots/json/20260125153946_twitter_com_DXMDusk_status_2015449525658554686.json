@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2015435225988301078",
+    "created_at": "2026-01-25T15:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015449525658554686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739908593254883328",
+          "start": 0,
+          "username": "AngelSexyHem"
+        }
+      ],
+      "urls": [
+        {
+          "description": "群主： @RTN25 不主动私聊， 注意高仿诈骗。 仅用于研究目的， 不得用于其他用途。 #Ritalin #利他林 #ADHD #ADD",
+          "display_url": "t.me/rtn266",
+          "end": 37,
+          "expanded_url": "https://t.me/rtn266",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2015449527642357760/1FhyvNrp?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2015449527642357760/1FhyvNrp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "R C + Group",
+          "unwound_url": "https://t.me/rtn266",
+          "url": "https://t.co/DXaQ0w2aZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015449525658554686",
+    "in_reply_to_user_id": "1739908593254883328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015446292688777328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSexyHem https://t.co/DXaQ0w2aZY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2015435225988301078",
+        "created_at": "2026-01-25T15:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015449525658554686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ],
+          "urls": [
+            {
+              "description": "群主： @RTN25 不主动私聊， 注意高仿诈骗。 仅用于研究目的， 不得用于其他用途。 #Ritalin #利他林 #ADHD #ADD",
+              "display_url": "t.me/rtn266",
+              "end": 37,
+              "expanded_url": "https://t.me/rtn266",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2015449527642357760/1FhyvNrp?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015449527642357760/1FhyvNrp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "R C + Group",
+              "unwound_url": "https://t.me/rtn266",
+              "url": "https://t.co/DXaQ0w2aZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015449525658554686",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015446292688777328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem https://t.co/DXaQ0w2aZY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739908593254883328",
+        "conversation_id": "2015435225988301078",
+        "created_at": "2026-01-25T15:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015446292688777328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015446292688777328",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015443357947019524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 啊啊啊谢谢你告诉我！！可以拉我进去吗qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 45,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖😚我是鸭鸭^ ^⚠️od血图注意⚠️https://t.co/FGoF2GVimc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/adxahemhemhem",
+                "end": 78,
+                "expanded_url": "https://t.me/adxahemhemhem",
+                "start": 55,
+                "url": "https://t.co/FGoF2GVimc"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1981649290058412105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 334,
+          "like_count": 4454,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2139
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

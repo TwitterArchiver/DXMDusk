@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030514376298619316",
+    "created_at": "2026-03-08T23:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T00:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030786727879876972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534605921845919745",
+          "start": 0,
+          "username": "Bobix75845763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030786727879876972",
+    "in_reply_to_user_id": "1534605921845919745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030514376298619316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bobix75845763 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030514376298619316",
+        "created_at": "2026-03-08T23:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030786727879876972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534605921845919745",
+              "start": 0,
+              "username": "Bobix75845763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030786727879876972",
+        "in_reply_to_user_id": "1534605921845919745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030514376298619316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bobix75845763 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534605921845919745",
+        "conversation_id": "2030514376298619316",
+        "created_at": "2026-03-08T05:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030514376298619316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030514376298619316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来互关走起，回关秒回\n#蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 563,
+          "like_count": 541,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 847
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-08T18:39:04.000Z",
+        "description": "生活缝缝补补，币圈挥金如土。大A转战币圈，熟悉各种割法。专业撸毛，爱玩合约。投资警钟：不要梭哈，不要梭哈，不要梭哈！",
+        "id": "1534605921845919745",
+        "location": "香港",
+        "name": "M哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008114198723907586/8chwdfhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1341,
+          "like_count": 3339,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 3358
+        },
+        "username": "Bobix75845763",
+        "verified": true
+      }
+    ]
+  }
+}

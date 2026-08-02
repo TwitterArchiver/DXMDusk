@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030672635701686737",
+    "created_at": "2026-03-09T07:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030915356521599240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660528315411603456",
+          "start": 0,
+          "username": "ichinose_mionn"
+        },
+        {
+          "end": 27,
+          "id": "1868785269362900993",
+          "start": 16,
+          "username": "aaloesssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030915356521599240",
+    "in_reply_to_user_id": "1660528315411603456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030835873168941160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichinose_mionn @aaloesssss 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030672635701686737",
+        "created_at": "2026-03-09T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030915356521599240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660528315411603456",
+              "start": 0,
+              "username": "ichinose_mionn"
+            },
+            {
+              "end": 27,
+              "id": "1868785269362900993",
+              "start": 16,
+              "username": "aaloesssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030915356521599240",
+        "in_reply_to_user_id": "1660528315411603456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030835873168941160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichinose_mionn @aaloesssss 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660528315411603456",
+        "conversation_id": "2030672635701686737",
+        "created_at": "2026-03-09T02:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030835873168941160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868785269362900993",
+              "start": 0,
+              "username": "aaloesssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030835873168941160",
+        "in_reply_to_user_id": "1868785269362900993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030672635701686737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaloesssss 互fo🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 607,
+          "like_count": 600,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 907
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T06:09:44.000Z",
+        "description": "男娘无糖，有体香，168/100。b站抖音同名。旧号被封了哭唧唧。🚪48，私信我。欢迎小可爱贴贴哦！",
+        "id": "1660528315411603456",
+        "location": "接线下常驻湖北全国✈️",
+        "name": "月光的琉璃梦🌸🎀🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2030853716979708038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030104108678688768/6-Dn0CVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 6,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 103
+        },
+        "username": "ichinose_mionn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T22:28:31.000Z",
+        "description": "这个主播好有意思，我好喜欢，大家快关注快关注，什么，你看，这个人居然回follow了，好爱好爱好爱啊😘\n小tip:\n只混上流圈子，关注我一起上流，互fo(惬意) 🥰\ntip2:只与姐姐和巨帅的哥哥聊天（雾）",
+        "id": "1868785269362900993",
+        "location": "向往Japan",
+        "name": "aloes（互fo）",
+        "pinned_tweet_id": "2028151470873514370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870805671450464257/6ns7iaR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 805,
+          "like_count": 1781,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 770
+        },
+        "username": "aaloesssss",
+        "verified": false
+      }
+    ]
+  }
+}

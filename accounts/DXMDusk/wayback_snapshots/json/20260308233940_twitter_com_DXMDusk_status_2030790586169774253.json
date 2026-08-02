@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2029735638321541279",
+    "created_at": "2026-03-08T23:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T00:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030790586169774253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518204378183659521",
+          "start": 0,
+          "username": "wufi82493858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030790586169774253",
+    "in_reply_to_user_id": "1518204378183659521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029735638321541279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wufi82493858 不太了解BTC，不过如果想买一点长期持有的话，是否可行呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2029735001533874176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsROtqagAAp_v1.png",
+        "width": 341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2029735638321541279",
+        "created_at": "2026-03-08T23:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030790586169774253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518204378183659521",
+              "start": 0,
+              "username": "wufi82493858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030790586169774253",
+        "in_reply_to_user_id": "1518204378183659521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029735638321541279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wufi82493858 不太了解BTC，不过如果想买一点长期持有的话，是否可行呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029735001533874176"
+          ]
+        },
+        "author_id": "1518204378183659521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2029735638321541279",
+        "created_at": "2026-03-06T01:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029735638321541279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnyqFxomQL",
+              "end": 135,
+              "expanded_url": "https://x.com/wufi82493858/status/2029735638321541279/photo/1",
+              "media_key": "3_2029735001533874176",
+              "start": 112,
+              "url": "https://t.co/NnyqFxomQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029735638321541279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "btc在这位置是非常尴尬的，非常不友好，对多头、空头、都挺折磨人的。\n\n一句话总结，就是上不去、下不来。\n\n先说我的看法，我还是以多为主。因为这两天一直有资金进入各大主流币。你能承受住跌到65K的觉悟，那你可以买进一部分。\n\n上方阻力重：73k–74k是近期多次失败的高点，多次触及但站不住。再往上75k–78k是更强的心理/技术壁垒，很多人套牢盘在这里。\n\n下方支撑虚：70k看似有买盘，但一旦破位，68k–69k空头就容易踩踏，快速测试65k–67k之前低点。\n\n结果：横盘压缩，波动率低，多空都不敢大举进攻，容易假突破，假多头拉升诱多、假跌破诱空，最伤人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "btc在这位置是非常尴尬的，非常不友好，对多头、空头、都挺折磨人的。\n\n一句话总结，就是上不去、下不来。\n\n先说我的看法，我还是以多为主。因为这两天一直有资金进入各大主流币。你能承受住跌到65K的觉悟，那你可以买进一部分。 https://t.co/NnyqFxomQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 570,
+          "like_count": 548,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 854
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-24T12:25:20.000Z",
+        "description": "btc定投和分析，介绍家庭挖矿运维工具\nPoW山寨币,电脑挖矿/手机挖矿|\nAI创作视频|AI编程\nAI赋能副业趋势的实用价值",
+        "id": "1518204378183659521",
+        "name": "跌跌不休，挖矿不止",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012734948868829185/UkmoyCf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1413,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1179
+        },
+        "username": "wufi82493858",
+        "verified": true
+      }
+    ]
+  }
+}

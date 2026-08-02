@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031570608711197177",
+    "created_at": "2026-03-12T05:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031971711382626690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529795866621399042",
+          "start": 0,
+          "username": "mingxian232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031971711382626690",
+    "in_reply_to_user_id": "1529795866621399042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031570608711197177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxian232 加了，一起来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031570590994436096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGWsFRakAAlg-a.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031570608711197177",
+        "created_at": "2026-03-12T05:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031971711382626690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529795866621399042",
+              "start": 0,
+              "username": "mingxian232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031971711382626690",
+        "in_reply_to_user_id": "1529795866621399042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031570608711197177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxian232 加了，一起来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031570590994436096"
+          ]
+        },
+        "author_id": "1529795866621399042",
+        "conversation_id": "2031570608711197177",
+        "created_at": "2026-03-11T03:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T04:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031570608711197177"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOXUxdGoUL",
+              "end": 64,
+              "expanded_url": "https://x.com/mingxian232/status/2031570608711197177/photo/1",
+              "media_key": "3_2031570590994436096",
+              "start": 41,
+              "url": "https://t.co/VOXUxdGoUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031570608711197177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1196,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#蓝v互关 \n\n这几天数据好起来了，来互帮互助的，今\n\n年要达成1万，目前14% https://t.co/VOXUxdGoUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 803,
+          "like_count": 1173,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1259
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-26T12:05:43.000Z",
+        "description": "兼职币安alpha，梭哈Web3和美股，努力通向财富自由之路。",
+        "id": "1529795866621399042",
+        "name": "宇宙区长孙连城(蓝V互)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529796061493047297/lkiDWtFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 1435,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 393
+        },
+        "username": "mingxian232",
+        "verified": true
+      }
+    ]
+  }
+}

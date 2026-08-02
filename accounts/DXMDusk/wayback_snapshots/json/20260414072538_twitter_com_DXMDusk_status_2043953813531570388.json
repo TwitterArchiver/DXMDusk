@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043953813531570388",
+    "created_at": "2026-04-14T07:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043953813531570388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2043655034421019089",
+          "start": 16,
+          "url": "https://t.co/8BJ7SW1cfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043953813531570388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043655034421019089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续的，师母是在美院做人体模特 https://t.co/8BJ7SW1cfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2043654749346807808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyFKrJbQAAkoGh.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043953813531570388",
+        "created_at": "2026-04-14T07:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043953813531570388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2043655034421019089",
+              "start": 16,
+              "url": "https://t.co/8BJ7SW1cfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043953813531570388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043655034421019089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续的，师母是在美院做人体模特 https://t.co/8BJ7SW1cfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043654749346807808"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043655034421019089",
+        "created_at": "2026-04-13T11:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043655034421019089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYFlJ1AODw",
+              "end": 50,
+              "expanded_url": "https://x.com/DXMDusk/status/2043655034421019089/photo/1",
+              "media_key": "3_2043654749346807808",
+              "start": 27,
+              "url": "https://t.co/LYFlJ1AODw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043655034421019089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1407,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以来家里的学生也是他们俩口子play 的一环？？？ https://t.co/LYFlJ1AODw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1122,
+          "like_count": 2177,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 2294
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

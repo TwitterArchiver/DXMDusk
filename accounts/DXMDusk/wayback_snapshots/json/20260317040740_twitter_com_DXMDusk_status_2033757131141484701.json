@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033608282150211926",
+    "created_at": "2026-03-17T04:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T05:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033757131141484701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1983516341400420352",
+          "start": 0,
+          "username": "astykxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033757131141484701",
+    "in_reply_to_user_id": "1983516341400420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033608282150211926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astykxs 换做没成年前，我会做，但现在已经从良了（逃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033608282150211926",
+        "created_at": "2026-03-17T04:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033757131141484701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1983516341400420352",
+              "start": 0,
+              "username": "astykxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033757131141484701",
+        "in_reply_to_user_id": "1983516341400420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033608282150211926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astykxs 换做没成年前，我会做，但现在已经从良了（逃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983516341400420352",
+        "conversation_id": "2033608282150211926",
+        "created_at": "2026-03-16T18:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033608282150211926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033608282150211926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 783,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人合作，当我下线…拼单一起走水路，日本泰国的货都可以。我抽你保价价值的30个点。\n\n至少30盒起。先给钱一次结清，我收到货以后发你地址，不搞二道贩子代卖代下单…\n\n认识的可以tg私信我给我推靠谱的同行，不熟的就算了\n\n猫卷可能倒闭但绝对不会跑路（逃）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1017,
+          "like_count": 1755,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 1574
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T12:49:03.000Z",
+        "description": "老子是主角当然戏份偏长 ⚠️我会在这个号骂人说脏话污染各位timeline",
+        "id": "1983516341400420352",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031805953293893633/QXCMRLy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 191,
+          "like_count": 201,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 718
+        },
+        "username": "astykxs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026522477510184960"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026533323514716596",
+    "created_at": "2026-02-25T05:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026533323514716596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yQdMSwgFWt",
+          "end": 170,
+          "expanded_url": "https://x.com/DXMDusk/status/2026533323514716596/photo/1",
+          "media_key": "3_2026522477510184960",
+          "start": 147,
+          "url": "https://t.co/yQdMSwgFWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026533323514716596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泥可以整理一下你对于2021年以前的od圈的经历嘛，我想在od圈历史文档中包括这些🥺\n会署名的，虽然匿名也可以()\n\n关于这方面信息的也可以私信我，我这边信息还是挺多的，也确实需要整理一遍了，不然我也会渐渐忘记，\n目前我能整理出的内容是从22年开始的，\n21年以前的我只能全靠自己大脑的记忆， https://t.co/yQdMSwgFWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026522477510184960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-ndNFW0AAcDsZ.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026522477510184960"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026533323514716596",
+        "created_at": "2026-02-25T05:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026533323514716596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQdMSwgFWt",
+              "end": 170,
+              "expanded_url": "https://x.com/DXMDusk/status/2026533323514716596/photo/1",
+              "media_key": "3_2026522477510184960",
+              "start": 147,
+              "url": "https://t.co/yQdMSwgFWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026533323514716596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥可以整理一下你对于2021年以前的od圈的经历嘛，我想在od圈历史文档中包括这些🥺\n会署名的，虽然匿名也可以()\n\n关于这方面信息的也可以私信我，我这边信息还是挺多的，也确实需要整理一遍了，不然我也会渐渐忘记，\n目前我能整理出的内容是从22年开始的，\n21年以前的我只能全靠自己大脑的记忆， https://t.co/yQdMSwgFWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 246,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 590
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

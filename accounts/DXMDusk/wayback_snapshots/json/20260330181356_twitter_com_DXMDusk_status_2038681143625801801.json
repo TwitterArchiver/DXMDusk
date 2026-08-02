@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038525887289659760",
+    "created_at": "2026-03-30T18:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038681143625801801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038681143625801801",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038525887289659760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那医学上的标准答案是什么？是一个在陆地一个在水里？写法不同？还是别的？\n\n没有正确答案，是用来评估患者精神状态的\n\n没有标准答案，就是看病人意识是否清楚。精神科有的病是答非所问。比如你问他早上吃的什么，他回答天气不错。你问他早上几点出门，他跟你说他今天很开心。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2038520134101594112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpHQuybcAA_axV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038525887289659760",
+        "created_at": "2026-03-30T18:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038681143625801801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038681143625801801",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038525887289659760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那医学上的标准答案是什么？是一个在陆地一个在水里？写法不同？还是别的？\n\n没有正确答案，是用来评估患者精神状态的\n\n没有标准答案，就是看病人意识是否清楚。精神科有的病是答非所问。比如你问他早上吃的什么，他回答天气不错。你问他早上几点出门，他跟你说他今天很开心。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038520134101594112"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038525887289659760",
+        "created_at": "2026-03-30T07:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038525887289659760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mX5s2X9WX",
+              "end": 54,
+              "expanded_url": "https://x.com/DXMDusk/status/2038525887289659760/photo/1",
+              "media_key": "3_2038520134101594112",
+              "start": 31,
+              "url": "https://t.co/2mX5s2X9WX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038525887289659760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11303,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "精神科查房\n这个问题真的很经典了，没想到病号会这么回答，笑死 https://t.co/2mX5s2X9WX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 1078,
+          "like_count": 1853,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1874
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

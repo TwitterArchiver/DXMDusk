@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2027259028825629090",
+    "created_at": "2026-02-27T07:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027285736115077480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690720072246153217",
+          "start": 0,
+          "username": "Kaliamiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027285736115077480",
+    "in_reply_to_user_id": "1690720072246153217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027280068972818482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaliamiao 但确实为自己研究出来的东西献身了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2027259028825629090",
+        "created_at": "2026-02-27T07:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027285736115077480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690720072246153217",
+              "start": 0,
+              "username": "Kaliamiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027285736115077480",
+        "in_reply_to_user_id": "1690720072246153217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027280068972818482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaliamiao 但确实为自己研究出来的东西献身了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690720072246153217",
+        "conversation_id": "2027259028825629090",
+        "created_at": "2026-02-27T07:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027280068972818482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027280068972818482",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027279081851744643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 很显然不成立 逻辑漏洞 他不是为了给自己用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 250,
+          "like_count": 410,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 630
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T13:40:59.000Z",
+        "description": "🏛️🇪🇪🇨🇿🇸🇮🇬🇷🇬🇪🇨🇱🇦🇷🇮🇹🇵🇱🇫🇮🇯🇵🇩🇪🇺🇸☝️🤓中间派偏右 理性思考 现实主义 提高多维能力小众分化隔离 哈基球唯一出路. 抵制贫恶部落的贱畜农B 📍PAMPraha滬\nICE supporters ♥️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "NordischerMediterraneus.us",
+                "end": 23,
+                "expanded_url": "http://NordischerMediterraneus.us",
+                "start": 0,
+                "url": "https://t.co/0T4Qd3nVQF"
+              }
+            ]
+          }
+        },
+        "id": "1690720072246153217",
+        "name": "𝕶𝖎𝖑𝖑𝖎𝖆",
+        "pinned_tweet_id": "2027110522387362262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025598061838532608/FJYgJ-eL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 2483,
+          "like_count": 36026,
+          "listed_count": 3,
+          "media_count": 1296,
+          "tweet_count": 19621
+        },
+        "url": "https://t.co/0T4Qd3nVQF",
+        "username": "Kaliamiao",
+        "verified": false
+      }
+    ]
+  }
+}

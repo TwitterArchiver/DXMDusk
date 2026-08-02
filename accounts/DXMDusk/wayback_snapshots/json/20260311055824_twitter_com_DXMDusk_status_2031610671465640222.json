@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031333155932877188",
+    "created_at": "2026-03-11T05:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031610671465640222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1079539600123543552",
+          "start": 0,
+          "username": "s_z_26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031610671465640222",
+    "in_reply_to_user_id": "1079539600123543552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031333155932877188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s_z_26 来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10657,
+        "height": 720,
+        "media_key": "13_2031331634688176128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031331634688176128/img/WSLMERbGkR02vbl-.jpg",
+        "public_metrics": {
+          "view_count": 3505
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031331634688176128/vid/avc1/360x270/PhJWQQg4yVa0DPz6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031331634688176128/vid/avc1/480x360/ulFNqHSe9IvAOl4S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031331634688176128/vid/avc1/960x720/Gxc04_lbBrJ_e-ME.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031331634688176128/pl/l9YbBiJYBE5yVEqU.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031333155932877188",
+        "created_at": "2026-03-11T05:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031610671465640222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1079539600123543552",
+              "start": 0,
+              "username": "s_z_26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031610671465640222",
+        "in_reply_to_user_id": "1079539600123543552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031333155932877188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s_z_26 来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031331634688176128"
+          ]
+        },
+        "author_id": "1079539600123543552",
+        "conversation_id": "2031333155932877188",
+        "created_at": "2026-03-10T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031333155932877188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCU3s0r22Z",
+              "end": 50,
+              "expanded_url": "https://x.com/s_z_26/status/2031333155932877188/video/1",
+              "media_key": "13_2031331634688176128",
+              "start": 27,
+              "url": "https://t.co/TCU3s0r22Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031333155932877188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7869,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "嗨！来玩个游戏！😂 \n玩个你关注我，我关注你的游戏！ https://t.co/TCU3s0r22Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 708,
+          "like_count": 799,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1083
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-31T00:47:52.000Z",
+        "description": "",
+        "id": "1079539600123543552",
+        "name": "爱吃榴莲（互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020849599938953217/K4DEHO1-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1054,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 400
+        },
+        "username": "s_z_26",
+        "verified": true
+      }
+    ]
+  }
+}

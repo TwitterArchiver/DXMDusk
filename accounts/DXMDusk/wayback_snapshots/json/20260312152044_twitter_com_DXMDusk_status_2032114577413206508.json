@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031779471959978436",
+    "created_at": "2026-03-12T15:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032114577413206508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032114577413206508",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031779471959978436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 是可爱猫猫🐱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2031779461599989761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJUp86aEAEDQjN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031779471959978436",
+        "created_at": "2026-03-12T15:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032114577413206508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032114577413206508",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031779471959978436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 是可爱猫猫🐱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031779461599989761"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031779471959978436",
+        "created_at": "2026-03-11T17:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031779471959978436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaGzss5YIR",
+              "end": 62,
+              "expanded_url": "https://x.com/MeowCatherina/status/2031779471959978436/photo/1",
+              "media_key": "3_2031779461599989761",
+              "start": 39,
+              "url": "https://t.co/RaGzss5YIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031779471959978436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1476,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫宣布这个是和猫猫形象最像的毛绒玩具 www\n\nNyaaaaaaaaaa～ https://t.co/RaGzss5YIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 850,
+          "like_count": 1352,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 1329
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻 ｜AM&CS&EE｜某司高管(逃)｜ 意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜做教育学科研还能画电路板子的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010743490523934720/Y4ddxxG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 1099,
+          "like_count": 84423,
+          "listed_count": 20,
+          "media_count": 2124,
+          "tweet_count": 25402
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

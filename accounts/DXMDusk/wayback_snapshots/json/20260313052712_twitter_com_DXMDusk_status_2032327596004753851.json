@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032161540011622617",
+    "created_at": "2026-03-13T05:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032327596004753851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "25807458",
+          "start": 0,
+          "username": "highighig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032327596004753851",
+    "in_reply_to_user_id": "25807458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032161540011622617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@highighig 一起努力"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1280,
+        "media_key": "13_2032157779423870982",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032157779423870982/img/QQRawu1jN-_BLImS.jpg",
+        "public_metrics": {
+          "view_count": 746
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032157779423870982/vid/avc1/320x568/JU_gkhOgXQYHNjLX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032157779423870982/vid/avc1/480x852/e3AO4Yona8aXAa8z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032157779423870982/vid/avc1/720x1280/PnA0fw1F_ulACjbj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032157779423870982/pl/Ou1wyevQnpZnhTu0.m3u8?v=ab1"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032161540011622617",
+        "created_at": "2026-03-13T05:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032327596004753851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "25807458",
+              "start": 0,
+              "username": "highighig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032327596004753851",
+        "in_reply_to_user_id": "25807458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032161540011622617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@highighig 一起努力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032157779423870982"
+          ]
+        },
+        "author_id": "25807458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2032161540011622617",
+        "created_at": "2026-03-12T18:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032161540011622617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "藍V互關"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcTkO6R06u",
+              "end": 68,
+              "expanded_url": "https://x.com/highighig/status/2032161540011622617/video/1",
+              "media_key": "13_2032157779423870982",
+              "start": 45,
+              "url": "https://t.co/HcTkO6R06u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032161540011622617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1736,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天分享運動，，有興趣的朋友記得關注我，藍v只要關注我都會回關 #蓝V互关 #藍V互關 https://t.co/HcTkO6R06u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 873,
+          "like_count": 1444,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1391
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-22T11:25:33.000Z",
+        "description": "我的座右銘『讀書越多越腦殘』 INTP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "highighig3.medium.com",
+                "end": 23,
+                "expanded_url": "https://highighig3.medium.com/",
+                "start": 0,
+                "url": "https://t.co/JreJ8rJogS"
+              }
+            ]
+          }
+        },
+        "id": "25807458",
+        "location": "地球",
+        "name": "三木真黒",
+        "pinned_tweet_id": "2032161540011622617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353704389463011331/rs9CzaS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3006,
+          "following_count": 1536,
+          "like_count": 143900,
+          "listed_count": 14,
+          "media_count": 2626,
+          "tweet_count": 18252
+        },
+        "url": "https://t.co/JreJ8rJogS",
+        "username": "highighig",
+        "verified": true
+      }
+    ]
+  }
+}

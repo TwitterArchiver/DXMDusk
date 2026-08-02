@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2042008819262513205",
+    "created_at": "2026-04-10T06:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042483211599815126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040423313231740928",
+          "start": 0,
+          "username": "Misaki11137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042483211599815126",
+    "in_reply_to_user_id": "2040423313231740928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042008819262513205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaki11137 这谁呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042008809724637190",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFasMYPa8AY7deM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2042008809959518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFasMZHa8AAjn65.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2042008819262513205",
+        "created_at": "2026-04-10T06:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042483211599815126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040423313231740928",
+              "start": 0,
+              "username": "Misaki11137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042483211599815126",
+        "in_reply_to_user_id": "2040423313231740928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042008819262513205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki11137 这谁呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042008809724637190",
+            "3_2042008809959518208"
+          ]
+        },
+        "author_id": "2040423313231740928",
+        "conversation_id": "2042008819262513205",
+        "created_at": "2026-04-08T22:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042008819262513205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVMjJnpTJP",
+              "end": 71,
+              "expanded_url": "https://x.com/Misaki11137/status/2042008819262513205/photo/1",
+              "media_key": "3_2042008809724637190",
+              "start": 48,
+              "url": "https://t.co/qVMjJnpTJP"
+            },
+            {
+              "display_url": "pic.x.com/qVMjJnpTJP",
+              "end": 71,
+              "expanded_url": "https://x.com/Misaki11137/status/2042008819262513205/photo/1",
+              "media_key": "3_2042008809959518208",
+              "start": 48,
+              "url": "https://t.co/qVMjJnpTJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042008819262513205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 238,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又来广州接单了，什么陪玩陪酒线下纯绿半绿都可以，或者求求了过个我🚪热心陪聊用药咨询也是可以的 https://t.co/qVMjJnpTJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 1102,
+          "like_count": 2079,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 2156
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T13:38:07.000Z",
+        "description": "三崎，已经累了，这是第十个号了88/188🚪是一条🐟，放过我这个可怜无辜的精神病小女孩吧 世界上最喜欢的妈咪 @8964_Y ❤️ 广州，接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "2040423313231740928",
+        "name": "三崎（永远漂泊版）",
+        "pinned_tweet_id": "2042008819262513205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040426683560529921/zC8v7pqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 115,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 116
+        },
+        "username": "Misaki11137",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038531715791208786",
+    "created_at": "2026-03-30T08:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038531715791208786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BdZzbw6goo2/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2038446949863707114",
+          "start": 14,
+          "url": "https://t.co/Kum4GwZKrZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038531715791208786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038446949863707114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生活别操我了，傻逼不是逼🥺 https://t.co/Kum4GwZKrZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038531715791208786",
+        "created_at": "2026-03-30T08:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038531715791208786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BdZzbw6goo2/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2038446949863707114",
+              "start": 14,
+              "url": "https://t.co/Kum4GwZKrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038531715791208786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038446949863707114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生活别操我了，傻逼不是逼🥺 https://t.co/Kum4GwZKrZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2038446949863707114",
+        "created_at": "2026-03-30T02:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038446949863707114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/listensean/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/listensean/status/2038148891468591453",
+              "start": 13,
+              "url": "https://t.co/wt2cjcotRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038446949863707114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038148891468591453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生活别操我了，傻逼不是逼 https://t.co/wt2cjcotRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1073,
+          "like_count": 1845,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 1828
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 697,
+          "like_count": 48465,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 236
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

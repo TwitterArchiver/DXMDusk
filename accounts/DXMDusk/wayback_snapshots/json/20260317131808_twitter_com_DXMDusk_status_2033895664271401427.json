@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033201530288124353",
+    "created_at": "2026-03-17T13:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033895664271401427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1042905939349667840",
+          "start": 0,
+          "username": "aaayun24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033895664271401427",
+    "in_reply_to_user_id": "1042905939349667840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033892326481989882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaayun24 听过，八连杀好像是歌手苏三唱的，如果歌手名没记错的话，她还有唱过比较多类似的音乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033201530288124353",
+        "created_at": "2026-03-17T13:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033895664271401427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1042905939349667840",
+              "start": 0,
+              "username": "aaayun24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033895664271401427",
+        "in_reply_to_user_id": "1042905939349667840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033892326481989882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaayun24 听过，八连杀好像是歌手苏三唱的，如果歌手名没记错的话，她还有唱过比较多类似的音乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1042905939349667840",
+        "conversation_id": "2033201530288124353",
+        "created_at": "2026-03-17T13:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033892326481989882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033892326481989882",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033201530288124353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 八连杀和小莫骚麦听过吗，当时太小不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1026,
+          "like_count": 1778,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 1604
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-20T22:38:46.000Z",
+        "description": "无糖无锁新人男娘，一米六/100斤，🦶37的可爱小只，门槛口令红包50加vxqq，同好和4i女可以无料骚扰哦",
+        "id": "1042905939349667840",
+        "location": "-1",
+        "name": "啊云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986760109398302720/XaxPo7Nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 951,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "aaayun24",
+        "verified": false
+      }
+    ]
+  }
+}

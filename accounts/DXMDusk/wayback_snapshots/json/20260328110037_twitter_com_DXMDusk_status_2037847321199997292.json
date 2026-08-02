@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2037835759223480487",
+    "created_at": "2026-03-28T11:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037847321199997292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739908593254883328",
+          "start": 0,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037847321199997292",
+    "in_reply_to_user_id": "1739908593254883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037835759223480487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelSexyHem 感觉另一个人有点眼熟，是谁呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037835744220450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfYz_zakAAMa0W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037835744237252608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfYz_3a8AALUVt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037835744220434432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfYz_zaUAA-dPb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037835744220413952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfYz_zaAAAv9gx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037835759223480487",
+        "created_at": "2026-03-28T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037847321199997292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037847321199997292",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037835759223480487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem 感觉另一个人有点眼熟，是谁呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037835744220450816",
+            "3_2037835744237252608",
+            "3_2037835744220434432",
+            "3_2037835744220413952"
+          ]
+        },
+        "author_id": "1739908593254883328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037835759223480487",
+        "created_at": "2026-03-28T10:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037835759223480487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ziz2VfmTyb",
+              "end": 34,
+              "expanded_url": "https://x.com/AngelSexyHem/status/2037835759223480487/photo/1",
+              "media_key": "3_2037835744220450816",
+              "start": 11,
+              "url": "https://t.co/Ziz2VfmTyb"
+            },
+            {
+              "display_url": "pic.x.com/Ziz2VfmTyb",
+              "end": 34,
+              "expanded_url": "https://x.com/AngelSexyHem/status/2037835759223480487/photo/1",
+              "media_key": "3_2037835744237252608",
+              "start": 11,
+              "url": "https://t.co/Ziz2VfmTyb"
+            },
+            {
+              "display_url": "pic.x.com/Ziz2VfmTyb",
+              "end": 34,
+              "expanded_url": "https://x.com/AngelSexyHem/status/2037835759223480487/photo/1",
+              "media_key": "3_2037835744220434432",
+              "start": 11,
+              "url": "https://t.co/Ziz2VfmTyb"
+            },
+            {
+              "display_url": "pic.x.com/Ziz2VfmTyb",
+              "end": 34,
+              "expanded_url": "https://x.com/AngelSexyHem/status/2037835759223480487/photo/1",
+              "media_key": "3_2037835744220413952",
+              "start": 11,
+              "url": "https://t.co/Ziz2VfmTyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037835759223480487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们真的幸福到爆。。 https://t.co/Ziz2VfmTyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 1063,
+          "like_count": 1834,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 1743
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖😚我是鸭鸭^^⚠️健康无毒生活坐标北美⚠️https://t.co/FGoF2GVQbK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/adxahemhemhem",
+                "end": 81,
+                "expanded_url": "https://t.me/adxahemhemhem",
+                "start": 58,
+                "url": "https://t.co/FGoF2GVQbK"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1966161191346253866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 363,
+          "like_count": 5066,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2410
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

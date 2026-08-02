@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031645532100374818",
+    "created_at": "2026-03-11T08:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031645993243148709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228546301572173825",
+          "start": 0,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031645993243148709",
+    "in_reply_to_user_id": "1228546301572173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031645532100374818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAAMTxT 太贵，真没必要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031645532100374818",
+        "created_at": "2026-03-11T08:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031645993243148709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228546301572173825",
+              "start": 0,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031645993243148709",
+        "in_reply_to_user_id": "1228546301572173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031645532100374818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAAMTxT 太贵，真没必要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "conversation_id": "2031645532100374818",
+        "created_at": "2026-03-11T08:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031645532100374818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031645532100374818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "氯胺酮治疗被批了可以做鼻喷但是不能做静脉，然后一个疗程两万多不能走医保。。。\n行吧吃不到氯胺酮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 728,
+          "like_count": 847,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1120
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（混沌邪恶少女）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597279516568625152/vnOBUIVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 733,
+          "like_count": 26582,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 5363
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

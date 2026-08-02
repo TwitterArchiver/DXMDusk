@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033166290324692992",
+        "3_2033166290349645824",
+        "3_2033166291654062080"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033166314588770313",
+    "created_at": "2026-03-15T12:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033166314588770313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxYObu7Br1",
+          "end": 134,
+          "expanded_url": "https://x.com/DXMDusk/status/2033166314588770313/photo/1",
+          "media_key": "3_2033166290324692992",
+          "start": 111,
+          "url": "https://t.co/lxYObu7Br1"
+        },
+        {
+          "display_url": "pic.x.com/lxYObu7Br1",
+          "end": 134,
+          "expanded_url": "https://x.com/DXMDusk/status/2033166314588770313/photo/1",
+          "media_key": "3_2033166290349645824",
+          "start": 111,
+          "url": "https://t.co/lxYObu7Br1"
+        },
+        {
+          "display_url": "pic.x.com/lxYObu7Br1",
+          "end": 134,
+          "expanded_url": "https://x.com/DXMDusk/status/2033166314588770313/photo/1",
+          "media_key": "3_2033166291654062080",
+          "start": 111,
+          "url": "https://t.co/lxYObu7Br1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033166314588770313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前B站没广告，这是买点之一，现在视频有植入，页面有导流链接，不小心碰一下就进什么小游戏了，从0开始一下拉满能不涨450%吗\n之所以还在用b站，也是实在接受不了爱奇艺和优酷的广告，完全理解不了冲了会员还有广告是个什么意思 https://t.co/lxYObu7Br1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033166290324692992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdB-AgaIAAoecj.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033166290349645824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdB-AmW4AAFFgE.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033166291654062080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdB-FdWsAAxugQ.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033166290324692992",
+            "3_2033166290349645824",
+            "3_2033166291654062080"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033166314588770313",
+        "created_at": "2026-03-15T12:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033166314588770313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxYObu7Br1",
+              "end": 134,
+              "expanded_url": "https://x.com/DXMDusk/status/2033166314588770313/photo/1",
+              "media_key": "3_2033166290324692992",
+              "start": 111,
+              "url": "https://t.co/lxYObu7Br1"
+            },
+            {
+              "display_url": "pic.x.com/lxYObu7Br1",
+              "end": 134,
+              "expanded_url": "https://x.com/DXMDusk/status/2033166314588770313/photo/1",
+              "media_key": "3_2033166290349645824",
+              "start": 111,
+              "url": "https://t.co/lxYObu7Br1"
+            },
+            {
+              "display_url": "pic.x.com/lxYObu7Br1",
+              "end": 134,
+              "expanded_url": "https://x.com/DXMDusk/status/2033166314588770313/photo/1",
+              "media_key": "3_2033166291654062080",
+              "start": 111,
+              "url": "https://t.co/lxYObu7Br1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033166314588770313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前B站没广告，这是买点之一，现在视频有植入，页面有导流链接，不小心碰一下就进什么小游戏了，从0开始一下拉满能不涨450%吗\n之所以还在用b站，也是实在接受不了爱奇艺和优酷的广告，完全理解不了冲了会员还有广告是个什么意思 https://t.co/lxYObu7Br1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 983,
+          "like_count": 1632,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 1484
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

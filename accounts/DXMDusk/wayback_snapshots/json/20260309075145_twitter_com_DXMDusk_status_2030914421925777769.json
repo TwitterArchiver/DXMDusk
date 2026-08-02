@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030869600456647093",
+    "created_at": "2026-03-09T07:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030914421925777769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827163552106606592",
+          "start": 0,
+          "username": "cai_xie2259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030914421925777769",
+    "in_reply_to_user_id": "1827163552106606592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030869600456647093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai_xie2259 不清楚，来，互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030869600456647093",
+        "created_at": "2026-03-09T07:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030914421925777769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827163552106606592",
+              "start": 0,
+              "username": "cai_xie2259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030914421925777769",
+        "in_reply_to_user_id": "1827163552106606592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030869600456647093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai_xie2259 不清楚，来，互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827163552106606592",
+        "conversation_id": "2030869600456647093",
+        "created_at": "2026-03-09T04:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:53:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030869472391942482",
+          "2030869600456647093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030869600456647093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1078,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近我跟我查看了很多蓝V的主页 有几个特别现象 粉丝三位数 浏览量能轻松破千 而我已经互关2000蓝V了 最近浏览量却都不到500 这很奇怪 是受到什么诅咒吗 还是别人有新手保护期？连续七天登录送礼包给的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 603,
+          "like_count": 597,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 903
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T01:58:50.000Z",
+        "description": "起步阶段，蓝V互关，未蓝者请留言告知也能回关，华人圈抱团一起薅老马的羊毛",
+        "id": "1827163552106606592",
+        "name": "迎風解手(互fo)",
+        "pinned_tweet_id": "2017923687283110183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017922590611017728/1YDJF6Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 2248,
+          "like_count": 1012,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1173
+        },
+        "username": "cai_xie2259",
+        "verified": true
+      }
+    ]
+  }
+}

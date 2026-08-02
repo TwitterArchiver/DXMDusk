@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031370942660919593",
+    "created_at": "2026-03-11T12:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T13:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031711631106085113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1978537941744947200",
+          "start": 0,
+          "username": "LqPPSFuvWK12189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031711631106085113",
+    "in_reply_to_user_id": "1978537941744947200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031370942660919593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LqPPSFuvWK12189 币圈的落寞吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2031370929822203904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDhGRcbgAA9FKY.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031370942660919593",
+        "created_at": "2026-03-11T12:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031711631106085113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1978537941744947200",
+              "start": 0,
+              "username": "LqPPSFuvWK12189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031711631106085113",
+        "in_reply_to_user_id": "1978537941744947200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031370942660919593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LqPPSFuvWK12189 币圈的落寞吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031370929822203904"
+          ]
+        },
+        "author_id": "1978537941744947200",
+        "conversation_id": "2031370942660919593",
+        "created_at": "2026-03-10T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031370942660919593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIQLZERIXS",
+              "end": 35,
+              "expanded_url": "https://x.com/LqPPSFuvWK12189/status/2031370942660919593/photo/1",
+              "media_key": "3_2031370929822203904",
+              "start": 12,
+              "url": "https://t.co/CIQLZERIXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031370942660919593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们一起吃点肉肉好嘛 https://t.co/CIQLZERIXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 760,
+          "like_count": 961,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1184
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-15T19:06:30.000Z",
+        "description": "币圈一级老炮｜区块链一级项目挖掘 Flap×BNBChain生态布局者 只聊硬逻辑，专做早期价值事",
+        "id": "1978537941744947200",
+        "name": "币圈一级老炮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016816818745458688/F_LH-Ssi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 202,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 495
+        },
+        "username": "LqPPSFuvWK12189",
+        "verified": true
+      }
+    ]
+  }
+}

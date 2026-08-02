@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2041869076725936590",
+    "created_at": "2026-04-08T13:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041869076725936590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041869076725936590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大学有很多课真就是纯纯的水课，把一群人囚禁在教室里反反复复的说一些车轱辘话、大道理，要不然就是照着PPT平铺直叙地念经😓\n我很不理解，一门课要教知识才能叫课，让学生和老师进去浪费两个小时的时间，那还不如不开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2041869076725936590",
+        "created_at": "2026-04-08T13:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041869076725936590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041869076725936590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学有很多课真就是纯纯的水课，把一群人囚禁在教室里反反复复的说一些车轱辘话、大道理，要不然就是照着PPT平铺直叙地念经😓\n我很不理解，一门课要教知识才能叫课，让学生和老师进去浪费两个小时的时间，那还不如不开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 1101,
+          "like_count": 2069,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 2133
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

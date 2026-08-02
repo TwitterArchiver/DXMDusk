@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2033153345469448274",
+    "created_at": "2026-03-16T16:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033585758175695180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033585758175695180",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033153345469448274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 是我了，经常忘记吃药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2033153335105372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc2L6jbQAAMdbB.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2033153345469448274",
+        "created_at": "2026-03-16T16:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033585758175695180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033585758175695180",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033153345469448274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 是我了，经常忘记吃药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033153335105372160"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "conversation_id": "2033153345469448274",
+        "created_at": "2026-03-15T12:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033153345469448274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vR1o1auegU",
+              "end": 50,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2033153345469448274/photo/1",
+              "media_key": "3_2033153335105372160",
+              "start": 27,
+              "url": "https://t.co/vR1o1auegU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033153345469448274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样的人最不需要吃抗抑郁药，因为需要吃的已经放弃吃了 https://t.co/vR1o1auegU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1009,
+          "like_count": 1736,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 1546
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "GPT重度依赖 ｜ 药罐子｜ crypto韭菜",
+        "id": "2011405521245634560",
+        "name": "Rimea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027813347610316800/xhM7DQHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 64,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 287
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

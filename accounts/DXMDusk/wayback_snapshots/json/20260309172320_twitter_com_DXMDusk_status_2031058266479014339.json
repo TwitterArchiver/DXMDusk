@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030947758656688357",
+    "created_at": "2026-03-09T17:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T18:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031058266479014339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951957837674070017",
+          "start": 0,
+          "username": "Meimeibtcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031058266479014339",
+    "in_reply_to_user_id": "1951957837674070017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030947758656688357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meimeibtcc 一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15346,
+        "height": 1920,
+        "media_key": "13_2030947695226195968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030947695226195968/img/sXTDten38qiPEgCB.jpg",
+        "public_metrics": {
+          "view_count": 2597
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030947695226195968/vid/avc1/720x1280/EpBN9-7P5K_QmGr8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030947695226195968/vid/avc1/320x568/g9ACd0_O7aehilAC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030947695226195968/vid/avc1/480x852/5eeX-huu7p3UR3ow.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030947695226195968/pl/0NNpV91svpXK9x18.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030947695226195968/vid/avc1/1080x1920/DxdEy0R_a75wf8Kv.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030947758656688357",
+        "created_at": "2026-03-09T17:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031058266479014339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951957837674070017",
+              "start": 0,
+              "username": "Meimeibtcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031058266479014339",
+        "in_reply_to_user_id": "1951957837674070017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030947758656688357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meimeibtcc 一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030947695226195968"
+          ]
+        },
+        "author_id": "1951957837674070017",
+        "conversation_id": "2030947758656688357",
+        "created_at": "2026-03-09T10:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030947758656688357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gn4RH5UmiD",
+              "end": 116,
+              "expanded_url": "https://x.com/Meimeibtcc/status/2030947758656688357/video/1",
+              "media_key": "13_2030947695226195968",
+              "start": 93,
+              "url": "https://t.co/Gn4RH5UmiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030947758656688357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6789,
+          "like_count": 113,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关，只认认证，不认流量。\n在满是噪音的Crypto圈，\n身份权重比粉丝数量更重要。\n真实蓝V账号直接关注，\n看到必回，不拖沓、不养鱼、不套路。\n一起提升社交权重，放大内容影响力。 https://t.co/Gn4RH5UmiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 641,
+          "like_count": 664,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 981
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T10:46:39.000Z",
+        "description": "9年币圈资深女玩家｜专注一级二级市场分析丨热衷分享丨理性投资丨#BNB #Sol #OKB 资深Holder Patience and discipline are the ultimate keys.#binance TG：https://t.co/4fyZAWd9KL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "Sol"
+              },
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "OKB"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "tag": "binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Meimeibtc",
+                "end": 136,
+                "expanded_url": "https://t.me/Meimeibtc",
+                "start": 113,
+                "url": "https://t.co/4fyZAWd9KL"
+              }
+            ]
+          }
+        },
+        "id": "1951957837674070017",
+        "name": "莓莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010291244300402689/zURKwu8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 2669,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2223
+        },
+        "username": "Meimeibtcc",
+        "verified": true
+      }
+    ]
+  }
+}

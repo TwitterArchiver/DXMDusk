@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016772297521016935",
+    "created_at": "2026-01-29T13:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016865643648491707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931807368349810688",
+          "start": 0,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016865643648491707",
+    "in_reply_to_user_id": "931807368349810688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016772297521016935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jike112_jike 小心因嫉妒谋杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2016733682426662912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zgmVubUAA60nN.jpg",
+        "width": 690
+      },
+      {
+        "height": 679,
+        "media_key": "3_2016733702114725888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zgnfEbUAAm6BX.png",
+        "width": 690
+      },
+      {
+        "height": 920,
+        "media_key": "3_2016733719193931780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zgoesbUAQIIvG.jpg",
+        "width": 690
+      },
+      {
+        "height": 690,
+        "media_key": "3_2016733732254994433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zgpPWbUAEPxj1.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016772297521016935",
+        "created_at": "2026-01-29T13:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016865643648491707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016865643648491707",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016772297521016935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike 小心因嫉妒谋杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016733682426662912",
+            "3_2016733702114725888",
+            "3_2016733719193931780",
+            "3_2016733732254994433"
+          ]
+        },
+        "author_id": "931807368349810688",
+        "conversation_id": "2016772297521016935",
+        "created_at": "2026-01-29T07:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016772297521016935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afQxCOOuo4",
+              "end": 148,
+              "expanded_url": "https://x.com/jike112_jike/status/2016772297521016935/photo/1",
+              "media_key": "3_2016733682426662912",
+              "start": 125,
+              "url": "https://t.co/afQxCOOuo4"
+            },
+            {
+              "display_url": "pic.x.com/afQxCOOuo4",
+              "end": 148,
+              "expanded_url": "https://x.com/jike112_jike/status/2016772297521016935/photo/1",
+              "media_key": "3_2016733702114725888",
+              "start": 125,
+              "url": "https://t.co/afQxCOOuo4"
+            },
+            {
+              "display_url": "pic.x.com/afQxCOOuo4",
+              "end": 148,
+              "expanded_url": "https://x.com/jike112_jike/status/2016772297521016935/photo/1",
+              "media_key": "3_2016733719193931780",
+              "start": 125,
+              "url": "https://t.co/afQxCOOuo4"
+            },
+            {
+              "display_url": "pic.x.com/afQxCOOuo4",
+              "end": 148,
+              "expanded_url": "https://x.com/jike112_jike/status/2016772297521016935/photo/1",
+              "media_key": "3_2016733732254994433",
+              "start": 125,
+              "url": "https://t.co/afQxCOOuo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016772297521016935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 103980,
+          "like_count": 287,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "这个网红博主偶然发现自己收留的家境贫困的生活助理，从两年前开始偷偷穿她的贴身衣物、行程照片发抖音立白富美人设起号。这个替身现象在女性群体好像很普遍，很多女的喜欢假扮成她想成为的人，我初中认识一个女同学喜欢偷别人的朋友圈自己发，这是一种什么心理机制？ https://t.co/afQxCOOuo4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 94,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己｜欢迎私信投稿｜",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9599,
+          "following_count": 1170,
+          "like_count": 7490,
+          "listed_count": 39,
+          "media_count": 1135,
+          "tweet_count": 3905
+        },
+        "username": "jike112_jike",
+        "verified": true
+      }
+    ]
+  }
+}

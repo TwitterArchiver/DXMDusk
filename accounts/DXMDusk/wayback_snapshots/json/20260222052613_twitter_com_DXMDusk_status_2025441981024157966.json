@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025441971087835147",
+        "3_2025441971100413952"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025441981024157966",
+    "created_at": "2026-02-22T05:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025441981024157966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTqMgXjN9j",
+          "end": 71,
+          "expanded_url": "https://x.com/DXMDusk/status/2025441981024157966/photo/1",
+          "media_key": "3_2025441971087835147",
+          "start": 48,
+          "url": "https://t.co/cTqMgXjN9j"
+        },
+        {
+          "display_url": "pic.x.com/cTqMgXjN9j",
+          "end": 71,
+          "expanded_url": "https://x.com/DXMDusk/status/2025441981024157966/photo/1",
+          "media_key": "3_2025441971100413952",
+          "start": 48,
+          "url": "https://t.co/cTqMgXjN9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025441981024157966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广东去深圳的高速上好堵🫠感觉我的高铁票要改签了，这种事情不要发生啊🙏，万能的主啊，让我回家吧， https://t.co/cTqMgXjN9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025441971087835147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvQvc_bgAsNoY9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025441971100413952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvQvdCbcAAK6bI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025441971087835147",
+            "3_2025441971100413952"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025441981024157966",
+        "created_at": "2026-02-22T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025441981024157966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTqMgXjN9j",
+              "end": 71,
+              "expanded_url": "https://x.com/DXMDusk/status/2025441981024157966/photo/1",
+              "media_key": "3_2025441971087835147",
+              "start": 48,
+              "url": "https://t.co/cTqMgXjN9j"
+            },
+            {
+              "display_url": "pic.x.com/cTqMgXjN9j",
+              "end": 71,
+              "expanded_url": "https://x.com/DXMDusk/status/2025441981024157966/photo/1",
+              "media_key": "3_2025441971100413952",
+              "start": 48,
+              "url": "https://t.co/cTqMgXjN9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025441981024157966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东去深圳的高速上好堵🫠感觉我的高铁票要改签了，这种事情不要发生啊🙏，万能的主啊，让我回家吧， https://t.co/cTqMgXjN9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 190,
+          "like_count": 272,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 480
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

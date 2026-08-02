@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2018782130751652123",
+    "created_at": "2026-02-03T20:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T21:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018782130751652123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018782130751652123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018675091446353990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: 爱德华爆典集——为什么爱德华死得不惨\n爱德华主张大力扩散od，弄死害死屠杀更多oders，就可以引起国家层面重视，招来铁拳打击od。甚至狂言要当神风特工队“我准备好了成为(多死人)的代价”。\n那些给刘德华叫苦伸冤的家伙可省省吧，你刘爷压根就没…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018675014254624768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPGOuWagAAH1RQ.jpg",
+        "width": 541
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018675087512399872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPGS_QbcAAOsm-.jpg",
+        "width": 647
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018675038451572736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPGQIfaoAAFZQb.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018675066289176577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPGRwMawAEO4Z4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2018782130751652123",
+        "created_at": "2026-02-03T20:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T21:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018782130751652123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018782130751652123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018675091446353990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: 爱德华爆典集——为什么爱德华死得不惨\n爱德华主张大力扩散od，弄死害死屠杀更多oders，就可以引起国家层面重视，招来铁拳打击od。甚至狂言要当神风特工队“我准备好了成为(多死人)的代价”。\n那些给刘德华叫苦伸冤的家伙可省省吧，你刘爷压根就没…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018675014254624768",
+            "3_2018675087512399872",
+            "3_2018675038451572736",
+            "3_2018675066289176577"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018675091446353990",
+        "created_at": "2026-02-03T13:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018675091446353990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8epy0sUZzP",
+              "end": 166,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2018675091446353990/photo/1",
+              "media_key": "3_2018675014254624768",
+              "start": 143,
+              "url": "https://t.co/8epy0sUZzP"
+            },
+            {
+              "display_url": "pic.x.com/8epy0sUZzP",
+              "end": 166,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2018675091446353990/photo/1",
+              "media_key": "3_2018675087512399872",
+              "start": 143,
+              "url": "https://t.co/8epy0sUZzP"
+            },
+            {
+              "display_url": "pic.x.com/8epy0sUZzP",
+              "end": 166,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2018675091446353990/photo/1",
+              "media_key": "3_2018675038451572736",
+              "start": 143,
+              "url": "https://t.co/8epy0sUZzP"
+            },
+            {
+              "display_url": "pic.x.com/8epy0sUZzP",
+              "end": 166,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2018675091446353990/photo/1",
+              "media_key": "3_2018675066289176577",
+              "start": 143,
+              "url": "https://t.co/8epy0sUZzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018675091446353990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3387,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "爱德华爆典集——为什么爱德华死得不惨\n爱德华主张大力扩散od，弄死害死屠杀更多oders，就可以引起国家层面重视，招来铁拳打击od。甚至狂言要当神风特工队“我准备好了成为(多死人)的代价”。\n那些给刘德华叫苦伸冤的家伙可省省吧，你刘爷压根就没把你们oders当人看，想让你们多丝丝哩！ https://t.co/8epy0sUZzP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 139,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 209
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 60,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 675,
+          "tweet_count": 6729
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

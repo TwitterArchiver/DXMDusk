@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025456100385194487",
+    "created_at": "2026-02-22T09:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025497055448424854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879219789601906688",
+          "start": 0,
+          "username": "gowayslove520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025497055448424854",
+    "in_reply_to_user_id": "1879219789601906688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025484330693525549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gowayslove520 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025456100385194487",
+        "created_at": "2026-02-22T09:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025497055448424854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879219789601906688",
+              "start": 0,
+              "username": "gowayslove520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025497055448424854",
+        "in_reply_to_user_id": "1879219789601906688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025484330693525549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gowayslove520 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879219789601906688",
+        "conversation_id": "2025456100385194487",
+        "created_at": "2026-02-22T08:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025484330693525549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2025484330693525549",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025456100385194487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 回😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 199,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 493
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T17:31:43.000Z",
+        "description": "12年xnn | 纸性恋 | 友跨🏳️‍⚧️ | 没含糖先挂跨旗🍥 | 博客懒得搞喵 | 欢迎同类互fo",
+        "id": "1879219789601906688",
+        "location": "我爱你们",
+        "name": "白🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024536299517202432/CHYmfNA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 41,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "gowayslove520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2017654754323972436",
+    "created_at": "2026-01-31T17:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017657257891402033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017657257891402033",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017654754323972436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 男高好，蹭蹭男高"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46125,
+        "height": 854,
+        "media_key": "13_2017654660086304772",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017654660086304772/img/ZY6wXaS7G6bGCLOI.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017654660086304772/vid/avc1/320x568/MfJl7b3FAaHVbYPc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017654660086304772/vid/avc1/480x854/1BPo77gBwlx21g0o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017654660086304772/pl/Wt-hdhIw27R3MH_i.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2017654754323972436",
+        "created_at": "2026-01-31T17:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017657257891402033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017657257891402033",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017654754323972436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 男高好，蹭蹭男高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017654660086304772"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "2017654754323972436",
+        "created_at": "2026-01-31T17:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017654754323972436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/robL0uVTTs",
+              "end": 34,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2017654754323972436/video/1",
+              "media_key": "13_2017654660086304772",
+              "start": 11,
+              "url": "https://t.co/robL0uVTTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017654754323972436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音乐生朋友说我是男高 https://t.co/robL0uVTTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 122,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 192
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "I misbehave, everybody craves｜只愛鏡音レン、棘刺❤️｜Korea University",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫Amoris🇹🇼🇰🇷🇨🇳🏳️‍🌈",
+        "pinned_tweet_id": "2004234124228538620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4290,
+          "following_count": 368,
+          "like_count": 27957,
+          "listed_count": 6,
+          "media_count": 58,
+          "tweet_count": 3313
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

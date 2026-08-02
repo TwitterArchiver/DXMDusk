@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030919200525664573",
+    "created_at": "2026-03-12T05:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031973032043205006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        },
+        {
+          "end": 28,
+          "id": "1545898408858161154",
+          "start": 13,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031973032043205006",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030919200525664573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 @D3XTR0M3TH_0w0 差不多都做过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030919200525664573",
+        "created_at": "2026-03-12T05:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031973032043205006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            },
+            {
+              "end": 28,
+              "id": "1545898408858161154",
+              "start": 13,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031973032043205006",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030919200525664573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 @D3XTR0M3TH_0w0 差不多都做过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030919200525664573",
+        "created_at": "2026-03-09T08:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030919200525664573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030919200525664573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 9911,
+          "like_count": 101,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Oder 6大成就全部完成的可以和spring风坐一桌了\n1“高空攀岩”上过一次五高并安全下来\n2“坠机之地”致幻剂badtrip过\n3“给药高手”尝试过口服，肛服，肌肉注射，静脉注射，鼻吸5种给药方式\n4“现代医学”因od进过医院\n4“药罐子”药品累计滥用量达20000mg\n5“老资历”在某药物绝版前滥用\n6“警官好！”被晶哥上门过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 803,
+          "like_count": 1175,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1260
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 71,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【偶尔锁推只是防止被推送出去】关注人=我喜欢你的内容!/同类想互关喵｜成分：磕药od/🏳️‍🌈🏳️‍⚧️💛🤍💜🖤/神经多样性 #drugtwt #shtwt #nonbinary #transmasc #lgbtq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "shtwt"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "tag": "transmasc"
+              },
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "lgbtq"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo！）",
+        "pinned_tweet_id": "2031826542763131336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009441540230549504/cD1B4AtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 951,
+          "like_count": 3212,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 2504
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

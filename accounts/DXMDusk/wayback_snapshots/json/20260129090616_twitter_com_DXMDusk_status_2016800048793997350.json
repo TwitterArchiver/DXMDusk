@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2016785690961613212",
+    "created_at": "2026-01-29T09:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016800048793997350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016800048793997350",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016785690961613212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 如果，请务必告诉我你的新号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2016785690961613212",
+        "created_at": "2026-01-29T09:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016800048793997350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016800048793997350",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016785690961613212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 如果，请务必告诉我你的新号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804849792121499648",
+        "conversation_id": "2016785690961613212",
+        "created_at": "2026-01-29T08:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016785690961613212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016785690961613212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要销号/转型了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 90,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 97
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "再怎麼愛也無法愛上｜只愛鏡音レン、棘刺｜廚力w+｜內容R16🌈 🏳️‍🌈｜就算昨天喜歡，今天也厭倦了",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫Amoris🇹🇼🇰🇷🇨🇳🏳️‍🌈",
+        "pinned_tweet_id": "2004234124228538620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4287,
+          "following_count": 362,
+          "like_count": 27842,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 3305
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

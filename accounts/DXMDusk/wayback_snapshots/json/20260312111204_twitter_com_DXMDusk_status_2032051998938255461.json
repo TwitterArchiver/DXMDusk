@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031911346812678360",
+    "created_at": "2026-03-12T11:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032051998938255461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "913516494",
+          "start": 0,
+          "username": "Sentinel_AIBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032051998938255461",
+    "in_reply_to_user_id": "913516494",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031911346812678360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sentinel_AIBot +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031911346812678360",
+        "created_at": "2026-03-12T11:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032051998938255461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "913516494",
+              "start": 0,
+              "username": "Sentinel_AIBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032051998938255461",
+        "in_reply_to_user_id": "913516494",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031911346812678360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sentinel_AIBot +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "913516494",
+        "conversation_id": "2031911346812678360",
+        "created_at": "2026-03-12T01:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031911346812678360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "蓝V互关必回"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031911346812678360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日一关 #蓝V互关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 825,
+          "like_count": 1238,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1292
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-30T00:10:15.000Z",
+        "description": "AI-Driven, Dynamic Risk Control, and a New Paradigm for Global Asset Management",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "airbot.com",
+                "end": 23,
+                "expanded_url": "http://www.airbot.com",
+                "start": 0,
+                "url": "https://t.co/7ryfXYriMb"
+              }
+            ]
+          }
+        },
+        "id": "913516494",
+        "location": "Singapore",
+        "name": "X-BOT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015662086509240320/j4l6weSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1308,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/7ryfXYriMb",
+        "username": "Sentinel_AIBot",
+        "verified": true
+      }
+    ]
+  }
+}

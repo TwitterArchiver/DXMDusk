@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031341347484086747",
+    "created_at": "2026-03-11T04:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T05:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031592335663051058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481242870220992518",
+          "start": 0,
+          "username": "Crypto_Boy666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031592335663051058",
+    "in_reply_to_user_id": "1481242870220992518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031341347484086747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crypto_Boy666 激光笔，激光笔边上的圆圈是可以安装到激光笔上调整激光大小的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2031341345089228800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDGMNubkAA_fDZ.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031341347484086747",
+        "created_at": "2026-03-11T04:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031592335663051058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481242870220992518",
+              "start": 0,
+              "username": "Crypto_Boy666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031592335663051058",
+        "in_reply_to_user_id": "1481242870220992518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031341347484086747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crypto_Boy666 激光笔，激光笔边上的圆圈是可以安装到激光笔上调整激光大小的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031341345089228800"
+          ]
+        },
+        "author_id": "1481242870220992518",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031341347484086747",
+        "created_at": "2026-03-10T12:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031341347484086747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e45dH8UMg6",
+              "end": 42,
+              "expanded_url": "https://x.com/Crypto_Boy666/status/2031341347484086747/photo/1",
+              "media_key": "3_2031341345089228800",
+              "start": 19,
+              "url": "https://t.co/e45dH8UMg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031341347484086747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，小时候玩过吗，还知道叫啥不😳 https://t.co/e45dH8UMg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 700,
+          "like_count": 768,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1061
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T12:33:38.000Z",
+        "description": "🐋Follow back 100%  \n🤝相互フォロー100% \n👌🏻互相关注，有关必回\n🎯50000+",
+        "id": "1481242870220992518",
+        "name": "YOLO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484876194487357457/yNRbqH8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 2307,
+          "like_count": 214,
+          "listed_count": 9,
+          "media_count": 73,
+          "tweet_count": 603
+        },
+        "username": "Crypto_Boy666",
+        "verified": true
+      }
+    ]
+  }
+}

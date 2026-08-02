@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2024370895079559671",
+    "created_at": "2026-02-19T11:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024448805387784289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        },
+        {
+          "end": 26,
+          "id": "2008181604360003584",
+          "start": 12,
+          "username": "Fayoubaike000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024448805387784289",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024370895079559671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd @Fayoubaike000 太甜，差评👎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_2024370867057418240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgCk_ibYAATVRn.jpg",
+        "width": 720
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2024370868605112320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgClFTbUAArJlx.jpg",
+        "width": 720
+      },
+      {
+        "height": 1391,
+        "media_key": "3_2024370867527176193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgClBSbUAEkldu.jpg",
+        "width": 720
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2024370867535564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgClBUbUAAlJOu.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2024370895079559671",
+        "created_at": "2026-02-19T11:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024448805387784289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            },
+            {
+              "end": 26,
+              "id": "2008181604360003584",
+              "start": 12,
+              "username": "Fayoubaike000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024448805387784289",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024370895079559671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd @Fayoubaike000 太甜，差评👎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024370867057418240",
+            "3_2024370868605112320",
+            "3_2024370867527176193",
+            "3_2024370867535564800"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024370895079559671",
+        "created_at": "2026-02-19T06:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024370895079559671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867057418240",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370868605112320",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867527176193",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867535564800",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024370895079559671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 844,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一氧化碳 能用 买奶油发泡枪\n准备B12 不推荐长期用\n推荐用甲钻胺 推荐和优米联用 https://t.co/sSRzVRtO1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 167,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 392
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 26,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 26
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 365,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      }
+    ]
+  }
+}

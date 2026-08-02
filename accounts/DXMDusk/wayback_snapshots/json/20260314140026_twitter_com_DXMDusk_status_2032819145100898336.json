@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032736762112733200",
+    "created_at": "2026-03-14T14:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032819145100898336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "323643714",
+          "start": 0,
+          "username": "stephani_alves"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032819145100898336",
+    "in_reply_to_user_id": "323643714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032736762112733200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stephani_alves 回个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032736762112733200",
+        "created_at": "2026-03-14T14:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032819145100898336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "323643714",
+              "start": 0,
+              "username": "stephani_alves"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032819145100898336",
+        "in_reply_to_user_id": "323643714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032736762112733200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stephani_alves 回个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "323643714",
+        "conversation_id": "2032736762112733200",
+        "created_at": "2026-03-14T08:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032736762112733200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032736762112733200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诚信互关，大家一起做大做强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 915,
+          "like_count": 1499,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1449
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-25T05:12:07.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/BLESJOrHO3 预测市场最快的跟单平台PolyCop：https://t.co/Qz5Yyp41dJ 加入我的PolyMarket电报群：https://t.co/guwL0Y8kBY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?via=YINGGE…",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?via=YINGGE888",
+                "start": 17,
+                "url": "https://t.co/BLESJOrHO3"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/Qz5Yyp41dJ"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/guwL0Y8kBY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/ok168",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/ok168",
+                "start": 0,
+                "url": "https://t.co/kSjjpynsmQ"
+              }
+            ]
+          }
+        },
+        "id": "323643714",
+        "location": "币圈你需要的全部工具👉",
+        "name": "链界水蜜桃",
+        "pinned_tweet_id": "2032645840049942997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960620997893349377/3VE-j_FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 2804,
+          "like_count": 3510,
+          "listed_count": 2,
+          "media_count": 10678,
+          "tweet_count": 34975
+        },
+        "url": "https://t.co/kSjjpynsmQ",
+        "username": "stephani_alves",
+        "verified": true
+      }
+    ]
+  }
+}

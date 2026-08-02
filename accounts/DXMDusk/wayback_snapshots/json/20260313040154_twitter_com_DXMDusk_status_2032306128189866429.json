@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032306125102858242"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030282241163813184",
+    "created_at": "2026-03-13T04:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032306128189866429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vX9IMQrWhh",
+          "end": 35,
+          "expanded_url": "https://x.com/DXMDusk/status/2032306128189866429/photo/1",
+          "media_key": "3_2032306125102858242",
+          "start": 12,
+          "url": "https://t.co/vX9IMQrWhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032306128189866429",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030282241163813184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 那咋了 https://t.co/vX9IMQrWhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2032306125102858242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQzpzWbQAIjbdg.jpg",
+        "width": 720
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2030282218829123585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0C688aEAE9Xxl.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1202,
+        "media_key": "3_2030282234302017536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0C72lbsAAg3Kf.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032306125102858242"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030282241163813184",
+        "created_at": "2026-03-13T04:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032306128189866429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vX9IMQrWhh",
+              "end": 35,
+              "expanded_url": "https://x.com/DXMDusk/status/2032306128189866429/photo/1",
+              "media_key": "3_2032306125102858242",
+              "start": 12,
+              "url": "https://t.co/vX9IMQrWhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032306128189866429",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030282241163813184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 那咋了 https://t.co/vX9IMQrWhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030282218829123585",
+            "3_2030282234302017536"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2030282241163813184",
+        "created_at": "2026-03-07T13:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030282241163813184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXdc9WQm4S",
+              "end": 181,
+              "expanded_url": "https://x.com/_FORAB/status/2030282241163813184/photo/1",
+              "media_key": "3_2030282218829123585",
+              "start": 158,
+              "url": "https://t.co/AXdc9WQm4S"
+            },
+            {
+              "display_url": "pic.x.com/AXdc9WQm4S",
+              "end": 181,
+              "expanded_url": "https://x.com/_FORAB/status/2030282241163813184/photo/1",
+              "media_key": "3_2030282234302017536",
+              "start": 158,
+              "url": "https://t.co/AXdc9WQm4S"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "f0c5de89e3e87780"
+        },
+        "id": "2030282241163813184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 523331,
+          "like_count": 988,
+          "quote_count": 19,
+          "reply_count": 85,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "有博主成功以 2592 元人民币，购买了苹果新出的笔记本 Macbook Neo。\n\n原 4499 元平台价格\n- 500 教育优惠\n- 580 换新补贴\n- 599.85 国家补贴\n- 227 以旧换新 旧品\n\n最终消费 2592.15 元。不过该博主提到，想满足换新补贴资格，需要残值大于 200 元的旧手机。 https://t.co/AXdc9WQm4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 864,
+          "like_count": 1414,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1365
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110824,
+          "following_count": 580,
+          "like_count": 9795,
+          "listed_count": 1867,
+          "media_count": 2769,
+          "tweet_count": 13361
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

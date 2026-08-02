@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2023213393277034923",
+    "created_at": "2026-02-16T08:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023312193396072857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023312193396072857",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023213393277034923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 拜拜😘祝你生活愉快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2023213393277034923",
+        "created_at": "2026-02-16T08:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023312193396072857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023312193396072857",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023213393277034923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 拜拜😘祝你生活愉快"
+      },
+      {
+        "article": {
+          "title": "致国安的一封信（退休倒计时10天纪念版）"
+        },
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "2023213393277034923",
+        "created_at": "2026-02-16T01:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023213393277034923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2008309710944923649",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008309710944923649",
+              "url": "https://t.co/YhGukGBCAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023213393277034923",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 20914,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YhGukGBCAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 152,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 330
+        },
+        "username": "DXMDusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休时间已定，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #USDT hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "USDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHku4e"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu终于要退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7285,
+          "following_count": 2327,
+          "like_count": 5185,
+          "listed_count": 18,
+          "media_count": 834,
+          "tweet_count": 7183
+        },
+        "url": "https://t.co/GrZymHku4e",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

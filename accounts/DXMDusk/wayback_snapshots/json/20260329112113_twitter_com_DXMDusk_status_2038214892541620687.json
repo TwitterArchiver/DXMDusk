@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038214876745932800"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038204195237404722",
+    "created_at": "2026-03-29T11:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038214892541620687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993628897645408256",
+          "start": 0,
+          "username": "Pr0mis3_c"
+        }
+      ],
+      "urls": [
+        {
+          "description": "返回主站 本文档专为跨性别女性（MtF）设计，旨在帮助从零基础开始的学习者在日常生活中有效地进行嗓音训练。与市面上常见的伪声教学和声乐练习不同，本文档中的嗓音训练方法对天赋几乎没有要求，确保几乎所有人都能达到女性化的音高。此外，本文档中教授的方法更适合在长时间的日常生活中使用，不会对声带造成伤害。然而，相较于其他方法，本文档中的方法训练周期较长，需要系统的、计划性的练习。 在编写本文档的过程中，跨性别言语训练研究小组的成员（以下简称“我们”）系统学习和研究了言语训练，结合相关的医学资料、互联网上的公开资源以及多位学习者的个人体验，通过汇总这些经验和心得，完成了这份嗓音训练教学文稿。本文档的主要练习思路与大部分医院的嗓音训练方法基本一致，旨在为那些因各种条件限制而无法参加医院嗓音训练的跨性别女性，提供基础性的嗓音训练指导，帮助她们达到与医院训练相近的效果。 嗓音训练的练习思路为，先进行音高部分的练习（约为3周），再进行音色部分的润色（3周-更长时间）。其中音高部分的练习为必修课程，音色部分的练习为选修课程。 音高的Pass有一个相对具体的衡量标准，为185-220+之间，练习的目标也是达到这个音高。音色并没有",
+          "display_url": "voice.cntt.uk",
+          "end": 40,
+          "expanded_url": "https://voice.cntt.uk/",
+          "start": 17,
+          "status": 200,
+          "title": "嗓音训练文稿与训练服务套餐",
+          "unwound_url": "https://voice.cntt.uk/",
+          "url": "https://t.co/5JFoBelyur"
+        },
+        {
+          "display_url": "pic.x.com/YLTLHjBm3p",
+          "end": 64,
+          "expanded_url": "https://x.com/DXMDusk/status/2038214892541620687/photo/1",
+          "media_key": "3_2038214876745932800",
+          "start": 41,
+          "url": "https://t.co/YLTLHjBm3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038214892541620687",
+    "in_reply_to_user_id": "1993628897645408256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038204195237404722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pr0mis3_c 嗓音训练文稿https://t.co/5JFoBelyur https://t.co/YLTLHjBm3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038214876745932800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkxoahboAAWkK0.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038214876745932800"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038204195237404722",
+        "created_at": "2026-03-29T11:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038214892541620687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993628897645408256",
+              "start": 0,
+              "username": "Pr0mis3_c"
+            }
+          ],
+          "urls": [
+            {
+              "description": "返回主站 本文档专为跨性别女性（MtF）设计，旨在帮助从零基础开始的学习者在日常生活中有效地进行嗓音训练。与市面上常见的伪声教学和声乐练习不同，本文档中的嗓音训练方法对天赋几乎没有要求，确保几乎所有人都能达到女性化的音高。此外，本文档中教授的方法更适合在长时间的日常生活中使用，不会对声带造成伤害。然而，相较于其他方法，本文档中的方法训练周期较长，需要系统的、计划性的练习。 在编写本文档的过程中，跨性别言语训练研究小组的成员（以下简称“我们”）系统学习和研究了言语训练，结合相关的医学资料、互联网上的公开资源以及多位学习者的个人体验，通过汇总这些经验和心得，完成了这份嗓音训练教学文稿。本文档的主要练习思路与大部分医院的嗓音训练方法基本一致，旨在为那些因各种条件限制而无法参加医院嗓音训练的跨性别女性，提供基础性的嗓音训练指导，帮助她们达到与医院训练相近的效果。 嗓音训练的练习思路为，先进行音高部分的练习（约为3周），再进行音色部分的润色（3周-更长时间）。其中音高部分的练习为必修课程，音色部分的练习为选修课程。 音高的Pass有一个相对具体的衡量标准，为185-220+之间，练习的目标也是达到这个音高。音色并没有",
+              "display_url": "voice.cntt.uk",
+              "end": 40,
+              "expanded_url": "https://voice.cntt.uk/",
+              "start": 17,
+              "status": 200,
+              "title": "嗓音训练文稿与训练服务套餐",
+              "unwound_url": "https://voice.cntt.uk/",
+              "url": "https://t.co/5JFoBelyur"
+            },
+            {
+              "display_url": "pic.x.com/YLTLHjBm3p",
+              "end": 64,
+              "expanded_url": "https://x.com/DXMDusk/status/2038214892541620687/photo/1",
+              "media_key": "3_2038214876745932800",
+              "start": 41,
+              "url": "https://t.co/YLTLHjBm3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038214892541620687",
+        "in_reply_to_user_id": "1993628897645408256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038204195237404722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pr0mis3_c 嗓音训练文稿https://t.co/5JFoBelyur https://t.co/YLTLHjBm3p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993628897645408256",
+        "conversation_id": "2038204195237404722",
+        "created_at": "2026-03-29T10:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038204195237404722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2038134693833723915",
+              "start": 22,
+              "url": "https://t.co/LpFTZFbnDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038204195237404722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038134693833723915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伪音到底咋学（认真的带有求知欲的大大的疑问 https://t.co/LpFTZFbnDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1063,
+          "like_count": 1839,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 1777
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2 | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo | 缺爱，想交友版~\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 128,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 105,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 261,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 211
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

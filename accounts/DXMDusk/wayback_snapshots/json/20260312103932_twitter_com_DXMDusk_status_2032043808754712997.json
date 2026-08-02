@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031969253612785863",
+    "created_at": "2026-03-12T10:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032043808754712997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817244141115609088",
+          "start": 0,
+          "username": "Nijika_Dark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032043808754712997",
+    "in_reply_to_user_id": "1817244141115609088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031969253612785863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark 心好痛，存在多年的账号就这样没了，那里边可是充满着你的各种回忆和经历，这不是一个账号的问题，是关于你的各种过往啊，试着申诉看看能不能找回一下吧😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_2031969243588411394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMBQt6bQAISfHX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031969253612785863",
+        "created_at": "2026-03-12T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032043808754712997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817244141115609088",
+              "start": 0,
+              "username": "Nijika_Dark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032043808754712997",
+        "in_reply_to_user_id": "1817244141115609088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031969253612785863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark 心好痛，存在多年的账号就这样没了，那里边可是充满着你的各种回忆和经历，这不是一个账号的问题，是关于你的各种过往啊，试着申诉看看能不能找回一下吧😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031969243588411394"
+          ]
+        },
+        "author_id": "1817244141115609088",
+        "conversation_id": "2031969253612785863",
+        "created_at": "2026-03-12T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031969253612785863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhF7r7x3It",
+              "end": 59,
+              "expanded_url": "https://x.com/Nijika_Dark/status/2031969253612785863/photo/1",
+              "media_key": "3_2031969243588411394",
+              "start": 36,
+              "url": "https://t.co/YhF7r7x3It"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031969253612785863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虹夏已死，切割跑路\n懒得搞申诉了，就当我跑编组站侵线被遛放的货车创死了 https://t.co/YhF7r7x3It"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 813,
+          "like_count": 1202,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1272
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-27T17:02:37.000Z",
+        "description": "@Nijika_overdose的附庸丨应该是虹夏丨我的大脑空空如也丨❛˓◞˂̵✧❤️💙💜🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Super_Bocchi_t…",
+                "end": 23,
+                "expanded_url": "https://t.me/Super_Bocchi_therock",
+                "start": 0,
+                "url": "https://t.co/nr17X991hT"
+              }
+            ]
+          }
+        },
+        "id": "1817244141115609088",
+        "location": "参宿四",
+        "name": "Nijika_Overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817245083672145920/_Mn08Zha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 47,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/nr17X991hT",
+        "username": "Nijika_Dark",
+        "verified": false
+      }
+    ]
+  }
+}

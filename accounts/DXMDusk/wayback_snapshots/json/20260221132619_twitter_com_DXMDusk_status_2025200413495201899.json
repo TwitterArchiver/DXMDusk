@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2025089006103658681",
+    "created_at": "2026-02-21T13:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025200413495201899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025200413495201899",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025089006103658681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有心脏毒性，小心暴毙，以及半衰期随人体不同，可达几天，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025089006103658681",
+        "created_at": "2026-02-21T13:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025200413495201899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025200413495201899",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025089006103658681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有心脏毒性，小心暴毙，以及半衰期随人体不同，可达几天，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2025089006103658681",
+        "created_at": "2026-02-21T06:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025089006103658681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fayoubaike000/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Fayoubaike000/status/2025062032043901295",
+              "start": 143,
+              "url": "https://t.co/ugvWyGsdyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025089006103658681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1674,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025062032043901295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "D2PM没有医疗用途，娱乐风险极高，其中心脏毒性只是主要急性危害之一，已有的临床案例证实会导致严重心脏毒性，焦虑，失眠，胸痛等急性中毒症状，\n如要使用建议口服剂量5~10mg，切勿过量，禁止与其他物质混用，\nD2PM的半衰期较长，可用苯二氮卓类药物缓解焦虑，激动，烦躁，失眠等副作用， https://t.co/ugvWyGsdyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 183,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 447
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030967171803914632",
+    "created_at": "2026-03-09T11:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030970629936288192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030970629936288192",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030967171803914632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 所以我的国内软件都是一些手机定制的出厂版本并且一直不更新，哪怕强制要求更新，也是在酷安找一些第三方定制版本进行替换以继续使用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2030965950661718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9wxYga8AADRZH.jpg",
+        "width": 732
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2030965950636544000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9wxYaa0AAGyOj.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030967171803914632",
+        "created_at": "2026-03-09T11:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030970629936288192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030970629936288192",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030967171803914632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 所以我的国内软件都是一些手机定制的出厂版本并且一直不更新，哪怕强制要求更新，也是在酷安找一些第三方定制版本进行替换以继续使用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030965950661718016",
+            "3_2030965950636544000"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2030967171803914632",
+        "created_at": "2026-03-09T11:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:16:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030965957532029119",
+          "2030967171803914632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0FcDZfgjx",
+              "end": 133,
+              "expanded_url": "https://x.com/RainEngine2024/status/2030967171803914632/photo/1",
+              "media_key": "3_2030965950661718016",
+              "start": 110,
+              "url": "https://t.co/p0FcDZfgjx"
+            },
+            {
+              "display_url": "pic.x.com/p0FcDZfgjx",
+              "end": 133,
+              "expanded_url": "https://x.com/RainEngine2024/status/2030967171803914632/photo/1",
+              "media_key": "3_2030965950636544000",
+              "start": 110,
+              "url": "https://t.co/p0FcDZfgjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030967171803914632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 198,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国产APP与国外的APP图标进行对比过后，给我带来这种感觉就是典型的软件厂商耍流氓行为了，我打开APP要看你的广告就算了，就算是在系统桌面上，我还是要看你的图标广告，并且这样只会显得整个桌面非常花里胡哨没有任何的观赏性 https://t.co/p0FcDZfgjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 620,
+          "like_count": 623,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 938
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer / Android ROM Developer / Unity3D Beginner / 19y.o. / GMT+8 / ZH-CN / EN-US is OK / 🥰 @Sokei_ko_nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 126,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2029164319053861058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7685,
+          "following_count": 838,
+          "like_count": 60841,
+          "listed_count": 8,
+          "media_count": 1271,
+          "tweet_count": 9006
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

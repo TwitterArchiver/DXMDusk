@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2019760655449158018",
+    "created_at": "2026-03-03T14:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028840824541450499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1226097459631255552",
+          "start": 0,
+          "username": "lbssoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028840824541450499",
+    "in_reply_to_user_id": "1226097459631255552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019760655449158018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbssoft 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019760645554720768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAehmyGaUAAowJo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2019760655449158018",
+        "created_at": "2026-03-03T14:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028840824541450499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1226097459631255552",
+              "start": 0,
+              "username": "lbssoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028840824541450499",
+        "in_reply_to_user_id": "1226097459631255552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019760655449158018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbssoft 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019760645554720768"
+          ]
+        },
+        "author_id": "1226097459631255552",
+        "conversation_id": "2019760655449158018",
+        "created_at": "2026-02-06T13:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019760655449158018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "蓝v关注必回"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "蓝v"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "蓝V互关互推联盟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXSOE8XWek",
+              "end": 175,
+              "expanded_url": "https://x.com/lbssoft/status/2019760655449158018/photo/1",
+              "media_key": "3_2019760645554720768",
+              "start": 152,
+              "url": "https://t.co/AXSOE8XWek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019760655449158018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "蓝v关注必回"
+              },
+              {
+                "end": 27,
+                "start": 24,
+                "tag": "蓝v"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "tag": "蓝V互关互推联盟"
+              }
+            ]
+          },
+          "text": "四天从0到1000总结下心得：\n#蓝v关注必回 #蓝v #蓝V互关互推联盟 \n1、刚起步尤其500关注以下的一定要主动积极关注别人 \n2、可以从关注者的表里去找名字中含互关标识的用户名直接无脑关注\n3、将自己名字最好改成含有互关字样标识\n4、不要太在意别人有没有关注你是否取关你\n5、关注频率不要太频繁 经过实测 也不是一天几十个，只要不是短时间频繁机械性操作没有问题\n5、遇到client 提示 切换到pc端继续操作，如果pc端操作限制再切手机操作一定要慢慢来 不要操之过急，不要集中操作\n6、不要去关注大v，他们会忽视你，关注几百人的蓝v，大概率会回关\n7、最后一定格局打开 要有利他思维，互关是双向选择"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4283,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四天从0到1000总结下心得：\n#蓝v关注必回 #蓝v #蓝V互关互推联盟 \n1、刚起步尤其500关注以下的一定要主动积极关注别人 \n2、可以从关注者的表里去找名字中含互关标识的用户名直接无脑关注\n3、将自己名字最好改成含有互关字样标识\n4、不要太在意别人有没有关注你是否取关你\n5、关注频率不要太频繁 https://t.co/AXSOE8XWek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 276,
+          "like_count": 440,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 649
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-08T10:56:43.000Z",
+        "description": "程序员/多次创业/物联网/全栈工程师/嵌入式/定投纳指/ToB提供位置服务解决方案/ 原谅我这一生不羁放纵爱自由",
+        "id": "1226097459631255552",
+        "name": "Riven｜蓝V互关",
+        "pinned_tweet_id": "2019760655449158018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226097773021298688/fQxPV3Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 1562,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 381
+        },
+        "username": "lbssoft",
+        "verified": true
+      }
+    ]
+  }
+}

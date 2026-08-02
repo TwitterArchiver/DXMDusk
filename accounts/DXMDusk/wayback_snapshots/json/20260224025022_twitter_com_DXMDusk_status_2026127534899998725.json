@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2026127534899998725",
+    "created_at": "2026-02-24T02:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026127534899998725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026127534899998725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你就等着吧，等我在2026年修复我的阴间作息，执行我的健身计划，横扫我的阅读清单，解决我白天的注意力不集中和深夜的抑郁焦虑哭鼻子情绪不稳定，戒掉一天12个小时的手机屏幕使用时长，按时回我的微信消息，你们就都完蛋了，it's gonna be over for all of yall，我会战胜所有人，统治太阳系，i'm gonna be the top most baddest强壮女人there is，你就等着吧。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你就等着吧，等我在2026年修复我的阴间作息，执行我的健身计划，横扫我的阅读清单，解决我白天的注意力不集中和深夜的抑郁焦虑哭鼻子情绪不稳定，戒掉一天12个小时的手机屏幕使用时长，按时回我的微信消息，你们就都完蛋了，it's gonna be over for all of yall，我会战胜所有人，统治太阳系，i'm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2026127534899998725",
+        "created_at": "2026-02-24T02:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026127534899998725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026127534899998725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你就等着吧，等我在2026年修复我的阴间作息，执行我的健身计划，横扫我的阅读清单，解决我白天的注意力不集中和深夜的抑郁焦虑哭鼻子情绪不稳定，戒掉一天12个小时的手机屏幕使用时长，按时回我的微信消息，你们就都完蛋了，it's gonna be over for all of yall，我会战胜所有人，统治太阳系，i'm gonna be the top most baddest强壮女人there is，你就等着吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就等着吧，等我在2026年修复我的阴间作息，执行我的健身计划，横扫我的阅读清单，解决我白天的注意力不集中和深夜的抑郁焦虑哭鼻子情绪不稳定，戒掉一天12个小时的手机屏幕使用时长，按时回我的微信消息，你们就都完蛋了，it's gonna be over for all of yall，我会战胜所有人，统治太阳系，i'm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2025456100385194487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 230,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 572
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

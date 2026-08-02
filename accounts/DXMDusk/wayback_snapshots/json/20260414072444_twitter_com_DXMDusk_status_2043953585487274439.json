@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2043655034421019089",
+    "created_at": "2026-04-14T07:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043953585487274439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521776796168966144",
+          "start": 0,
+          "username": "sean108073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043953585487274439",
+    "in_reply_to_user_id": "1521776796168966144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043944899595432151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sean108073 找到了后续，是美院人体模特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043655034421019089",
+        "created_at": "2026-04-14T07:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043953585487274439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521776796168966144",
+              "start": 0,
+              "username": "sean108073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043953585487274439",
+        "in_reply_to_user_id": "1521776796168966144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043944899595432151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sean108073 找到了后续，是美院人体模特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521776796168966144",
+        "conversation_id": "2043655034421019089",
+        "created_at": "2026-04-14T06:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043944899595432151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043944899595432151",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043655034421019089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 這詩人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1122,
+          "like_count": 2177,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 2293
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-04T09:01:46.000Z",
+        "description": "",
+        "id": "1521776796168966144",
+        "location": "Holy Terra",
+        "name": "sean tw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687012175574151168/ZVzXVM-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 1274,
+          "like_count": 44182,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 9737
+        },
+        "username": "sean108073",
+        "verified": false
+      }
+    ]
+  }
+}

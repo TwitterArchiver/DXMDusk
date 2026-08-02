@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037893380819312640"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037893385126899902",
+    "created_at": "2026-03-28T14:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037893385126899902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aPDOWE67Nd",
+          "end": 27,
+          "expanded_url": "https://x.com/DXMDusk/status/2037893385126899902/photo/1",
+          "media_key": "3_2037893380819312640",
+          "start": 4,
+          "url": "https://t.co/aPDOWE67Nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037893385126899902",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😇🫠🫠 https://t.co/aPDOWE67Nd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2037893380819312640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgNO43a4AAUMec.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037893380819312640"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037893385126899902",
+        "created_at": "2026-03-28T14:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037893385126899902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPDOWE67Nd",
+              "end": 27,
+              "expanded_url": "https://x.com/DXMDusk/status/2037893385126899902/photo/1",
+              "media_key": "3_2037893380819312640",
+              "start": 4,
+              "url": "https://t.co/aPDOWE67Nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037893385126899902",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😇🫠🫠 https://t.co/aPDOWE67Nd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1063,
+          "like_count": 1835,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 1755
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

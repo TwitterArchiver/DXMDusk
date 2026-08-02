@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023317651557322754",
+        "3_2023317651846574080"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023317675464618229",
+    "created_at": "2026-02-16T08:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023317675464618229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sOJDpd6DlA",
+          "end": 49,
+          "expanded_url": "https://x.com/DXMDusk/status/2023317675464618229/photo/1",
+          "media_key": "3_2023317651557322754",
+          "start": 26,
+          "url": "https://t.co/sOJDpd6DlA"
+        },
+        {
+          "display_url": "pic.x.com/sOJDpd6DlA",
+          "end": 49,
+          "expanded_url": "https://x.com/DXMDusk/status/2023317675464618229/photo/1",
+          "media_key": "3_2023317651846574080",
+          "start": 26,
+          "url": "https://t.co/sOJDpd6DlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023317675464618229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过年好！祝所有禁毒人在丙午马年行稳致远，平安顺遂！ https://t.co/sOJDpd6DlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2124,
+        "media_key": "3_2023317651557322754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBREryDaEAIYb7Y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2023317651846574080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRErzIXsAARKU_.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023317651557322754",
+            "3_2023317651846574080"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023317675464618229",
+        "created_at": "2026-02-16T08:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023317675464618229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOJDpd6DlA",
+              "end": 49,
+              "expanded_url": "https://x.com/DXMDusk/status/2023317675464618229/photo/1",
+              "media_key": "3_2023317651557322754",
+              "start": 26,
+              "url": "https://t.co/sOJDpd6DlA"
+            },
+            {
+              "display_url": "pic.x.com/sOJDpd6DlA",
+              "end": 49,
+              "expanded_url": "https://x.com/DXMDusk/status/2023317675464618229/photo/1",
+              "media_key": "3_2023317651846574080",
+              "start": 26,
+              "url": "https://t.co/sOJDpd6DlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023317675464618229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年好！祝所有禁毒人在丙午马年行稳致远，平安顺遂！ https://t.co/sOJDpd6DlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 153,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 336
+        },
+        "username": "DXMDusk",
+        "verified": false
+      }
+    ]
+  }
+}

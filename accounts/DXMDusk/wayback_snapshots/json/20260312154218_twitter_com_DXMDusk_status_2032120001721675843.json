@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2032100911087317266",
+    "created_at": "2026-03-12T15:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032120001721675843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365955107473383426",
+          "start": 0,
+          "username": "Takina_Jimato"
+        },
+        {
+          "end": 26,
+          "id": "2027031128738275328",
+          "start": 15,
+          "username": "NomtfYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032120001721675843",
+    "in_reply_to_user_id": "1365955107473383426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032100911087317266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takina_Jimato @NomtfYuwen 这是山东人吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032100841679962114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDN48vAbQAIcm8V.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 5133,
+        "height": 1280,
+        "media_key": "13_2032100841679912960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032100841679912960/img/7yyGvQV3yRSwWZgp.jpg",
+        "public_metrics": {
+          "view_count": 691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032100841679912960/vid/avc1/320x568/tppOsXO7pFWTWRgi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032100841679912960/vid/avc1/480x852/PQuKJw0ikVHSs0b1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032100841679912960/vid/avc1/720x1280/K7XD0ibCEaE9VuYO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032100841679912960/pl/9b38OPBtEpsMG-vm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032100911087317266",
+        "created_at": "2026-03-12T15:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032120001721675843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365955107473383426",
+              "start": 0,
+              "username": "Takina_Jimato"
+            },
+            {
+              "end": 26,
+              "id": "2027031128738275328",
+              "start": 15,
+              "username": "NomtfYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120001721675843",
+        "in_reply_to_user_id": "1365955107473383426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032100911087317266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takina_Jimato @NomtfYuwen 这是山东人吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032100841679962114",
+            "13_2032100841679912960"
+          ]
+        },
+        "author_id": "1365955107473383426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032100911087317266",
+        "created_at": "2026-03-12T14:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032100911087317266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "药娘"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "MTF"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027031128738275328",
+              "start": 4,
+              "username": "NomtfYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcd01YAKn5",
+              "end": 56,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2032100911087317266/video/1",
+              "media_key": "3_2032100841679962114",
+              "start": 33,
+              "url": "https://t.co/vcd01YAKn5"
+            },
+            {
+              "display_url": "pic.x.com/vcd01YAKn5",
+              "end": 56,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2032100911087317266/video/1",
+              "media_key": "13_2032100841679912960",
+              "start": 33,
+              "url": "https://t.co/vcd01YAKn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032100911087317266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1651,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "线下单杀@NomtfYuwen\n老唐给我磕两个\n#药娘 #MTF https://t.co/vcd01YAKn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 852,
+          "like_count": 1369,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1340
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina+Jimato=Takijima｜CN&EN｜生产日期7/28/07｜无证含糖大只家里蹲ホルモン娘｜she/her/hers｜183/60｜HRT: 24.9.4-11.30 重启: 25.3.27｜里推: @Takina_7ove｜姐姐：@AsukaRyo559｜🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Takina_7ove"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "AsukaRyo559"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tWQwG7E",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tWQwG7E",
+                "start": 0,
+                "url": "https://t.co/3w2keeJKeD"
+              }
+            ]
+          }
+        },
+        "id": "1365955107473383426",
+        "location": "Pyongyang, DPR Korea",
+        "name": "Takina.JPN🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954437389725630545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005610568015921152/5fZiNswq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 483,
+          "like_count": 593,
+          "listed_count": 11,
+          "media_count": 216,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/3w2keeJKeD",
+        "username": "Takina_Jimato",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T14:42:39.000Z",
+        "description": "MTF🏳️‍⚧️｜HRT2025.6.30😋｜已净身😈｜反跨🤓｜ENFP｜持证含糖🍥｜低价🍥：https://t.co/Gsq7AeQddl（@shaoxiancao1314）｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "shaoxiancao1314"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 70,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 47,
+                "url": "https://t.co/Gsq7AeQddl"
+              }
+            ]
+          }
+        },
+        "id": "2027031128738275328",
+        "name": "唐毓文（糖商）",
+        "pinned_tweet_id": "2030961999505477792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027054709568409600/F6JypHaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 40,
+          "like_count": 32,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 320
+        },
+        "username": "NomtfYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

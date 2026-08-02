@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030884385164255233",
+        "3_2030884385315291136",
+        "3_2030884385097224192",
+        "3_2030884384895864832"
+      ]
+    },
+    "author_id": "1974276207496867842",
+    "conversation_id": "2030884389920575706",
+    "created_at": "2026-03-09T05:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030884389920575706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKUhkhWElp",
+          "end": 94,
+          "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+          "media_key": "3_2030884385164255233",
+          "start": 71,
+          "url": "https://t.co/OKUhkhWElp"
+        },
+        {
+          "display_url": "pic.x.com/OKUhkhWElp",
+          "end": 94,
+          "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+          "media_key": "3_2030884385315291136",
+          "start": 71,
+          "url": "https://t.co/OKUhkhWElp"
+        },
+        {
+          "display_url": "pic.x.com/OKUhkhWElp",
+          "end": 94,
+          "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+          "media_key": "3_2030884385097224192",
+          "start": 71,
+          "url": "https://t.co/OKUhkhWElp"
+        },
+        {
+          "display_url": "pic.x.com/OKUhkhWElp",
+          "end": 94,
+          "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+          "media_key": "3_2030884384895864832",
+          "start": 71,
+          "url": "https://t.co/OKUhkhWElp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030884389920575706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丁丙诺啡，看科普了解新物质，这怎么搞的跟广东禁毒一样，真的是在搞宣传呢，让本来不知道的那些人们，在看完后一下子就知道并且了解到了这种新物质， https://t.co/OKUhkhWElp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030884385164255233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8mlpWaYAEgWoG.jpg",
+        "width": 967
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030884385315291136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8mlp6bAAAb6x9.jpg",
+        "width": 948
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030884385097224192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8mlpGbkAAd1Gy.jpg",
+        "width": 951
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030884384895864832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8mloWbEAAWsjp.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030884385164255233",
+            "3_2030884385315291136",
+            "3_2030884385097224192",
+            "3_2030884384895864832"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2030884389920575706",
+        "created_at": "2026-03-09T05:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030884389920575706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKUhkhWElp",
+              "end": 94,
+              "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+              "media_key": "3_2030884385164255233",
+              "start": 71,
+              "url": "https://t.co/OKUhkhWElp"
+            },
+            {
+              "display_url": "pic.x.com/OKUhkhWElp",
+              "end": 94,
+              "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+              "media_key": "3_2030884385315291136",
+              "start": 71,
+              "url": "https://t.co/OKUhkhWElp"
+            },
+            {
+              "display_url": "pic.x.com/OKUhkhWElp",
+              "end": 94,
+              "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+              "media_key": "3_2030884385097224192",
+              "start": 71,
+              "url": "https://t.co/OKUhkhWElp"
+            },
+            {
+              "display_url": "pic.x.com/OKUhkhWElp",
+              "end": 94,
+              "expanded_url": "https://x.com/DXMDusk/status/2030884389920575706/photo/1",
+              "media_key": "3_2030884384895864832",
+              "start": 71,
+              "url": "https://t.co/OKUhkhWElp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030884389920575706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丁丙诺啡，看科普了解新物质，这怎么搞的跟广东禁毒一样，真的是在搞宣传呢，让本来不知道的那些人们，在看完后一下子就知道并且了解到了这种新物质， https://t.co/OKUhkhWElp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 599,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 892
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

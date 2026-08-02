@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2038272842740191249",
+    "created_at": "2026-03-31T01:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038789667093614939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038789667093614939",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038272842740191249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 描述代替代词，该人士，该个体，该人员，此人，当事人，相关人员，他们，TA，患者，受害人，受害者，等等都可以用于代替吧\n为什么非要纠结使用刻板印象的词汇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2038272842740191249",
+        "created_at": "2026-03-31T01:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038789667093614939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038789667093614939",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038272842740191249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 描述代替代词，该人士，该个体，该人员，此人，当事人，相关人员，他们，TA，患者，受害人，受害者，等等都可以用于代替吧\n为什么非要纠结使用刻板印象的词汇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2038272842740191249",
+        "created_at": "2026-03-29T15:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038272842740191249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038272842740191249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 35945,
+          "like_count": 448,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "管药娘叫「一个女孩」而不是「一个男孩」重要吗？\n\n重要。\n\n因为如果你叫「女孩」，弹幕全是「哦，是LGBT啊，那没关错」。\n\n那你只把人救出来一次没意义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1081,
+          "like_count": 1864,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1896
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22311,
+          "following_count": 197,
+          "like_count": 709,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22830
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

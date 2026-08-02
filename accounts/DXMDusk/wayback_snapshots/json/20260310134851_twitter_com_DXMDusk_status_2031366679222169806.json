@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974276207496867842",
+    "conversation_id": "2031294003107557435",
+    "created_at": "2026-03-10T13:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031366679222169806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "824804420294737920",
+          "start": 0,
+          "username": "QKBS2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031366679222169806",
+    "in_reply_to_user_id": "824804420294737920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031294003107557435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QKBS2002 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2031294003107557435",
+        "created_at": "2026-03-10T13:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031366679222169806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "824804420294737920",
+              "start": 0,
+              "username": "QKBS2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031366679222169806",
+        "in_reply_to_user_id": "824804420294737920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031294003107557435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QKBS2002 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "824804420294737920",
+        "conversation_id": "2031294003107557435",
+        "created_at": "2026-03-10T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031294003107557435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031294003107557435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 531,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有互关的伙伴， 一起互关啦，干就完了！！！ \n\n#互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 682,
+          "like_count": 732,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1022
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-27T02:21:12.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/7U0R26C9IE 预测市场最快的跟单平台PolyCop：https://t.co/76SpsA0Xzv 加入我的PolyMarket电报群：https://t.co/dUYCo0pYMU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?via=YINGGE…",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?via=YINGGE888",
+                "start": 17,
+                "url": "https://t.co/7U0R26C9IE"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/76SpsA0Xzv"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/dUYCo0pYMU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/ok168",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/ok168",
+                "start": 0,
+                "url": "https://t.co/VtMrpSoYVv"
+              }
+            ]
+          }
+        },
+        "id": "824804420294737920",
+        "location": "币圈你需要的全部工具👉",
+        "name": "区块捕手",
+        "pinned_tweet_id": "2031191103744127467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942126470026915841/gYUVKIyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3320,
+          "following_count": 3314,
+          "like_count": 24940,
+          "listed_count": 4,
+          "media_count": 12321,
+          "tweet_count": 28237
+        },
+        "url": "https://t.co/VtMrpSoYVv",
+        "username": "QKBS2002",
+        "verified": true
+      }
+    ]
+  }
+}
